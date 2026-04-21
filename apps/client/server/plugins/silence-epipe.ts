@@ -1,3 +1,5 @@
+import { defineNitroPlugin } from "nitropack/runtime";
+
 // Socket write-after-close during dev HMR / SSR stream cancellation.
 // Benign — the peer already closed. Swallow EPIPE only; surface everything else.
 function isEPipe(err: unknown): boolean {
