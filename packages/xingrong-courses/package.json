@@ -4,7 +4,10 @@
   "description": "",
   "main": "src/index.ts",
   "scripts": {
-    "upload": "tsx src/seed.ts",
+    "upload": "COURSE_VARIANT=vi tsx src/seed.ts",
+    "upload:vi": "COURSE_VARIANT=vi tsx src/seed.ts",
+    "upload:zh": "COURSE_VARIANT=zh tsx src/seed.ts",
+    "translate:vi": "tsx src/translateCourses.ts",
     "course:add": "tsx src/addCourse.ts",
     "course:reset": "tsx src/resetCourseStatements.ts",
     "pdf:parse": "tsx src/parsePDF/index.ts",

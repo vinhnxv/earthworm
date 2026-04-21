@@ -6,7 +6,12 @@ import { eq } from "drizzle-orm";
 import { db } from "@earthworm/db";
 import { statement as statementSchema } from "@earthworm/schema";
 
-type Statement = typeof statementSchema.$inferInsert;
+type SeedStatement = {
+  chinese?: string;
+  vietnamese?: string;
+  english: string;
+  soundmark: string;
+};
 
 (async function () {
   const courseId = "";
@@ -15,11 +20,11 @@ type Statement = typeof statementSchema.$inferInsert;
   // 然后在添加
   // 重置所有的课程 statement
   const courseDataJsonText = fs.readFileSync(
-    path.resolve(__dirname, `../data/courses/${courseFileName}`),
+    path.resolve(__dirname, `../data/courses-vi/${courseFileName}`),
     "utf-8",
   );
 
-  const statementList = JSON.parse(courseDataJsonText) as Statement[];
+  const statementList = JSON.parse(courseDataJsonText) as SeedStatement[];
 
   await deleteCourseAllStatements(courseId);
   await addCourseStatements(courseId, statementList);
@@ -32,16 +37,18 @@ export async function deleteCourseAllStatements(courseId: string) {
   return true;
 }
 
-export async function addCourseStatements(courseId: string, statements: Statement[]) {
-  const createStatementTasks = statements.map(({ chinese, english, soundmark }, sIndex) => {
-    return db.insert(statementSchema).values({
-      chinese,
-      english,
-      soundmark,
-      order: sIndex + 1,
-      courseId: courseId,
-    });
-  });
+export async function addCourseStatements(courseId: string, statements: SeedStatement[]) {
+  const createStatementTasks = statements.map(
+    ({ chinese, vietnamese, english, soundmark }, sIndex) => {
+      return db.insert(statementSchema).values({
+        vietnamese: vietnamese ?? chinese ?? "",
+        english,
+        soundmark,
+        order: sIndex + 1,
+        courseId: courseId,
+      });
+    },
+  );
 
   await Promise.all(createStatementTasks);
   return;

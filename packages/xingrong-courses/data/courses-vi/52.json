@@ -1,0 +1,722 @@
+[
+  {
+    "vietnamese": "thông minh",
+    "english": "smart",
+    "soundmark": "/smɑrt/"
+  },
+  {
+    "vietnamese": "mọi người",
+    "english": "person",
+    "soundmark": "/'pɝsn/"
+  },
+  {
+    "vietnamese": "người thông minh",
+    "english": "smart person",
+    "soundmark": "/smɑrt/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "thông minh nhất",
+    "english": "the smartest",
+    "soundmark": "/ðə/ /'smɑrtɪst/"
+  },
+  {
+    "vietnamese": "người thông minh nhất",
+    "english": "the smartest person",
+    "soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "sự hiểu biết (dạng ed)",
+    "english": "known",
+    "soundmark": "/non/"
+  },
+  {
+    "vietnamese": "Tôi đã từng",
+    "english": "I have ever",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "Tôi đã từng biết",
+    "english": "I have ever known",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "vietnamese": "người thông minh nhất",
+    "english": "the smartest person",
+    "soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "người đàn ông thông minh nhất mà tôi từng biết",
+    "english": "the smartest person I have ever known",
+    "soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "vietnamese": "cô ấy là",
+    "english": "she is",
+    "soundmark": "/ʃi/ /ɪz/"
+  },
+  {
+    "vietnamese": "cô ấy là người thông minh nhất tôi từng biết",
+    "english": "she is the smartest person I have ever known",
+    "soundmark": "/ʃi/ /ɪz/ /ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "vietnamese": "Tôi đã từng biết",
+    "english": "I have ever known",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "vietnamese": "anh ấy đã từng biết",
+    "english": "he has ever known",
+    "soundmark": "/hi/ /hæz/ /'ɛvɚ/ /non/"
+  },
+  {
+    "vietnamese": "động vật",
+    "english": "animal",
+    "soundmark": "/'ænɪml/"
+  },
+  {
+    "vietnamese": "nguy hiểm",
+    "english": "dangerous",
+    "soundmark": "/ˈdendʒərəs/"
+  },
+  {
+    "vietnamese": "động vật nguy hiểm",
+    "english": "dangerous animal",
+    "soundmark": "/ˈdendʒərəs/ /'ænɪml/"
+  },
+  {
+    "vietnamese": "hầu hết",
+    "english": "the most",
+    "soundmark": "/ðə/ /most/"
+  },
+  {
+    "vietnamese": "nguy hiểm nhất",
+    "english": "the most dangerous",
+    "soundmark": "/ðə/ /most/ /ˈdendʒərəs/"
+  },
+  {
+    "vietnamese": "động vật nguy hiểm nhất",
+    "english": "the most dangerous animal",
+    "soundmark": "/ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/"
+  },
+  {
+    "vietnamese": "anh ấy đã từng biết",
+    "english": "he has ever known",
+    "soundmark": "/hi/ /hæz/ /'ɛvɚ/ /non/"
+  },
+  {
+    "vietnamese": "con vật nguy hiểm nhất anh từng biết",
+    "english": "the most dangerous animal he has ever known",
+    "soundmark": "/ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/ /hi/ /hæz/ /'ɛvɚ/ /non/"
+  },
+  {
+    "vietnamese": "đây là",
+    "english": "this is",
+    "soundmark": "/ðɪs/ /ɪz/"
+  },
+  {
+    "vietnamese": "đó là loài động vật nguy hiểm nhất anh từng biết",
+    "english": "this is the most dangerous animal he has ever known",
+    "soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/ /hi/ /hæz/ /'ɛvɚ/ /non/"
+  },
+  {
+    "vietnamese": "anh ấy đã từng",
+    "english": "he has ever",
+    "soundmark": "/hi/ /hæz/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "cô ấy đã từng",
+    "english": "she has ever",
+    "soundmark": "/ʃi/ /hæz/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "建议",
+    "english": "advice",
+    "soundmark": "/əd'vaɪs/"
+  },
+  {
+    "vietnamese": "tốt",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "vietnamese": "lời khuyên tốt",
+    "english": "good advice",
+    "soundmark": "/ɡʊd/ /əd'vaɪs/"
+  },
+  {
+    "vietnamese": "tốt nhất",
+    "english": "the best",
+    "soundmark": "/ðə/ /bɛst/"
+  },
+  {
+    "vietnamese": "lời khuyên tốt nhất",
+    "english": "the best advice",
+    "soundmark": "/ðə/ /bɛst/ /əd'vaɪs/"
+  },
+  {
+    "vietnamese": "đưa",
+    "english": "to give",
+    "soundmark": "/tə/ /ɡɪv/"
+  },
+  {
+    "vietnamese": "đưa ra (dạng ed)",
+    "english": "given",
+    "soundmark": "/ˈɡɪvn/"
+  },
+  {
+    "vietnamese": "cô ấy đã từng",
+    "english": "she has ever",
+    "soundmark": "/ʃi/ /hæz/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "cô ấy đã từng đưa",
+    "english": "she has ever given",
+    "soundmark": "/ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "cô ấy đã từng đưa cho tôi",
+    "english": "she has ever given me",
+    "soundmark": "/ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/"
+  },
+  {
+    "vietnamese": "lời khuyên tốt nhất",
+    "english": "the best advice",
+    "soundmark": "/ðə/ /bɛst/ /əd'vaɪs/"
+  },
+  {
+    "vietnamese": "lời khuyên tốt nhất cô ấy từng cho tôi",
+    "english": "the best advice she has ever given me",
+    "soundmark": "/ðə/ /bɛst/ /əd'vaɪs/ /ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/"
+  },
+  {
+    "vietnamese": "đây là",
+    "english": "this is",
+    "soundmark": "/ðɪs/ /ɪz/"
+  },
+  {
+    "vietnamese": "đó là lời khuyên tốt nhất mà cô ấy từng cho tôi",
+    "english": "this is the best advice she has ever given me",
+    "soundmark": "/ðɪs/ /ɪz/ /ðə/ /bɛst/ /əd'vaɪs/ /ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/"
+  },
+  {
+    "vietnamese": "cô ấy đã từng",
+    "english": "she has ever",
+    "soundmark": "/ʃi/ /hæz/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "Xinrong một lần",
+    "english": "Xingrong has ever",
+    "soundmark": "/hæz/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "thiết kế",
+    "english": "to design",
+    "soundmark": "/tə/ /dɪˈzaɪn/"
+  },
+  {
+    "vietnamese": "thiết kế (mẫu biên tập)",
+    "english": "designed",
+    "soundmark": "/dɪˈzaɪnd/"
+  },
+  {
+    "vietnamese": "Xinrong từng được thiết kế",
+    "english": "Xingrong has ever designed",
+    "soundmark": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
+  },
+  {
+    "vietnamese": "thử thách",
+    "english": "to challenge",
+    "soundmark": "/tə/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "đầy thử thách",
+    "english": "challenging",
+    "soundmark": "/ˈtʃælɪndʒɪŋ/"
+  },
+  {
+    "vietnamese": "hầu hết",
+    "english": "the most",
+    "soundmark": "/ðə/ /most/"
+  },
+  {
+    "vietnamese": "thử thách nhất",
+    "english": "the most challenging",
+    "soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/"
+  },
+  {
+    "vietnamese": "khóa học",
+    "english": "course",
+    "soundmark": "/kɔrs/"
+  },
+  {
+    "vietnamese": "khóa học thử thách nhất",
+    "english": "the most challenging course",
+    "soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/"
+  },
+  {
+    "vietnamese": "Xinrong từng được thiết kế",
+    "english": "Xingrong has ever designed",
+    "soundmark": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
+  },
+  {
+    "vietnamese": "khóa học thử thách nhất mà Xingrong từng thiết kế",
+    "english": "the most challenging course Xingrong has ever designed",
+    "soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/ /hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
+  },
+  {
+    "vietnamese": "đây là",
+    "english": "this is",
+    "soundmark": "/ðɪs/ /ɪz/"
+  },
+  {
+    "vietnamese": "đây là khóa học thử thách nhất mà Xingrong từng thiết kế",
+    "english": "this is the most challenging course Xingrong has ever designed",
+    "soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/ /hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
+  },
+  {
+    "vietnamese": "Xingrong (đã) thiết kế",
+    "english": "Xingrong has designed",
+    "soundmark": "/hæz/ /dɪˈzaɪnd/"
+  },
+  {
+    "vietnamese": "khóa học",
+    "english": "course",
+    "soundmark": "/kɔrs/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Các khóa học tiếng Anh",
+    "english": "English course",
+    "soundmark": "/ˈɪŋɡlɪʃ/ /kɔrs/"
+  },
+  {
+    "vietnamese": "nhiều",
+    "english": "several",
+    "soundmark": "/'sɛvrəl/"
+  },
+  {
+    "vietnamese": "nhiều khóa học tiếng Anh",
+    "english": "several English courses",
+    "soundmark": "/'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/"
+  },
+  {
+    "vietnamese": "Xingrong đã (đã) thiết kế nhiều khóa học tiếng Anh",
+    "english": "Xingrong has designed several English courses",
+    "soundmark": "/hæz/ /dɪˈzaɪnd/ /'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/"
+  },
+  {
+    "vietnamese": "truy cập",
+    "english": "to visit",
+    "soundmark": "/tə/ /'vɪzɪt/"
+  },
+  {
+    "vietnamese": "ghé thăm (mẫu ed)",
+    "english": "visited",
+    "soundmark": "/'vɪzɪtɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) đến thăm",
+    "english": "she has visited",
+    "soundmark": "/ʃi/ /hæz/ /'vɪzɪtɪd/"
+  },
+  {
+    "vietnamese": "Pháp",
+    "english": "France",
+    "soundmark": "/fræns/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) đến thăm Pháp",
+    "english": "she has visited France",
+    "soundmark": "/ʃi/ /hæz/ /'vɪzɪtɪd/ /fræns/"
+  },
+  {
+    "vietnamese": "hạng hai",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "ba lần",
+    "english": "three times",
+    "soundmark": "/θri/ /taɪmz/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) đến thăm Pháp ba lần",
+    "english": "she has visited France three times",
+    "soundmark": "/ʃi/ /hæz/ /'vɪzɪtɪd/ /fræns/ /θri/ /taɪmz/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "to finish",
+    "soundmark": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "hoàn thành (mẫu biên tập)",
+    "english": "finished",
+    "soundmark": "/'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "họ (đã) hoàn thành",
+    "english": "they have finished",
+    "soundmark": "/ðe/ /hæv/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "dự án",
+    "english": "project",
+    "soundmark": "/ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "của họ",
+    "english": "their",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "dự án của họ",
+    "english": "their project",
+    "soundmark": "/ðɛr/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "họ (đã) hoàn thành dự án của mình",
+    "english": "they have finished their project",
+    "soundmark": "/ðe/ /hæv/ /'fɪnɪʃt/ /ðɛr/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) hoàn thành dự án của mình",
+    "english": "we have finished our project",
+    "soundmark": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "Tôi (đã) hoàn thành dự án của mình",
+    "english": "I have finished my project",
+    "soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "bạn (đã) hoàn thành dự án của mình",
+    "english": "you have finished your project",
+    "soundmark": "/ju/ /hæv/ /'fɪnɪʃt/ /jʊr/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) hoàn thành dự án của mình",
+    "english": "he has finished his project",
+    "soundmark": "/hi/ /hæz/ /'fɪnɪʃt/ /hɪz/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) hoàn thành dự án của mình",
+    "english": "she has finished her project",
+    "soundmark": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "Xingrong (đã) hoàn thành dự án của mình",
+    "english": "Xingrong has finished his project",
+    "soundmark": "/hæz/ /'fɪnɪʃt/ /hɪz/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "nó (đã) hoàn thành dự án của mình",
+    "english": "it has finished its project",
+    "soundmark": "/ɪt/ /hæz/ /'fɪnɪʃt/ /ɪts/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) hoàn thành dự án của mình",
+    "english": "she has finished her project",
+    "soundmark": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "bài tập về nhà",
+    "english": "homework",
+    "soundmark": "/'homwɝk/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) làm xong bài tập về nhà",
+    "english": "she has finished her homework",
+    "soundmark": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) làm xong bài tập về nhà",
+    "english": "she had finished her homework",
+    "soundmark": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "đi",
+    "english": "to go",
+    "soundmark": "/tə/ /ɡo/"
+  },
+  {
+    "vietnamese": "bên ngoài",
+    "english": "out",
+    "soundmark": "/aʊt/"
+  },
+  {
+    "vietnamese": "ra ngoài đi",
+    "english": "to go out",
+    "soundmark": "/tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "vietnamese": "chơi",
+    "english": "to play",
+    "soundmark": "/tə/ /ple/"
+  },
+  {
+    "vietnamese": "đi chơi bên ngoài",
+    "english": "to go out to play",
+    "soundmark": "/tə/ /ɡo/ /aʊt/ /tə/ /ple/"
+  },
+  {
+    "vietnamese": "cô ấy ra ngoài chơi",
+    "english": "she goes out to play",
+    "soundmark": "/ʃi/ /ɡoz/ /aʊt/ /tə/ /ple/ /(过去)去 went/ /wɛnt/"
+  },
+  {
+    "vietnamese": "cô ấy (đã từng) đi ra ngoài chơi",
+    "english": "she went out to play",
+    "soundmark": "/ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi cô ấy (quá khứ) ra ngoài chơi",
+    "english": "before she went out to play",
+    "soundmark": "/bɪ'fɔr/ /ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) làm xong bài tập về nhà",
+    "english": "she had finished her homework",
+    "soundmark": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã hoàn thành bài tập về nhà trước khi cô ấy (quá khứ) ra ngoài chơi",
+    "english": "she had finished her homework before she went out to play",
+    "soundmark": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/ /bɪ'fɔr/ /ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/"
+  },
+  {
+    "vietnamese": "rời đi",
+    "english": "to leave",
+    "soundmark": "/tə/ /liv/"
+  },
+  {
+    "vietnamese": "nghỉ phép (dạng ed)",
+    "english": "left",
+    "soundmark": "/lɛft/"
+  },
+  {
+    "vietnamese": "họ (đã) rời đi",
+    "english": "they had left",
+    "soundmark": "/ðe/ /hæd/ /lɛft/"
+  },
+  {
+    "vietnamese": "buổi tiệc",
+    "english": "party",
+    "soundmark": "/'pɑrti/"
+  },
+  {
+    "vietnamese": "họ (đã) rời khỏi bữa tiệc",
+    "english": "they had left the party",
+    "soundmark": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "đến",
+    "english": "to arrive",
+    "soundmark": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đã đến",
+    "english": "I arrived",
+    "soundmark": "/aɪ/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi tôi (quá khứ) đến",
+    "english": "before I arrived",
+    "soundmark": "/bɪ'fɔr/ /aɪ/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "họ (đã) rời khỏi bữa tiệc",
+    "english": "they had left the party",
+    "soundmark": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "họ (quá khứ) đã rời khỏi bữa tiệc trước khi tôi (quá khứ) đến",
+    "english": "they had left the party before I arrived",
+    "soundmark": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/ /bɪ'fɔr/ /aɪ/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "ăn",
+    "english": "to eat",
+    "soundmark": "/tə/ /it/"
+  },
+  {
+    "vietnamese": "ăn (dạng ed)",
+    "english": "eaten",
+    "soundmark": "/'itn/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) ăn",
+    "english": "she had eaten",
+    "soundmark": "/ʃi/ /hæd/ /'itn/"
+  },
+  {
+    "vietnamese": "bữa tối",
+    "english": "dinner",
+    "soundmark": "/'dɪnɚ/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) ăn tối",
+    "english": "she had eaten dinner",
+    "soundmark": "/ʃi/ /hæd/ /'itn/ /'dɪnɚ/"
+  },
+  {
+    "vietnamese": "đã",
+    "english": "already",
+    "soundmark": "/ɔl'rɛdi/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã ăn tối rồi",
+    "english": "she had already eaten dinner",
+    "soundmark": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/"
+  },
+  {
+    "vietnamese": "đến",
+    "english": "to arrive",
+    "soundmark": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đã đến",
+    "english": "I arrived",
+    "soundmark": "/aɪ/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "chỗ ở",
+    "english": "home",
+    "soundmark": "/hom/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đã về đến nhà",
+    "english": "I arrived home",
+    "soundmark": "/aɪ/ /ə'raɪvd/ /hom/"
+  },
+  {
+    "vietnamese": "khi",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi tôi (quá khứ) về đến nhà",
+    "english": "when I arrived home",
+    "soundmark": "/wɛn/ /aɪ/ /ə'raɪvd/ /hom/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã ăn tối rồi",
+    "english": "she had already eaten dinner",
+    "soundmark": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/"
+  },
+  {
+    "vietnamese": "khi tôi (quá khứ) về đến nhà thì cô ấy (quá khứ) đã ăn tối rồi",
+    "english": "she had already eaten dinner when I arrived home",
+    "soundmark": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/ /wɛn/ /aɪ/ /ə'raɪvd/ /hom/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "to read",
+    "soundmark": "/tə/ /rid/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "read",
+    "soundmark": "/rɛd/"
+  },
+  {
+    "vietnamese": "Tôi (đã) đọc",
+    "english": "I had read",
+    "soundmark": "/aɪ/ /hæd/ /rɛd/"
+  },
+  {
+    "vietnamese": "cuốn sách đó",
+    "english": "the book",
+    "soundmark": "/ðə/ /bʊk/"
+  },
+  {
+    "vietnamese": "Tôi (đã) đọc cuốn sách đó",
+    "english": "I had read the book",
+    "soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/"
+  },
+  {
+    "vietnamese": "sự thích nghi",
+    "english": "to adapt",
+    "soundmark": "/tə/ /əˈdæpt/"
+  },
+  {
+    "vietnamese": "sự thích nghi",
+    "english": "adaptation",
+    "soundmark": "/ˌædæpˈteʃn/"
+  },
+  {
+    "vietnamese": "bộ phim đó",
+    "english": "the movie",
+    "soundmark": "/ðə/ /'muvi/"
+  },
+  {
+    "vietnamese": "phim chuyển thể đó",
+    "english": "the movie adaptation",
+    "soundmark": "/ðə/ /'muvi/ /ˌædæpˈteʃn/"
+  },
+  {
+    "vietnamese": "xem",
+    "english": "to watch",
+    "soundmark": "/tə/ /wɑtʃ/"
+  },
+  {
+    "vietnamese": "(quá khứ) nhìn",
+    "english": "watched",
+    "soundmark": "/wɑtʃt/"
+  },
+  {
+    "vietnamese": "(quá khứ) xem bộ phim chuyển thể đó",
+    "english": "watched the movie adaptation",
+    "soundmark": "/wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
+  },
+  {
+    "vietnamese": "Tôi (đã từng) xem bộ phim chuyển thể đó",
+    "english": "I watched the movie adaptation",
+    "soundmark": "/aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi tôi (trong quá khứ) xem bộ phim chuyển thể đó",
+    "english": "before I watched the movie adaptation",
+    "soundmark": "/bɪ'fɔr/ /aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
+  },
+  {
+    "vietnamese": "Tôi (đã) đọc cuốn sách đó",
+    "english": "I had read the book",
+    "soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/"
+  },
+  {
+    "vietnamese": "Tôi (đã) đọc cuốn sách này trước khi tôi (trước đây) xem bộ phim chuyển thể",
+    "english": "I had read the book before I watched the movie adaptation",
+    "soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/ /bɪ'fɔr/ /aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
+  }
+]

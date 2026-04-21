@@ -1,0 +1,677 @@
+[
+  {
+    "vietnamese": "trả",
+    "english": "to pay",
+    "soundmark": "/tə/ /pe/"
+  },
+  {
+    "vietnamese": "chú ý",
+    "english": "attention",
+    "soundmark": "/ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "cần",
+    "english": "need",
+    "soundmark": "/nid/"
+  },
+  {
+    "vietnamese": "bạn cần",
+    "english": "you need",
+    "soundmark": "/ju/ /nid/"
+  },
+  {
+    "vietnamese": "bạn cần chú ý",
+    "english": "you need to pay attention",
+    "soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "english": "question",
+    "soundmark": "/'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "cái này",
+    "english": "this",
+    "soundmark": "/ðɪs/"
+  },
+  {
+    "vietnamese": "câu hỏi này",
+    "english": "this question",
+    "soundmark": "/ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "ý",
+    "english": "to pay attention",
+    "soundmark": "/tə/ /pe/ /ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "hãy chú ý đến vấn đề này",
+    "english": "to pay attention to this question",
+    "soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "bạn cần",
+    "english": "you need",
+    "soundmark": "/ju/ /nid/"
+  },
+  {
+    "vietnamese": "bạn cần chú ý đến vấn đề này",
+    "english": "you need to pay attention to this question",
+    "soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "bạn không cần để ý tới vấn đề này",
+    "english": "you don't need to pay attention to this question",
+    "soundmark": "/ju/ /dont/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "bạn (quá khứ) cần chú ý đến vấn đề này",
+    "english": "you needed to pay attention to this question",
+    "soundmark": "/ju/ /nidɪd/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "bạn không cần phải chú ý đến vấn đề này (trước đây)",
+    "english": "you didn't need to pay attention to this question",
+    "soundmark": "/ju/ /ˈdɪdnt/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "bạn cần chú ý đến vấn đề này",
+    "english": "you need to pay attention to this question",
+    "soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "thông tin",
+    "english": "information",
+    "soundmark": "/ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "cái này",
+    "english": "this",
+    "soundmark": "/ðɪs/"
+  },
+  {
+    "vietnamese": "thông tin này",
+    "english": "this information",
+    "soundmark": "/ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "bạn cần chú ý đến thông tin này",
+    "english": "you need to pay attention to this information",
+    "soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "hãy chú ý đến thông tin này",
+    "english": "you pay attention to this information",
+    "soundmark": "/ju/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "bạn không chú ý đến thông tin này",
+    "english": "you don't pay attention to this information",
+    "soundmark": "/ju/ /dont/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "chú ý",
+    "english": "attention",
+    "soundmark": "/ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "bạn (quá khứ) đã chú ý đến thông tin này",
+    "english": "you paid attention to this information",
+    "soundmark": "/ju/ /ped/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "bạn không chú ý tới thông tin này (trước đây)",
+    "english": "you didn't pay attention to this information",
+    "soundmark": "/ju/ /ˈdɪdnt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "nên",
+    "english": "should",
+    "soundmark": "/ʃʊd/"
+  },
+  {
+    "vietnamese": "bạn nên",
+    "english": "you should",
+    "soundmark": "/ju/ /ʃʊd/"
+  },
+  {
+    "vietnamese": "bạn nên chú ý đến thông tin này",
+    "english": "you should pay attention to this information",
+    "soundmark": "/ju/ /ʃʊd/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "bạn không nên",
+    "english": "you should not",
+    "soundmark": "/ju/ /ʃʊd/ /nɑt/"
+  },
+  {
+    "vietnamese": "bạn không nên để ý tới tin nhắn này",
+    "english": "you should not pay attention to this information",
+    "soundmark": "/ju/ /ʃʊd/ /nɑt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "chi trả; trả tiền (mẫu ing)",
+    "english": "paying",
+    "soundmark": "/peɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đang cho",
+    "english": "be paying",
+    "soundmark": "/bi/ /peɪŋ/"
+  },
+  {
+    "vietnamese": "chú ý",
+    "english": "attention",
+    "soundmark": "/ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "chú ý (chú ý)",
+    "english": "be paying attention",
+    "soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "thông tin",
+    "english": "information",
+    "soundmark": "/ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "thông tin này",
+    "english": "this information",
+    "soundmark": "/ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "đang quan tâm đến thông tin này",
+    "english": "be paying attention to this information",
+    "soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn đang (hiện) chú ý đến thông tin này",
+    "english": "you are paying attention to this information",
+    "soundmark": "/ju/ /ɚ/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi (hiện tại) đang chú ý đến thông tin này",
+    "english": "I am paying attention to this information",
+    "soundmark": "/aɪ/ /æm/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "anh ấy",
+    "english": "he",
+    "soundmark": "/hi/"
+  },
+  {
+    "vietnamese": "anh ấy (hiện tại) đang chú ý đến thông tin này",
+    "english": "he is paying attention to this information",
+    "soundmark": "/hi/ /ɪz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "not",
+    "soundmark": "/nɑt/"
+  },
+  {
+    "vietnamese": "anh ấy không chú ý đến thông tin này (chưa)",
+    "english": "he is not paying attention to this information",
+    "soundmark": "/hi/ /ɪz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) chú ý đến thông tin này",
+    "english": "he was paying attention to this information",
+    "soundmark": "/hi/ /wəz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "not",
+    "soundmark": "/nɑt/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) không chú ý đến thông tin này",
+    "english": "he was not paying attention to this information",
+    "soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "ngày hôm qua",
+    "english": "yesterday",
+    "soundmark": "/'jɛstɚde/"
+  },
+  {
+    "vietnamese": "vào lúc này",
+    "english": "at this time",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/"
+  },
+  {
+    "vietnamese": "vào thời điểm này ngày hôm qua",
+    "english": "at this time yesterday",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "anh ấy đã không nhận thấy thông tin này vào thời điểm này ngày hôm qua",
+    "english": "he was not paying attention to this information at this time yesterday",
+    "soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "chú ý (chú ý)",
+    "english": "be paying attention",
+    "soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "đang quan tâm đến thông tin này",
+    "english": "be paying attention to this information",
+    "soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "sẽ",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ",
+    "english": "he will",
+    "soundmark": "/hi/ /wɪl/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ chú ý đến thông tin này",
+    "english": "he will be paying attention to this information",
+    "soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "vietnamese": "ngày mai",
+    "english": "tomorrow",
+    "soundmark": "/tə'mɔro/"
+  },
+  {
+    "vietnamese": "vào lúc này",
+    "english": "at this time",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/"
+  },
+  {
+    "vietnamese": "vào thời điểm này ngày mai",
+    "english": "at this time tomorrow",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ chú ý đến thông tin này vào thời điểm này vào ngày mai",
+    "english": "he will be paying attention to this information at this time tomorrow",
+    "soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "chi tiết",
+    "english": "the detail",
+    "soundmark": "/ðə/ /ˈditel/"
+  },
+  {
+    "vietnamese": "chi tiết (số nhiều)",
+    "english": "the details",
+    "soundmark": "/ðə/ /ˈditelz/"
+  },
+  {
+    "vietnamese": "tất cả",
+    "english": "all",
+    "soundmark": "/ɔl/"
+  },
+  {
+    "vietnamese": "tất cả các chi tiết",
+    "english": "all the details",
+    "soundmark": "/ɔl/ /ðə/ /ˈditelz/"
+  },
+  {
+    "vietnamese": "trả",
+    "english": "to pay",
+    "soundmark": "/tə/ /pe/"
+  },
+  {
+    "vietnamese": "chú ý",
+    "english": "attention",
+    "soundmark": "/ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "chú ý (chú ý)",
+    "english": "to pay attention",
+    "soundmark": "/tə/ /pe/ /ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "chú ý đến mọi chi tiết",
+    "english": "to pay attention to all the details",
+    "soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "điều này rất quan trọng",
+    "english": "it is important",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "rất",
+    "english": "very",
+    "soundmark": "/ˈvɛri/"
+  },
+  {
+    "vietnamese": "nó rất quan trọng",
+    "english": "it is very important",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "điều rất quan trọng là phải chú ý đến tất cả các chi tiết (nó)",
+    "english": "it is very important to pay attention to all the details",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/"
+  },
+  {
+    "vietnamese": "bàn luận",
+    "english": "to discuss",
+    "soundmark": "/tə/ /dɪ'skʌs/"
+  },
+  {
+    "vietnamese": "điều gì đó",
+    "english": "something",
+    "soundmark": "/'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "thảo luận về điều gì đó",
+    "english": "to discuss something",
+    "soundmark": "/tə/ /dɪ'skʌs/ /'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "would like",
+    "soundmark": "/wʊd/ /laɪk/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I would like",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/"
+  },
+  {
+    "vietnamese": "Tôi muốn thảo luận điều gì đó",
+    "english": "I would like to discuss something",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "điều gì đó quan trọng",
+    "english": "something important",
+    "soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn thảo luận điều gì đó quan trọng",
+    "english": "I would like to discuss something important",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "với bạn",
+    "english": "with you",
+    "soundmark": "/wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn thảo luận điều gì đó quan trọng với bạn",
+    "english": "I would like to discuss something important with you",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "chúng tôi",
+    "english": "we",
+    "soundmark": "/wi/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn thảo luận về điều gì đó quan trọng",
+    "english": "we would like to discuss something important",
+    "soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "chúng tôi thảo luận",
+    "english": "we discuss",
+    "soundmark": "/wi/ /dɪ'skʌs/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kən/"
+  },
+  {
+    "vietnamese": "chúng ta có thể thảo luận",
+    "english": "we can discuss",
+    "soundmark": "/wi/ /kən/ /dɪ'skʌs/"
+  },
+  {
+    "vietnamese": "tất cả",
+    "english": "all",
+    "soundmark": "/ɔl/"
+  },
+  {
+    "vietnamese": "chi tiết (số nhiều)",
+    "english": "the details",
+    "soundmark": "/ðə/ /ˈditelz/"
+  },
+  {
+    "vietnamese": "tất cả các chi tiết",
+    "english": "all the details",
+    "soundmark": "/ɔl/ /ðə/ /ˈditelz/"
+  },
+  {
+    "vietnamese": "chúng ta có thể thảo luận tất cả các chi tiết",
+    "english": "we can discuss all the details",
+    "soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/"
+  },
+  {
+    "vietnamese": "kế hoạch này",
+    "english": "the plan",
+    "soundmark": "/ðə/ /plæn/"
+  },
+  {
+    "vietnamese": "tất cả các chi tiết",
+    "english": "all the details",
+    "soundmark": "/ɔl/ /ðə/ /ˈditelz/"
+  },
+  {
+    "vietnamese": "tất cả các chi tiết của kế hoạch này",
+    "english": "all the details of the plan",
+    "soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+  },
+  {
+    "vietnamese": "chúng ta có thể thảo luận về tất cả các chi tiết của kế hoạch này",
+    "english": "we can discuss all the details of the plan",
+    "soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+  },
+  {
+    "vietnamese": "cùng nhau",
+    "english": "together",
+    "soundmark": "/tə'ɡɛðɚ/"
+  },
+  {
+    "vietnamese": "chúng ta có thể cùng nhau thảo luận chi tiết về kế hoạch này",
+    "english": "we can discuss all the details of the plan together",
+    "soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "vietnamese": "sẽ",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "vietnamese": "chúng ta sẽ cùng nhau thảo luận chi tiết về kế hoạch này",
+    "english": "we will discuss all the details of the plan together",
+    "soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "vietnamese": "ngày mai",
+    "english": "tomorrow",
+    "soundmark": "/tə'mɔro/"
+  },
+  {
+    "vietnamese": "buổi sáng",
+    "english": "morning",
+    "soundmark": "/'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "sáng mai",
+    "english": "tomorrow morning",
+    "soundmark": "/tə'mɔro/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "chúng ta sẽ cùng nhau thảo luận chi tiết về kế hoạch này vào sáng mai",
+    "english": "we will discuss all the details of the plan together tomorrow morning",
+    "soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /tə'mɔro/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "thảo luận (dạng ing)",
+    "english": "discussing",
+    "soundmark": "/dɪ'skʌsɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "thảo luận",
+    "english": "be discussing",
+    "soundmark": "/bi/ /dɪ'skʌsɪŋ/"
+  },
+  {
+    "vietnamese": "tất cả các chi tiết của kế hoạch này",
+    "english": "all the details of the plan",
+    "soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+  },
+  {
+    "vietnamese": "tất cả các chi tiết của kế hoạch này đang được thảo luận",
+    "english": "be discussing all the details of the plan",
+    "soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+  },
+  {
+    "vietnamese": "cùng nhau",
+    "english": "together",
+    "soundmark": "/tə'ɡɛðɚ/"
+  },
+  {
+    "vietnamese": "chúng ta đang cùng nhau thảo luận chi tiết về kế hoạch này",
+    "english": "be discussing all the details of the plan together",
+    "soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi (hiện) đang thảo luận",
+    "english": "we are discussing",
+    "soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/"
+  },
+  {
+    "vietnamese": "tất cả các chi tiết của kế hoạch này",
+    "english": "all the details of the plan",
+    "soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+  },
+  {
+    "vietnamese": "chúng tôi (hiện) đang thảo luận về tất cả các chi tiết của kế hoạch này",
+    "english": "we are discussing all the details of the plan",
+    "soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+  },
+  {
+    "vietnamese": "cùng nhau",
+    "english": "together",
+    "soundmark": "/tə'ɡɛðɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi (hiện tại) đang cùng nhau thảo luận về tất cả các chi tiết của kế hoạch này",
+    "english": "we are discussing all the details of the plan together",
+    "soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) cùng nhau thảo luận về tất cả các chi tiết của kế hoạch này",
+    "english": "we were discussing all the details of the plan together",
+    "soundmark": "/wi/ /wɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "thảo luận",
+    "english": "be discussing",
+    "soundmark": "/bi/ /dɪ'skʌsɪŋ/"
+  },
+  {
+    "vietnamese": "chúng ta đang cùng nhau thảo luận chi tiết về kế hoạch này",
+    "english": "be discussing all the details of the plan together",
+    "soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ",
+    "english": "we will",
+    "soundmark": "/wi/ /wɪl/"
+  },
+  {
+    "vietnamese": "chúng ta sẽ cùng nhau thảo luận chi tiết về kế hoạch này",
+    "english": "we will be discussing all the details of the plan together",
+    "soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "vietnamese": "ngày mai",
+    "english": "tomorrow",
+    "soundmark": "/tə'mɔro/"
+  },
+  {
+    "vietnamese": "vào lúc này",
+    "english": "at this time",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/"
+  },
+  {
+    "vietnamese": "vào thời điểm này ngày mai",
+    "english": "at this time tomorrow",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "chúng ta sẽ cùng nhau thảo luận về tất cả các chi tiết của kế hoạch này vào ngày mai vào thời điểm này",
+    "english": "we will be discussing all the details of the plan together at this time tomorrow",
+    "soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+  }
+]

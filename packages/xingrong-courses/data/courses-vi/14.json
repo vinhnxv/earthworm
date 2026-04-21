@@ -1,0 +1,817 @@
+[
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi là",
+    "english": "I am",
+    "soundmark": "/aɪ/ /æm/"
+  },
+  {
+    "vietnamese": "young",
+    "english": "young",
+    "soundmark": "/jʌŋ/"
+  },
+  {
+    "vietnamese": "Tôi còn trẻ",
+    "english": "I am young",
+    "soundmark": "/aɪ/ /æm/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "Tôi không còn trẻ",
+    "english": "I am not young",
+    "soundmark": "/aɪ/ /æm/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "Tôi (đã từng) trẻ",
+    "english": "I was young",
+    "soundmark": "/aɪ/ /wəz/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "Tôi (đã từng) không còn trẻ",
+    "english": "I was not young",
+    "soundmark": "/aɪ/ /wəz/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "anh ấy là",
+    "english": "he is",
+    "soundmark": "/hi/ /ɪz/"
+  },
+  {
+    "vietnamese": "anh ấy còn trẻ",
+    "english": "he is young",
+    "soundmark": "/hi/ /ɪz/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "anh ấy không còn trẻ",
+    "english": "he is not young",
+    "soundmark": "/hi/ /ɪz/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "anh ấy còn trẻ (trong quá khứ)",
+    "english": "he was young",
+    "soundmark": "/hi/ /wəz/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "anh ấy không còn trẻ (trong quá khứ)",
+    "english": "he was not young",
+    "soundmark": "/hi/ /wəz/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "chúng tôi",
+    "english": "we are",
+    "soundmark": "/wi/ /ɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi còn trẻ",
+    "english": "we are young",
+    "soundmark": "/wi/ /ɚ/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "chúng tôi không còn trẻ",
+    "english": "we are not young",
+    "soundmark": "/wi/ /ɚ/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "chúng tôi còn trẻ (trong quá khứ)",
+    "english": "we were young",
+    "soundmark": "/wi/ /wɚ/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "chúng tôi không còn trẻ (trong quá khứ)",
+    "english": "we were not young",
+    "soundmark": "/wi/ /wɚ/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "bạn là",
+    "english": "you are",
+    "soundmark": "/ju/ /ɚ/"
+  },
+  {
+    "vietnamese": "bạn còn trẻ",
+    "english": "you are young",
+    "soundmark": "/ju/ /ɚ/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "bạn không còn trẻ",
+    "english": "you are not young",
+    "soundmark": "/ju/ /ɚ/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "bạn còn trẻ (trong quá khứ)",
+    "english": "you were young",
+    "soundmark": "/ju/ /wɚ/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "bạn (trong quá khứ) không còn trẻ",
+    "english": "you were not young",
+    "soundmark": "/ju/ /wɚ/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "rất",
+    "english": "very",
+    "soundmark": "/ˈvɛri/"
+  },
+  {
+    "vietnamese": "bạn còn rất trẻ (trong quá khứ)",
+    "english": "you were very young",
+    "soundmark": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "gặp",
+    "english": "to see",
+    "soundmark": "/tə/ /si/"
+  },
+  {
+    "vietnamese": "Tôi thấy bạn (trong quá khứ)",
+    "english": "I saw you",
+    "soundmark": "/aɪ/ /sɔ/ /ju/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi tôi nhìn thấy bạn (trong quá khứ)",
+    "english": "when I saw you",
+    "soundmark": "/wɛn/ /aɪ/ /sɔ/ /ju/"
+  },
+  {
+    "vietnamese": "lần 01:",
+    "english": "first",
+    "soundmark": "/fɝst/"
+  },
+  {
+    "vietnamese": "lần đầu tiên tôi gặp bạn (trong quá khứ)",
+    "english": "when I first saw you",
+    "soundmark": "/wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/"
+  },
+  {
+    "vietnamese": "khi tôi gặp bạn lần đầu tiên (trong quá khứ), bạn còn rất trẻ (trong quá khứ)",
+    "english": "you were very young when I first saw you",
+    "soundmark": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/ /wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/"
+  },
+  {
+    "vietnamese": "ăn",
+    "english": "to eat",
+    "soundmark": "/tə/ /it/"
+  },
+  {
+    "vietnamese": "một quả táo",
+    "english": "an apple",
+    "soundmark": "/ən/ /'æpl/"
+  },
+  {
+    "vietnamese": "ăn một quả táo",
+    "english": "to eat an apple",
+    "soundmark": "/tə/ /it/ /ən/ /'æpl/"
+  },
+  {
+    "vietnamese": "Tôi muốn ăn một quả táo",
+    "english": "I want to eat an apple",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/"
+  },
+  {
+    "vietnamese": "mỗi ngày",
+    "english": "every day",
+    "soundmark": "/'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "Tôi muốn ăn một quả táo mỗi ngày",
+    "english": "I want to eat an apple every day",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "Tôi ăn một quả táo mỗi ngày",
+    "english": "I eat an apple every day",
+    "soundmark": "/aɪ/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "ăn",
+    "english": "ate",
+    "soundmark": "/et/"
+  },
+  {
+    "vietnamese": "ăn một quả táo",
+    "english": "ate an apple",
+    "soundmark": "/et/ /ən/ /'æpl/"
+  },
+  {
+    "vietnamese": "Tôi đã ăn một quả táo",
+    "english": "I ate an apple",
+    "soundmark": "/aɪ/ /et/ /ən/ /'æpl/"
+  },
+  {
+    "vietnamese": "cô ấy ăn một quả táo",
+    "english": "she ate an apple",
+    "soundmark": "/ʃi/ /et/ /ən/ /'æpl/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "ago",
+    "soundmark": "/ə'ɡo/"
+  },
+  {
+    "vietnamese": "một giờ",
+    "english": "an hour",
+    "soundmark": "/ən/ /'aʊɚ/"
+  },
+  {
+    "vietnamese": "một giờ trước",
+    "english": "an hour ago",
+    "soundmark": "/ən/ /'aʊɚ/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "cô ấy đã ăn một quả táo một giờ trước",
+    "english": "she ate an apple an hour ago",
+    "soundmark": "/ʃi/ /et/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "cô đã không ăn một quả táo nào trong một giờ",
+    "english": "she didn't eat an apple an hour ago",
+    "soundmark": "/ʃi/ /dɪdnt/ /it/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "uống",
+    "english": "to drink",
+    "soundmark": "/tə/ /drɪŋk/"
+  },
+  {
+    "vietnamese": "một ít nước",
+    "english": "some water",
+    "soundmark": "/səm/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "uống một chút nước",
+    "english": "to drink some water",
+    "soundmark": "/tə/ /drɪŋk/ /səm/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "Tôi muốn uống một ít nước",
+    "english": "I want to drink some water",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "mỗi buổi sáng",
+    "english": "every morning",
+    "soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi muốn uống một ít nước vào mỗi buổi sáng",
+    "english": "I want to drink some water every morning",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi uống một ít nước vào mỗi buổi sáng",
+    "english": "I drink some water every morning",
+    "soundmark": "/aɪ/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "uống",
+    "english": "drank",
+    "soundmark": "/dræŋk/"
+  },
+  {
+    "vietnamese": "Tôi đã uống một ít nước",
+    "english": "I drank some water",
+    "soundmark": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "cái này",
+    "english": "this",
+    "soundmark": "/ðɪs/"
+  },
+  {
+    "vietnamese": "buổi sáng",
+    "english": "morning",
+    "soundmark": "/'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "sáng hôm nay",
+    "english": "this morning",
+    "soundmark": "/ðɪs/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "Sáng nay tôi đã uống một ít nước",
+    "english": "I drank some water this morning",
+    "soundmark": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "bất kỳ",
+    "english": "any",
+    "soundmark": "/'ɛni/"
+  },
+  {
+    "vietnamese": "Sáng nay tôi không uống nước",
+    "english": "I didn't drink any water this morning",
+    "soundmark": "/aɪ/ /dɪdnt/ /drɪŋk/ /'ɛni/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "anh ấy biết câu trả lời (trong quá khứ)",
+    "english": "he knew the answer",
+    "soundmark": "/hi/ /nju/ /ði/ /'ænsɚ/"
+  },
+  {
+    "vietnamese": "trả lời câu hỏi của bạn",
+    "english": "the answer to the question",
+    "soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "anh ấy biết câu trả lời cho câu hỏi (trong quá khứ)",
+    "english": "he knew the answer to the question",
+    "soundmark": "/hi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "đã",
+    "english": "already",
+    "soundmark": "/ɔl'rɛdi/"
+  },
+  {
+    "vietnamese": "em đã biết câu trả lời cho câu hỏi",
+    "english": "he already knew the answer to the question",
+    "soundmark": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "em không biết câu trả lời cho câu hỏi (trong quá khứ)",
+    "english": "he didn't know the answer to the question",
+    "soundmark": "/hi/ /dɪdnt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "quên mất",
+    "english": "to forget",
+    "soundmark": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "Tôi quên nói với bạn (trong quá khứ)",
+    "english": "I forgot to tell you",
+    "soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/"
+  },
+  {
+    "vietnamese": "em đã biết câu trả lời cho câu hỏi",
+    "english": "he already knew the answer to the question",
+    "soundmark": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "Tôi quên nói với bạn (trong quá khứ) rằng anh ấy đã biết câu trả lời cho câu hỏi",
+    "english": "I forgot to tell you he already knew the answer to the question",
+    "soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/ /hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "làm việc",
+    "english": "job",
+    "soundmark": "/dʒɑb/"
+  },
+  {
+    "vietnamese": "công việc của tôi",
+    "english": "my job",
+    "soundmark": "/maɪ/ /dʒɑb/"
+  },
+  {
+    "vietnamese": "mất đi",
+    "english": "to lose",
+    "soundmark": "/tə/ /luz/"
+  },
+  {
+    "vietnamese": "mất",
+    "english": "lost",
+    "soundmark": "/lɔst/"
+  },
+  {
+    "vietnamese": "Tôi bị mất việc",
+    "english": "I lost my job",
+    "soundmark": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "ago",
+    "soundmark": "/ə'ɡo/"
+  },
+  {
+    "vietnamese": "hai năm",
+    "english": "two years",
+    "soundmark": "/tu/ /jɪrz/"
+  },
+  {
+    "vietnamese": "hai năm trước",
+    "english": "two years ago",
+    "soundmark": "/tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "Tôi mất việc hai năm trước",
+    "english": "I lost my job two years ago",
+    "soundmark": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "Tôi đã không mất việc cách đây hai năm",
+    "english": "I didn't lose my job two years ago",
+    "soundmark": "/aɪ/ /dɪdnt/ /luz/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "rời đi",
+    "english": "to leave",
+    "soundmark": "/tə/ /liv/"
+  },
+  {
+    "vietnamese": "trái",
+    "english": "left",
+    "soundmark": "/lɛft/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "văn phòng",
+    "english": "office",
+    "soundmark": "/'ɑfɪs/"
+  },
+  {
+    "vietnamese": "phòng làm việc của nàng",
+    "english": "her office",
+    "soundmark": "/hɚ/ /'ɑfɪs/"
+  },
+  {
+    "vietnamese": "Tôi rời khỏi văn phòng của cô ấy",
+    "english": "I left her office",
+    "soundmark": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "ago",
+    "soundmark": "/ə'ɡo/"
+  },
+  {
+    "vietnamese": "một giờ",
+    "english": "an hour",
+    "soundmark": "/ən/ /'aʊɚ/"
+  },
+  {
+    "vietnamese": "một giờ trước",
+    "english": "an hour ago",
+    "soundmark": "/ən/ /'aʊɚ/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "Tôi rời văn phòng cô ấy một giờ trước",
+    "english": "I left her office an hour ago",
+    "soundmark": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "Tôi đã không rời khỏi văn phòng của cô ấy một giờ trước",
+    "english": "I didn't leave her office an hour ago",
+    "soundmark": "/aɪ/ /dɪdnt/ /liv/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "ngủ",
+    "english": "to sleep",
+    "soundmark": "/tə/ /slip/"
+  },
+  {
+    "vietnamese": "căn phòng",
+    "english": "room",
+    "soundmark": "/rum/"
+  },
+  {
+    "vietnamese": "phòng của tôi",
+    "english": "my room",
+    "soundmark": "/maɪ/ /rum/"
+  },
+  {
+    "vietnamese": "ngủ trong phòng của tôi (trước đây)",
+    "english": "slept in my room",
+    "soundmark": "/slɛpt/ /ɪn/ /maɪ/ /rum/"
+  },
+  {
+    "vietnamese": "lùi",
+    "english": "last",
+    "soundmark": "/læst/"
+  },
+  {
+    "vietnamese": "ban đêm",
+    "english": "night",
+    "soundmark": "/naɪt/"
+  },
+  {
+    "vietnamese": "tối hôm qua",
+    "english": "last night",
+    "soundmark": "/læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "tối qua cô ấy đã ngủ trong phòng tôi",
+    "english": "she slept in my room last night",
+    "soundmark": "/ʃi/ /slɛpt/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "tối qua cô ấy không ngủ trong phòng tôi",
+    "english": "she didn't sleep in my room last night",
+    "soundmark": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "hiểu",
+    "english": "to understand",
+    "soundmark": "/tə/ /ʌndɚ'stænd/"
+  },
+  {
+    "vietnamese": "bạn phải hiểu",
+    "english": "you have to understand",
+    "soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/"
+  },
+  {
+    "vietnamese": "bạn biết đấy",
+    "english": "you understand",
+    "soundmark": "/ju/ /ʌndɚ'stænd/"
+  },
+  {
+    "vietnamese": "bạn không hiểu",
+    "english": "you don't understand",
+    "soundmark": "/ju/ /dont/ /ʌndɚ'stænd/"
+  },
+  {
+    "vietnamese": "bạn (trong quá khứ) hiểu",
+    "english": "you understood",
+    "soundmark": "/ju/ /ʌndɚˈstʊd/"
+  },
+  {
+    "vietnamese": "bạn không (trong quá khứ) hiểu",
+    "english": "you didn't understand",
+    "soundmark": "/ju/ /dɪdnt/ /ʌndɚ'stænd/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "đã nói với bạn",
+    "english": "told",
+    "soundmark": "/told/"
+  },
+  {
+    "vietnamese": "Tôi đã nói rồi",
+    "english": "I told you",
+    "soundmark": "/aɪ/ /told/ /ju/"
+  },
+  {
+    "vietnamese": "tối qua cô ấy không ngủ trong phòng tôi",
+    "english": "she didn't sleep in my room last night",
+    "soundmark": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "Tôi đã nói với bạn rằng cô ấy đã không ngủ trong phòng của tôi tối qua",
+    "english": "I told you she didn't sleep in my room last night",
+    "soundmark": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "nhưng",
+    "english": "but",
+    "soundmark": "/bʌt/"
+  },
+  {
+    "vietnamese": "bạn (trong quá khứ) không hiểu",
+    "english": "you didn't understand",
+    "soundmark": "/ju/ /dɪdnt/ /ʌndɚ'stænd/"
+  },
+  {
+    "vietnamese": "nhưng bạn (trong quá khứ) không hiểu điều đó",
+    "english": "but you didn't understand",
+    "soundmark": "/bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/"
+  },
+  {
+    "vietnamese": "Tôi đã nói với bạn rằng cô ấy không ngủ trong phòng tôi tối qua, nhưng bạn không hiểu",
+    "english": "I told you she didn't sleep in my room last night but you didn't understand",
+    "soundmark": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/ /bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/"
+  },
+  {
+    "vietnamese": "mua",
+    "english": "to buy",
+    "soundmark": "/tə/ /baɪ/"
+  },
+  {
+    "vietnamese": "một ngôi nhà",
+    "english": "a house",
+    "soundmark": "/ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "mua nhà",
+    "english": "to buy a house",
+    "soundmark": "/tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "Tôi muốn mua nhà",
+    "english": "I want to buy a house",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "đã mua",
+    "english": "bought",
+    "soundmark": "/bɔt/"
+  },
+  {
+    "vietnamese": "Tôi đã mua một ngôi nhà",
+    "english": "I bought a house",
+    "soundmark": "/aɪ/ /bɔt/ /ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "ago",
+    "soundmark": "/ə'ɡo/"
+  },
+  {
+    "vietnamese": "hai năm",
+    "english": "two years",
+    "soundmark": "/tu/ /jɪrz/"
+  },
+  {
+    "vietnamese": "hai năm trước",
+    "english": "two years ago",
+    "soundmark": "/tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "Tôi đã mua một ngôi nhà cách đây hai năm",
+    "english": "I bought a house two years ago",
+    "soundmark": "/aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "Tôi đã không mua nhà hai năm trước",
+    "english": "I didn't buy a house two years ago",
+    "soundmark": "/aɪ/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "anh ấy đã mua một ngôi nhà cách đây hai năm",
+    "english": "he bought a house two years ago",
+    "soundmark": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "anh ấy đã không mua nhà hai năm trước",
+    "english": "he didn't buy a house two years ago",
+    "soundmark": "/hi/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "hiểu",
+    "english": "to understand",
+    "soundmark": "/tə/ /ʌndɚ'stænd/"
+  },
+  {
+    "vietnamese": "bạn phải hiểu",
+    "english": "you have to understand",
+    "soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/"
+  },
+  {
+    "vietnamese": "bạn phải hiểu rằng tôi đã mua một ngôi nhà cách đây hai năm",
+    "english": "you have to understand I bought a house two years ago",
+    "soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/ /aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "rửa",
+    "english": "to wash",
+    "soundmark": "/tə/ /wɔʃ/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "khuôn mặt",
+    "english": "face",
+    "soundmark": "/fes/"
+  },
+  {
+    "vietnamese": "khuôn mặt của tôi",
+    "english": "my face",
+    "soundmark": "/maɪ/ /fes/"
+  },
+  {
+    "vietnamese": "rửa mặt",
+    "english": "to wash my face",
+    "soundmark": "/tə/ /wɔʃ/ /maɪ/ /fes/"
+  },
+  {
+    "vietnamese": "Tôi cần rửa mặt",
+    "english": "I need to wash my face",
+    "soundmark": "/aɪ/ /nid/ /tə/ /wɔʃ/ /maɪ/ /fes/"
+  },
+  {
+    "vietnamese": "mỗi ngày",
+    "english": "every day",
+    "soundmark": "/'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "Tôi cần rửa mặt mỗi ngày",
+    "english": "I need to wash my face every day",
+    "soundmark": "/aɪ/ /nid/ /tə/ /wɑʃ/ /maɪ/ /fes/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "Tôi rửa mặt mỗi ngày",
+    "english": "I wash my face every day",
+    "soundmark": "/aɪ/ /wɔʃ/ /maɪ/ /fes/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "đã rửa",
+    "english": "washed",
+    "soundmark": "/wɔʃt/"
+  },
+  {
+    "vietnamese": "Tôi rửa mặt",
+    "english": "I washed my face",
+    "soundmark": "/aɪ/ /wɔʃt/ /maɪ/ /fes/"
+  },
+  {
+    "vietnamese": "sáng hôm nay",
+    "english": "this morning",
+    "soundmark": "/ðɪs/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "Sáng nay tôi đã rửa mặt",
+    "english": "I washed my face this morning",
+    "soundmark": "/aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi đã nói rồi",
+    "english": "I told you",
+    "soundmark": "/aɪ/ /told/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi đã nói với bạn rằng tôi đã rửa mặt sáng nay",
+    "english": "I told you I washed my face this morning",
+    "soundmark": "/aɪ/ /told/ /ju/ /aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "gọi",
+    "english": "to call",
+    "soundmark": "/tə/ /kɔl/"
+  },
+  {
+    "vietnamese": "gọi cho anh ấy",
+    "english": "to call him",
+    "soundmark": "/tə/ /kɔl/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi cần gọi cho anh ấy",
+    "english": "I need to call him",
+    "soundmark": "/aɪ/ /nid/ /tə/ /kɔl/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi đã gọi cho anh ấy",
+    "english": "I call him",
+    "soundmark": "/aɪ/ /kɔl/ /hɪm/"
+  },
+  {
+    "vietnamese": "đã gọi",
+    "english": "called",
+    "soundmark": "/kɔld/"
+  },
+  {
+    "vietnamese": "Tôi đã gọi cho anh ấy",
+    "english": "I called him",
+    "soundmark": "/aɪ/ /kɔld/ /hɪm/"
+  },
+  {
+    "vietnamese": "tối hôm qua",
+    "english": "last night",
+    "soundmark": "/læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "Tôi đã gọi cho anh ấy tối qua",
+    "english": "I called him last night",
+    "soundmark": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "anh ấy nói với tôi",
+    "english": "he told me",
+    "soundmark": "/hi/ /told/ /mi/"
+  },
+  {
+    "vietnamese": "anh ấy đã mua một căn nhà cách đây hai năm",
+    "english": "he bought a house two years ago",
+    "soundmark": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "anh ấy nói với tôi rằng anh ấy đã mua một ngôi nhà cách đây hai năm",
+    "english": "he told me he bought a house two years ago",
+    "soundmark": "/hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "vietnamese": "Tôi đã gọi cho anh ấy tối qua và anh ấy nói với tôi rằng anh ấy đã mua một ngôi nhà cách đây hai năm",
+    "english": "I called him last night and he told me he bought a house two years ago",
+    "soundmark": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/ /ənd/ /hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  }
+]

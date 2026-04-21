@@ -1,0 +1,732 @@
+[
+  {
+    "vietnamese": "sách",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "một cuốn sách tiếng anh",
+    "english": "an English book",
+    "soundmark": "/æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "to read",
+    "soundmark": "/tə/ /rid/"
+  },
+  {
+    "vietnamese": "đọc một cuốn sách tiếng anh",
+    "english": "to read an English book",
+    "soundmark": "/tə/ /rid/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+  },
+  {
+    "vietnamese": "đọc (dạng ing)",
+    "english": "reading",
+    "soundmark": "/ridɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "be reading",
+    "soundmark": "/bi/ /ridɪŋ/"
+  },
+  {
+    "vietnamese": "đọc một cuốn sách tiếng Anh",
+    "english": "be reading an English book",
+    "soundmark": "/bi/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi (hiện tại) đang đọc một cuốn sách tiếng Anh",
+    "english": "I am reading an English book",
+    "soundmark": "/aɪ/ /æm/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+  },
+  {
+    "vietnamese": "khoảnh khắc này; khoảnh khắc này",
+    "english": "the moment",
+    "soundmark": "/ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "tại thời điểm này; vào lúc này",
+    "english": "at the moment",
+    "soundmark": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "Hiện tại tôi đang đọc một cuốn sách tiếng Anh",
+    "english": "I am reading an English book at the moment",
+    "soundmark": "/aɪ/ /æm/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "Tôi (đang) đọc một cuốn sách tiếng Anh",
+    "english": "I was reading an English book",
+    "soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+  },
+  {
+    "vietnamese": "tối hôm qua",
+    "english": "last night",
+    "soundmark": "/læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "Tối qua tôi đang đọc một cuốn sách tiếng Anh",
+    "english": "I was reading an English book last night",
+    "soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "chỗ ở",
+    "english": "home",
+    "soundmark": "/hom/"
+  },
+  {
+    "vietnamese": "làm việc",
+    "english": "work",
+    "soundmark": "/wɝk/"
+  },
+  {
+    "vietnamese": "bài tập về nhà",
+    "english": "homework",
+    "soundmark": "/'homwɝk/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "bài tập về nhà của cô ấy",
+    "english": "her homework",
+    "soundmark": "/hɚ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "làm bài tập về nhà cho cô ấy",
+    "english": "to do her homework",
+    "soundmark": "/tə/ /du/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "làm (dạng ing)",
+    "english": "doing",
+    "soundmark": "/ˈduɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đang làm",
+    "english": "be doing",
+    "soundmark": "/bi/ /ˈduɪŋ/"
+  },
+  {
+    "vietnamese": "cô ấy đang làm bài tập về nhà",
+    "english": "be doing her homework",
+    "soundmark": "/bi/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "cô ấy (hiện tại) đang làm bài tập về nhà",
+    "english": "she is doing her homework",
+    "soundmark": "/ʃi/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "con gái",
+    "english": "daughter",
+    "soundmark": "/'dɔtɚ/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "con gái tôi",
+    "english": "my daughter",
+    "soundmark": "/maɪ/ /'dɔtɚ/"
+  },
+  {
+    "vietnamese": "con gái tôi đang làm bài tập về nhà (ngay bây giờ)",
+    "english": "my daughter is doing her homework",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "tại thời điểm này; vào lúc này",
+    "english": "at the moment",
+    "soundmark": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "con gái tôi hiện đang làm bài tập về nhà",
+    "english": "my daughter is doing her homework at the moment",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "con gái tôi (quá khứ) đang làm bài tập về nhà",
+    "english": "my daughter was doing her homework",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "Tôi (đang) đọc một cuốn sách tiếng Anh",
+    "english": "I was reading an English book",
+    "soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+  },
+  {
+    "vietnamese": "cùng lúc đó.",
+    "english": "while",
+    "soundmark": "/waɪl/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đang đọc một cuốn sách tiếng Anh và cùng lúc đó con gái tôi (quá khứ) đang làm bài tập về nhà",
+    "english": "I was reading an English book while my daughter was doing her homework",
+    "soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /waɪl/ /maɪ/ /'dɔtɚ/ /wəz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "đang chạy",
+    "english": "to run",
+    "soundmark": "/tə/ /rʌn/"
+  },
+  {
+    "vietnamese": "đường phố",
+    "english": "the street",
+    "soundmark": "/ðə/ /strit/"
+  },
+  {
+    "vietnamese": "trên đường phố",
+    "english": "in the street",
+    "soundmark": "/ɪn/ /ðə/ /strit/"
+  },
+  {
+    "vietnamese": "chạy trên đường phố",
+    "english": "to run in the street",
+    "soundmark": "/tə/ /rʌn/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "vietnamese": "đang chạy (dạng ing)",
+    "english": "running",
+    "soundmark": "/'rʌnɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đang chạy",
+    "english": "be running",
+    "soundmark": "/bi/ /'rʌnɪŋ/"
+  },
+  {
+    "vietnamese": "chạy trên đường phố",
+    "english": "be running in the street",
+    "soundmark": "/bi/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "vietnamese": "anh ấy",
+    "english": "he",
+    "soundmark": "/hi/"
+  },
+  {
+    "vietnamese": "anh ấy (bây giờ) đang chạy trên đường",
+    "english": "he is running in the street",
+    "soundmark": "/hi/ /ɪz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "vietnamese": "tại thời điểm này; vào lúc này",
+    "english": "at the moment",
+    "soundmark": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "lúc này anh ấy đang chạy trên đường",
+    "english": "he is running in the street at the moment",
+    "soundmark": "/hi/ /ɪz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "anh ấy (quá khứ) đang chạy trên đường",
+    "english": "he was running in the street",
+    "soundmark": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "vietnamese": "bơi lội",
+    "english": "to swim",
+    "soundmark": "/tə/ /swɪm/"
+  },
+  {
+    "vietnamese": "bể bơi",
+    "english": "the pool",
+    "soundmark": "/ðə/ /pul/"
+  },
+  {
+    "vietnamese": "trong bể bơi",
+    "english": "in the pool",
+    "soundmark": "/ɪn/ /ðə/ /pul/"
+  },
+  {
+    "vietnamese": "bơi trong bể bơi",
+    "english": "to swim in the pool",
+    "soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /pul/"
+  },
+  {
+    "vietnamese": "bơi lội (dạng ing)",
+    "english": "swimming",
+    "soundmark": "/'swɪmɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "bơi lội",
+    "english": "be swimming",
+    "soundmark": "/bi/ /'swɪmɪŋ/"
+  },
+  {
+    "vietnamese": "bơi trong bể bơi",
+    "english": "be swimming in the pool",
+    "soundmark": "/bi/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "cô ấy (bây giờ) đang bơi trong bể bơi",
+    "english": "she is swimming in the pool",
+    "soundmark": "/ʃi/ /ɪz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/"
+  },
+  {
+    "vietnamese": "tại thời điểm này; vào lúc này",
+    "english": "at the moment",
+    "soundmark": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "cô ấy đang bơi trong hồ bơi vào lúc này",
+    "english": "she is swimming in the pool at the moment",
+    "soundmark": "/ʃi/ /ɪz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/ /æt/ /ðə/ /moment/ /'momənt/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đang bơi trong bể bơi",
+    "english": "she was swimming in the pool",
+    "soundmark": "/ʃi/ /wəz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/"
+  },
+  {
+    "vietnamese": "anh ấy (quá khứ) đang chạy trên đường",
+    "english": "he was running in the street",
+    "soundmark": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "vietnamese": "cùng lúc đó.",
+    "english": "while",
+    "soundmark": "/waɪl/"
+  },
+  {
+    "vietnamese": "anh ấy (quá khứ) đang chạy trên đường trong khi cô ấy (quá khứ) đang bơi trong bể bơi",
+    "english": "he was running in the street while she was swimming in the pool",
+    "soundmark": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/ /waɪl/ /ʃi/ /wəz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/"
+  },
+  {
+    "vietnamese": "nhà cửa",
+    "english": "house",
+    "soundmark": "/haʊs/"
+  },
+  {
+    "vietnamese": "làm việc",
+    "english": "work",
+    "soundmark": "/wɝk/"
+  },
+  {
+    "vietnamese": "dọn phòng",
+    "english": "the housework",
+    "soundmark": "/ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "làm việc nhà",
+    "english": "to do the housework",
+    "soundmark": "/tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "làm (dạng ing)",
+    "english": "doing",
+    "soundmark": "/ˈduɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đang làm",
+    "english": "be doing",
+    "soundmark": "/bi/ /ˈduɪŋ/"
+  },
+  {
+    "vietnamese": "làm việc nhà",
+    "english": "be doing the housework",
+    "soundmark": "/bi/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "cô ấy (bây giờ) đang làm việc nhà",
+    "english": "she is doing the housework",
+    "soundmark": "/ʃi/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "mẹ; mẹ",
+    "english": "mother",
+    "soundmark": "/'mʌðɚ/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "mẹ tôi",
+    "english": "my mother",
+    "soundmark": "/maɪ/ /'mʌðɚ/"
+  },
+  {
+    "vietnamese": "mẹ tôi (bây giờ) đang làm việc nhà",
+    "english": "my mother is doing the housework",
+    "soundmark": "/maɪ/ /'mʌðɚ/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "tại thời điểm này; vào lúc này",
+    "english": "at the moment",
+    "soundmark": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "hiện tại mẹ tôi đang làm việc nhà",
+    "english": "my mother is doing the housework at the moment",
+    "soundmark": "/maɪ/ /'mʌðɚ/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "mẹ tôi (quá khứ) đang làm việc nhà",
+    "english": "my mother was doing the housework",
+    "soundmark": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "nói chuyện",
+    "english": "to talk",
+    "soundmark": "/tə/ /tɔk/"
+  },
+  {
+    "vietnamese": "điện thoại di động",
+    "english": "the phone",
+    "soundmark": "/ðə/ /fon/"
+  },
+  {
+    "vietnamese": "trên điện thoại di động",
+    "english": "on the phone",
+    "soundmark": "/ɑn/ /ðə/ /fon/"
+  },
+  {
+    "vietnamese": "nói chuyện trên điện thoại di động",
+    "english": "to talk on the phone",
+    "soundmark": "/tə/ /tɔk/ /ɑn/ /ðə/ /fon/"
+  },
+  {
+    "vietnamese": "nói (dạng ing)",
+    "english": "talking",
+    "soundmark": "/'tɔkɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đang nói chuyện",
+    "english": "be talking",
+    "soundmark": "/bi/ /'tɔkɪŋ/"
+  },
+  {
+    "vietnamese": "nói chuyện trên điện thoại di động",
+    "english": "be talking on the phone",
+    "soundmark": "/bi/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+  },
+  {
+    "vietnamese": "anh ấy",
+    "english": "he",
+    "soundmark": "/hi/"
+  },
+  {
+    "vietnamese": "anh ấy (hiện tại) đang nói chuyện trên điện thoại di động",
+    "english": "he is talking on the phone",
+    "soundmark": "/hi/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+  },
+  {
+    "vietnamese": "bố; bố",
+    "english": "father",
+    "soundmark": "/'fɑðɚ/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "bố tôi",
+    "english": "my father",
+    "soundmark": "/maɪ/ /'fɑðɚ/"
+  },
+  {
+    "vietnamese": "bố tôi đang nói chuyện điện thoại (ngay bây giờ)",
+    "english": "my father is talking on the phone",
+    "soundmark": "/maɪ/ /'fɑðɚ/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+  },
+  {
+    "vietnamese": "tại thời điểm này; vào lúc này",
+    "english": "at the moment",
+    "soundmark": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "bố tôi hiện đang nói chuyện điện thoại",
+    "english": "my father is talking on the phone at the moment",
+    "soundmark": "/maɪ/ /'fɑðɚ/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "bố tôi (quá khứ) đang nói chuyện điện thoại",
+    "english": "my father was talking on the phone",
+    "soundmark": "/maɪ/ /'fɑðɚ/ /wəz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+  },
+  {
+    "vietnamese": "cùng lúc đó.",
+    "english": "while",
+    "soundmark": "/waɪl/"
+  },
+  {
+    "vietnamese": "mẹ tôi (quá khứ) đang làm việc nhà",
+    "english": "my mother was doing the housework",
+    "soundmark": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "mẹ tôi (quá khứ) đang làm việc nhà và cùng lúc đó bố tôi (quá khứ) đang nói chuyện điện thoại",
+    "english": "my mother was doing the housework while my father was talking on the phone",
+    "soundmark": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/ /waɪl/ /maɪ/ /'fɑðɚ/ /wəz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+  },
+  {
+    "vietnamese": "xem",
+    "english": "to watch",
+    "soundmark": "/tə/ /wɑtʃ/"
+  },
+  {
+    "vietnamese": "Ti vi",
+    "english": "TV",
+    "soundmark": "/ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "xem tivi.",
+    "english": "to watch TV",
+    "soundmark": "/tə/ /'wɑtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "nhìn (dạng ing)",
+    "english": "watching",
+    "soundmark": "/'wɑtʃɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "nhìn vào",
+    "english": "be watching",
+    "soundmark": "/bi/ /'wɑtʃɪŋ/"
+  },
+  {
+    "vietnamese": "xem tivi",
+    "english": "be watching TV",
+    "soundmark": "/bi/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "cô ấy (bây giờ) đang xem TV",
+    "english": "she is watching TV",
+    "soundmark": "/ʃi/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "con gái",
+    "english": "daughter",
+    "soundmark": "/'dɔtɚ/"
+  },
+  {
+    "vietnamese": "con gái tôi",
+    "english": "my daughter",
+    "soundmark": "/maɪ/ /'dɔtɚ/"
+  },
+  {
+    "vietnamese": "con gái tôi (ngay bây giờ) đang xem TV",
+    "english": "my daughter is watching TV",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "tại thời điểm này; vào lúc này",
+    "english": "at the moment",
+    "soundmark": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "con gái tôi hiện đang xem TV",
+    "english": "my daughter is watching TV at the moment",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "con gái tôi (quá khứ) đang xem TV",
+    "english": "my daughter was watching TV",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "nấu ăn; nấu ăn",
+    "english": "to cook",
+    "soundmark": "/tə/ /kʊk/"
+  },
+  {
+    "vietnamese": "thịt bò",
+    "english": "beef",
+    "soundmark": "/bif/"
+  },
+  {
+    "vietnamese": "nấu thịt bò",
+    "english": "to cook beef",
+    "soundmark": "/tə/ /kʊk/ /bif/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "khoai tây",
+    "english": "potatoes",
+    "soundmark": "/pə'tetoz/"
+  },
+  {
+    "vietnamese": "và khoai tây",
+    "english": "with potatoes",
+    "soundmark": "/wɪð/ /pə'tetoz/"
+  },
+  {
+    "vietnamese": "thịt bò và khoai tây",
+    "english": "beef with potatoes",
+    "soundmark": "/bif/ /wɪð/ /pə'tetoz/"
+  },
+  {
+    "vietnamese": "nấu thịt bò và khoai tây",
+    "english": "to cook beef with potatoes",
+    "soundmark": "/tə/ /kʊk/ /bif/ /wɪð/ /pə'tetoz/"
+  },
+  {
+    "vietnamese": "nấu ăn; nấu ăn (dạng ing)",
+    "english": "cooking",
+    "soundmark": "/'kʊkɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "nấu ăn",
+    "english": "be cooking",
+    "soundmark": "/bi/ /'kʊkɪŋ/"
+  },
+  {
+    "vietnamese": "làm thịt bò và khoai tây",
+    "english": "be cooking beef with potatoes",
+    "soundmark": "/bi/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "cô ấy (hiện tại) đang nấu thịt bò và khoai tây",
+    "english": "she is cooking beef with potatoes",
+    "soundmark": "/ʃi/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+  },
+  {
+    "vietnamese": "mẹ; mẹ",
+    "english": "mother",
+    "soundmark": "/'mʌðɚ/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "mẹ cô ấy",
+    "english": "her mother",
+    "soundmark": "/hɚ/ /'mʌðɚ/"
+  },
+  {
+    "vietnamese": "mẹ cô ấy (hiện tại) đang nấu thịt bò và khoai tây",
+    "english": "her mother is cooking beef with potatoes",
+    "soundmark": "/hɚ/ /'mʌðɚ/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+  },
+  {
+    "vietnamese": "tại thời điểm này; vào lúc này",
+    "english": "at the moment",
+    "soundmark": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "hiện tại mẹ cô ấy đang làm thịt bò và khoai tây",
+    "english": "her mother is cooking beef with potatoes at the moment",
+    "soundmark": "/hɚ/ /'mʌðɚ/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "vietnamese": "mẹ cô ấy (trước đây) đang làm món thịt bò và khoai tây",
+    "english": "her mother was cooking beef with potatoes",
+    "soundmark": "/hɚ/ /'mʌðɚ/ /wəz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+  },
+  {
+    "vietnamese": "con gái tôi (quá khứ) đang xem TV",
+    "english": "my daughter was watching TV",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "cùng lúc đó.",
+    "english": "while",
+    "soundmark": "/waɪl/"
+  },
+  {
+    "vietnamese": "con gái tôi (quá khứ) đang xem TV cùng lúc mẹ nó (quá khứ) đang nấu thịt bò và khoai tây",
+    "english": "my daughter was watching TV while her mother was cooking beef with potatoes",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/ /waɪl/ /hɚ/ /'mʌðɚ/ /wəz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+  }
+]

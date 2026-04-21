@@ -1,0 +1,867 @@
+[
+  {
+    "vietnamese": "gỡ rối",
+    "english": "to solve",
+    "soundmark": "/tə/ /sɑlv/"
+  },
+  {
+    "vietnamese": "giải pháp",
+    "english": "solution",
+    "soundmark": "/səˈluʃn/"
+  },
+  {
+    "vietnamese": "câu hỏi đó",
+    "english": "the problem",
+    "soundmark": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "một giải pháp cho vấn đề đó",
+    "english": "a solution to the problem",
+    "soundmark": "/ə/ /səˈluʃn/ /tə/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "tìm tới",
+    "english": "to find",
+    "soundmark": "/tə/ /faɪnd/"
+  },
+  {
+    "vietnamese": "tìm (quá khứ phân từ)",
+    "english": "found",
+    "soundmark": "/faʊnd/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) tìm thấy",
+    "english": "we have found",
+    "soundmark": "/wi/ /hæv/ /faʊnd/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) tìm ra giải pháp cho vấn đề đó",
+    "english": "we have found a solution to the problem",
+    "soundmark": "/wi/ /hæv/ /faʊnd/ /ə/ /səˈluʃn/ /tə/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "chưa",
+    "english": "haven't",
+    "soundmark": "/ˈhævnt/"
+  },
+  {
+    "vietnamese": "chúng tôi chưa tìm ra giải pháp cho vấn đề đó (chưa)",
+    "english": "we haven't found a solution to the problem",
+    "soundmark": "/wi/ /ˈhævnt/ /faʊnd/ /ə/ /səˈluʃn/ /tə/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "thăm nom",
+    "english": "to visit",
+    "soundmark": "/tə/ /'vɪzɪt/"
+  },
+  {
+    "vietnamese": "chuyến thăm (phân từ quá khứ)",
+    "english": "visited",
+    "soundmark": "/'vɪzɪtɪd/"
+  },
+  {
+    "vietnamese": "họ (đã) đến thăm",
+    "english": "they have visited",
+    "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/"
+  },
+  {
+    "vietnamese": "bảo tàng",
+    "english": "museum",
+    "soundmark": "/mjuˈziəm/"
+  },
+  {
+    "vietnamese": "bảo tàng đó",
+    "english": "that museum",
+    "soundmark": "/ðæt/ /mjuˈziəm/"
+  },
+  {
+    "vietnamese": "họ (đã) đến thăm bảo tàng",
+    "english": "they have visited that museum",
+    "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/"
+  },
+  {
+    "vietnamese": "hai lần",
+    "english": "twice",
+    "soundmark": "/twaɪs/"
+  },
+  {
+    "vietnamese": "họ (đã) đến thăm bảo tàng hai lần",
+    "english": "they have visited that museum twice",
+    "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/ /twaɪs/"
+  },
+  {
+    "vietnamese": "bị bỏ rơi",
+    "english": "to abandon",
+    "soundmark": "/tə/ /əˈbændən/"
+  },
+  {
+    "vietnamese": "bị bỏ rơi (quá khứ phân từ)",
+    "english": "abandoned",
+    "soundmark": "/ə'bændənd/"
+  },
+  {
+    "vietnamese": "bị bỏ rơi",
+    "english": "be abandoned",
+    "soundmark": "/bi/ /ə'bændənd/"
+  },
+  {
+    "vietnamese": "bảo tàng đó",
+    "english": "that museum",
+    "soundmark": "/ðæt/ /mjuˈziəm/"
+  },
+  {
+    "vietnamese": "bảo tàng đó đã bị bỏ hoang",
+    "english": "that museum is abandoned",
+    "soundmark": "/ðæt/ /mjuˈziəm/ /ɪz/ /ə'bændənd/"
+  },
+  {
+    "vietnamese": "bị bỏ rơi",
+    "english": "abandoned",
+    "soundmark": "/ə'bændənd/"
+  },
+  {
+    "vietnamese": "bảo tàng đó",
+    "english": "that museum",
+    "soundmark": "/ðæt/ /mjuˈziəm/"
+  },
+  {
+    "vietnamese": "bảo tàng bị bỏ hoang đó",
+    "english": "that abandoned museum",
+    "soundmark": "/ðæt/ /ə'bændənd/ /mjuˈziəm/"
+  },
+  {
+    "vietnamese": "họ (đã) đến thăm bảo tàng bị bỏ hoang hai lần",
+    "english": "they have visited that abandoned museum twice",
+    "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /ə'bændənd/ /mjuˈziəm/ /twaɪs/"
+  },
+  {
+    "vietnamese": "năm",
+    "english": "year",
+    "soundmark": "/jɪr/"
+  },
+  {
+    "vietnamese": "năm nay",
+    "english": "this year",
+    "soundmark": "/ðɪs/ /jɪr/"
+  },
+  {
+    "vietnamese": "họ đã đến thăm bảo tàng bị bỏ hoang hai lần trong năm nay",
+    "english": "they have visited that abandoned museum twice this year",
+    "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /ə'bændənd/ /mjuˈziəm/ /twaɪs/ /ðɪs/ /jɪr/"
+  },
+  {
+    "vietnamese": "nhiều",
+    "english": "many",
+    "soundmark": "/'mɛni/"
+  },
+  {
+    "vietnamese": "tính thường xuyên",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "nhiều lần",
+    "english": "many times",
+    "soundmark": "/'mɛni/ /taɪmz/"
+  },
+  {
+    "vietnamese": "họ (đã) đến thăm bảo tàng bị bỏ hoang nhiều lần",
+    "english": "they have visited that abandoned museum many times",
+    "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /ə'bændənd/ /mjuˈziəm/ /'mɛni/ /taɪmz/"
+  },
+  {
+    "vietnamese": "chưa",
+    "english": "haven't",
+    "soundmark": "/ˈhævnt/"
+  },
+  {
+    "vietnamese": "họ chưa đến thăm bảo tàng (chưa)",
+    "english": "they haven't visited that museum",
+    "soundmark": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "họ chưa từng đến thăm bảo tàng đó trước đây (chưa)",
+    "english": "they haven't visited that museum before",
+    "soundmark": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/ /bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "đất",
+    "english": "land",
+    "soundmark": "/lænd/"
+  },
+  {
+    "vietnamese": "biểu tượng",
+    "english": "mark",
+    "soundmark": "/mɑrk/"
+  },
+  {
+    "vietnamese": "cột mốc",
+    "english": "landmark",
+    "soundmark": "/ˈlændmɑrk/"
+  },
+  {
+    "vietnamese": "nổi tiếng",
+    "english": "famous",
+    "soundmark": "/'feməs/"
+  },
+  {
+    "vietnamese": "hầu hết",
+    "english": "the most",
+    "soundmark": "/ðə/ /most/"
+  },
+  {
+    "vietnamese": "nổi tiếng nhất",
+    "english": "the most famous",
+    "soundmark": "/ðə/ /most/ /'feməs/"
+  },
+  {
+    "vietnamese": "địa danh nổi tiếng nhất",
+    "english": "the most famous landmark",
+    "soundmark": "/ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "vietnamese": "họ (đã) đến thăm",
+    "english": "they have visited",
+    "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/"
+  },
+  {
+    "vietnamese": "họ (đã) đến thăm địa danh nổi tiếng nhất",
+    "english": "they have visited the most famous landmark",
+    "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "vietnamese": "chưa",
+    "english": "haven't",
+    "soundmark": "/ˈhævnt/"
+  },
+  {
+    "vietnamese": "họ (chưa) đến thăm",
+    "english": "they haven't visited",
+    "soundmark": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/"
+  },
+  {
+    "vietnamese": "họ chưa (chưa) đến thăm địa danh nổi tiếng nhất",
+    "english": "they haven't visited the most famous landmark",
+    "soundmark": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "họ chưa từng đến thăm địa danh nổi tiếng nhất trước đây (chưa)",
+    "english": "they haven't visited the most famous landmark before",
+    "soundmark": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/ /bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "nhà hàng",
+    "english": "the restaurant",
+    "soundmark": "/ðe/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "mới",
+    "english": "new",
+    "soundmark": "/nu/"
+  },
+  {
+    "vietnamese": "nhà hàng mới đó",
+    "english": "the new restaurant",
+    "soundmark": "/ðə/ /nu/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "thị trấn",
+    "english": "town",
+    "soundmark": "/taʊn/"
+  },
+  {
+    "vietnamese": "trong thị trấn",
+    "english": "in town",
+    "soundmark": "/ɪn/ /taʊn/"
+  },
+  {
+    "vietnamese": "nhà hàng mới trong thị trấn",
+    "english": "the new restaurant in town",
+    "soundmark": "/ðə/ /nu/ /'rɛstrɑnt/ /ɪn/ /taʊn/"
+  },
+  {
+    "vietnamese": "thử nghiệm",
+    "english": "to try",
+    "soundmark": "/tə/ /traɪ/"
+  },
+  {
+    "vietnamese": "thử (phân từ quá khứ)",
+    "english": "tried",
+    "soundmark": "/traɪd/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) cố gắng",
+    "english": "we have tried",
+    "soundmark": "/wi/ /hæv/ /traɪd/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) thử nhà hàng mới trong thị trấn",
+    "english": "we have tried the new restaurant in town",
+    "soundmark": "/wi/ /hæv/ /traɪd/ /ðə/ /nu/ /'rɛstrɑnt/ /ɪn/ /taʊn/"
+  },
+  {
+    "vietnamese": "chưa",
+    "english": "haven't",
+    "soundmark": "/ˈhævnt/"
+  },
+  {
+    "vietnamese": "chúng tôi chưa thử nhà hàng mới trong thị trấn (chưa)",
+    "english": "we haven't tried the new restaurant in town",
+    "soundmark": "/wi/ /ˈhævnt/ /traɪd/ /ðə/ /nu/ /'rɛstrɑnt/ /ɪn/ /taʊn/"
+  },
+  {
+    "vietnamese": "nhìn thấy",
+    "english": "to meet",
+    "soundmark": "/tə/ /mit/"
+  },
+  {
+    "vietnamese": "xem (phân từ quá khứ)",
+    "english": "met",
+    "soundmark": "/mɛt/"
+  },
+  {
+    "vietnamese": "họ (đã) gặp nhau",
+    "english": "they have met",
+    "soundmark": "/ðe/ /hæv/ /mɛt/"
+  },
+  {
+    "vietnamese": "hàng xóm",
+    "english": "neighbor",
+    "soundmark": "/ˈnebɚ/"
+  },
+  {
+    "vietnamese": "hàng xóm mới",
+    "english": "new neighbor",
+    "soundmark": "/nu/ /ˈnebɚ/"
+  },
+  {
+    "vietnamese": "của họ",
+    "english": "their",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "hàng xóm mới của họ",
+    "english": "their new neighbors",
+    "soundmark": "/ðɛr/ /nu/ /ˈnebɚ/"
+  },
+  {
+    "vietnamese": "họ (đã) gặp nhau",
+    "english": "they have met",
+    "soundmark": "/ðe/ /hæv/ /mɛt/"
+  },
+  {
+    "vietnamese": "họ (đã) gặp hàng xóm mới của họ",
+    "english": "they have met their new neighbors",
+    "soundmark": "/ðe/ /hæv/ /mɛt/ /ðɛr/ /nu/ /ˈnebɚ/"
+  },
+  {
+    "vietnamese": "chưa",
+    "english": "haven't",
+    "soundmark": "/ˈhævnt/"
+  },
+  {
+    "vietnamese": "họ chưa gặp hàng xóm mới của họ (chưa)",
+    "english": "they haven't met their new neighbors",
+    "soundmark": "/ðe/ /ˈhævnt/ /mɛt/ /ðɛr/ /nu/ /ˈnebɚ/"
+  },
+  {
+    "vietnamese": "tham gia",
+    "english": "to attend",
+    "soundmark": "/tə/ /əˈtɛnd/"
+  },
+  {
+    "vietnamese": "tham gia (phân từ quá khứ)",
+    "english": "attended",
+    "soundmark": "/əˈtɛndɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) tham gia",
+    "english": "she has attended",
+    "soundmark": "/ʃi/ /hæz/ /əˈtɛndɪd/"
+  },
+  {
+    "vietnamese": "khóa học",
+    "english": "class",
+    "soundmark": "/klæs/"
+  },
+  {
+    "vietnamese": "yoga",
+    "english": "yoga",
+    "soundmark": "/ˈjoɡə/"
+  },
+  {
+    "vietnamese": "một lớp học yoga",
+    "english": "a yoga class",
+    "soundmark": "/ə/ /ˈjoɡə/ /klæs/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) tham gia một lớp học yoga",
+    "english": "she has attended a yoga class",
+    "soundmark": "/ʃi/ /hæz/ /əˈtɛndɪd/ /ə/ /ˈjoɡə/ /klæs/"
+  },
+  {
+    "vietnamese": "chưa",
+    "english": "hasn't",
+    "soundmark": "/ˈhæzənt/"
+  },
+  {
+    "vietnamese": "cô ấy đã (chưa) tham gia một lớp học yoga",
+    "english": "she hasn't attended a yoga class",
+    "soundmark": "/ʃi/ /ˈhæzənt/ /əˈtɛndɪd/ /ə/ /ˈjoɡə/ /klæs/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "cô ấy đã (chưa) tham gia một lớp học yoga trước đây",
+    "english": "she hasn't attended a yoga class before",
+    "soundmark": "/ʃi/ /ˈhæzənt/ /əˈtɛndɪd/ /ə/ /ˈjoɡə/ /klæs/ /bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "sửa chữa",
+    "english": "to fix",
+    "soundmark": "/tə/ /fɪks/"
+  },
+  {
+    "vietnamese": "sửa chữa (phân từ quá khứ)",
+    "english": "fixed",
+    "soundmark": "/fɪkst/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) sửa chữa",
+    "english": "he has fixed",
+    "soundmark": "/hi/ /hæz/ /fɪkst/"
+  },
+  {
+    "vietnamese": "cửa sổ đó",
+    "english": "the window",
+    "soundmark": "/ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) sửa cái cửa sổ đó rồi",
+    "english": "he has fixed the window",
+    "soundmark": "/hi/ /hæz/ /fɪkst/ /ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "đột nhập",
+    "english": "to break",
+    "soundmark": "/tə/ /brek/"
+  },
+  {
+    "vietnamese": "nghỉ (quá khứ phân từ)",
+    "english": "broken",
+    "soundmark": "/'brokən/"
+  },
+  {
+    "vietnamese": "bị phá vỡ",
+    "english": "be broken",
+    "soundmark": "/bi/ /'brokən/"
+  },
+  {
+    "vietnamese": "cửa sổ đó",
+    "english": "the window",
+    "soundmark": "/ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "cửa sổ đó đã bị vỡ",
+    "english": "the window is broken",
+    "soundmark": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/"
+  },
+  {
+    "vietnamese": "vỡ",
+    "english": "broken",
+    "soundmark": "/'brokən/"
+  },
+  {
+    "vietnamese": "cửa sổ vỡ đó",
+    "english": "the broken window",
+    "soundmark": "/ðə/ /'brokən/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) sửa cái cửa sổ bị vỡ",
+    "english": "he has fixed the broken window",
+    "soundmark": "/hi/ /hæz/ /fɪkst/ /ðə/ /'brokən/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "chưa",
+    "english": "hasn't",
+    "soundmark": "/ˈhæzənt/"
+  },
+  {
+    "vietnamese": "anh ấy vẫn chưa sửa cái cửa sổ bị vỡ (chưa)",
+    "english": "he hasn't fixed the broken window",
+    "soundmark": "/hi/ /ˈhæzənt/ /fɪkst/ /ðə/ /'brokən/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "nhận được",
+    "english": "to receive",
+    "soundmark": "/tə/ /rɪ'siv/"
+  },
+  {
+    "vietnamese": "nhận được (phân từ quá khứ)",
+    "english": "received",
+    "soundmark": "/rɪ'sivd/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) nhận được",
+    "english": "he has received",
+    "soundmark": "/hi/ /hæz/ /rɪ'sivd/"
+  },
+  {
+    "vietnamese": "email đó",
+    "english": "the email",
+    "soundmark": "/ði/ /ˈimel/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) nhận được email",
+    "english": "he has received the email",
+    "soundmark": "/hi/ /hæz/ /rɪ'sivd/ /ði/ /ˈimel/"
+  },
+  {
+    "vietnamese": "chưa",
+    "english": "hasn't",
+    "soundmark": "/ˈhæzənt/"
+  },
+  {
+    "vietnamese": "anh ấy chưa nhận được email đó (chưa)",
+    "english": "he hasn't received the email",
+    "soundmark": "/hi/ /ˈhæzənt/ /rɪ'sivd/ /ði/ /ˈimel/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "to finish",
+    "soundmark": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "hoàn thành (quá khứ phân từ)",
+    "english": "finished",
+    "soundmark": "/'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) hoàn thành",
+    "english": "he has finished",
+    "soundmark": "/hi/ /hæz/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "bài tập về nhà",
+    "english": "homework",
+    "soundmark": "/'homwɝk/"
+  },
+  {
+    "vietnamese": "bài tập về nhà của anh ấy",
+    "english": "his homework",
+    "soundmark": "/hɪz/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) làm xong bài tập về nhà",
+    "english": "he has finished his homework",
+    "soundmark": "/hi/ /hæz/ /'fɪnɪʃt/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "chưa",
+    "english": "hasn't",
+    "soundmark": "/ˈhæzənt/"
+  },
+  {
+    "vietnamese": "anh ấy (chưa) làm xong bài tập về nhà",
+    "english": "he hasn't finished his homework",
+    "soundmark": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "báo cáo đó",
+    "english": "the report",
+    "soundmark": "/ðə/ /rɪ'pɔrt/"
+  },
+  {
+    "vietnamese": "viết",
+    "english": "to write",
+    "soundmark": "/tə/ /raɪt/"
+  },
+  {
+    "vietnamese": "viết báo cáo đó",
+    "english": "to write the report",
+    "soundmark": "/tə/ /raɪt/ /ðə/ /rɪ'pɔrt/"
+  },
+  {
+    "vietnamese": "viết (dạng ing)",
+    "english": "writing",
+    "soundmark": "/'raɪtɪŋ/"
+  },
+  {
+    "vietnamese": "viết báo cáo đó (mẫu ing)",
+    "english": "writing the report",
+    "soundmark": "/'raɪtɪŋ/ /ðə/ /rɪ'pɔrt/"
+  },
+  {
+    "vietnamese": "anh ấy vẫn chưa xong (chưa)",
+    "english": "he hasn't finished",
+    "soundmark": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "anh ấy (chưa) viết xong bản báo cáo đó",
+    "english": "he hasn't finished writing the report",
+    "soundmark": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/ /'raɪtɪŋ/ /ðə/ /rɪ'pɔrt/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "to read",
+    "soundmark": "/tə/ /rid/"
+  },
+  {
+    "vietnamese": "cuốn tiểu thuyết đó",
+    "english": "the novel",
+    "soundmark": "/ðə/ /ˈnɑvl/"
+  },
+  {
+    "vietnamese": "đọc cuốn tiểu thuyết đó",
+    "english": "to read the novel",
+    "soundmark": "/tə/ /rid/ /ðə/ /ˈnɑvl/"
+  },
+  {
+    "vietnamese": "đọc (dạng ing)",
+    "english": "reading",
+    "soundmark": "/'ridɪŋ/"
+  },
+  {
+    "vietnamese": "đọc cuốn tiểu thuyết đó (dạng ing)",
+    "english": "reading the novel",
+    "soundmark": "/'ridɪŋ/ /ðə/ /ˈnɑvl/"
+  },
+  {
+    "vietnamese": "anh ấy vẫn chưa xong (chưa)",
+    "english": "he hasn't finished",
+    "soundmark": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "anh ấy vẫn chưa đọc xong cuốn tiểu thuyết (chưa)",
+    "english": "he hasn't finished reading the novel",
+    "soundmark": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /ˈnɑvl/"
+  },
+  {
+    "vietnamese": "cây",
+    "english": "tree",
+    "soundmark": "/tri/"
+  },
+  {
+    "vietnamese": "Giáng sinh",
+    "english": "Christmas",
+    "soundmark": "/ˈkrɪsməs/"
+  },
+  {
+    "vietnamese": "một cây thông giáng sinh",
+    "english": "a Christmas tree",
+    "soundmark": "/ə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "vietnamese": "mua",
+    "english": "to buy",
+    "soundmark": "/tə/ /baɪ/"
+  },
+  {
+    "vietnamese": "mua một cây thông giáng sinh",
+    "english": "to buy a Christmas tree",
+    "soundmark": "/tə/ /baɪ/ /ə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "vietnamese": "mua (phân từ quá khứ)",
+    "english": "bought",
+    "soundmark": "/bɔt/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) mua",
+    "english": "he has bought",
+    "soundmark": "/hi/ /hæz/ /bɔt/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) mua một cây thông Noel",
+    "english": "he has bought a Christmas tree",
+    "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "vietnamese": "gia đình",
+    "english": "family",
+    "soundmark": "/ˈfæməli/"
+  },
+  {
+    "vietnamese": "gia đình anh ấy",
+    "english": "his family",
+    "soundmark": "/hɪz/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "cho gia đình anh ấy",
+    "english": "for his family",
+    "soundmark": "/fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) mua một cây thông Noel cho gia đình mình",
+    "english": "he has bought a Christmas tree for his family",
+    "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "trang trí",
+    "english": "to decorate",
+    "soundmark": "/tə/ /ˈdɛkəret/"
+  },
+  {
+    "vietnamese": "trang trí (phân từ quá khứ)",
+    "english": "decorated",
+    "soundmark": "/ˈdɛkəretɪd/"
+  },
+  {
+    "vietnamese": "được trang trí",
+    "english": "be decorated",
+    "soundmark": "/bi/ /ˈdɛkəretɪd/"
+  },
+  {
+    "vietnamese": "cây thông giáng sinh đó",
+    "english": "the Christmas tree",
+    "soundmark": "/ðə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "vietnamese": "cây thông Noel đã được trang trí",
+    "english": "the Christmas tree is decorated",
+    "soundmark": "/ðə/ /ˈkrɪsməs/ /tri/ /ɪz/ /ˈdɛkəretɪd/"
+  },
+  {
+    "vietnamese": "một cây thông Noel được trang trí",
+    "english": "a decorated Christmas tree",
+    "soundmark": "/ə/ /ˈdɛkəretɪd/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) mua một cây thông Noel được trang trí cho gia đình mình",
+    "english": "he has bought a decorated Christmas tree for his family",
+    "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈdɛkəretɪd/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "trang trí",
+    "english": "to decorate",
+    "soundmark": "/tə/ /ˈdɛkəret/"
+  },
+  {
+    "vietnamese": "trang trí (phân từ quá khứ)",
+    "english": "decorated",
+    "soundmark": "/ˈdɛkəretɪd/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) trang trí",
+    "english": "he has decorated",
+    "soundmark": "/hi/ /hæz/ /ˈdɛkəretɪd/"
+  },
+  {
+    "vietnamese": "cây thông giáng sinh đó",
+    "english": "the Christmas tree",
+    "soundmark": "/ðə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) trang trí cây thông Noel",
+    "english": "he has decorated the Christmas tree",
+    "soundmark": "/hi/ /hæz/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "vietnamese": "chưa",
+    "english": "hasn't",
+    "soundmark": "/ˈhæzənt/"
+  },
+  {
+    "vietnamese": "anh ấy vẫn chưa trang trí cây thông Noel (chưa)",
+    "english": "he hasn't decorated the Christmas tree",
+    "soundmark": "/hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "vietnamese": "nhưng",
+    "english": "but",
+    "soundmark": "/bʌt/"
+  },
+  {
+    "vietnamese": "nhưng anh ấy vẫn chưa trang trí cây thông Noel (chưa)",
+    "english": "but he hasn't decorated the Christmas tree",
+    "soundmark": "/bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) mua một cây thông Noel cho gia đình mình",
+    "english": "he has bought a Christmas tree for his family",
+    "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) mua một cây thông Noel cho gia đình nhưng anh ấy (chưa) trang trí cây thông Noel",
+    "english": "he has bought a Christmas tree for his family but he hasn't decorated the Christmas tree",
+    "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) mua một cây thông Noel cho gia đình nhưng anh ấy (chưa) trang trí nó",
+    "english": "he has bought a Christmas tree for his family but he hasn't decorated it",
+    "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/"
+  },
+  {
+    "vietnamese": "cho đến nay",
+    "english": "yet",
+    "soundmark": "/jɛt/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) mua một cây thông Noel cho gia đình nhưng cho đến nay anh ấy (chưa) trang trí nó",
+    "english": "he has bought a Christmas tree for his family but he hasn't decorated it yet",
+    "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/"
+  },
+  {
+    "vietnamese": "bận",
+    "english": "busy",
+    "soundmark": "/'bɪzi/"
+  },
+  {
+    "vietnamese": "anh ấy bận",
+    "english": "he is busy",
+    "soundmark": "/hi/ /ɪz/ /'bɪzi/"
+  },
+  {
+    "vietnamese": "cực kỳ",
+    "english": "too",
+    "soundmark": "/tu/"
+  },
+  {
+    "vietnamese": "anh ấy rất bận",
+    "english": "he is too busy",
+    "soundmark": "/hi/ /ɪz/ /tu/ /'bɪzi/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "bởi vì anh ấy quá bận rộn",
+    "english": "because he is too busy",
+    "soundmark": "/bɪ'kɔz/ /hi/ /ɪz/ /tu/ /'bɪzi/"
+  },
+  {
+    "vietnamese": "nhưng đến giờ anh vẫn chưa trang trí nó",
+    "english": "but he hasn't decorated it yet",
+    "soundmark": "/bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/"
+  },
+  {
+    "vietnamese": "nhưng đến giờ anh vẫn chưa trang trí nó vì quá bận",
+    "english": "but he hasn't decorated it yet because he is too busy",
+    "soundmark": "/bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/ /bɪ'kɔz/ /hi/ /ɪz/ /tu/ /'bɪzi/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) mua một cây thông Noel cho gia đình mình",
+    "english": "he has bought a Christmas tree for his family",
+    "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) mua một cây thông Noel cho gia đình nhưng đến giờ anh ấy (chưa) trang trí nó vì quá bận",
+    "english": "he has bought a Christmas tree for his family but he hasn't decorated it yet because he is too busy",
+    "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/ /bɪ'kɔz/ /hi/ /ɪz/ /tu/ /'bɪzi/"
+  }
+]

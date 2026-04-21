@@ -1,0 +1,637 @@
+[
+  {
+    "vietnamese": "gỡ rối",
+    "english": "to solve",
+    "soundmark": "/tə/ /sɔlv/"
+  },
+  {
+    "vietnamese": "giải quyết (dạng ed)",
+    "english": "solved",
+    "soundmark": "/sɔlvd/"
+  },
+  {
+    "vietnamese": "được giải quyết",
+    "english": "be solved",
+    "soundmark": "/bi/ /sɔlvd/"
+  },
+  {
+    "vietnamese": "câu hỏi đó",
+    "english": "the problem",
+    "soundmark": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "vấn đề đó được giải quyết",
+    "english": "the problem is solved",
+    "soundmark": "/ðə/ /'prɑbləm/ /ɪz/ /sɔlvd/"
+  },
+  {
+    "vietnamese": "(đã) giải quyết",
+    "english": "has been solved",
+    "soundmark": "/hæz/ /bɪn/ /sɔlvd/"
+  },
+  {
+    "vietnamese": "vấn đề đó (đã được) giải quyết",
+    "english": "the problem has been solved",
+    "soundmark": "/ðə/ /'prɑbləm/ /hæz/ /bɪn/ /sɔlvd/"
+  },
+  {
+    "vietnamese": "(đã) được giải quyết trong quá khứ",
+    "english": "had been solved",
+    "soundmark": "/hæd/ /bɪn/ /sɔlvd/"
+  },
+  {
+    "vietnamese": "vấn đề đó (đã được) giải quyết",
+    "english": "the problem had been solved",
+    "soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/"
+  },
+  {
+    "vietnamese": "thông qua anh ấy",
+    "english": "by him",
+    "soundmark": "/baɪ/ /hɪm/"
+  },
+  {
+    "vietnamese": "vấn đề đó (đã được) giải quyết thông qua anh ấy",
+    "english": "the problem had been solved by him",
+    "soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/"
+  },
+  {
+    "vietnamese": "khác",
+    "english": "else",
+    "soundmark": "/ɛls/"
+  },
+  {
+    "vietnamese": "bất cứ ai",
+    "english": "anyone",
+    "soundmark": "/'ɛnɪwʌn/"
+  },
+  {
+    "vietnamese": "bất cứ ai khác",
+    "english": "anyone else",
+    "soundmark": "/'ɛnɪwʌn/ /ɛls/"
+  },
+  {
+    "vietnamese": "nhận thấy",
+    "english": "to notice",
+    "soundmark": "/tə/ /ˈnotɪs/"
+  },
+  {
+    "vietnamese": "thông báo (quá khứ)",
+    "english": "noticed",
+    "soundmark": "/ˈnotɪst/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "để ý (quá khứ) nó",
+    "english": "noticed it",
+    "soundmark": "/ˈnotɪst/ /ɪt/"
+  },
+  {
+    "vietnamese": "có ai khác nhận thấy (quá khứ) nó",
+    "english": "anyone else noticed it",
+    "soundmark": "/'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi bất kỳ ai khác nhận ra (quá khứ) nó",
+    "english": "before anyone else noticed it",
+    "soundmark": "/bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
+  },
+  {
+    "vietnamese": "vấn đề đó (đã được) giải quyết bởi anh ấy",
+    "english": "the problem had been solved by him",
+    "soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/"
+  },
+  {
+    "vietnamese": "vấn đề đã được anh ấy giải quyết trước khi có người khác nhận ra",
+    "english": "the problem had been solved by him before anyone else noticed it",
+    "soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/ /bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
+  },
+  {
+    "vietnamese": "sơn",
+    "english": "to paint",
+    "soundmark": "/tə/ /pent/"
+  },
+  {
+    "vietnamese": "sơn (dạng ed)",
+    "english": "painted",
+    "soundmark": "/ˈpentɪd/"
+  },
+  {
+    "vietnamese": "được minh oan",
+    "english": "be painted",
+    "soundmark": "/bi/ /ˈpentɪd/"
+  },
+  {
+    "vietnamese": "(đã) sơn đè lên",
+    "english": "has been painted",
+    "soundmark": "/hæz/ /bɪn/ /ˈpentɪd/"
+  },
+  {
+    "vietnamese": "(đã) được sơn lại trong quá khứ",
+    "english": "had been painted",
+    "soundmark": "/hæd/ /bɪn/ /ˈpentɪd/"
+  },
+  {
+    "vietnamese": "ngôi nhà đó",
+    "english": "the house",
+    "soundmark": "/ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "ngôi nhà đó (đã được) sơn",
+    "english": "the house had been painted",
+    "soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/"
+  },
+  {
+    "vietnamese": "di chuyển",
+    "english": "to move",
+    "soundmark": "/tə/ /muv/"
+  },
+  {
+    "vietnamese": "di chuyển (quá khứ)",
+    "english": "moved",
+    "soundmark": "/muvd/"
+  },
+  {
+    "vietnamese": "họ đã chuyển đi (quá khứ)",
+    "english": "they moved",
+    "soundmark": "/ðe/ /muvd/"
+  },
+  {
+    "vietnamese": "đi vào trong",
+    "english": "in",
+    "soundmark": "/ɪn/"
+  },
+  {
+    "vietnamese": "họ đã chuyển (qua) ở",
+    "english": "they moved in",
+    "soundmark": "/ðe/ /muvd/ /ɪn/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi họ di chuyển (qua) vào",
+    "english": "before they moved in",
+    "soundmark": "/bɪ'fɔr/ /ðe/ /muvd/ /ɪn/"
+  },
+  {
+    "vietnamese": "ngôi nhà đó (đã được) sơn",
+    "english": "the house had been painted",
+    "soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/"
+  },
+  {
+    "vietnamese": "ngôi nhà (đã được) sơn trước khi họ (trước đây) chuyển đến",
+    "english": "the house had been painted before they moved in",
+    "soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/ /bɪ'fɔr/ /ðe/ /muvd/ /ɪn/"
+  },
+  {
+    "vietnamese": "chịu đựng",
+    "english": "to build",
+    "soundmark": "/tə/ /bɪld/"
+  },
+  {
+    "vietnamese": "xây dựng",
+    "english": "building",
+    "soundmark": "/'bɪldɪŋ/"
+  },
+  {
+    "vietnamese": "tòa nhà đó",
+    "english": "the building",
+    "soundmark": "/ðə/ /'bɪldɪŋ/"
+  },
+  {
+    "vietnamese": "sơ tán",
+    "english": "to evacuate",
+    "soundmark": "/tə/ /ɪˈvækjuet/"
+  },
+  {
+    "vietnamese": "sơ tán (mẫu ed)",
+    "english": "evacuated",
+    "soundmark": "/ɪˈvækjuetɪd/"
+  },
+  {
+    "vietnamese": "sơ tán",
+    "english": "be evacuated",
+    "soundmark": "/bi/ /ɪˈvækjuetɪd/"
+  },
+  {
+    "vietnamese": "(đã) sơ tán trong quá khứ",
+    "english": "had been evacuated",
+    "soundmark": "/hæd/ /bɪn/ /ɪˈvækjuetɪd/"
+  },
+  {
+    "vietnamese": "tòa nhà đó (đã) được sơ tán",
+    "english": "the building had been evacuated",
+    "soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/"
+  },
+  {
+    "vietnamese": "ngọn lửa",
+    "english": "fire",
+    "soundmark": "/ˈfaɪər/"
+  },
+  {
+    "vietnamese": "lây lan",
+    "english": "to spread",
+    "soundmark": "/tə/ /sprɛd/"
+  },
+  {
+    "vietnamese": "trải rộng (quá khứ)",
+    "english": "spread",
+    "soundmark": "/sprɛd/"
+  },
+  {
+    "vietnamese": "ngọn lửa lan rộng (quá khứ)",
+    "english": "the fire spread",
+    "soundmark": "/ðə/ /ˈfaɪər/ /sprɛd/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi lửa lan rộng (quá khứ)",
+    "english": "before the fire spread",
+    "soundmark": "/bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/"
+  },
+  {
+    "vietnamese": "tòa nhà đó (đã) được sơ tán",
+    "english": "the building had been evacuated",
+    "soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/"
+  },
+  {
+    "vietnamese": "tòa nhà (đã) được sơ tán trước khi đám cháy lan rộng (quá khứ)",
+    "english": "the building had been evacuated before the fire spread",
+    "soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/ /bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/"
+  },
+  {
+    "vietnamese": "bãi đậu xe",
+    "english": "to park",
+    "soundmark": "/tə/ /pɑrk/"
+  },
+  {
+    "vietnamese": "bãi đậu xe (dạng ed)",
+    "english": "parked",
+    "soundmark": "/pɑrkt/"
+  },
+  {
+    "vietnamese": "(đã) bị đình chỉ trong quá khứ",
+    "english": "had been parked",
+    "soundmark": "/hæd/ /bɪn/ /pɑrkt/"
+  },
+  {
+    "vietnamese": "chiếc xe đó",
+    "english": "the car",
+    "soundmark": "/ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "chiếc xe (đã) dừng lại",
+    "english": "the car had been parked",
+    "soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/"
+  },
+  {
+    "vietnamese": "ga-ra",
+    "english": "garage",
+    "soundmark": "/ɡəˈrɑʒ/"
+  },
+  {
+    "vietnamese": "trong gara",
+    "english": "in the garage",
+    "soundmark": "/ɪn/ /ðə/ /ɡəˈrɑʒ/"
+  },
+  {
+    "vietnamese": "chiếc xe (đã) đỗ trong gara",
+    "english": "the car had been parked in the garage",
+    "soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/"
+  },
+  {
+    "vietnamese": "bão",
+    "english": "storm",
+    "soundmark": "/stɔrm/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước cơn bão",
+    "english": "before the storm",
+    "soundmark": "/bɪ'fɔr/ /ðə/ /stɔrm/"
+  },
+  {
+    "vietnamese": "ô tô đỗ trong gara trước cơn bão",
+    "english": "the car had been parked in the garage before the storm",
+    "soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/ /bɪ'fɔr/ /ðə/ /stɔrm/"
+  },
+  {
+    "vietnamese": "chịu đựng",
+    "english": "to constructe",
+    "soundmark": "/tə/ /kənˈstrʌkt/"
+  },
+  {
+    "vietnamese": "xây dựng (dạng ed)",
+    "english": "constructed",
+    "soundmark": "/kənˈstrʌktɪd/"
+  },
+  {
+    "vietnamese": "được xây dựng",
+    "english": "be constructed",
+    "soundmark": "/bi/ /kənˈstrʌktɪd/"
+  },
+  {
+    "vietnamese": "(đã) được xây dựng trong quá khứ",
+    "english": "had been constructed",
+    "soundmark": "/hæd/ /bɪn/ /kənˈstrʌktɪd/"
+  },
+  {
+    "vietnamese": "cây cầu đó",
+    "english": "the bridge",
+    "soundmark": "/ðə/ /brɪdʒ/"
+  },
+  {
+    "vietnamese": "cây cầu đó (đã được) xây dựng",
+    "english": "the bridge had been constructed",
+    "soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/"
+  },
+  {
+    "vietnamese": "cơn mưa",
+    "english": "rain",
+    "soundmark": "/ren/"
+  },
+  {
+    "vietnamese": "nhiều mưa",
+    "english": "rainy",
+    "soundmark": "/'reni/"
+  },
+  {
+    "vietnamese": "mùa",
+    "english": "season",
+    "soundmark": "/'sizn/"
+  },
+  {
+    "vietnamese": "mùa mưa",
+    "english": "rainy season",
+    "soundmark": "/'reni/ /'sizn/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước mùa mưa",
+    "english": "before the rainy season",
+    "soundmark": "/bɪ'fɔr/ /ðə/ /'reni/ /'sizn/"
+  },
+  {
+    "vietnamese": "cây cầu đó (đã được) xây dựng",
+    "english": "the bridge had been constructed",
+    "soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/"
+  },
+  {
+    "vietnamese": "cây cầu được xây dựng trước mùa mưa",
+    "english": "the bridge had been constructed before the rainy season",
+    "soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/ /bɪ'fɔr/ /ðə/ /'reni/ /'sizn/"
+  },
+  {
+    "vietnamese": "chính xác",
+    "english": "to correct",
+    "soundmark": "/tə/ /kə'rɛkt/"
+  },
+  {
+    "vietnamese": "sửa chữa (dạng biên tập)",
+    "english": "corrected",
+    "soundmark": "/kə'rɛktɪd/"
+  },
+  {
+    "vietnamese": "đã sửa",
+    "english": "be corrected",
+    "soundmark": "/bi/ /kə'rɛktɪd/"
+  },
+  {
+    "vietnamese": "(đã) được sửa chữa trong quá khứ",
+    "english": "had been corrected",
+    "soundmark": "/hæd/ /bɪn/ /kə'rɛktɪd/"
+  },
+  {
+    "vietnamese": "sai lầm",
+    "english": "error",
+    "soundmark": "/ˈɛrər/"
+  },
+  {
+    "vietnamese": "lỗi đó (đã được) sửa",
+    "english": "the error had been corrected",
+    "soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/"
+  },
+  {
+    "vietnamese": "nộp",
+    "english": "to submit",
+    "soundmark": "/tə/ /səbˈmɪt/"
+  },
+  {
+    "vietnamese": "gửi (mẫu biên tập)",
+    "english": "submitted",
+    "soundmark": "/səbˈmɪtɪd/"
+  },
+  {
+    "vietnamese": "đã gửi",
+    "english": "be submitted",
+    "soundmark": "/bi/ /səbˈmɪtɪd/"
+  },
+  {
+    "vietnamese": "báo cáo",
+    "english": "report",
+    "soundmark": "/rɪ'pɔrt/"
+  },
+  {
+    "vietnamese": "báo cáo đó (trong quá khứ) đã được gửi",
+    "english": "the report was submitted",
+    "soundmark": "/ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi báo cáo đó (trong quá khứ) được gửi",
+    "english": "before the report was submitted",
+    "soundmark": "/bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+  },
+  {
+    "vietnamese": "lỗi đó (đã được) sửa",
+    "english": "the error had been corrected",
+    "soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/"
+  },
+  {
+    "vietnamese": "lỗi đó đã được sửa trước khi báo cáo đó được gửi",
+    "english": "the error had been corrected before the report was submitted",
+    "soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/ /bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+  },
+  {
+    "vietnamese": "bán",
+    "english": "to sell",
+    "soundmark": "/tə/ /sɛl/"
+  },
+  {
+    "vietnamese": "bán hết",
+    "english": "to sell out",
+    "soundmark": "/tə/ /sɛl/ /aʊt/"
+  },
+  {
+    "vietnamese": "bán hết (dạng ed)",
+    "english": "sold out",
+    "soundmark": "/sold/ /aʊt/"
+  },
+  {
+    "vietnamese": "bán hết",
+    "english": "be sold out",
+    "soundmark": "/bi/ /sold/ /aʊt/"
+  },
+  {
+    "vietnamese": "(đã) bán hết trước đây",
+    "english": "had been sold out",
+    "soundmark": "/hæd/ /bɪn/ /sold/ /aʊt/"
+  },
+  {
+    "vietnamese": "vé",
+    "english": "ticket",
+    "soundmark": "/'tɪkɪt/"
+  },
+  {
+    "vietnamese": "những phiếu bầu đó",
+    "english": "the tickets",
+    "soundmark": "/ðə/ /'tɪkɪts/"
+  },
+  {
+    "vietnamese": "những vé đó (đã) được bán hết",
+    "english": "the tickets had been sold out",
+    "soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/"
+  },
+  {
+    "vietnamese": "đến",
+    "english": "to arrive",
+    "soundmark": "/tə/ /ə'raɪv/"
+  },
+  {
+    "vietnamese": "đạt tới (quá khứ)",
+    "english": "arrived",
+    "soundmark": "/ə'raɪvd/"
+  },
+  {
+    "vietnamese": "chúng tôi đã đến (quá khứ)",
+    "english": "we arrived",
+    "soundmark": "/wi/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "thời gian 时间",
+    "english": "the time",
+    "soundmark": "/ðə/ /taɪm/"
+  },
+  {
+    "vietnamese": "thời điểm chúng ta đến (trong quá khứ)",
+    "english": "the time we arrived",
+    "soundmark": "/ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "vào thời điểm chúng tôi đến (trong quá khứ)",
+    "english": "by the time we arrived",
+    "soundmark": "/baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "những vé đó (đã) được bán hết",
+    "english": "the tickets had been sold out",
+    "soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/"
+  },
+  {
+    "vietnamese": "những vé đó (đã) được bán hết vào thời điểm chúng tôi đến (quá khứ)",
+    "english": "the tickets had been sold out by the time we arrived",
+    "soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/ /baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "thay đổi",
+    "english": "to change",
+    "soundmark": "/tə/ /tʃendʒ/"
+  },
+  {
+    "vietnamese": "thay đổi (dạng ed)",
+    "english": "changed",
+    "soundmark": "/tʃendʒd/"
+  },
+  {
+    "vietnamese": "được thay đổi",
+    "english": "be changed",
+    "soundmark": "/bi/ /tʃendʒd/"
+  },
+  {
+    "vietnamese": "(quá khứ đã) thay đổi",
+    "english": "had been changed",
+    "soundmark": "/hæd/ /bɪn/ /tʃendʒd/"
+  },
+  {
+    "vietnamese": "mật khẩu",
+    "english": "password",
+    "soundmark": "/ˈpæswɝd/"
+  },
+  {
+    "vietnamese": "mật khẩu đó (đã) được thay đổi trong quá khứ",
+    "english": "the password had been changed",
+    "soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/"
+  },
+  {
+    "vietnamese": "xâm nhập bất hợp pháp",
+    "english": "to hack",
+    "soundmark": "/tə/ /hæk/"
+  },
+  {
+    "vietnamese": "xâm nhập bất hợp pháp (ed form)",
+    "english": "hacked",
+    "soundmark": "/hækt/"
+  },
+  {
+    "vietnamese": "xâm chiếm trái phép",
+    "english": "be hacked",
+    "soundmark": "/bi/ /hækt/"
+  },
+  {
+    "vietnamese": "hệ thống",
+    "english": "system",
+    "soundmark": "/ˈsɪstəm/"
+  },
+  {
+    "vietnamese": "hệ thống đã bị xâm phạm trái phép (trong quá khứ)",
+    "english": "the system was hacked",
+    "soundmark": "/ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi hệ thống bị xâm phạm trái phép (trong quá khứ)",
+    "english": "before the system was hacked",
+    "soundmark": "/bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+  },
+  {
+    "vietnamese": "mật khẩu đó (đã) được thay đổi trong quá khứ",
+    "english": "the password had been changed",
+    "soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/"
+  },
+  {
+    "vietnamese": "mật khẩu đó đã (đã) được thay đổi trước khi hệ thống bị (trước đây) bị hack",
+    "english": "the password had been changed before the system was hacked",
+    "soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/ /bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+  }
+]

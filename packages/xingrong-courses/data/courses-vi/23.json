@@ -1,0 +1,647 @@
+[
+  {
+    "vietnamese": "tay",
+    "english": "hand",
+    "soundmark": "/hænd/"
+  },
+  {
+    "vietnamese": "tay bài (Số nhiều)",
+    "english": "hands",
+    "soundmark": "/hændz/"
+  },
+  {
+    "vietnamese": "trao cho",
+    "english": "to hand",
+    "soundmark": "/tə/ /hænd/"
+  },
+  {
+    "vietnamese": "ông, chú, anh ấy",
+    "english": "him",
+    "soundmark": "/hɪm/"
+  },
+  {
+    "vietnamese": "đưa nó cho anh ấy",
+    "english": "to hand him",
+    "soundmark": "/tə/ /hænd/ /hɪm/"
+  },
+  {
+    "vietnamese": "chuối",
+    "english": "banana",
+    "soundmark": "/bə'nænə/"
+  },
+  {
+    "vietnamese": "một quả chuối",
+    "english": "a banana",
+    "soundmark": "/ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "đưa cho anh ấy một quả chuối",
+    "english": "to hand him a banana",
+    "soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "anh ấy",
+    "english": "he",
+    "soundmark": "/hi/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "anh ấy muốn",
+    "english": "he wants",
+    "soundmark": "/hi/ /wɑnts/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "anh ấy muốn tôi",
+    "english": "he wants me",
+    "soundmark": "/hi/ /wɑnts/ /mi/"
+  },
+  {
+    "vietnamese": "đưa cho anh ấy một quả chuối",
+    "english": "to hand him a banana",
+    "soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "anh ấy muốn tôi đưa cho anh ấy một quả chuối",
+    "english": "he wants me to hand him a banana",
+    "soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "điện thoại",
+    "english": "phone",
+    "soundmark": "/fon/"
+  },
+  {
+    "vietnamese": "của anh ấy",
+    "english": "his",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "vietnamese": "điện thoại di động của anh ấy",
+    "english": "his phone",
+    "soundmark": "/hɪz/ /fon/"
+  },
+  {
+    "vietnamese": "đưa nó cho anh ấy",
+    "english": "to hand him",
+    "soundmark": "/tə/ /hænd/ /hɪm/"
+  },
+  {
+    "vietnamese": "đưa điện thoại di động cho anh ấy",
+    "english": "to hand him his phone",
+    "soundmark": "/tə/ /hænd/ /hɪm/ /hɪz/ /fon/"
+  },
+  {
+    "vietnamese": "anh ấy muốn tôi",
+    "english": "he wants me",
+    "soundmark": "/hi/ /wɑnts/ /mi/"
+  },
+  {
+    "vietnamese": "anh ấy muốn tôi đưa cho anh ấy chiếc điện thoại di động của anh ấy",
+    "english": "he wants me to hand him his phone",
+    "soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /hɪz/ /fon/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "đưa nó cho tôi",
+    "english": "to hand me",
+    "soundmark": "/tə/ /hænd/ /mi/"
+  },
+  {
+    "vietnamese": "cái túi",
+    "english": "bag",
+    "soundmark": "/bæɡ/"
+  },
+  {
+    "vietnamese": "của bạn",
+    "english": "your",
+    "soundmark": "/jʊr/"
+  },
+  {
+    "vietnamese": "túi của bạn",
+    "english": "your bag",
+    "soundmark": "/jʊr/ /bæɡ/"
+  },
+  {
+    "vietnamese": "đưa tôi túi của bạn",
+    "english": "to hand me your bag",
+    "soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /bæɡ/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "Anh muốn em",
+    "english": "I want you",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn đưa cho tôi túi của bạn",
+    "english": "I want you to hand me your bag",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /bæɡ/"
+  },
+  {
+    "vietnamese": "trường học",
+    "english": "school",
+    "soundmark": "/skul/"
+  },
+  {
+    "vietnamese": "cái túi",
+    "english": "bag",
+    "soundmark": "/bæɡ/"
+  },
+  {
+    "vietnamese": "cái túi",
+    "english": "school bag",
+    "soundmark": "/skul/ /bæɡ/"
+  },
+  {
+    "vietnamese": "của bạn",
+    "english": "your",
+    "soundmark": "/jʊr/"
+  },
+  {
+    "vietnamese": "cặp đi học của bạn",
+    "english": "your school bag",
+    "soundmark": "/jʊr/ /skul/ /bæɡ/"
+  },
+  {
+    "vietnamese": "đưa nó cho tôi",
+    "english": "to hand me",
+    "soundmark": "/tə/ /hænd/ /mi/"
+  },
+  {
+    "vietnamese": "đưa tôi chiếc cặp đi học của bạn",
+    "english": "to hand me your school bag",
+    "soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/"
+  },
+  {
+    "vietnamese": "Anh muốn em",
+    "english": "I want you",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn đưa cho tôi túi của bạn",
+    "english": "I want you to hand me your school bag",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "cặp đi học của tôi",
+    "english": "my school bag",
+    "soundmark": "/maɪ/ /skul/ /bæɡ/"
+  },
+  {
+    "vietnamese": "đưa tôi cặp sách của tôi",
+    "english": "to hand me my school bag",
+    "soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+  },
+  {
+    "vietnamese": "Anh muốn em",
+    "english": "I want you",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn đưa cho tôi cặp sách của tôi",
+    "english": "I want you to hand me my school bag",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+  },
+  {
+    "vietnamese": "điện thoại",
+    "english": "phone",
+    "soundmark": "/fon/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "điện thoại di động của tôi",
+    "english": "my phone",
+    "soundmark": "/maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "đưa nó cho tôi",
+    "english": "to hand me",
+    "soundmark": "/tə/ /hænd/ /mi/"
+  },
+  {
+    "vietnamese": "đưa tôi điện thoại của tôi",
+    "english": "to hand me my phone",
+    "soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "Anh muốn em",
+    "english": "I want you",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn đưa điện thoại cho tôi",
+    "english": "I want you to hand me my phone",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "cần",
+    "english": "need",
+    "soundmark": "/nid/"
+  },
+  {
+    "vietnamese": "bạn cần",
+    "english": "you need",
+    "soundmark": "/ju/ /nid/"
+  },
+  {
+    "vietnamese": "đưa tôi điện thoại của tôi",
+    "english": "to hand me my phone",
+    "soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "bạn cần đưa điện thoại cho tôi",
+    "english": "you need to hand me my phone",
+    "soundmark": "/ju/ /nid/ /tə/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "bạn đưa tôi điện thoại của tôi",
+    "english": "you hand me my phone",
+    "soundmark": "/ju/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "đưa tôi điện thoại của tôi",
+    "english": "hand me my phone",
+    "soundmark": "/hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "một quả chuối",
+    "english": "a banana",
+    "soundmark": "/ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "đưa cho tôi một quả chuối",
+    "english": "hand me a banana",
+    "soundmark": "/hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "túi của tôi",
+    "english": "my bag",
+    "soundmark": "/maɪ/ /bæɡ/"
+  },
+  {
+    "vietnamese": "đưa tôi túi của tôi",
+    "english": "hand me my bag",
+    "soundmark": "/hænd/ /mi/ /maɪ/ /bæɡ/"
+  },
+  {
+    "vietnamese": "xin thứ lỗi cho tôi",
+    "english": "please",
+    "soundmark": "/pliz/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng đưa túi cho tôi được không?",
+    "english": "please hand me my bag",
+    "soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /bæɡ/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng đưa cho tôi một quả chuối được không?",
+    "english": "please hand me a banana",
+    "soundmark": "/pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng đưa cho tôi điện thoại di động của tôi được không?",
+    "english": "please hand me my phone",
+    "soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kən/"
+  },
+  {
+    "vietnamese": "bạn có thể",
+    "english": "you can",
+    "soundmark": "/ju/ /kən/"
+  },
+  {
+    "vietnamese": "đưa tôi điện thoại của tôi",
+    "english": "to hand me my phone",
+    "soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "bạn có thể đưa điện thoại cho tôi",
+    "english": "you can hand me my phone",
+    "soundmark": "/ju/ /kən/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "bạn có thể đưa tôi điện thoại của tôi được không?",
+    "english": "can you hand me my phone",
+    "soundmark": "/kən/ /ju/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "bạn có thể...?",
+    "english": "can you",
+    "soundmark": "/kən/ /ju/"
+  },
+  {
+    "vietnamese": "một quả chuối",
+    "english": "a banana",
+    "soundmark": "/ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "đưa nó cho tôi",
+    "english": "to hand me",
+    "soundmark": "/tə/ /hænd/ /mi/"
+  },
+  {
+    "vietnamese": "đưa cho tôi một quả chuối",
+    "english": "to hand me a banana",
+    "soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "bạn có thể đưa cho tôi một quả chuối được không?",
+    "english": "can you hand me a banana",
+    "soundmark": "/kən/ /ju/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "xin thứ lỗi cho tôi",
+    "english": "please",
+    "soundmark": "/pliz/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng đưa cho tôi điện thoại di động của tôi được không?",
+    "english": "can you please hand me my phone",
+    "soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng...?",
+    "english": "can you please",
+    "soundmark": "/kən/ /ju/ /pliz/"
+  },
+  {
+    "vietnamese": "đưa cho tôi một quả chuối",
+    "english": "to hand me a banana",
+    "soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng đưa cho tôi một quả chuối được không?",
+    "english": "can you please hand me a banana",
+    "soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kən/"
+  },
+  {
+    "vietnamese": "có (phiên bản lịch sự)",
+    "english": "could",
+    "soundmark": "/kʊd/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng đưa cho tôi một quả chuối được không?",
+    "english": "can you please hand me a banana",
+    "soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng (phiên bản lịch sự) đưa cho tôi một quả chuối được không?",
+    "english": "could you please hand me a banana",
+    "soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "vietnamese": "bạn có thể (phiên bản lịch sự) xin vui lòng...?",
+    "english": "could you please",
+    "soundmark": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "vietnamese": "đưa tôi điện thoại của tôi",
+    "english": "to hand me my phone",
+    "soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "bạn có thể (phiên bản lịch sự) vui lòng đưa cho tôi điện thoại của tôi được không?",
+    "english": "could you please hand me my phone",
+    "soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "vietnamese": "bạn có thể (phiên bản lịch sự) xin vui lòng...?",
+    "english": "could you please",
+    "soundmark": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "vietnamese": "đưa tôi cặp sách của tôi",
+    "english": "to hand me my school bag",
+    "soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+  },
+  {
+    "vietnamese": "bạn có thể (phiên bản lịch sự) vui lòng đưa cho tôi chiếc cặp đi học của tôi được không?",
+    "english": "could you please hand me my school bag",
+    "soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+  },
+  {
+    "vietnamese": "bạn có thể (phiên bản lịch sự) xin vui lòng...?",
+    "english": "could you please",
+    "soundmark": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "vietnamese": "giúp",
+    "english": "to help",
+    "soundmark": "/tə/ /hɛlp/"
+  },
+  {
+    "vietnamese": "giúp tôi",
+    "english": "to help me",
+    "soundmark": "/tə/ /hɛlp/ /mi/"
+  },
+  {
+    "vietnamese": "bạn có thể (phiên bản lịch sự) vui lòng giúp tôi được không?",
+    "english": "could you please help me",
+    "soundmark": "/kʊd/ /ju/ /pliz/ /hɛlp/ /mi/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "nói với tôi",
+    "english": "to tell me",
+    "soundmark": "/tə/ /tɛl/ /mi/"
+  },
+  {
+    "vietnamese": "sự thật",
+    "english": "the truth",
+    "soundmark": "/ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "hãy nói cho tôi sự thật",
+    "english": "to tell me the truth",
+    "soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng...?",
+    "english": "could you please",
+    "soundmark": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng cho tôi biết sự thật được không?",
+    "english": "could you please tell me the truth",
+    "soundmark": "/kʊd/ /ju/ /pliz/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "rời đi",
+    "english": "to leave",
+    "soundmark": "/tə/ /liv/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "lại cho tôi",
+    "english": "to leave me",
+    "soundmark": "/tə/ /liv/ /mi/"
+  },
+  {
+    "vietnamese": "một mình",
+    "english": "alone",
+    "soundmark": "/ə'lon/"
+  },
+  {
+    "vietnamese": "tôi yên",
+    "english": "to leave me alone",
+    "soundmark": "/tə/ /liv/ /mi/ /ə'lon/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng...?",
+    "english": "could you please",
+    "soundmark": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "vietnamese": "bạn có thể làm ơn đi đi và để tôi yên được không?",
+    "english": "could you please leave me alone",
+    "soundmark": "/kʊd/ /ju/ /pliz/ /tə/ /liv/ /mi/ /ə'lon/"
+  },
+  {
+    "vietnamese": "gọi điện thoại",
+    "english": "to call",
+    "soundmark": "/tə/ /kɔl/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "gọi điện thoại cho ta",
+    "english": "to call me",
+    "soundmark": "/tə/ /kɔl/ /mi/"
+  },
+  {
+    "vietnamese": "tối nay",
+    "english": "tonight",
+    "soundmark": "/tə'naɪt/"
+  },
+  {
+    "vietnamese": "gọi cho tôi tối nay",
+    "english": "to call me tonight",
+    "soundmark": "/tə/ /kɔl/ /mi/ /tə'naɪt/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng...?",
+    "english": "could you please",
+    "soundmark": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng gọi cho tôi tối nay được không?",
+    "english": "could you please call me tonight",
+    "soundmark": "/kʊd/ /ju/ /pliz/ /kɔl/ /mi/ /tə'naɪt/"
+  },
+  {
+    "vietnamese": "đưa",
+    "english": "to give",
+    "soundmark": "/tə/ /ɡɪv/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "đưa cho tôi",
+    "english": "to give me",
+    "soundmark": "/tə/ /ɡɪv/ /mi/"
+  },
+  {
+    "vietnamese": "tay",
+    "english": "hand",
+    "soundmark": "/hænd/"
+  },
+  {
+    "vietnamese": "một tay",
+    "english": "a hand",
+    "soundmark": "/ə/ /hænd/"
+  },
+  {
+    "vietnamese": "giúp tôi một tay",
+    "english": "to give me a hand",
+    "soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng...?",
+    "english": "could you please",
+    "soundmark": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "vietnamese": "bạn có thể giúp tôi một tay được không?",
+    "english": "could you please give me a hand",
+    "soundmark": "/kʊd/ /ju/ /pliz/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "vietnamese": "mở",
+    "english": "to open",
+    "soundmark": "/tə/ /'opən/"
+  },
+  {
+    "vietnamese": "cửa",
+    "english": "the door",
+    "soundmark": "/ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "mở cửa",
+    "english": "to open the door",
+    "soundmark": "/tə/ /'opən/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng...?",
+    "english": "could you please",
+    "soundmark": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "vietnamese": "bạn có thể vui lòng mở cửa được không?",
+    "english": "could you please open the door",
+    "soundmark": "/kʊd/ /ju/ /pliz/ /'opən/ /ðə/ /dɔr/"
+  }
+]

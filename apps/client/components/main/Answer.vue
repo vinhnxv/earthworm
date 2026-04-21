@@ -18,7 +18,7 @@
       {{ courseStore.currentStatement?.soundmark }}
     </div>
     <div class="my-6 text-xl text-gray-500">
-      {{ courseStore.currentStatement?.chinese }}
+      {{ courseStore.currentStatement?.vietnamese }}
     </div>
     <div class="space-y-3">
       <div>

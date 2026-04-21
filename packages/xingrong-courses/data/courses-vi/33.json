@@ -1,0 +1,692 @@
+[
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "cứu",
+    "english": "to save",
+    "soundmark": "/tə/ /sev/"
+  },
+  {
+    "vietnamese": "tiền bạc",
+    "english": "money",
+    "soundmark": "/ˈmʌni/"
+  },
+  {
+    "vietnamese": "tiết kiệm tiền",
+    "english": "to save money",
+    "soundmark": "/tə/ /sev/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "một số",
+    "english": "some",
+    "soundmark": "/sʌm/"
+  },
+  {
+    "vietnamese": "tiết kiệm một số tiền",
+    "english": "to save some money",
+    "soundmark": "/tə/ /sev/ /sʌm/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "Tôi cần tiết kiệm một số tiền",
+    "english": "I need to save some money",
+    "soundmark": "/aɪ/ /nid/ /tə/ /sev/ /sʌm/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "mua",
+    "english": "to buy",
+    "soundmark": "/tə/ /baɪ/"
+  },
+  {
+    "vietnamese": "xe hơi",
+    "english": "car",
+    "soundmark": "/kɑr/"
+  },
+  {
+    "vietnamese": "mới",
+    "english": "new",
+    "soundmark": "/nu/"
+  },
+  {
+    "vietnamese": "một chiếc xe mới",
+    "english": "a new car",
+    "soundmark": "/ə/ /nu/ /kɑr/"
+  },
+  {
+    "vietnamese": "mua một chiếc xe mới",
+    "english": "to buy a new car",
+    "soundmark": "/tə/ /baɪ/ /ə/ /nu/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi cần tiết kiệm một số tiền để mua một chiếc xe mới",
+    "english": "I need to save some money to buy a new car",
+    "soundmark": "/aɪ/ /nid/ /tə/ /sev/ /sʌm/ /ˈmʌni/ /tə/ /baɪ/ /ə/ /nu/ /kɑr/"
+  },
+  {
+    "vietnamese": "tương lai",
+    "english": "the future",
+    "soundmark": "/ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "vietnamese": "để",
+    "english": "for",
+    "soundmark": "/fɝ/"
+  },
+  {
+    "vietnamese": "cho tương lai",
+    "english": "for the future",
+    "soundmark": "/fɝ/ /ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "vietnamese": "Tôi cần tiết kiệm một số tiền",
+    "english": "I need to save some money",
+    "soundmark": "/aɪ/ /nid/ /tə/ /sev/ /sʌm/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "Tôi cần tiết kiệm một số tiền cho tương lai",
+    "english": "I need to save some money for the future",
+    "soundmark": "/aɪ/ /nid/ /tə/ /sev/ /sʌm/ /ˈmʌni/ /fɝ/ /ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "vietnamese": "mọi",
+    "english": "every",
+    "soundmark": "/'ɛvri/"
+  },
+  {
+    "vietnamese": "thân hình",
+    "english": "body",
+    "soundmark": "/'bɑdi/"
+  },
+  {
+    "vietnamese": "mọi người",
+    "english": "everybody",
+    "soundmark": "/'ɛvrɪbɑdi/"
+  },
+  {
+    "vietnamese": "cần",
+    "english": "need",
+    "soundmark": "/nid/"
+  },
+  {
+    "vietnamese": "mọi người đều cần",
+    "english": "everybody needs",
+    "soundmark": "/'ɛvrɪbɑdi/ /nidz/"
+  },
+  {
+    "vietnamese": "tiết kiệm một số tiền cho tương lai",
+    "english": "to save some money for the future",
+    "soundmark": "/tə/ /sev/ /sʌm/ /ˈmʌni/ /fɝ/ /ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "vietnamese": "mọi người đều cần tiết kiệm một số tiền cho tương lai",
+    "english": "everybody needs to save some money for the future",
+    "soundmark": "/'ɛvrɪbɑdi/ /nidz/ /tə/ /sev/ /sʌm/ /ˈmʌni/ /fɝ/ /ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "vietnamese": "tiết kiệm tiền",
+    "english": "to save money",
+    "soundmark": "/tə/ /sev/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "đủ",
+    "english": "enough",
+    "soundmark": "/ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "tiết kiệm đủ tiền",
+    "english": "to save enough money",
+    "soundmark": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "mua",
+    "english": "to buy",
+    "soundmark": "/tə/ /baɪ/"
+  },
+  {
+    "vietnamese": "một ngôi nhà",
+    "english": "a house",
+    "soundmark": "/ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "mua nhà",
+    "english": "to buy a house",
+    "soundmark": "/tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "tiết kiệm đủ tiền để mua nhà",
+    "english": "to save enough money to buy a house",
+    "soundmark": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "gia đình",
+    "english": "family",
+    "soundmark": "/ˈfæməli/"
+  },
+  {
+    "vietnamese": "của anh ấy",
+    "english": "his",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "vietnamese": "gia đình anh ấy",
+    "english": "his family",
+    "soundmark": "/hɪz/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "để",
+    "english": "for",
+    "soundmark": "/fɝ/"
+  },
+  {
+    "vietnamese": "cho gia đình anh ấy",
+    "english": "for his family",
+    "soundmark": "/fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "mua nhà",
+    "english": "to buy a house",
+    "soundmark": "/tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "mua nhà cho gia đình anh ấy",
+    "english": "to buy a house for his family",
+    "soundmark": "/tə/ /baɪ/ /ə/ /haʊs/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "tiết kiệm đủ tiền",
+    "english": "to save enough money",
+    "soundmark": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "tiết kiệm đủ tiền để mua nhà cho gia đình",
+    "english": "to save enough money to buy a house for his family",
+    "soundmark": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /tə/ /baɪ/ /ə/ /haʊs/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "thử nghiệm",
+    "english": "to try",
+    "soundmark": "/tə/ /traɪ/"
+  },
+  {
+    "vietnamese": "thử (dạng ing)",
+    "english": "trying",
+    "soundmark": "/ˈtraɪɪŋ/"
+  },
+  {
+    "vietnamese": "đang cố gắng",
+    "english": "be trying",
+    "soundmark": "/bi/ /'traɪɪŋ/"
+  },
+  {
+    "vietnamese": "anh ấy",
+    "english": "he",
+    "soundmark": "/hi/"
+  },
+  {
+    "vietnamese": "anh ấy (bây giờ) đang cố gắng",
+    "english": "he is trying",
+    "soundmark": "/hi/ /ɪz/ /ˈtraɪɪŋ/"
+  },
+  {
+    "vietnamese": "anh ấy (hiện tại) đang cố gắng tiết kiệm đủ tiền để mua một căn nhà cho gia đình mình",
+    "english": "he is trying to save enough money to buy a house for his family",
+    "soundmark": "/hi/ /ɪz/ /ˈtraɪɪŋ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /tə/ /baɪ/ /ə/ /haʊs/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "tiết kiệm tiền",
+    "english": "to save money",
+    "soundmark": "/tə/ /sev/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "phương pháp",
+    "english": "way",
+    "soundmark": "/we/"
+  },
+  {
+    "vietnamese": "tốt",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "vietnamese": "một cách tốt",
+    "english": "a good way",
+    "soundmark": "/ə/ /ɡʊd/ /we/"
+  },
+  {
+    "vietnamese": "tiết kiệm tiền",
+    "english": "to save money",
+    "soundmark": "/tə/ /sev/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "một cách tốt để tiết kiệm tiền",
+    "english": "a good way to save money",
+    "soundmark": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "cái này",
+    "english": "this",
+    "soundmark": "/ðɪs/"
+  },
+  {
+    "vietnamese": "đúng",
+    "english": "is",
+    "soundmark": "/ɪz/"
+  },
+  {
+    "vietnamese": "đây là",
+    "english": "this is",
+    "soundmark": "/ðɪs/ /ɪz/"
+  },
+  {
+    "vietnamese": "đây là một cách tốt để tiết kiệm tiền",
+    "english": "this is a good way to save money",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ɡʊd/ /we/ /tə/ /sev/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "một cách tốt để tiết kiệm tiền là đây",
+    "english": "a good way to save money is this",
+    "soundmark": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /ˈmʌni/ /ɪz/ /ðɪs/"
+  },
+  {
+    "vietnamese": "cứu; cứu",
+    "english": "to save",
+    "soundmark": "/tə/ /sev/"
+  },
+  {
+    "vietnamese": "thời gian 时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "tiết kiệm thời gian",
+    "english": "to save time",
+    "soundmark": "/tə/ /sev/ /taɪm/"
+  },
+  {
+    "vietnamese": "tiền bạc",
+    "english": "money",
+    "soundmark": "/ˈmʌni/"
+  },
+  {
+    "vietnamese": "tiết kiệm thời gian và tiền bạc",
+    "english": "to save time and money",
+    "soundmark": "/tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "thử (dạng ing)",
+    "english": "trying",
+    "soundmark": "/ˈtraɪɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang cố gắng",
+    "english": "I am trying",
+    "soundmark": "/aɪ/ /æm/ /'traɪɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi (ngay bây giờ) đang cố gắng tiết kiệm thời gian và tiền bạc",
+    "english": "I am trying to save time and money",
+    "soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "tốt nhất",
+    "english": "the best",
+    "soundmark": "/ðə/ /bɛst/"
+  },
+  {
+    "vietnamese": "phương pháp",
+    "english": "way",
+    "soundmark": "/we/"
+  },
+  {
+    "vietnamese": "cách tốt nhất",
+    "english": "the best way",
+    "soundmark": "/ðə/ /bɛst/ /we/"
+  },
+  {
+    "vietnamese": "tiết kiệm thời gian và tiền bạc",
+    "english": "to save time and money",
+    "soundmark": "/tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "cách tốt nhất để tiết kiệm thời gian và tiền bạc",
+    "english": "the best way to save time and money",
+    "soundmark": "/ðə/ /bɛst/ /we/ /tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "kế hoạch",
+    "english": "plan",
+    "soundmark": "/plæn/"
+  },
+  {
+    "vietnamese": "lập kế hoạch",
+    "english": "to make a plan",
+    "soundmark": "/tə/ /mek/ /ə/ /plæn/"
+  },
+  {
+    "vietnamese": "điều; điều",
+    "english": "thing",
+    "soundmark": "/θɪŋ/"
+  },
+  {
+    "vietnamese": "bất kỳ",
+    "english": "any",
+    "soundmark": "/'ɛni/"
+  },
+  {
+    "vietnamese": "bất cứ điều gì",
+    "english": "anything",
+    "soundmark": "/'ɛnɪθɪŋ/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "làm bất cứ điều gì",
+    "english": "to do anything",
+    "soundmark": "/tə/ /du/ /'ɛnɪθɪŋ/"
+  },
+  {
+    "vietnamese": "bạn làm bất cứ điều gì",
+    "english": "you do anything",
+    "soundmark": "/ju/ /du/ /'ɛnɪθɪŋ/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi bạn làm bất cứ điều gì",
+    "english": "before you do anything",
+    "soundmark": "/bɪ'fɔr/ /ju/ /du/ /'ɛnɪθɪŋ/"
+  },
+  {
+    "vietnamese": "lập kế hoạch",
+    "english": "to make a plan",
+    "soundmark": "/tə/ /mek/ /ə/ /plæn/"
+  },
+  {
+    "vietnamese": "lập kế hoạch trước khi làm bất cứ điều gì",
+    "english": "to make a plan before you do anything",
+    "soundmark": "/tə/ /mek/ /ə/ /plæn/ /bɪ'fɔr/ /ju/ /du/ /'ɛnɪθɪŋ/"
+  },
+  {
+    "vietnamese": "cách tốt nhất để tiết kiệm thời gian và tiền bạc",
+    "english": "the best way to save time and money",
+    "soundmark": "/ðə/ /bɛst/ /we/ /tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "cách tốt nhất để tiết kiệm thời gian và tiền bạc là lập kế hoạch trước khi làm bất cứ điều gì",
+    "english": "the best way to save time and money is to make a plan before you do anything",
+    "soundmark": "/ðə/ /bɛst/ /we/ /tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/ /ɪz/ /tə/ /mek/ /ə/ /plæn/ /bɪ'fɔr/ /ju/ /du/ /'ɛnɪθɪŋ/"
+  },
+  {
+    "vietnamese": "cứu; cứu",
+    "english": "to save",
+    "soundmark": "/tə/ /sev/"
+  },
+  {
+    "vietnamese": "nước",
+    "english": "water",
+    "soundmark": "/'wɔtɚ/"
+  },
+  {
+    "vietnamese": "tiết kiệm nước",
+    "english": "to save water",
+    "soundmark": "/tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi",
+    "english": "we",
+    "soundmark": "/wi/"
+  },
+  {
+    "vietnamese": "chúng ta phải tiết kiệm nước",
+    "english": "we have to save water",
+    "soundmark": "/wi/ /hæv/ /tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "một cách tốt",
+    "english": "a good way",
+    "soundmark": "/ə/ /ɡʊd/ /we/"
+  },
+  {
+    "vietnamese": "tiết kiệm nước",
+    "english": "to save water",
+    "soundmark": "/tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "một cách tốt để tiết kiệm nước",
+    "english": "a good way to save water",
+    "soundmark": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "đây là",
+    "english": "this is",
+    "soundmark": "/ðɪs/ /ɪz/"
+  },
+  {
+    "vietnamese": "đây là một cách tốt để tiết kiệm nước",
+    "english": "this is a good way to save water",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "một cách tuyệt vời để tiết kiệm nước là đây",
+    "english": "a good way to save water is this",
+    "soundmark": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/ /ɪz/ /ðɪs/"
+  },
+  {
+    "vietnamese": "ở đây",
+    "english": "here",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "vietnamese": "một cách tuyệt vời để tiết kiệm nước là đây",
+    "english": "a good way to save water is here",
+    "soundmark": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/ /ɪz/ /hɪr/"
+  },
+  {
+    "vietnamese": "nơi đó",
+    "english": "there",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "có một cách tuyệt vời để tiết kiệm nước",
+    "english": "a good way to save water is there",
+    "soundmark": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/ /ɪz/ /ðɛr/"
+  },
+  {
+    "vietnamese": "có một cách tuyệt vời để tiết kiệm nước",
+    "english": "there is a good way to save water",
+    "soundmark": "/ðɛr/ /ɪz/ /ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "một cuốn sách",
+    "english": "a book",
+    "soundmark": "/ə/ /bʊk/"
+  },
+  {
+    "vietnamese": "nơi đó",
+    "english": "there",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "một cuốn sách ở đó",
+    "english": "a book is there",
+    "soundmark": "/ə/ /bʊk/ /ɪz/ /ðɛr/"
+  },
+  {
+    "vietnamese": "có một cuốn sách ở đó",
+    "english": "there is a book",
+    "soundmark": "/ðɛr/ /ɪz/ /ə/ /bʊk/"
+  },
+  {
+    "vietnamese": "bàn",
+    "english": "desk",
+    "soundmark": "/dɛsk/"
+  },
+  {
+    "vietnamese": "tRÊN",
+    "english": "on",
+    "soundmark": "/ɑn/"
+  },
+  {
+    "vietnamese": "trên bàn",
+    "english": "on the desk",
+    "soundmark": "/ɑn/ /ðə/ /dɛsk/"
+  },
+  {
+    "vietnamese": "có một cuốn sách trên bàn",
+    "english": "there is a book on the desk",
+    "soundmark": "/ðɛr/ /ɪz/ /ə/ /bʊk/ /ɑn/ /ðə/ /dɛsk/"
+  },
+  {
+    "vietnamese": "có một cuốn sách ở đó",
+    "english": "there is a book there",
+    "soundmark": "/ðɛr/ /ɪz/ /ə/ /bʊk/ /ðɛr/"
+  },
+  {
+    "vietnamese": "ở đây",
+    "english": "here",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "vietnamese": "có một cuốn sách ở đây",
+    "english": "there is a book here",
+    "soundmark": "/ðɛr/ /ɪz/ /ə/ /bʊk/ /hɪr/"
+  },
+  {
+    "vietnamese": "có (tồn tại số ít)",
+    "english": "there is",
+    "soundmark": "/ðɛr/ /ɪz/"
+  },
+  {
+    "vietnamese": "một con dao",
+    "english": "a knife",
+    "soundmark": "/ə/ /naɪf/"
+  },
+  {
+    "vietnamese": "có một con dao",
+    "english": "there is a knife",
+    "soundmark": "/ðɛr/ /ɪz/ /ə/ /naɪf/"
+  },
+  {
+    "vietnamese": "bếp",
+    "english": "kitchen",
+    "soundmark": "/'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "trong bếp",
+    "english": "in the kitchen",
+    "soundmark": "/ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "có một con dao trong bếp",
+    "english": "there is a knife in the kitchen",
+    "soundmark": "/ðɛr/ /ɪz/ /ə/ /naɪf/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "trứng",
+    "english": "egg",
+    "soundmark": "/ɛɡ/"
+  },
+  {
+    "vietnamese": "năm",
+    "english": "five",
+    "soundmark": "/faɪv/"
+  },
+  {
+    "vietnamese": "năm quả trứng",
+    "english": "five eggs",
+    "soundmark": "/faɪv/ /ɛɡz/"
+  },
+  {
+    "vietnamese": "có (tồn tại số nhiều)",
+    "english": "there are",
+    "soundmark": "/ðɛr/ /ɚ/"
+  },
+  {
+    "vietnamese": "có năm quả trứng",
+    "english": "there are five eggs",
+    "soundmark": "/ðɛr/ /ɚ/ /faɪv/ /ɛɡz/"
+  },
+  {
+    "vietnamese": "trong bếp",
+    "english": "in the kitchen",
+    "soundmark": "/ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "có năm cái bánh quế trứng trong bếp",
+    "english": "there are five eggs in the kitchen",
+    "soundmark": "/ðɛr/ /ɚ/ /faɪv/ /ɛɡz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "cứu; cứu",
+    "english": "to save",
+    "soundmark": "/tə/ /sev/"
+  },
+  {
+    "vietnamese": "nước",
+    "english": "water",
+    "soundmark": "/'wɔtɚ/"
+  },
+  {
+    "vietnamese": "tiết kiệm nước",
+    "english": "to save water",
+    "soundmark": "/tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "phương pháp",
+    "english": "way",
+    "soundmark": "/we/"
+  },
+  {
+    "vietnamese": "nhiều",
+    "english": "many",
+    "soundmark": "/'mɛni/"
+  },
+  {
+    "vietnamese": "nhiều cách",
+    "english": "many ways",
+    "soundmark": "/'mɛni/ /wez/"
+  },
+  {
+    "vietnamese": "nhiều cách tiết kiệm nước",
+    "english": "many ways to save water",
+    "soundmark": "/'mɛni/ /wez/ /tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "khác biệt",
+    "english": "different",
+    "soundmark": "/'dɪfrənt/"
+  },
+  {
+    "vietnamese": "nhiều cách khác nhau để tiết kiệm nước",
+    "english": "many different ways to save water",
+    "soundmark": "/'mɛni/ /'dɪfrənt/ /wez/ /tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "có (tồn tại số nhiều)",
+    "english": "there are",
+    "soundmark": "/ðɛr/ /ɚ/"
+  },
+  {
+    "vietnamese": "có nhiều cách khác nhau để tiết kiệm nước",
+    "english": "there are many different ways to save water",
+    "soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənt/ /wez/ /tə/ /sev/ /'wɔtɚ/"
+  }
+]

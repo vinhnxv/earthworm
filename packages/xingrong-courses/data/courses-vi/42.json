@@ -1,0 +1,742 @@
+[
+  {
+    "vietnamese": "đọc",
+    "english": "to read",
+    "soundmark": "/tə/ /rid/"
+  },
+  {
+    "vietnamese": "cuốn sách này",
+    "english": "the book",
+    "soundmark": "/ðə/ /bʊk/"
+  },
+  {
+    "vietnamese": "đọc cuốn sách này",
+    "english": "to read the book",
+    "soundmark": "/tə/ /rid/ /ðə/ /bʊk/"
+  },
+  {
+    "vietnamese": "đọc cuốn sách này (dạng ing)",
+    "english": "reading the book",
+    "soundmark": "/'ridɪŋ/ /ðə/ /bʊk/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "to finish",
+    "soundmark": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "anh ấy đã hoàn thành",
+    "english": "he finishes",
+    "soundmark": "/hi/ /'fɪnɪʃɪz/"
+  },
+  {
+    "vietnamese": "anh ấy (quá khứ) đã hoàn thành",
+    "english": "he finished",
+    "soundmark": "/hi/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "anh ấy (quá khứ) đã đọc xong cuốn sách",
+    "english": "he finished reading the book",
+    "soundmark": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/"
+  },
+  {
+    "vietnamese": "bầu trời",
+    "english": "day",
+    "soundmark": "/de/"
+  },
+  {
+    "vietnamese": "một ngày",
+    "english": "one day",
+    "soundmark": "/wʌn/ /de/"
+  },
+  {
+    "vietnamese": "trong một ngày",
+    "english": "in one day",
+    "soundmark": "/ɪn/ /wʌn/ /de/"
+  },
+  {
+    "vietnamese": "anh ấy đọc xong cuốn sách trong một ngày",
+    "english": "he finished reading the book in one day",
+    "soundmark": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/ /ɪn/ /wʌn/ /de/"
+  },
+  {
+    "vietnamese": "ban đêm",
+    "english": "night",
+    "soundmark": "/naɪt/"
+  },
+  {
+    "vietnamese": "trong vòng một đêm",
+    "english": "in one night",
+    "soundmark": "/ɪn/ /wʌn/ /naɪt/"
+  },
+  {
+    "vietnamese": "anh ấy đọc xong cuốn sách trong một đêm",
+    "english": "he finished reading the book in one night",
+    "soundmark": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/ /ɪn/ /wʌn/ /naɪt/"
+  },
+  {
+    "vietnamese": "rửa",
+    "english": "to wash",
+    "soundmark": "/tə/ /wɔʃ/"
+  },
+  {
+    "vietnamese": "món ăn",
+    "english": "dish",
+    "soundmark": "/dɪʃ/"
+  },
+  {
+    "vietnamese": "những món ăn đó",
+    "english": "the dishes",
+    "soundmark": "/ðə/ /dɪʃɪz/"
+  },
+  {
+    "vietnamese": "rửa những món ăn đó",
+    "english": "to wash the dishes",
+    "soundmark": "/tə/ /wɔʃ/ /ðə/ /dɪʃɪz/"
+  },
+  {
+    "vietnamese": "rửa những món ăn đó (dạng ing)",
+    "english": "washing the dishes",
+    "soundmark": "/'wɑʃɪŋ/ /ðə/ /dɪʃɪz/"
+  },
+  {
+    "vietnamese": "bữa tối",
+    "english": "dinner",
+    "soundmark": "/'dɪnɚ/"
+  },
+  {
+    "vietnamese": "sau đó",
+    "english": "after",
+    "soundmark": "/'æftɚ/"
+  },
+  {
+    "vietnamese": "sau bữa tối",
+    "english": "after dinner",
+    "soundmark": "/'æftɚ/ /'dɪnɚ/"
+  },
+  {
+    "vietnamese": "rửa bát đĩa sau bữa tối (dạng ing)",
+    "english": "washing the dishes after dinner",
+    "soundmark": "/'wɑʃɪŋ/ /ðə/ /dɪʃɪz/ /'æftɚ/ /'dɪnɚ/"
+  },
+  {
+    "vietnamese": "anh ấy (quá khứ) đã hoàn thành",
+    "english": "he finished",
+    "soundmark": "/hi/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "anh ấy đã rửa xong bát đĩa sau bữa tối",
+    "english": "he finished washing the dishes after dinner",
+    "soundmark": "/hi/ /'fɪnɪʃt/ /'wɑʃɪŋ/ /ðə/ /dɪʃɪz/ /'æftɚ/ /'dɪnɚ/"
+  },
+  {
+    "vietnamese": "sơn",
+    "english": "to paint",
+    "soundmark": "/tə/ /pent/"
+  },
+  {
+    "vietnamese": "tường",
+    "english": "the wall",
+    "soundmark": "/ðə/ /wɔl/"
+  },
+  {
+    "vietnamese": "sơn tường",
+    "english": "to paint the wall",
+    "soundmark": "/tə/ /pent/ /ðə/ /wɔl/"
+  },
+  {
+    "vietnamese": "sơn tường (dạng ing)",
+    "english": "painting the wall",
+    "soundmark": "/'pentɪŋ/ /ðə/ /wɔl/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "to finish",
+    "soundmark": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "họ hoàn thành",
+    "english": "they finish",
+    "soundmark": "/ðe/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "họ (quá khứ) đã hoàn thành",
+    "english": "they finished",
+    "soundmark": "/ðe/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "họ đã sơn xong bức tường",
+    "english": "they finished painting the wall",
+    "soundmark": "/ðe/ /'fɪnɪʃt/ /'pentɪŋ/ /ðə/ /wɔl/"
+  },
+  {
+    "vietnamese": "mặt trời",
+    "english": "sun",
+    "soundmark": "/sʌn/"
+  },
+  {
+    "vietnamese": "hoàng hôn",
+    "english": "sunset",
+    "soundmark": "/'sʌnsɛt/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi mặt trời lặn",
+    "english": "before sunset",
+    "soundmark": "/bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "vietnamese": "họ sơn xong bức tường trước khi mặt trời lặn",
+    "english": "they finished painting the wall before sunset",
+    "soundmark": "/ðe/ /'fɪnɪʃt/ /'pentɪŋ/ /ðə/ /wɔl/ /bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "vietnamese": "dọn dẹp",
+    "english": "to clean",
+    "soundmark": "/tə/ /klin/"
+  },
+  {
+    "vietnamese": "ngôi nhà này",
+    "english": "the house",
+    "soundmark": "/ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "dọn dẹp ngôi nhà này",
+    "english": "to clean the house",
+    "soundmark": "/tə/ /klin/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "dọn dẹp ngôi nhà này (dạng ing)",
+    "english": "cleaning the house",
+    "soundmark": "/'klinɪŋ/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "to finish",
+    "soundmark": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "bạn (quá khứ) đã hoàn thành",
+    "english": "you finished",
+    "soundmark": "/ju/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "bạn đã dọn dẹp xong ngôi nhà này rồi",
+    "english": "you finished cleaning the house",
+    "soundmark": "/ju/ /'fɪnɪʃt/ /'klinɪŋ/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "bản thân bạn",
+    "english": "yourself",
+    "soundmark": "/jɔr'sɛlf/"
+  },
+  {
+    "vietnamese": "thông qua chính bạn",
+    "english": "by yourself",
+    "soundmark": "/baɪ/ /jɔr'sɛlf/"
+  },
+  {
+    "vietnamese": "bạn đã tự mình dọn dẹp xong ngôi nhà này rồi",
+    "english": "you finished cleaning the house by yourself",
+    "soundmark": "/ju/ /'fɪnɪʃt/ /'klinɪŋ/ /ðə/ /haʊs/ /baɪ/ /jɔr'sɛlf/"
+  },
+  {
+    "vietnamese": "đột nhập",
+    "english": "to break",
+    "soundmark": "/tə/ /brek/"
+  },
+  {
+    "vietnamese": "cửa sổ đó",
+    "english": "the window",
+    "soundmark": "/ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "đập vỡ cửa sổ đó",
+    "english": "to break the window",
+    "soundmark": "/tə/ /brek/ /ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "một hòn đá",
+    "english": "a stone",
+    "soundmark": "/ə/ /ston/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "với một hòn đá",
+    "english": "with a stone",
+    "soundmark": "/wɪð/ /ə/ /ston/"
+  },
+  {
+    "vietnamese": "phá vỡ cửa sổ đó bằng một hòn đá",
+    "english": "to break the window with a stone",
+    "soundmark": "/tə/ /brek/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/"
+  },
+  {
+    "vietnamese": "phá vỡ cửa sổ đó bằng một hòn đá (dạng ing)",
+    "english": "breaking the window with a stone",
+    "soundmark": "/'brekɪŋ/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/"
+  },
+  {
+    "vietnamese": "từ chối",
+    "english": "to deny",
+    "soundmark": "/tə/ /dɪ'naɪ/"
+  },
+  {
+    "vietnamese": "họ phủ nhận",
+    "english": "they deny",
+    "soundmark": "/ðe/ /dɪ'naɪ/"
+  },
+  {
+    "vietnamese": "họ (trong quá khứ) đã phủ nhận",
+    "english": "they denied",
+    "soundmark": "/ðe/ /dɪ'naɪd/"
+  },
+  {
+    "vietnamese": "họ (trước đây) phủ nhận việc dùng đá đập vỡ cửa sổ đó",
+    "english": "they denied breaking the window with a stone",
+    "soundmark": "/ðe/ /dɪ'naɪd/ /'brekɪŋ/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/"
+  },
+  {
+    "vietnamese": "anh ấy (trong quá khứ) đã phủ nhận",
+    "english": "he denied",
+    "soundmark": "/hi/ /dɪ'naɪd/"
+  },
+  {
+    "vietnamese": "thay đổi",
+    "english": "to change",
+    "soundmark": "/tə/ /tʃendʒ/"
+  },
+  {
+    "vietnamese": "ý tưởng",
+    "english": "mind",
+    "soundmark": "/maɪnd/"
+  },
+  {
+    "vietnamese": "suy nghĩ của anh ấy",
+    "english": "his mind",
+    "soundmark": "/hɪz/ /maɪnd/"
+  },
+  {
+    "vietnamese": "thay đổi ý định của anh ấy",
+    "english": "to change his mind",
+    "soundmark": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/"
+  },
+  {
+    "vietnamese": "phút",
+    "english": "minute",
+    "soundmark": "/'mɪnɪt/"
+  },
+  {
+    "vietnamese": "cuối cùng",
+    "english": "last",
+    "soundmark": "/læst/"
+  },
+  {
+    "vietnamese": "phút cuối",
+    "english": "the last minute",
+    "soundmark": "/ðə/ /læst/ /'mɪnɪt/"
+  },
+  {
+    "vietnamese": "vào giây phút cuối cùng",
+    "english": "at the last minute",
+    "soundmark": "/ət/ /ðə/ /læst/ /'mɪnɪt/"
+  },
+  {
+    "vietnamese": "thay đổi quyết định vào phút cuối",
+    "english": "to change his mind at the last minute",
+    "soundmark": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/"
+  },
+  {
+    "vietnamese": "thay đổi quyết định vào phút cuối (dạng ing)",
+    "english": "changing his mind at the last minute",
+    "soundmark": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/"
+  },
+  {
+    "vietnamese": "anh ấy (trong quá khứ) đã phủ nhận",
+    "english": "he denied",
+    "soundmark": "/hi/ /dɪ'naɪd/"
+  },
+  {
+    "vietnamese": "anh ấy (trong quá khứ) đã phủ nhận việc thay đổi quyết định vào phút cuối",
+    "english": "he denied changing his mind at the last minute",
+    "soundmark": "/hi/ /dɪ'naɪd/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/"
+  },
+  {
+    "vietnamese": "cha mẹ",
+    "english": "parents",
+    "soundmark": "/'pɛrənts/"
+  },
+  {
+    "vietnamese": "bố mẹ anh ấy",
+    "english": "his parents",
+    "soundmark": "/hɪz/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "nói dối",
+    "english": "to lie",
+    "soundmark": "/tə/ /laɪ/"
+  },
+  {
+    "vietnamese": "đã nói dối bố mẹ anh ấy",
+    "english": "to lie to his parents",
+    "soundmark": "/tə/ /laɪ/ /tə/ /hɪz/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "nói dối (dạng ing)",
+    "english": "lying",
+    "soundmark": "/'laɪɪŋ/"
+  },
+  {
+    "vietnamese": "nói dối bố mẹ (mẫu ing)",
+    "english": "lying to his parents",
+    "soundmark": "/'laɪɪŋ/ /tə/ /hɪz/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "từ chối",
+    "english": "to deny",
+    "soundmark": "/tə/ /dɪ'naɪ/"
+  },
+  {
+    "vietnamese": "anh ấy (trong quá khứ) đã phủ nhận",
+    "english": "he denied",
+    "soundmark": "/hi/ /dɪ'naɪd/"
+  },
+  {
+    "vietnamese": "anh ấy (trong quá khứ) đã phủ nhận việc nói dối bố mẹ mình",
+    "english": "he denied lying to his parents",
+    "soundmark": "/hi/ /dɪ'naɪd/ /'laɪɪŋ/ /tə/ /hɪz/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "đau ốm",
+    "english": "sick",
+    "soundmark": "/sɪk/"
+  },
+  {
+    "vietnamese": "anh ấy bị ốm",
+    "english": "he is sick",
+    "soundmark": "/hi/ /ɪz/ /sɪk/"
+  },
+  {
+    "vietnamese": "giả vờ",
+    "english": "to pretend",
+    "soundmark": "/tə/ /prɪ'tɛnd/"
+  },
+  {
+    "vietnamese": "giả vờ bị bệnh",
+    "english": "to pretend to be sick",
+    "soundmark": "/tə/ /prɪ'tɛnd/ /tə/ /bi/ /sɪk/"
+  },
+  {
+    "vietnamese": "giả vờ bị bệnh (dạng ing)",
+    "english": "pretending to be sick",
+    "soundmark": "/prɪ'tɛndɪŋ/ /tə/ /bi/ /sɪk/"
+  },
+  {
+    "vietnamese": "từ chối",
+    "english": "to deny",
+    "soundmark": "/tə/ /dɪ'naɪ/"
+  },
+  {
+    "vietnamese": "anh ấy (trong quá khứ) đã phủ nhận",
+    "english": "he denied",
+    "soundmark": "/hi/ /dɪ'naɪd/"
+  },
+  {
+    "vietnamese": "anh ấy (trong quá khứ) đã phủ nhận việc giả vờ ốm",
+    "english": "he denied pretending to be sick",
+    "soundmark": "/hi/ /dɪ'naɪd/ /prɪ'tɛndɪŋ/ /tə/ /bi/ /sɪk/"
+  },
+  {
+    "vietnamese": "nhà tù",
+    "english": "prison",
+    "soundmark": "/'prɪzn/"
+  },
+  {
+    "vietnamese": "từ nhà tù",
+    "english": "from prison",
+    "soundmark": "/frʌm/ /'prɪzn/"
+  },
+  {
+    "vietnamese": "chạy trốn",
+    "english": "to escape",
+    "soundmark": "/tə/ /ɪ'skep/"
+  },
+  {
+    "vietnamese": "vượt ngục",
+    "english": "to escape from prison",
+    "soundmark": "/tə/ /ɪ'skep/ /frʌm/ /'prɪzn/"
+  },
+  {
+    "vietnamese": "kế hoạch",
+    "english": "to plan",
+    "soundmark": "/tə/ /plæn/"
+  },
+  {
+    "vietnamese": "lập kế hoạch bẻ khóa",
+    "english": "to plan to escape from prison",
+    "soundmark": "/tə/ /plæn/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/"
+  },
+  {
+    "vietnamese": "kế hoạch jailbreak (dạng ing)",
+    "english": "planning to escape from prison",
+    "soundmark": "/'plænɪŋ/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/"
+  },
+  {
+    "vietnamese": "từ chối",
+    "english": "to deny",
+    "soundmark": "/tə/ /dɪ'naɪ/"
+  },
+  {
+    "vietnamese": "họ (trong quá khứ) đã phủ nhận",
+    "english": "they denied",
+    "soundmark": "/ðe/ /dɪ'naɪd/"
+  },
+  {
+    "vietnamese": "họ (trước đây) đã phủ nhận việc lập kế hoạch bẻ khóa",
+    "english": "they denied planning to escape from prison",
+    "soundmark": "/ðe/ /dɪ'naɪd/ /'plænɪŋ/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/"
+  },
+  {
+    "vietnamese": "ăn cắp",
+    "english": "to steal",
+    "soundmark": "/tə/ /stil/"
+  },
+  {
+    "vietnamese": "tiền bạc",
+    "english": "the money",
+    "soundmark": "/ðə/ /'mʌni/"
+  },
+  {
+    "vietnamese": "ăn trộm tiền",
+    "english": "to steal the money",
+    "soundmark": "/tə/ /stil/ /ðə/ /'mʌni/"
+  },
+  {
+    "vietnamese": "ăn trộm tiền (dạng ing)",
+    "english": "stealing the money",
+    "soundmark": "/stilɪŋ/ /ðə/ /'mʌni/"
+  },
+  {
+    "vietnamese": "ngân hàng",
+    "english": "the bank",
+    "soundmark": "/ðə/ /bæŋk/"
+  },
+  {
+    "vietnamese": "từ ngân hàng",
+    "english": "from the bank",
+    "soundmark": "/frʌm/ /ðə/ /bæŋk/"
+  },
+  {
+    "vietnamese": "trộm tiền ngân hàng (ing form)",
+    "english": "stealing the money from the bank",
+    "soundmark": "/stilɪŋ/ /ðə/ /'mʌni/ /frʌm/ /ðə/ /bæŋk/"
+  },
+  {
+    "vietnamese": "từ chối",
+    "english": "to deny",
+    "soundmark": "/tə/ /dɪ'naɪ/"
+  },
+  {
+    "vietnamese": "anh ấy (trong quá khứ) đã phủ nhận",
+    "english": "he denied",
+    "soundmark": "/hi/ /dɪ'naɪd/"
+  },
+  {
+    "vietnamese": "anh ta (trước đây) phủ nhận việc ăn trộm tiền từ ngân hàng",
+    "english": "he denied stealing the money from the bank",
+    "soundmark": "/hi/ /dɪ'naɪd/ /stilɪŋ/ /ðə/ /'mʌni/ /frʌm/ /ðə/ /bæŋk/"
+  },
+  {
+    "vietnamese": "接受",
+    "english": "to accept",
+    "soundmark": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "vietnamese": "chấp nhận (phân từ quá khứ)",
+    "english": "accepted",
+    "soundmark": "/ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "được chấp nhận",
+    "english": "be accepted",
+    "soundmark": "/bi/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "anh ấy đã được chấp nhận",
+    "english": "he is accepted",
+    "soundmark": "/hi/ /ɪz/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) được chấp nhận",
+    "english": "he was accepted",
+    "soundmark": "/hi/ /wəz/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "trường đại học",
+    "english": "the university",
+    "soundmark": "/ðə/ /ˌjunɪ'vɝsəti/"
+  },
+  {
+    "vietnamese": "qua trường đại học",
+    "english": "by the university",
+    "soundmark": "/baɪ/ /ðə/ /ˌjunɪ'vɝsəti/"
+  },
+  {
+    "vietnamese": "anh ấy (đã) được nhận vào trường đại học",
+    "english": "he was accepted by the university",
+    "soundmark": "/hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/"
+  },
+  {
+    "vietnamese": "cái đó",
+    "english": "that",
+    "soundmark": "/ðæt/"
+  },
+  {
+    "vietnamese": "rằng anh ấy đã được nhận vào trường đại học (trong quá khứ)",
+    "english": "that he was accepted by the university",
+    "soundmark": "/ðæt/ /hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/"
+  },
+  {
+    "vietnamese": "anh ấy (trong quá khứ) đã phủ nhận",
+    "english": "he denied",
+    "soundmark": "/hi/ /dɪ'naɪd/"
+  },
+  {
+    "vietnamese": "anh ấy (quá khứ) phủ nhận (rằng) anh ấy (quá khứ) đã được nhận vào trường đại học",
+    "english": "he denied that he was accepted by the university",
+    "soundmark": "/hi/ /dɪ'naɪd/ /ðæt/ /hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/"
+  },
+  {
+    "vietnamese": "anh ấy (quá khứ) đã phủ nhận (điều đó)",
+    "english": "he denied that",
+    "soundmark": "/hi/ /dɪ'naɪd/ /ðæt/"
+  },
+  {
+    "vietnamese": "họ (trong quá khứ) đã phủ nhận (rằng)",
+    "english": "they denied that",
+    "soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/"
+  },
+  {
+    "vietnamese": "mời",
+    "english": "to invite",
+    "soundmark": "/tə/ /ɪn'vaɪt/"
+  },
+  {
+    "vietnamese": "lời mời (phân từ quá khứ)",
+    "english": "invited",
+    "soundmark": "/ɪn'vaɪtɪd/"
+  },
+  {
+    "vietnamese": "được mời",
+    "english": "be invited",
+    "soundmark": "/bi/ /ɪn'vaɪtɪd/"
+  },
+  {
+    "vietnamese": "họ được mời",
+    "english": "they are invited",
+    "soundmark": "/ðe/ /ɚ/ /ɪn'vaɪtɪd/"
+  },
+  {
+    "vietnamese": "họ (đã) được mời",
+    "english": "they were invited",
+    "soundmark": "/ðe/ /wɚ/ /ɪn'vaɪtɪd/"
+  },
+  {
+    "vietnamese": "chủ tịch",
+    "english": "the president",
+    "soundmark": "/ðə/ /'prɛzɪdənt/"
+  },
+  {
+    "vietnamese": "bởi tổng thống",
+    "english": "by the president",
+    "soundmark": "/baɪ/ /ðə/ /'prɛzɪdənt/"
+  },
+  {
+    "vietnamese": "họ (trong quá khứ) đã được tổng thống mời",
+    "english": "they were invited by the president",
+    "soundmark": "/ðe/ /wɚ/ /ɪn'vaɪtɪd/ /baɪ/ /ðə/ /'prɛzɪdənt/"
+  },
+  {
+    "vietnamese": "họ (trong quá khứ) đã phủ nhận (rằng)",
+    "english": "they denied that",
+    "soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/"
+  },
+  {
+    "vietnamese": "họ (quá khứ) phủ nhận (rằng) họ (trước đây) đã được tổng thống mời",
+    "english": "they denied that they were invited by the president",
+    "soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/ /ðe/ /wɚ/ /ɪn'vaɪtɪd/ /baɪ/ /ðə/ /'prɛzɪdənt/"
+  },
+  {
+    "vietnamese": "dạy",
+    "english": "to teach",
+    "soundmark": "/tə/ /titʃ/"
+  },
+  {
+    "vietnamese": "dạy (quá khứ phân từ)",
+    "english": "taught",
+    "soundmark": "/tɔt/"
+  },
+  {
+    "vietnamese": "được dạy",
+    "english": "be taught",
+    "soundmark": "/bi/ /tɔt/"
+  },
+  {
+    "vietnamese": "họ được dạy",
+    "english": "they are taught",
+    "soundmark": "/ðe/ /ɚ/ /tɔt/"
+  },
+  {
+    "vietnamese": "họ (đã) được dạy",
+    "english": "they were taught",
+    "soundmark": "/ðe/ /wɚ/ /tɔt/"
+  },
+  {
+    "vietnamese": "giáo sư",
+    "english": "professor",
+    "soundmark": "/prə'fɛsər/"
+  },
+  {
+    "vietnamese": "nổi tiếng",
+    "english": "famous",
+    "soundmark": "/'feməs/"
+  },
+  {
+    "vietnamese": "một giáo sư nổi tiếng",
+    "english": "a famous professor",
+    "soundmark": "/ə/ /'feməs/ /prə'fɛsər/"
+  },
+  {
+    "vietnamese": "thông qua một giáo sư nổi tiếng",
+    "english": "by a famous professor",
+    "soundmark": "/baɪ/ /ə/ /'feməs/ /prə'fɛsər/"
+  },
+  {
+    "vietnamese": "họ (đã) được dạy",
+    "english": "they were taught",
+    "soundmark": "/ðe/ /wɚ/ /tɔt/"
+  },
+  {
+    "vietnamese": "họ được giảng dạy bởi một giáo sư nổi tiếng (trong quá khứ)",
+    "english": "they were taught by a famous professor",
+    "soundmark": "/ðe/ /wɚ/ /tɔt/ /baɪ/ /ə/ /'feməs/ /prə'fɛsər/"
+  },
+  {
+    "vietnamese": "họ (trong quá khứ) đã phủ nhận (rằng)",
+    "english": "they denied that",
+    "soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/"
+  },
+  {
+    "vietnamese": "họ (quá khứ) phủ nhận (rằng) họ (quá khứ) đã được dạy bởi một giáo sư nổi tiếng",
+    "english": "they denied that they were taught by a famous professor",
+    "soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/ /ðe/ /wɚ/ /tɔt/ /baɪ/ /ə/ /'feməs/ /prə'fɛsər/"
+  }
+]

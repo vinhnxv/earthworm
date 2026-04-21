@@ -1,0 +1,667 @@
+[
+  {
+    "vietnamese": "ở đây",
+    "english": "here",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi ở đây",
+    "english": "I am here",
+    "soundmark": "/aɪ/ /æm/ /hɪr/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi ở đây",
+    "english": "I am here",
+    "soundmark": "/aɪ/ /æm/ /hɪr/"
+  },
+  {
+    "vietnamese": "Tôi muốn ở đây",
+    "english": "I want to be here",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "Tôi không muốn ở đây",
+    "english": "I don't want to be here",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "vietnamese": "nơi đó",
+    "english": "there",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "Tôi không muốn đến đó",
+    "english": "I don't want to be there",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+  },
+  {
+    "vietnamese": "Tôi muốn đến đó",
+    "english": "I want to be there",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+  },
+  {
+    "vietnamese": "Tôi không muốn ở đây tôi muốn đến đó",
+    "english": "I don't want to be here I want to be there",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+  },
+  {
+    "vietnamese": "Tôi ở đây",
+    "english": "I am here",
+    "soundmark": "/aɪ/ /æm/ /hɪr/"
+  },
+  {
+    "vietnamese": "khi nào... khi nào",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi tôi ở đây",
+    "english": "when I am here",
+    "soundmark": "/wɛn/ /aɪ/ /æm/ /hɪr/"
+  },
+  {
+    "vietnamese": "Tôi muốn đến đó",
+    "english": "I want to be there",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+  },
+  {
+    "vietnamese": "trong khi tôi ở đây, tôi muốn đến đó",
+    "english": "when I am here I want to be there",
+    "soundmark": "/wɛn/ /aɪ/ /æm/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+  },
+  {
+    "vietnamese": "khi tôi (đã từng) ở đây, tôi (đã từng) muốn đến đó",
+    "english": "when I was here I wanted to be there",
+    "soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /aɪ/ /wɑntɪd/ /tə/ /bi/ /ðɛr/"
+  },
+  {
+    "vietnamese": "giáo viên",
+    "english": "teacher",
+    "soundmark": "/'titʃɚ/"
+  },
+  {
+    "vietnamese": "Tôi là một giáo viên",
+    "english": "I am a teacher",
+    "soundmark": "/aɪ/ /æm/ /ə/ /'titʃɚ/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn trở thành một giáo viên",
+    "english": "I want to be a teacher",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ə/ /'titʃɚ/"
+  },
+  {
+    "vietnamese": "giàu có",
+    "english": "rich",
+    "soundmark": "/rɪtʃ/"
+  },
+  {
+    "vietnamese": "Tôi giàu có",
+    "english": "I am rich",
+    "soundmark": "/aɪ/ /æm/ /rɪtʃ/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn giàu có",
+    "english": "I want to be rich",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /rɪtʃ/"
+  },
+  {
+    "vietnamese": "Tôi ở đây",
+    "english": "I am here",
+    "soundmark": "/aɪ/ /æm/ /hɪr/"
+  },
+  {
+    "vietnamese": "Tôi (đã) ở đây",
+    "english": "I was here",
+    "soundmark": "/aɪ/ /wəz/ /hɪr/"
+  },
+  {
+    "vietnamese": "khi nào... khi nào",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi tôi (quá khứ) ở đây",
+    "english": "when I was here",
+    "soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/"
+  },
+  {
+    "vietnamese": "trước; trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "khi tôi từng ở đây",
+    "english": "when I was here before",
+    "soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "ý; để ý",
+    "english": "to notice",
+    "soundmark": "/tə/ /ˈnotɪs/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi nhận thấy",
+    "english": "I notice",
+    "soundmark": "/aɪ/ /ˈnotɪs/"
+  },
+  {
+    "vietnamese": "cái đó",
+    "english": "that",
+    "soundmark": "/ðæt/"
+  },
+  {
+    "vietnamese": "Tôi nhận thấy rằng",
+    "english": "I notice that",
+    "soundmark": "/aɪ/ /ˈnotɪs/ /ðæt/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) nhận thấy rằng",
+    "english": "I noticed that",
+    "soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/"
+  },
+  {
+    "vietnamese": "Tôi đã không nhận thấy điều đó (trong quá khứ)",
+    "english": "I didn't notice that",
+    "soundmark": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/"
+  },
+  {
+    "vietnamese": "khi tôi từng ở đây",
+    "english": "when I was here before",
+    "soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "Tôi đã không nhận thấy điều đó khi tôi ở đây trước đây",
+    "english": "I didn't notice that when I was here before",
+    "soundmark": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/ /wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) nhận thấy",
+    "english": "I noticed",
+    "soundmark": "/aɪ/ /ˈnotɪst/"
+  },
+  {
+    "vietnamese": "điều gì đó",
+    "english": "something",
+    "soundmark": "/'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "sai",
+    "english": "wrong",
+    "soundmark": "/rɔŋ/"
+  },
+  {
+    "vietnamese": "có gì đó không ổn",
+    "english": "something wrong",
+    "soundmark": "/'sʌmθɪŋ/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "nơi đó",
+    "english": "there",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "có gì đó không ổn ở đó",
+    "english": "something wrong is there",
+    "soundmark": "/'sʌmθɪŋ/ /rɔŋ/ /ɪz/ /ðɛr/"
+  },
+  {
+    "vietnamese": "hiện hữu",
+    "english": "there is",
+    "soundmark": "/ðɛr/ /ɪz/"
+  },
+  {
+    "vietnamese": "có gì đó không ổn",
+    "english": "there is something wrong",
+    "soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "ở đây",
+    "english": "here",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "vietnamese": "có gì đó không ổn ở đây",
+    "english": "there is something wrong here",
+    "soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+  },
+  {
+    "vietnamese": "có điều gì đó không ổn ở đây (trong quá khứ)",
+    "english": "there was something wrong here",
+    "soundmark": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) nhận thấy",
+    "english": "I noticed",
+    "soundmark": "/aɪ/ /ˈnotɪst/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) nhận thấy có điều gì đó không ổn ở đây (quá khứ)",
+    "english": "I noticed there was something wrong here",
+    "soundmark": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+  },
+  {
+    "vietnamese": "cái đó",
+    "english": "that",
+    "soundmark": "/ðæt/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) nhận thấy (rằng) có điều gì đó không ổn ở đây (quá khứ)",
+    "english": "I noticed that there was something wrong here",
+    "soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+  },
+  {
+    "vietnamese": "khác biệt",
+    "english": "different",
+    "soundmark": "/'dɪfrənt/"
+  },
+  {
+    "vietnamese": "điều gì đó",
+    "english": "something",
+    "soundmark": "/'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "một cái gì đó khác biệt",
+    "english": "something different",
+    "soundmark": "/'sʌmθɪŋ/ /'dɪfrənt/"
+  },
+  {
+    "vietnamese": "có điều gì đó khác biệt",
+    "english": "there is something different",
+    "soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/"
+  },
+  {
+    "vietnamese": "ở đây",
+    "english": "here",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "vietnamese": "có điều gì đó khác biệt ở đây",
+    "english": "there is something different here",
+    "soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+  },
+  {
+    "vietnamese": "có điều gì đó khác biệt ở đây (trong quá khứ)",
+    "english": "there was something different here",
+    "soundmark": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) nhận thấy",
+    "english": "I noticed",
+    "soundmark": "/aɪ/ /ˈnotɪst/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) nhận thấy rằng có (quá khứ) có điều gì đó khác biệt ở đây",
+    "english": "I noticed there was something different here",
+    "soundmark": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+  },
+  {
+    "vietnamese": "cái đó",
+    "english": "that",
+    "soundmark": "/ðæt/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) nhận thấy (rằng) có (quá khứ) điều gì đó khác biệt ở đây (quá khứ)",
+    "english": "I noticed that there was something different here",
+    "soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+  },
+  {
+    "vietnamese": "khác biệt",
+    "english": "different",
+    "soundmark": "/'dɪfrənt/"
+  },
+  {
+    "vietnamese": "sự khác biệt",
+    "english": "difference",
+    "soundmark": "/'dɪfrəns/"
+  },
+  {
+    "vietnamese": "giữa",
+    "english": "between",
+    "soundmark": "/bɪ'twin/"
+  },
+  {
+    "vietnamese": "và",
+    "english": "and",
+    "soundmark": "/ənd/"
+  },
+  {
+    "vietnamese": "bạn và tôi",
+    "english": "you and me",
+    "soundmark": "/ju/ /ənd/ /mi/"
+  },
+  {
+    "vietnamese": "giữa bạn và tôi",
+    "english": "between you and me",
+    "soundmark": "/bɪ'twin/ /ju/ /ənd/ /mi/"
+  },
+  {
+    "vietnamese": "sự khác biệt giữa bạn và tôi",
+    "english": "difference between you and me",
+    "soundmark": "/'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+  },
+  {
+    "vietnamese": "lớn",
+    "english": "big",
+    "soundmark": "/bɪɡ/"
+  },
+  {
+    "vietnamese": "một sự khác biệt lớn",
+    "english": "a big difference",
+    "soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/"
+  },
+  {
+    "vietnamese": "sự khác biệt lớn giữa bạn và tôi",
+    "english": "a big difference between you and me",
+    "soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+  },
+  {
+    "vietnamese": "nơi đó",
+    "english": "there",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "có một sự khác biệt lớn giữa bạn và tôi",
+    "english": "a big difference between you and me is there",
+    "soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/ /ɪz/ /ðɛr/"
+  },
+  {
+    "vietnamese": "hiện hữu",
+    "english": "there is",
+    "soundmark": "/ðɛr/ /ɪz/"
+  },
+  {
+    "vietnamese": "có một sự khác biệt lớn giữa bạn và tôi",
+    "english": "there is a big difference between you and me",
+    "soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+  },
+  {
+    "vietnamese": "cánh tay",
+    "english": "weapon",
+    "soundmark": "/ˈwɛpən/"
+  },
+  {
+    "vietnamese": "dụng cụ",
+    "english": "tool",
+    "soundmark": "/tul/"
+  },
+  {
+    "vietnamese": "một vũ khí và một công cụ",
+    "english": "a weapon and a tool",
+    "soundmark": "/ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+  },
+  {
+    "vietnamese": "giữa",
+    "english": "between",
+    "soundmark": "/bɪ'twin/"
+  },
+  {
+    "vietnamese": "giữa vũ khí và công cụ",
+    "english": "between a weapon and a tool",
+    "soundmark": "/bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+  },
+  {
+    "vietnamese": "có một sự khác biệt lớn",
+    "english": "there is a big difference",
+    "soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/"
+  },
+  {
+    "vietnamese": "có sự khác biệt lớn giữa vũ khí và công cụ",
+    "english": "there is a big difference between a weapon and a tool",
+    "soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+  },
+  {
+    "vietnamese": "chính xác",
+    "english": "right",
+    "soundmark": "/raɪt/"
+  },
+  {
+    "vietnamese": "sai lầm",
+    "english": "wrong",
+    "soundmark": "/rɔŋ/"
+  },
+  {
+    "vietnamese": "đúng và sai",
+    "english": "right and wrong",
+    "soundmark": "/raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "giữa",
+    "english": "between",
+    "soundmark": "/bɪ'twin/"
+  },
+  {
+    "vietnamese": "giữa đúng và sai",
+    "english": "between right and wrong",
+    "soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "sự khác biệt",
+    "english": "difference",
+    "soundmark": "/'dɪfrəns/"
+  },
+  {
+    "vietnamese": "sự khác biệt (sự khác biệt)",
+    "english": "the difference",
+    "soundmark": "/ðə/ /'dɪfrəns/"
+  },
+  {
+    "vietnamese": "sự khác biệt giữa đúng và sai",
+    "english": "the difference between right and wrong",
+    "soundmark": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "biết sự khác biệt giữa đúng và sai",
+    "english": "to know the difference between right and wrong",
+    "soundmark": "/tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "chúng tôi",
+    "english": "we",
+    "soundmark": "/wi/"
+  },
+  {
+    "vietnamese": "chúng tôi biết",
+    "english": "we know",
+    "soundmark": "/wi/ /no/"
+  },
+  {
+    "vietnamese": "tất cả; tất cả",
+    "english": "all",
+    "soundmark": "/ɔl/"
+  },
+  {
+    "vietnamese": "nó được biết đến",
+    "english": "we all know",
+    "soundmark": "/wi/ /ɔl/ /no/"
+  },
+  {
+    "vietnamese": "tất cả chúng ta đều biết sự khác biệt giữa đúng và sai",
+    "english": "we all know the difference between right and wrong",
+    "soundmark": "/wi/ /ɔl/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "bạn phải biết",
+    "english": "you have to know",
+    "soundmark": "/ju/ /hæv/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "bạn phải biết phân biệt đúng và sai",
+    "english": "you have to know the difference between right and wrong",
+    "soundmark": "/ju/ /hæv/ /tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "sự khác biệt",
+    "english": "the difference",
+    "soundmark": "/ðə/ /'dɪfrəns/"
+  },
+  {
+    "vietnamese": "nói lên sự khác biệt",
+    "english": "to tell the difference",
+    "soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/"
+  },
+  {
+    "vietnamese": "giữa",
+    "english": "between",
+    "soundmark": "/bɪ'twin/"
+  },
+  {
+    "vietnamese": "đúng và sai",
+    "english": "right and wrong",
+    "soundmark": "/raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "giữa đúng và sai",
+    "english": "between right and wrong",
+    "soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "sự khác biệt giữa đúng và sai",
+    "english": "the difference between right and wrong",
+    "soundmark": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "phân biệt đúng sai",
+    "english": "to tell the difference between right and wrong",
+    "soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "lớn hơn; cũ",
+    "english": "old",
+    "soundmark": "/old/"
+  },
+  {
+    "vietnamese": "đủ",
+    "english": "enough",
+    "soundmark": "/ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "đủ tuổi",
+    "english": "old enough",
+    "soundmark": "/old/ /ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "bạn là",
+    "english": "you are",
+    "soundmark": "/ju/ /ɚ/"
+  },
+  {
+    "vietnamese": "bạn đủ tuổi rồi",
+    "english": "you are old enough",
+    "soundmark": "/ju/ /ɚ/ /old/ /ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "bạn đã đủ lớn để biết đúng sai",
+    "english": "you are old enough to tell the difference between right and wrong",
+    "soundmark": "/ju/ /ɚ/ /old/ /ɪ'nʌf/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "đứa trẻ",
+    "english": "child",
+    "soundmark": "/tʃaɪld/"
+  },
+  {
+    "vietnamese": "những đứa trẻ",
+    "english": "children",
+    "soundmark": "/'tʃɪldrən/"
+  },
+  {
+    "vietnamese": "của chúng tôi",
+    "english": "our",
+    "soundmark": "/'aʊɚ/"
+  },
+  {
+    "vietnamese": "con cái của chúng tôi",
+    "english": "our children",
+    "soundmark": "/'aʊɚ/ /'tʃɪldrən/"
+  },
+  {
+    "vietnamese": "dạy",
+    "english": "to teach",
+    "soundmark": "/tə/ /titʃ/"
+  },
+  {
+    "vietnamese": "chúng ta cần phải",
+    "english": "we need",
+    "soundmark": "/wi/ /nid/"
+  },
+  {
+    "vietnamese": "chúng ta cần dạy",
+    "english": "we need to teach",
+    "soundmark": "/wi/ /nid/ /tə/ /titʃ/"
+  },
+  {
+    "vietnamese": "chúng ta cần dạy con cái chúng ta",
+    "english": "we need to teach our children",
+    "soundmark": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/"
+  },
+  {
+    "vietnamese": "nói lên sự khác biệt",
+    "english": "to tell the difference",
+    "soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/"
+  },
+  {
+    "vietnamese": "giữa đúng và sai",
+    "english": "between right and wrong",
+    "soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "phân biệt đúng sai",
+    "english": "to tell the difference between right and wrong",
+    "soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "làm thế nào để phân biệt đúng sai",
+    "english": "how to tell the difference between right and wrong",
+    "soundmark": "/haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "vietnamese": "chúng ta cần dạy con cách phân biệt đúng sai",
+    "english": "we need to teach our children how to tell the difference between right and wrong",
+    "soundmark": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/ /haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  }
+]

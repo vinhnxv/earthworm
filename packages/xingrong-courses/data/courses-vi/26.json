@@ -1,0 +1,767 @@
+[
+  {
+    "vietnamese": "nghe; nghe",
+    "english": "to hear",
+    "soundmark": "/tə/ /hɪr/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "nghe tôi nói",
+    "english": "to hear me",
+    "soundmark": "/tə/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn đã nghe tôi nói",
+    "english": "you hear me",
+    "soundmark": "/ju/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy tôi",
+    "english": "you can hear me",
+    "soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy tôi không?",
+    "english": "can you hear me",
+    "soundmark": "/kæn/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy tôi",
+    "english": "you can hear me",
+    "soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "không thể",
+    "english": "can't",
+    "soundmark": "/kænt/"
+  },
+  {
+    "vietnamese": "bạn không thể nghe thấy tôi",
+    "english": "you can't hear me",
+    "soundmark": "/ju/ /kænt/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn không thể nghe thấy tôi à?",
+    "english": "can't you hear me",
+    "soundmark": "/kænt/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn không thể nghe thấy tôi",
+    "english": "you can't hear me",
+    "soundmark": "/ju/ /kænt/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn đã nghe tôi nói",
+    "english": "you hear me",
+    "soundmark": "/ju/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "bạn không nghe thấy tôi",
+    "english": "you don't hear me",
+    "soundmark": "/ju/ /dont/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn không nghe tôi nói à?",
+    "english": "don't you hear me",
+    "soundmark": "/dont/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn không nghe thấy tôi",
+    "english": "you don't hear me",
+    "soundmark": "/ju/ /dont/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn có nghe tôi nói không",
+    "english": "you do hear me",
+    "soundmark": "/ju/ /du/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn có nghe thấy tôi không?",
+    "english": "do you hear me",
+    "soundmark": "/du/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy tôi",
+    "english": "you can hear me",
+    "soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy tôi không?",
+    "english": "can you hear me",
+    "soundmark": "/kæn/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn không nghe thấy tôi",
+    "english": "you don't hear me",
+    "soundmark": "/ju/ /dont/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn có nghe thấy tôi không?",
+    "english": "do you hear me",
+    "soundmark": "/du/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn (quá khứ) có nghe tôi nói không?",
+    "english": "did you hear me",
+    "soundmark": "/dɪd/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn (quá khứ) đã nghe tôi nói",
+    "english": "you did hear me",
+    "soundmark": "/ju/ /dɪd/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "làm việc này",
+    "english": "to do it",
+    "soundmark": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn làm điều này",
+    "english": "you do it",
+    "soundmark": "/ju/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "bạn đã không làm điều này",
+    "english": "you don't do it",
+    "soundmark": "/ju/ /dont/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn đã làm cái này chưa",
+    "english": "you do do it",
+    "soundmark": "/ju/ /du/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn đã không làm điều này",
+    "english": "you don't do it",
+    "soundmark": "/ju/ /dont/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn đã không làm điều đó (trong quá khứ)",
+    "english": "you didn't do it",
+    "soundmark": "/ju/ /ˈdɪdnt/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn đã làm điều này (trong quá khứ)",
+    "english": "you did do it",
+    "soundmark": "/ju/ /dɪd/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn đã làm điều này (trong quá khứ) chưa?",
+    "english": "did you do it",
+    "soundmark": "/dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "tại sao",
+    "english": "why",
+    "soundmark": "/waɪ/"
+  },
+  {
+    "vietnamese": "khi",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "ở đâu",
+    "english": "where",
+    "soundmark": "/wɛr/"
+  },
+  {
+    "vietnamese": "cái gì",
+    "english": "what",
+    "soundmark": "/wɑt/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "bạn đã làm điều này như thế nào (trong quá khứ)?",
+    "english": "how did you do it",
+    "soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "tại sao",
+    "english": "why",
+    "soundmark": "/waɪ/"
+  },
+  {
+    "vietnamese": "tại sao bạn làm điều này (trong quá khứ)?",
+    "english": "why did you do it",
+    "soundmark": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "khi",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "bạn đã làm điều này khi nào (trong quá khứ)?",
+    "english": "when did you do it",
+    "soundmark": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "ở đâu",
+    "english": "where",
+    "soundmark": "/wɛr/"
+  },
+  {
+    "vietnamese": "bạn đã làm điều này ở đâu (trong quá khứ)?",
+    "english": "where did you do it",
+    "soundmark": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "cái gì",
+    "english": "what",
+    "soundmark": "/wɑt/"
+  },
+  {
+    "vietnamese": "bạn đã làm điều này (trong quá khứ) chưa?",
+    "english": "did you do it",
+    "soundmark": "/dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn đã làm gì (trong quá khứ)?",
+    "english": "what did you do",
+    "soundmark": "/wɑt/ /dɪd/ /ju/ /du/"
+  },
+  {
+    "vietnamese": "tìm tới",
+    "english": "to find",
+    "soundmark": "/tə/ /faɪnd/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "tìm tôi",
+    "english": "to find me",
+    "soundmark": "/tə/ /faɪnd/ /mi/"
+  },
+  {
+    "vietnamese": "bạn thế nào (trong quá khứ)",
+    "english": "how did you",
+    "soundmark": "/haʊ/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "làm thế nào bạn tìm thấy tôi (trong quá khứ)?",
+    "english": "how did you find me",
+    "soundmark": "/haʊ/ /dɪd/ /ju/ /faɪnd/ /mi/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "tên",
+    "english": "name",
+    "soundmark": "/nem/"
+  },
+  {
+    "vietnamese": "tên cô ấy",
+    "english": "her name",
+    "soundmark": "/hɚ/ /nem/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "biết tên cô ấy",
+    "english": "to know her name",
+    "soundmark": "/tə/ /no/ /hɚ/ /nem/"
+  },
+  {
+    "vietnamese": "bạn thế nào (trong quá khứ)",
+    "english": "how did you",
+    "soundmark": "/haʊ/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "làm sao bạn biết tên cô ấy (trong quá khứ)?",
+    "english": "how did you know her name",
+    "soundmark": "/haʊ/ /dɪd/ /ju/ /no/ /hɚ/ /nem/"
+  },
+  {
+    "vietnamese": "điện thoại",
+    "english": "phone",
+    "soundmark": "/fon/"
+  },
+  {
+    "vietnamese": "số",
+    "english": "number",
+    "soundmark": "/'nʌmbɚ/"
+  },
+  {
+    "vietnamese": "số điện thoại",
+    "english": "phone number",
+    "soundmark": "/fon/ /'nʌmbɚ/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "số điện thoại của ta",
+    "english": "my phone number",
+    "soundmark": "/maɪ/ /fon/ /'nʌmbɚ/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "biết số điện thoại của tôi",
+    "english": "to know my phone number",
+    "soundmark": "/tə/ /no/ /maɪ/ /fon/ /'nʌmbɚ/"
+  },
+  {
+    "vietnamese": "bạn thế nào (trong quá khứ)",
+    "english": "how did you",
+    "soundmark": "/haʊ/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "làm sao bạn (trước đây) biết số điện thoại của tôi?",
+    "english": "how did you know my phone number",
+    "soundmark": "/haʊ/ /dɪd/ /ju/ /no/ /maɪ/ /fon/ /'nʌmbɚ/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "làm việc này",
+    "english": "to do it",
+    "soundmark": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "to decide",
+    "soundmark": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "quyết định làm điều này",
+    "english": "to decide to do it",
+    "soundmark": "/tə/ /dɪ'saɪd/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "tại sao bạn (quá khứ)",
+    "english": "why did you",
+    "soundmark": "/waɪ/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "tại sao bạn (trước đây) lại quyết định làm điều này?",
+    "english": "why did you decide to do it",
+    "soundmark": "/waɪ/ /dɪd/ /ju/ /dɪ'saɪd/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "rời đi",
+    "english": "to leave",
+    "soundmark": "/tə/ /liv/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "lại cho tôi",
+    "english": "to leave me",
+    "soundmark": "/tə/ /liv/ /mi/"
+  },
+  {
+    "vietnamese": "tại sao bạn (quá khứ)",
+    "english": "why did you",
+    "soundmark": "/waɪ/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "tại sao em lại rời xa anh (trong quá khứ)?",
+    "english": "why did you leave me",
+    "soundmark": "/waɪ/ /dɪd/ /ju/ /liv/ /mi/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to say",
+    "soundmark": "/tə/ /seɪ/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "nói thế",
+    "english": "to say it",
+    "soundmark": "/tə/ /seɪ/ /ɪt/"
+  },
+  {
+    "vietnamese": "tại sao bạn (quá khứ)",
+    "english": "why did you",
+    "soundmark": "/waɪ/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "tại sao bạn lại nói như vậy (trong quá khứ)?",
+    "english": "why did you say it",
+    "soundmark": "/waɪ/ /dɪd/ /ju/ /seɪ/ /ɪt/"
+  },
+  {
+    "vietnamese": "đến",
+    "english": "to get",
+    "soundmark": "/tə/ /ɡɛt/"
+  },
+  {
+    "vietnamese": "ở đây",
+    "english": "here",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "vietnamese": "đến đây",
+    "english": "to get here",
+    "soundmark": "/tə/ /ɡɛt/ /hɪr/"
+  },
+  {
+    "vietnamese": "bạn đã làm khi nào (trong quá khứ)",
+    "english": "when did you",
+    "soundmark": "/wɛn/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "bạn đã đến đây (trong quá khứ) khi nào?",
+    "english": "when did you get here",
+    "soundmark": "/wɛn/ /dɪd/ /ju/ /ɡɛt/ /hɪr/"
+  },
+  {
+    "vietnamese": "nhìn thấy",
+    "english": "to meet",
+    "soundmark": "/tə/ /mit/"
+  },
+  {
+    "vietnamese": "ông, chú, anh ấy",
+    "english": "him",
+    "soundmark": "/hɪm/"
+  },
+  {
+    "vietnamese": "gặp anh ấy",
+    "english": "to meet him",
+    "soundmark": "/tə/ /mit/ /hɪm/"
+  },
+  {
+    "vietnamese": "bạn đã làm khi nào (trong quá khứ)",
+    "english": "when did you",
+    "soundmark": "/wɛn/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "bạn đã gặp anh ấy (trong quá khứ) khi nào?",
+    "english": "when did you meet him",
+    "soundmark": "/wɛn/ /dɪd/ /ju/ /mit/ /hɪm/"
+  },
+  {
+    "vietnamese": "chỗ ở",
+    "english": "home",
+    "soundmark": "/hom/"
+  },
+  {
+    "vietnamese": "làm việc",
+    "english": "work",
+    "soundmark": "/wɝk/"
+  },
+  {
+    "vietnamese": "bài tập về nhà",
+    "english": "homework",
+    "soundmark": "/'homwɝk/"
+  },
+  {
+    "vietnamese": "của bạn",
+    "english": "your",
+    "soundmark": "/jʊr/"
+  },
+  {
+    "vietnamese": "bài tập về nhà của bạn",
+    "english": "your homework",
+    "soundmark": "/jʊr/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "to finish",
+    "soundmark": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "hoàn thành bài tập về nhà của bạn",
+    "english": "to finish your homework",
+    "soundmark": "/tə/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "bạn đã làm khi nào (trong quá khứ)",
+    "english": "when did you",
+    "soundmark": "/wɛn/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "khi nào bạn đã hoàn thành bài tập về nhà (trong quá khứ)?",
+    "english": "when did you finish your homework",
+    "soundmark": "/wɛn/ /dɪd/ /ju/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "tìm tới",
+    "english": "to find",
+    "soundmark": "/tə/ /faɪnd/"
+  },
+  {
+    "vietnamese": "họ / họ / họ",
+    "english": "them",
+    "soundmark": "/ðəm/"
+  },
+  {
+    "vietnamese": "tìm họ",
+    "english": "to find them",
+    "soundmark": "/tə/ /faɪnd/ /ðəm/"
+  },
+  {
+    "vietnamese": "bạn đã ở đâu (trong quá khứ)",
+    "english": "where did you",
+    "soundmark": "/wɛr/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "bạn đã tìm thấy chúng ở đâu (trong quá khứ)?",
+    "english": "where did you find them",
+    "soundmark": "/wɛr/ /dɪd/ /ju/ /faɪnd/ /ðəm/"
+  },
+  {
+    "vietnamese": "mua",
+    "english": "to buy",
+    "soundmark": "/tə/ /baɪ/"
+  },
+  {
+    "vietnamese": "cái này",
+    "english": "this",
+    "soundmark": "/ðɪs/"
+  },
+  {
+    "vietnamese": "mua cái này",
+    "english": "to buy this",
+    "soundmark": "/tə/ /baɪ/ /ðɪs/"
+  },
+  {
+    "vietnamese": "bạn đã ở đâu (trong quá khứ)",
+    "english": "where did you",
+    "soundmark": "/wɛr/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "bạn đã mua cái này ở đâu (trước đây)?",
+    "english": "where did you buy this",
+    "soundmark": "/wɛr/ /dɪd/ /ju/ /baɪ/ /ðɪs/"
+  },
+  {
+    "vietnamese": "ngủ",
+    "english": "to sleep",
+    "soundmark": "/tə/ /slip/"
+  },
+  {
+    "vietnamese": "bạn đã ở đâu (trong quá khứ)",
+    "english": "where did you",
+    "soundmark": "/wɛr/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "bạn đã ngủ ở đâu (trước đây)?",
+    "english": "where did you sleep",
+    "soundmark": "/wɛr/ /dɪd/ /ju/ /slip/"
+  },
+  {
+    "vietnamese": "lùi",
+    "english": "last",
+    "soundmark": "/læst/"
+  },
+  {
+    "vietnamese": "ban đêm",
+    "english": "night",
+    "soundmark": "/naɪt/"
+  },
+  {
+    "vietnamese": "tối hôm qua",
+    "english": "last night",
+    "soundmark": "/læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "đêm qua bạn (trước đây) ngủ ở đâu?",
+    "english": "where did you sleep last night",
+    "soundmark": "/wɛr/ /dɪd/ /ju/ /slip/ /læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to say",
+    "soundmark": "/tə/ /seɪ/"
+  },
+  {
+    "vietnamese": "bạn đã làm gì (trong quá khứ)",
+    "english": "what did you",
+    "soundmark": "/wɑt/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "bạn đã nói gì (trong quá khứ)?",
+    "english": "what did you say",
+    "soundmark": "/wɑt/ /dɪd/ /ju/ /seɪ/"
+  },
+  {
+    "vietnamese": "học",
+    "english": "to learn",
+    "soundmark": "/tə/ /lɝn/"
+  },
+  {
+    "vietnamese": "bạn đã làm gì (trong quá khứ)",
+    "english": "what did you",
+    "soundmark": "/wɑt/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "bạn đã học được gì (trong quá khứ)?",
+    "english": "what did you learn",
+    "soundmark": "/wɑt/ /dɪd/ /ju/ /lɝn/"
+  },
+  {
+    "vietnamese": "tìm tới",
+    "english": "to find",
+    "soundmark": "/tə/ /faɪnd/"
+  },
+  {
+    "vietnamese": "bạn đã làm gì (trong quá khứ)",
+    "english": "what did you",
+    "soundmark": "/wɑt/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "bạn đã tìm thấy gì (trong quá khứ)?",
+    "english": "what did you find",
+    "soundmark": "/wɑt/ /dɪd/ /ju/ /faɪnd/"
+  },
+  {
+    "vietnamese": "nghe",
+    "english": "to hear",
+    "soundmark": "/tə/ /hɪr/"
+  },
+  {
+    "vietnamese": "bạn đã làm gì (trong quá khứ)",
+    "english": "what did you",
+    "soundmark": "/wɑt/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "bạn đã nghe thấy gì (trong quá khứ)?",
+    "english": "what did you hear",
+    "soundmark": "/wɑt/ /dɪd/ /ju/ /hɪr/"
+  },
+  {
+    "vietnamese": "gặp",
+    "english": "to see",
+    "soundmark": "/tə/ /si/"
+  },
+  {
+    "vietnamese": "bạn đã làm gì (trong quá khứ)",
+    "english": "what did you",
+    "soundmark": "/wɑt/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "bạn đã nhìn thấy gì (trong quá khứ)?",
+    "english": "what did you see",
+    "soundmark": "/wɑt/ /dɪd/ /ju/ /si/"
+  },
+  {
+    "vietnamese": "bạn đã làm điều này như thế nào (trong quá khứ)?",
+    "english": "how did you do it",
+    "soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "tại sao bạn làm điều này (trong quá khứ)?",
+    "english": "why did you do it",
+    "soundmark": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn đã làm điều này khi nào (trong quá khứ)?",
+    "english": "when did you do it",
+    "soundmark": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn đã làm điều này ở đâu (trong quá khứ)?",
+    "english": "where did you do it",
+    "soundmark": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn đã làm gì (trong quá khứ)?",
+    "english": "what did you do",
+    "soundmark": "/wɑt/ /dɪd/ /ju/ /du/"
+  },
+  {
+    "vietnamese": "làm thế nào mà bạn (quá khứ)...?",
+    "english": "how did you",
+    "soundmark": "/haʊ/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "tại sao bạn (quá khứ)...?",
+    "english": "why did you",
+    "soundmark": "/waɪ/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "khi nào bạn (quá khứ)...?",
+    "english": "when did you",
+    "soundmark": "/wɛn/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "bạn đã ở đâu (trong quá khứ)...?",
+    "english": "where did you",
+    "soundmark": "/wɛr/ /dɪd/ /ju/"
+  },
+  {
+    "vietnamese": "bạn đã làm gì (trong quá khứ)...?",
+    "english": "what did you",
+    "soundmark": "/wɑt/ /dɪd/ /ju/"
+  }
+]

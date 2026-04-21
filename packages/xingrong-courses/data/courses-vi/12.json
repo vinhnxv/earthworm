@@ -1,0 +1,2832 @@
+[
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "làm việc này",
+    "english": "to do it",
+    "soundmark": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "Tôi thích",
+    "english": "I like",
+    "soundmark": "/aɪ/ /laɪk/"
+  },
+  {
+    "vietnamese": "Tôi thích làm điều này",
+    "english": "I like to do it",
+    "soundmark": "/aɪ/ /laɪk/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "không thích",
+    "english": "don't like",
+    "soundmark": "/dont/ /laɪk/"
+  },
+  {
+    "vietnamese": "Tôi không thích làm điều này",
+    "english": "I don't like to do it",
+    "soundmark": "/aɪ/ /dont/ /laɪk/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bây giờ",
+    "english": "now",
+    "soundmark": "/naʊ/"
+  },
+  {
+    "vietnamese": "Bây giờ tôi thích làm điều này",
+    "english": "I like to do it now",
+    "soundmark": "/aɪ/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "vietnamese": "Tôi không thích làm điều này ngay bây giờ",
+    "english": "I don't like to do it now",
+    "soundmark": "/aɪ/ /dont/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "nói với bạn",
+    "english": "to tell you",
+    "soundmark": "/tə/ /tɛl/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi cần nói với bạn",
+    "english": "I need to tell you",
+    "soundmark": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/"
+  },
+  {
+    "vietnamese": "điều gì đó",
+    "english": "something",
+    "soundmark": "/'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "điều gì đó quan trọng",
+    "english": "something important",
+    "soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Tôi cần nói với anh điều này",
+    "english": "I need to tell you something",
+    "soundmark": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi cần nói với bạn một điều quan trọng",
+    "english": "I need to tell you something important",
+    "soundmark": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "Điều này rất quan trọng",
+    "english": "It is important",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "rất",
+    "english": "very",
+    "soundmark": "/ˈvɛri/"
+  },
+  {
+    "vietnamese": "Nó rất quan trọng",
+    "english": "It is very important",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "đối với tôi",
+    "english": "for me",
+    "soundmark": "/fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Điều đó rất quan trọng đối với tôi",
+    "english": "It is important for me",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Nó rất quan trọng đối với tôi",
+    "english": "It is very important for me",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "tốt",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "vietnamese": "Rất tốt",
+    "english": "It is good",
+    "soundmark": "/ɪt/ /ɪz/ /ɡʊd/"
+  },
+  {
+    "vietnamese": "ở đây",
+    "english": "to be here",
+    "soundmark": "/tə/ /bi/ /hɪr/"
+  },
+  {
+    "vietnamese": "Thật tốt khi được ở đây (nó)",
+    "english": "It is good to be here",
+    "soundmark": "/ɪt/ /ɪz/ /ɡʊd/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "vietnamese": "Thật tuyệt khi được ở đây (nó)",
+    "english": "It is very good to be here",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɡʊd/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "vietnamese": "gặp bạn",
+    "english": "to see you",
+    "soundmark": "/tə/ /si/ /ju/"
+  },
+  {
+    "vietnamese": "Rất vui được gặp bạn (nó)",
+    "english": "It is very good to see you",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɡʊd/ /tə/ /si/ /ju/"
+  },
+  {
+    "vietnamese": "mỗi ngày",
+    "english": "every day",
+    "soundmark": "/'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "Rất vui được gặp bạn (nó) mỗi ngày",
+    "english": "It is very good to see you every day",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɡʊd/ /tə/ /si/ /ju/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết",
+    "english": "I want to know",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết liệu điều đó có khả thi không",
+    "english": "I want to know if it is possible",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /'pɑsəbl/"
+  },
+  {
+    "vietnamese": "Điều này rất quan trọng",
+    "english": "It is important",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết điều đó có quan trọng không",
+    "english": "I want to know if it is important",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "đối với tôi",
+    "english": "for me",
+    "soundmark": "/fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Điều đó rất quan trọng đối với tôi",
+    "english": "It is important for me",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "phải làm",
+    "english": "have to do",
+    "soundmark": "/hæv/ /tə/ /du/"
+  },
+  {
+    "vietnamese": "Tôi phải làm điều này",
+    "english": "I have to do it",
+    "soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "Tôi phải làm điều này hôm nay",
+    "english": "I have to do it today",
+    "soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "vietnamese": "vì vậy",
+    "english": "so",
+    "soundmark": "/so/"
+  },
+  {
+    "vietnamese": "Điều đó rất quan trọng với tôi, vì vậy tôi phải làm điều đó",
+    "english": "It is important for me so I have to do it",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "Điều đó rất quan trọng với tôi, vì vậy tôi phải làm điều đó ngay hôm nay",
+    "english": "It is important for me so I have to do it today",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "vietnamese": "mỗi ngày",
+    "english": "every day",
+    "soundmark": "/'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "Điều đó rất quan trọng với tôi, vì vậy tôi phải làm điều đó mỗi ngày",
+    "english": "It is important for me so I have to do it every day",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "rất",
+    "english": "very",
+    "soundmark": "/ˈvɛri/"
+  },
+  {
+    "vietnamese": "Nó rất quan trọng đối với tôi vì vậy tôi phải làm điều này mỗi ngày",
+    "english": "It is very important for me so I have to do it every day",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "bây giờ",
+    "english": "now",
+    "soundmark": "/naʊ/"
+  },
+  {
+    "vietnamese": "Nó rất quan trọng đối với tôi, vì vậy tôi phải làm điều đó ngay bây giờ",
+    "english": "It is very important for me so I have to do it now",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "vietnamese": "không quan trọng",
+    "english": "not important",
+    "soundmark": "/nɑt/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Không quan trọng",
+    "english": "It is not important",
+    "soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Nó không quan trọng với tôi",
+    "english": "It is not important for me",
+    "soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "không cần phải làm điều đó",
+    "english": "don't have to do",
+    "soundmark": "/dont/ /hæv/ /tə/ /du/"
+  },
+  {
+    "vietnamese": "Tôi không cần phải làm điều này",
+    "english": "I don't have to do it",
+    "soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bây giờ",
+    "english": "now",
+    "soundmark": "/naʊ/"
+  },
+  {
+    "vietnamese": "Tôi không phải làm điều này ngay bây giờ",
+    "english": "I don't have to do it now",
+    "soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "vietnamese": "vì vậy",
+    "english": "so",
+    "soundmark": "/so/"
+  },
+  {
+    "vietnamese": "Điều đó không quan trọng với tôi, vì vậy tôi không phải làm điều đó ngay bây giờ",
+    "english": "It is not important for me so I don't have to do it now",
+    "soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "vietnamese": "Tôi thích ăn món ăn này",
+    "english": "I like to eat the food",
+    "soundmark": "/aɪ/ /laɪk/ /tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "vietnamese": "Tôi muốn làm điều này hôm nay",
+    "english": "I want to do it today",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "vietnamese": "Tôi cần nói với bạn một điều quan trọng",
+    "english": "I need to tell you something important",
+    "soundmark": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Tôi phải làm quen với cô càng sớm càng tốt",
+    "english": "I have to know you soon",
+    "soundmark": "/aɪ/ /hæv/ /tə/ /no/ /ju/ /sun/"
+  },
+  {
+    "vietnamese": "Thật tốt khi được ở đây (nó)",
+    "english": "It is good to be here",
+    "soundmark": "/ɪt/ /ɪz/ /ɡʊd/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "vietnamese": "Điều đó rất quan trọng đối với tôi",
+    "english": "It is important for me",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Bây giờ không thể làm điều này (nó)",
+    "english": "It is impossible to do it now",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi là",
+    "english": "I am",
+    "soundmark": "/aɪ/ /æm/"
+  },
+  {
+    "vietnamese": "Tôi quan trọng",
+    "english": "I am important",
+    "soundmark": "/aɪ/ /æm/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết",
+    "english": "I want to know",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết tôi có quan trọng không",
+    "english": "I want to know if I am important",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "cần biết",
+    "english": "need to know",
+    "soundmark": "/nid/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "Tôi cần biết liệu tôi có quan trọng không",
+    "english": "I need to know if I am important",
+    "soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "nói với tôi",
+    "english": "to tell me",
+    "soundmark": "/tə/ /tɛl/ /mi/"
+  },
+  {
+    "vietnamese": "sự thật",
+    "english": "the truth",
+    "soundmark": "/ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "hãy cho tôi biết sự thật",
+    "english": "to tell me the truth",
+    "soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "Cô muốn nói sự thật với tôi không?",
+    "english": "You want to tell me the truth",
+    "soundmark": "/ju/ /wɑnt/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "Cô phải nói cho tôi biết sự thật",
+    "english": "You have to tell me the truth",
+    "soundmark": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Điều này rất quan trọng",
+    "english": "It is important",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "Bạn phải nói cho tôi biết sự thật vì nó rất quan trọng",
+    "english": "You have to tell me the truth because it is important",
+    "soundmark": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "điều gì đó",
+    "english": "something",
+    "soundmark": "/'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "điều gì đó quan trọng",
+    "english": "something important",
+    "soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "nói với bạn",
+    "english": "to tell you",
+    "soundmark": "/tə/ /tɛl/ /ju/"
+  },
+  {
+    "vietnamese": "cho bạn biết điều gì đó quan trọng",
+    "english": "to tell you something important",
+    "soundmark": "/tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn nói với bạn một điều quan trọng",
+    "english": "I want to tell you something important",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "ăn",
+    "english": "to eat",
+    "soundmark": "/tə/ /it/"
+  },
+  {
+    "vietnamese": "món ăn này",
+    "english": "the food",
+    "soundmark": "/ðə/ /fud/"
+  },
+  {
+    "vietnamese": "ăn món này",
+    "english": "to eat the food",
+    "soundmark": "/tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "vietnamese": "bây giờ",
+    "english": "now",
+    "soundmark": "/naʊ/"
+  },
+  {
+    "vietnamese": "ăn món này ngay",
+    "english": "to eat the food now",
+    "soundmark": "/tə/ /it/ /ðə/ /fud/ /naʊ/"
+  },
+  {
+    "vietnamese": "cô ấy cần",
+    "english": "she needs",
+    "soundmark": "/ʃi/ /nidz/"
+  },
+  {
+    "vietnamese": "cô ấy cần phải ăn món ăn này ngay bây giờ",
+    "english": "she needs to eat the food now",
+    "soundmark": "/ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+  },
+  {
+    "vietnamese": "giải thích",
+    "english": "to explain",
+    "soundmark": "/tə/ /ɪk'splen/"
+  },
+  {
+    "vietnamese": "lý do",
+    "english": "the reason",
+    "soundmark": "/ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "giải thích lý do",
+    "english": "to explain the reason",
+    "soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "cô ấy muốn",
+    "english": "she wants",
+    "soundmark": "/ʃi/ /wɑnts/"
+  },
+  {
+    "vietnamese": "cô ấy muốn giải thích lý do tại sao",
+    "english": "she wants to explain the reason",
+    "soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "tại sao",
+    "english": "why",
+    "soundmark": "/waɪ/"
+  },
+  {
+    "vietnamese": "cô ấy muốn giải thích lý do tại sao cô ấy cần thực phẩm này ngay bây giờ",
+    "english": "she wants to explain the reason why she needs to eat the food now",
+    "soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "to read",
+    "soundmark": "/tə/ /rid/"
+  },
+  {
+    "vietnamese": "ở nhà",
+    "english": "at home",
+    "soundmark": "/ət/ /hom/"
+  },
+  {
+    "vietnamese": "đọc sách tại nhà",
+    "english": "to read at home",
+    "soundmark": "/tə/ /rid/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "cô ấy thích đọc sách ở nhà",
+    "english": "she likes to read at home",
+    "soundmark": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "cô ấy phải giải thích lý do tại sao cô ấy thích đọc sách ở nhà",
+    "english": "she has to explain the reason why she likes to read at home",
+    "soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "rất",
+    "english": "very",
+    "soundmark": "/ˈvɛri/"
+  },
+  {
+    "vietnamese": "nó rất quan trọng",
+    "english": "it is very important",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "cô ấy phải giải thích lý do tại sao cô ấy thích đọc sách ở nhà vì nó rất quan trọng",
+    "english": "she has to explain the reason why she likes to read at home because it is very important",
+    "soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "hỏi",
+    "english": "to ask",
+    "soundmark": "/tə/ /æsk/"
+  },
+  {
+    "vietnamese": "hỏi tôi",
+    "english": "to ask me",
+    "soundmark": "/tə/ /æsk/ /mi/"
+  },
+  {
+    "vietnamese": "một câu hỏi",
+    "english": "a question",
+    "soundmark": "/ə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "đặt câu hỏi cho tôi",
+    "english": "to ask me a question",
+    "soundmark": "/tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "cô ấy muốn",
+    "english": "she wants",
+    "soundmark": "/ʃi/ /wɑnts/"
+  },
+  {
+    "vietnamese": "cô ấy muốn hỏi tôi một câu",
+    "english": "she wants to ask me a question",
+    "soundmark": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "về",
+    "english": "about",
+    "soundmark": "/ə'baʊt/"
+  },
+  {
+    "vietnamese": "món ăn này",
+    "english": "the food",
+    "soundmark": "/ðə/ /fud/"
+  },
+  {
+    "vietnamese": "câu hỏi về món ăn này",
+    "english": "a question about the food",
+    "soundmark": "/ə/ /'kwɛstʃən/ /ə'baʊt/ /ðə/ /fud/"
+  },
+  {
+    "vietnamese": "cô ấy muốn hỏi tôi một câu hỏi về món ăn này",
+    "english": "she wants to ask me a question about the food",
+    "soundmark": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/ /ə'baʊt/ /ðə/ /fud/"
+  },
+  {
+    "vietnamese": "bay",
+    "english": "to fly",
+    "soundmark": "/tə/ /flaɪ/"
+  },
+  {
+    "vietnamese": "bầu trời",
+    "english": "sky",
+    "soundmark": "/skaɪ/"
+  },
+  {
+    "vietnamese": "trên bầu trời",
+    "english": "in the sky",
+    "soundmark": "/ɪn/ /ðə/ /skaɪ/"
+  },
+  {
+    "vietnamese": "bay trên bầu trời",
+    "english": "to fly in the sky",
+    "soundmark": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+  },
+  {
+    "vietnamese": "con chim",
+    "english": "the bird",
+    "soundmark": "/ðə/ /bɝd/"
+  },
+  {
+    "vietnamese": "con chim muốn",
+    "english": "the bird wants",
+    "soundmark": "/ðə/ /bɝd/ /wɑnts/"
+  },
+  {
+    "vietnamese": "con chim nhỏ này muốn bay trên bầu trời",
+    "english": "the bird wants to fly in the sky",
+    "soundmark": "/ðə/ /bɝd/ /wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+  },
+  {
+    "vietnamese": "Xingrong muốn",
+    "english": "Xingrong wants",
+    "soundmark": "/wɑnts/"
+  },
+  {
+    "vietnamese": "Xingrong muốn bay trên bầu trời",
+    "english": "Xingrong wants to fly in the sky",
+    "soundmark": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+  },
+  {
+    "vietnamese": "nhưng",
+    "english": "but",
+    "soundmark": "/bət/"
+  },
+  {
+    "vietnamese": "không thể",
+    "english": "impossible",
+    "soundmark": "/ɪm'pɑsəbl/"
+  },
+  {
+    "vietnamese": "điều đó là không thể",
+    "english": "it is impossible",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+  },
+  {
+    "vietnamese": "Xingrong muốn bay trên bầu trời, nhưng điều đó là không thể",
+    "english": "Xingrong wants to fly in the sky but it is impossible",
+    "soundmark": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/ /bət/ /ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+  },
+  {
+    "vietnamese": "sự thật",
+    "english": "the truth",
+    "soundmark": "/ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "hãy cho tôi biết sự thật",
+    "english": "to tell me the truth",
+    "soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "Anh ấy phải nói cho tôi biết sự thật",
+    "english": "He has to tell me the truth",
+    "soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "biết điều đó",
+    "english": "to know it",
+    "soundmark": "/tə/ /no/ /ɪt/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "Tôi cần biết về điều này",
+    "english": "I need to know it",
+    "soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪt/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "Anh ấy phải nói với tôi sự thật vì tôi cần phải biết điều đó",
+    "english": "He has to tell me the truth because I need to know it",
+    "soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /aɪ/ /nid/ /tə/ /no/ /ɪt/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "Tôi không cần",
+    "english": "I don't need",
+    "soundmark": "/aɪ/ /dont/ /nid/"
+  },
+  {
+    "vietnamese": "làm việc này",
+    "english": "to do it",
+    "soundmark": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "Tôi không cần phải làm điều này",
+    "english": "I don't need to do it",
+    "soundmark": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "hôm nay",
+    "english": "today",
+    "soundmark": "/tə'de/"
+  },
+  {
+    "vietnamese": "Tôi không cần phải làm điều này hôm nay",
+    "english": "I don't need to do it today",
+    "soundmark": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "không quan trọng",
+    "english": "not important",
+    "soundmark": "/nɑt/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "không quan trọng",
+    "english": "it is not important",
+    "soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "vì vậy",
+    "english": "so",
+    "soundmark": "/so/"
+  },
+  {
+    "vietnamese": "nó không quan trọng vì vậy tôi không cần phải làm điều này ngày hôm nay",
+    "english": "it is not important so I don't need to do it today",
+    "soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /so/ /aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "Tôi có thể",
+    "english": "I can",
+    "soundmark": "/aɪ/ /kæn/"
+  },
+  {
+    "vietnamese": "làm việc này",
+    "english": "to do it",
+    "soundmark": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "Tôi có thể làm được",
+    "english": "I can do it",
+    "soundmark": "/aɪ/ /kæn/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "một mình",
+    "english": "alone",
+    "soundmark": "/ə'lon/"
+  },
+  {
+    "vietnamese": "Tôi có thể làm điều này một mình",
+    "english": "I can do it alone",
+    "soundmark": "/aɪ/ /kæn/ /du/ /ɪt/ /ə'lon/"
+  },
+  {
+    "vietnamese": "Tôi không thể làm điều này một mình",
+    "english": "I can not do it alone",
+    "soundmark": "/aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/"
+  },
+  {
+    "vietnamese": "cô phải giúp tôi",
+    "english": "you have to help me",
+    "soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "bạn phải giúp tôi vì tôi không thể làm điều này một mình",
+    "english": "you have to help me because I can not do it alone",
+    "soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/"
+  },
+  {
+    "vietnamese": "ở đây",
+    "english": "be here",
+    "soundmark": "/bi/ /hɪr/"
+  },
+  {
+    "vietnamese": "Tôi có thể ở đây",
+    "english": "I can be here",
+    "soundmark": "/aɪ/ /kæn/ /bi/ /hɪr/"
+  },
+  {
+    "vietnamese": "ngày mai",
+    "english": "tomorrow",
+    "soundmark": "/tə'mɔro/"
+  },
+  {
+    "vietnamese": "Tôi có thể ở đây vào ngày mai",
+    "english": "I can be here tomorrow",
+    "soundmark": "/aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "Ngày mai tôi không thể ở đây được",
+    "english": "I can not be here tomorrow",
+    "soundmark": "/aɪ/ /kæn/ /nɑt/ /bi/ /hɪr/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "anh ấy cần biết",
+    "english": "he needs to know",
+    "soundmark": "/hi/ /nidz/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "anh ấy cần biết liệu tôi có thể ở đây vào ngày mai hay không",
+    "english": "he needs to know if I can be here tomorrow",
+    "soundmark": "/hi/ /nidz/ /tə/ /no/ /ɪf/ /aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "bạn có thể",
+    "english": "you can",
+    "soundmark": "/ju/ /kæn/"
+  },
+  {
+    "vietnamese": "nói với tôi",
+    "english": "tell me",
+    "soundmark": "/tɛl/ /mi/"
+  },
+  {
+    "vietnamese": "sự thật",
+    "english": "the truth",
+    "soundmark": "/ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "hãy cho tôi biết sự thật",
+    "english": "tell me the truth",
+    "soundmark": "/tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "bạn có thể cho tôi biết sự thật",
+    "english": "you can tell me the truth",
+    "soundmark": "/ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "anh không thể nói cho tôi biết sự thật",
+    "english": "you can not tell me the truth",
+    "soundmark": "/ju/ /kæn/ /nɑt/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "Tôi cần biết",
+    "english": "I need to know",
+    "soundmark": "/aɪ/ /nid/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "Tôi cần biết liệu bạn có thể cho tôi biết sự thật không",
+    "english": "I need to know if you can tell me the truth",
+    "soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "ở nhà",
+    "english": "at home",
+    "soundmark": "/ət/ /hom/"
+  },
+  {
+    "vietnamese": "đọc ở nhà",
+    "english": "read at home",
+    "soundmark": "/rid/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "bạn có thể đọc nó ở nhà",
+    "english": "you can read at home",
+    "soundmark": "/ju/ /kæn/ /rid/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "bạn không thể đọc ở nhà",
+    "english": "you can not read at home",
+    "soundmark": "/ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "bạn cần cho tôi biết",
+    "english": "you need to tell me",
+    "soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/"
+  },
+  {
+    "vietnamese": "lý do",
+    "english": "the reason",
+    "soundmark": "/ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "bạn cần cho tôi biết lý do tại sao",
+    "english": "you need to tell me the reason",
+    "soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "tại sao",
+    "english": "why",
+    "soundmark": "/waɪ/"
+  },
+  {
+    "vietnamese": "bạn cần cho tôi biết lý do tại sao bạn không thể đọc sách ở nhà",
+    "english": "you need to tell me the reason why you can not read at home",
+    "soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/ /waɪ/ /ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "nói chuyện với tôi",
+    "english": "talk with me",
+    "soundmark": "/tɔk/ /wɪð/ /mi/"
+  },
+  {
+    "vietnamese": "anh ấy có thể nói chuyện với tôi",
+    "english": "he can talk with me",
+    "soundmark": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/"
+  },
+  {
+    "vietnamese": "tối nay",
+    "english": "tonight",
+    "soundmark": "/tə'naɪt/"
+  },
+  {
+    "vietnamese": "anh ấy có thể nói chuyện với tôi tối nay",
+    "english": "he can talk with me tonight",
+    "soundmark": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+  },
+  {
+    "vietnamese": "anh ấy không thể nói chuyện với tôi tối nay",
+    "english": "he can not talk with me tonight",
+    "soundmark": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết",
+    "english": "I want to know",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết liệu anh ấy có thể nói chuyện với tôi tối nay không",
+    "english": "I want to know if he can talk with me tonight",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+  },
+  {
+    "vietnamese": "cô ấy có thể",
+    "english": "she can",
+    "soundmark": "/ʃi/ /kæn/"
+  },
+  {
+    "vietnamese": "giải thích",
+    "english": "explain",
+    "soundmark": "/ɪk'splen/"
+  },
+  {
+    "vietnamese": "lý do",
+    "english": "the reason",
+    "soundmark": "/ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "giải thích lý do",
+    "english": "explain the reason",
+    "soundmark": "/ɪk'splen/ /ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "cô ấy có thể giải thích tại sao",
+    "english": "she can explain the reason",
+    "soundmark": "/ʃi/ /kæn/ /ɪk'splen/ /ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "cô ấy không thể giải thích tại sao",
+    "english": "she can not explain the reason",
+    "soundmark": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "tại sao",
+    "english": "why",
+    "soundmark": "/waɪ/"
+  },
+  {
+    "vietnamese": "anh ấy không thể nói chuyện với tôi tối nay",
+    "english": "he can not talk with me tonight",
+    "soundmark": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+  },
+  {
+    "vietnamese": "cô ấy có thể giải thích lý do tại sao anh ấy không thể nói chuyện với tôi tối nay",
+    "english": "she can explain the reason why he can not talk with me tonight",
+    "soundmark": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+  },
+  {
+    "vietnamese": "nhảy",
+    "english": "to dance",
+    "soundmark": "/tə/ /dæns/"
+  },
+  {
+    "vietnamese": "chúng tôi thích khiêu vũ",
+    "english": "we like to dance",
+    "soundmark": "/wi/ /laɪk/ /tə/ /dæns/"
+  },
+  {
+    "vietnamese": "bây giờ chúng tôi thích khiêu vũ",
+    "english": "we like to dance now",
+    "soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /naʊ/"
+  },
+  {
+    "vietnamese": "đường phố",
+    "english": "the street",
+    "soundmark": "/ðə/ /strit/"
+  },
+  {
+    "vietnamese": "trên đường phố",
+    "english": "in the street",
+    "soundmark": "/ɪn/ /ðə/ /strit/"
+  },
+  {
+    "vietnamese": "chúng tôi thích nhảy múa trên đường phố",
+    "english": "we like to dance in the street",
+    "soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "vietnamese": "ban đêm",
+    "english": "night",
+    "soundmark": "/naɪt/"
+  },
+  {
+    "vietnamese": "vào ban đêm",
+    "english": "at night",
+    "soundmark": "/ət/ /naɪt/"
+  },
+  {
+    "vietnamese": "chúng tôi thích nhảy múa trên đường phố vào ban đêm",
+    "english": "we like to dance in the street at night",
+    "soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "vietnamese": "chúng tôi không thích nhảy múa trên đường phố vào ban đêm",
+    "english": "we don't like to dance in the street at night",
+    "soundmark": "/wi/ /dont/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "vietnamese": "họ",
+    "english": "they",
+    "soundmark": "/ðe/"
+  },
+  {
+    "vietnamese": "họ không thích khiêu vũ với bạn trên đường phố vào ban đêm",
+    "english": "they don't like to dance with you in the street at night",
+    "soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "muốn biết",
+    "english": "want to know",
+    "soundmark": "/wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn biết",
+    "english": "we want to know",
+    "soundmark": "/wi/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "chỉ",
+    "english": "just",
+    "soundmark": "/dʒʌst/"
+  },
+  {
+    "vietnamese": "chúng tôi chỉ muốn biết",
+    "english": "we just want to know",
+    "soundmark": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "chúng tôi chỉ muốn biết liệu họ có thích nhảy với bạn trên đường phố vào ban đêm không",
+    "english": "we just want to know if they like to dance with you in the street at night",
+    "soundmark": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "vietnamese": "câu trả lời",
+    "english": "the answer",
+    "soundmark": "/ði/ /'ænsɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn câu trả lời",
+    "english": "we want to know the answer",
+    "soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "english": "the question",
+    "soundmark": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "trả lời câu hỏi của bạn",
+    "english": "the answer to the question",
+    "soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn biết câu trả lời cho câu hỏi",
+    "english": "we want to know the answer to the question",
+    "soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "chúng tôi không muốn biết câu trả lời cho câu hỏi",
+    "english": "we don't want to know the answer to the question",
+    "soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "sớm",
+    "english": "soon",
+    "soundmark": "/sun/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "possible",
+    "soundmark": "/'pɑsəbl/"
+  },
+  {
+    "vietnamese": "càng sớm càng tốt; càng sớm càng tốt",
+    "english": "as soon as possible",
+    "soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn biết câu trả lời cho câu hỏi của bạn càng sớm càng tốt",
+    "english": "we want to know the answer to the question as soon as possible",
+    "soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "vietnamese": "làm việc",
+    "english": "to work",
+    "soundmark": "/tə/ /wɝk/"
+  },
+  {
+    "vietnamese": "nhà hàng",
+    "english": "the restaurant",
+    "soundmark": "/ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "trong nhà hàng này",
+    "english": "at the restaurant",
+    "soundmark": "/ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "làm việc tại nhà hàng này",
+    "english": "to work at the restaurant",
+    "soundmark": "/tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn làm việc tại nhà hàng này",
+    "english": "we want to work at the restaurant",
+    "soundmark": "/wi/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "chúng tôi không muốn làm việc trong nhà hàng này",
+    "english": "we don't want to work at the restaurant",
+    "soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "trả lời",
+    "english": "to answer",
+    "soundmark": "/tə/ /'ænsɚ/"
+  },
+  {
+    "vietnamese": "trả lời câu hỏi",
+    "english": "to answer the questions",
+    "soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/"
+  },
+  {
+    "vietnamese": "chúng ta cần trả lời các câu hỏi",
+    "english": "we need to answer the questions",
+    "soundmark": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/"
+  },
+  {
+    "vietnamese": "về",
+    "english": "about",
+    "soundmark": "/ə'baʊt/"
+  },
+  {
+    "vietnamese": "giới thiệu về công việc",
+    "english": "about the work",
+    "soundmark": "/ə'baʊt/ /ðə/ /wɝk/"
+  },
+  {
+    "vietnamese": "chúng ta cần trả lời các câu hỏi về công việc",
+    "english": "we need to answer the questions about the work",
+    "soundmark": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+  },
+  {
+    "vietnamese": "chúng tôi không cần trả lời các câu hỏi về công việc",
+    "english": "we don't need to answer the questions about the work",
+    "soundmark": "/wi/ /dont/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+  },
+  {
+    "vietnamese": "bạn cần trả lời các câu hỏi về công việc của mình",
+    "english": "you need to answer the questions about the work",
+    "soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+  },
+  {
+    "vietnamese": "sớm",
+    "english": "soon",
+    "soundmark": "/sun/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "possible",
+    "soundmark": "/'pɑsəbl/"
+  },
+  {
+    "vietnamese": "càng sớm càng tốt; càng sớm càng tốt",
+    "english": "as soon as possible",
+    "soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "vietnamese": "bạn cần trả lời các câu hỏi về công việc của mình càng sớm càng tốt",
+    "english": "you need to answer the questions about the work as soon as possible",
+    "soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "chúng rất quan trọng",
+    "english": "they are important",
+    "soundmark": "/ðe/ /ɚ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "rất",
+    "english": "very",
+    "soundmark": "/ˈvɛri/"
+  },
+  {
+    "vietnamese": "chúng rất quan trọng",
+    "english": "they are very important",
+    "soundmark": "/ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "bạn cần trả lời các câu hỏi về công việc của mình càng sớm càng tốt vì chúng rất quan trọng",
+    "english": "you need to answer the questions about the work as soon as possible because they are very important",
+    "soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/ /bɪ'kɔz/ /ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "nên",
+    "english": "should",
+    "soundmark": "/ʃʊd/"
+  },
+  {
+    "vietnamese": "chúng tôi nên",
+    "english": "we should",
+    "soundmark": "/wi/ /ʃʊd/"
+  },
+  {
+    "vietnamese": "chúng ta nên biết",
+    "english": "we should know",
+    "soundmark": "/wi/ /ʃʊd/ /no/"
+  },
+  {
+    "vietnamese": "câu trả lời",
+    "english": "the answer",
+    "soundmark": "/ði/ /'ænsɚ/"
+  },
+  {
+    "vietnamese": "chúng ta nên biết câu trả lời",
+    "english": "we should know the answer",
+    "soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "english": "the question",
+    "soundmark": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "câu trả lời cho câu hỏi này",
+    "english": "the answer to the question",
+    "soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "chúng ta nên biết câu trả lời cho câu hỏi đó",
+    "english": "we should know the answer to the question",
+    "soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "chúng ta không nên biết câu trả lời cho câu hỏi đó",
+    "english": "we should not know the answer to the question",
+    "soundmark": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ",
+    "english": "I think",
+    "soundmark": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ chúng ta nên biết câu trả lời cho câu hỏi đó",
+    "english": "I think we should know the answer to the question",
+    "soundmark": "/aɪ/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "Tôi không nghĩ chúng ta nên biết câu trả lời cho câu hỏi đó",
+    "english": "I don't think we should know the answer to the question",
+    "soundmark": "/aɪ/ /dont/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "nên biết",
+    "english": "should know",
+    "soundmark": "/ʃʊd/ /no/"
+  },
+  {
+    "vietnamese": "bạn nên biết",
+    "english": "you should know",
+    "soundmark": "/ju/ /ʃʊd/ /no/"
+  },
+  {
+    "vietnamese": "lý do",
+    "english": "the reason",
+    "soundmark": "/ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "bạn nên biết lý do tại sao",
+    "english": "you should know the reason",
+    "soundmark": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "món ăn này",
+    "english": "the food",
+    "soundmark": "/ðə/ /fud/"
+  },
+  {
+    "vietnamese": "nhà hàng",
+    "english": "the restaurant",
+    "soundmark": "/ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "đồ ăn từ nhà hàng này",
+    "english": "the food from the restaurant",
+    "soundmark": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "ăn đồ ăn từ nhà hàng này",
+    "english": "to eat the food from the restaurant",
+    "soundmark": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn",
+    "english": "we want",
+    "soundmark": "/wi/ /wɑnt/"
+  },
+  {
+    "vietnamese": "ăn",
+    "english": "to eat",
+    "soundmark": "/tə/ /it/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn ăn đồ ăn từ nhà hàng này",
+    "english": "we want to eat the food from the restaurant",
+    "soundmark": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "chúng tôi không muốn ăn đồ ăn từ nhà hàng này",
+    "english": "we don't want to eat the food from the restaurant",
+    "soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "tại sao",
+    "english": "why",
+    "soundmark": "/waɪ/"
+  },
+  {
+    "vietnamese": "bạn nên biết lý do tại sao chúng tôi không muốn ăn đồ ăn từ nhà hàng này",
+    "english": "you should know the reason why we don't want to eat the food from the restaurant",
+    "soundmark": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ",
+    "english": "I think",
+    "soundmark": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ bạn nên biết lý do tại sao chúng tôi không muốn ăn đồ ăn từ nhà hàng này",
+    "english": "I think you should know the reason why we don't want to eat the food from the restaurant",
+    "soundmark": "/aɪ/ /θɪŋk/ /ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "kế hoạch",
+    "english": "plan",
+    "soundmark": "/plæn/"
+  },
+  {
+    "vietnamese": "Tôi dự định",
+    "english": "I plan",
+    "soundmark": "/aɪ/ /plæn/"
+  },
+  {
+    "vietnamese": "ở lại",
+    "english": "to stay",
+    "soundmark": "/tə/ /ste/"
+  },
+  {
+    "vietnamese": "Tôi dự định ở lại",
+    "english": "I plan to stay",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /ste/"
+  },
+  {
+    "vietnamese": "ở đây",
+    "english": "here",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "vietnamese": "Tôi dự định ở lại đây",
+    "english": "I plan to stay here",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "vietnamese": "với bạn",
+    "english": "with you",
+    "soundmark": "/wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi dự định ở lại đây với bạn",
+    "english": "I plan to stay here with you",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Em sẽ không ở lại đây với anh",
+    "english": "I don't plan to stay here with you",
+    "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "muốn biết",
+    "english": "want to know",
+    "soundmark": "/wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "họ muốn biết",
+    "english": "they want to know",
+    "soundmark": "/ðe/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "chỉ",
+    "english": "just",
+    "soundmark": "/dʒʌst/"
+  },
+  {
+    "vietnamese": "họ chỉ muốn biết",
+    "english": "they just want to know",
+    "soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "họ chỉ muốn biết liệu tôi có ở đây với bạn hay không",
+    "english": "they just want to know if I plan to stay here with you",
+    "soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "lý do",
+    "english": "the reason",
+    "soundmark": "/ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "họ chỉ muốn biết tại sao",
+    "english": "they just want to know the reason",
+    "soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "tại sao",
+    "english": "why",
+    "soundmark": "/waɪ/"
+  },
+  {
+    "vietnamese": "họ chỉ muốn biết tại sao tôi sẽ không ở đây với bạn",
+    "english": "they just want to know the reason why I don't plan to stay here with you",
+    "soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/ /waɪ/ /aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "cô ấy dự định",
+    "english": "she plans",
+    "soundmark": "/ʃi/ /plænz/"
+  },
+  {
+    "vietnamese": "rời đi",
+    "english": "to leave",
+    "soundmark": "/tə/ /liv/"
+  },
+  {
+    "vietnamese": "đất nước",
+    "english": "the country",
+    "soundmark": "/ðə/ /'kʌntri/"
+  },
+  {
+    "vietnamese": "rời khỏi đất nước",
+    "english": "to leave the country",
+    "soundmark": "/tə/ /liv/ /ðə/ /'kʌntri/"
+  },
+  {
+    "vietnamese": "cô ấy đang có kế hoạch rời khỏi đất nước",
+    "english": "she plans to leave the country",
+    "soundmark": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/"
+  },
+  {
+    "vietnamese": "tiếp theo",
+    "english": "next",
+    "soundmark": "/nɛkst/"
+  },
+  {
+    "vietnamese": "tháng",
+    "english": "month",
+    "soundmark": "/mʌnθ/"
+  },
+  {
+    "vietnamese": "tháng tới",
+    "english": "next month",
+    "soundmark": "/nɛkst/ /mʌnθ/"
+  },
+  {
+    "vietnamese": "cô dự định rời khỏi đất nước vào tháng tới",
+    "english": "she plans to leave the country next month",
+    "soundmark": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/"
+  },
+  {
+    "vietnamese": "cô ấy sẽ không rời khỏi đất nước vào tháng tới",
+    "english": "she doesn't plan to leave the country next month",
+    "soundmark": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/"
+  },
+  {
+    "vietnamese": "trả",
+    "english": "to pay",
+    "soundmark": "/tə/ /pe/"
+  },
+  {
+    "vietnamese": "hóa đơn",
+    "english": "the bill",
+    "soundmark": "/ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "thanh toán hóa đơn",
+    "english": "to pay the bill",
+    "soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "Tôi cần thanh toán hóa đơn của mình",
+    "english": "I need to pay the bill",
+    "soundmark": "/aɪ/ /nid/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "Tôi không cần thanh toán hóa đơn",
+    "english": "I don't need to pay the bill",
+    "soundmark": "/aɪ/ /dont/ /nid/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "Tôi dự định",
+    "english": "I plan",
+    "soundmark": "/aɪ/ /plæn/"
+  },
+  {
+    "vietnamese": "Tôi dự định thanh toán hóa đơn của mình",
+    "english": "I plan to pay the bill",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "cho bạn",
+    "english": "for you",
+    "soundmark": "/fɝ/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi sẽ thanh toán hóa đơn cho bạn",
+    "english": "I plan to pay the bill for you",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi sẽ không thanh toán hóa đơn cho bạn",
+    "english": "I don't plan to pay the bill for you",
+    "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/"
+  },
+  {
+    "vietnamese": "quý vị có ý định thanh toán hóa đơn",
+    "english": "you plan to pay the bill",
+    "soundmark": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "đối với tôi",
+    "english": "for me",
+    "soundmark": "/fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "bạn sẽ thanh toán hóa đơn của tôi",
+    "english": "you plan to pay the bill for me",
+    "soundmark": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "bạn sẽ không thanh toán hóa đơn của tôi",
+    "english": "you don't plan to pay the bill for me",
+    "soundmark": "/ju/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết",
+    "english": "I want to know",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết liệu bạn có trả các hóa đơn của tôi không",
+    "english": "I want to know if you plan to pay the bill for me",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi dự định thanh toán hóa đơn của mình",
+    "english": "I plan to pay the bill",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "cho anh ấy",
+    "english": "for him",
+    "soundmark": "/fɝ/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi sẽ trả hóa đơn cho anh ấy",
+    "english": "I plan to pay the bill for him",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi sẽ không thanh toán hóa đơn cho anh ấy",
+    "english": "I don't plan to pay the bill for him",
+    "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "điều này rất quan trọng",
+    "english": "it is important",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "rất",
+    "english": "very",
+    "soundmark": "/ˈvɛri/"
+  },
+  {
+    "vietnamese": "điều này rất quan trọng",
+    "english": "it is very important",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "bởi vì nó rất quan trọng",
+    "english": "because it is very important",
+    "soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Tôi sẽ trả các hóa đơn cho anh ấy vì nó rất quan trọng",
+    "english": "I plan to pay the bill for him because it is very important",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "làm việc này",
+    "english": "to do it",
+    "soundmark": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "Tôi cần phải làm điều này",
+    "english": "I need to do it",
+    "soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "và",
+    "english": "and",
+    "soundmark": "/ənd/"
+  },
+  {
+    "vietnamese": "và tôi cần phải làm điều đó",
+    "english": "and I need to do it",
+    "soundmark": "/ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "Tôi sẽ trả các hóa đơn cho anh ấy vì nó rất quan trọng và tôi cần phải làm điều đó",
+    "english": "I plan to pay the bill for him because it is very important and I need to do it",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "du lịch",
+    "english": "to travel",
+    "soundmark": "/tə/ /'trævl/"
+  },
+  {
+    "vietnamese": "thế giới",
+    "english": "the world",
+    "soundmark": "/ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "trên toàn thế giới",
+    "english": "to travel the world",
+    "soundmark": "/tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "would like",
+    "soundmark": "/wʊd/ /laɪk/"
+  },
+  {
+    "vietnamese": "Tôi sẵn sàng đi du lịch vòng quanh thế giới",
+    "english": "I would like to travel the world",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "với cô ấy",
+    "english": "with her",
+    "soundmark": "/wɪð/ /hɚ/"
+  },
+  {
+    "vietnamese": "Tôi rất muốn đi du lịch khắp thế giới với cô ấy",
+    "english": "I would like to travel the world with her",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/"
+  },
+  {
+    "vietnamese": "Tôi không muốn đi du lịch thế giới với cô ấy",
+    "english": "I would not like to travel the world with her",
+    "soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/"
+  },
+  {
+    "vietnamese": "Tôi dự định",
+    "english": "I plan",
+    "soundmark": "/aɪ/ /plæn/"
+  },
+  {
+    "vietnamese": "Tôi dự định ở lại đây",
+    "english": "I plan to stay here",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "vietnamese": "với bạn",
+    "english": "with you",
+    "soundmark": "/wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi dự định ở lại đây với bạn",
+    "english": "I plan to stay here with you",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "bởi vì em sẽ ở lại đây với anh",
+    "english": "because I plan to stay here with you",
+    "soundmark": "/bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Anh không muốn đi vòng quanh thế giới với cô ấy vì anh sẽ ở đây với em",
+    "english": "I would not like to travel the world with her because I plan to stay here with you",
+    "soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "đưa",
+    "english": "to give",
+    "soundmark": "/tə/ /ɡɪv/"
+  },
+  {
+    "vietnamese": "gửi cho chúng tôi",
+    "english": "to give us",
+    "soundmark": "/tə/ /ɡɪv/ /ʌs/"
+  },
+  {
+    "vietnamese": "cô ấy cần cho chúng ta",
+    "english": "she needs to give us",
+    "soundmark": "/ʃi/ /nidz/ /tə/ /ɡɪv/ /ʌs/"
+  },
+  {
+    "vietnamese": "trả lời câu hỏi của bạn",
+    "english": "the answer to the question",
+    "soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "cô ấy cần cho chúng tôi câu trả lời cho các câu hỏi của chúng tôi",
+    "english": "she needs to give us the answer to the question",
+    "soundmark": "/ʃi/ /nidz/ /tə/ /ɡɪv/ /ʌs/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "cô ấy không cần phải cho chúng tôi câu trả lời",
+    "english": "she doesn't need to give us the answer to the question",
+    "soundmark": "/ʃi/ /ˈdʌznt/ /nid/ /tə/ /ɡɪv/ /ʌs/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "một lý do",
+    "english": "a reason",
+    "soundmark": "/ə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "hãy cho tôi một lý do",
+    "english": "to give me a reason",
+    "soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "Tôi cần bạn cho tôi một lý do",
+    "english": "I need you to give me a reason",
+    "soundmark": "/aɪ/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "Tôi không cần bạn cho tôi một lý do",
+    "english": "I don't need you to give me a reason",
+    "soundmark": "/aɪ/ /dont/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "chúng ta nên biết",
+    "english": "we should know",
+    "soundmark": "/wi/ /ʃʊd/ /no/"
+  },
+  {
+    "vietnamese": "trả lời câu hỏi của bạn",
+    "english": "the answer to the question",
+    "soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "chúng ta nên biết câu trả lời cho câu hỏi",
+    "english": "we should know the answer to the question",
+    "soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "chúng ta không nên biết câu trả lời cho câu hỏi",
+    "english": "we should not know the answer to the question",
+    "soundmark": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "tại sao",
+    "english": "why",
+    "soundmark": "/waɪ/"
+  },
+  {
+    "vietnamese": "Tôi cần bạn cho tôi một lý do tại sao chúng ta nên biết câu trả lời cho câu hỏi",
+    "english": "I need you to give me a reason why we should know the answer to the question",
+    "soundmark": "/aɪ/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/ /waɪ/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "tay",
+    "english": "hand",
+    "soundmark": "/hænd/"
+  },
+  {
+    "vietnamese": "một tay",
+    "english": "a hand",
+    "soundmark": "/ə/ /hænd/"
+  },
+  {
+    "vietnamese": "giúp tôi một tay (nắm chặt)",
+    "english": "to give me a hand",
+    "soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "vietnamese": "bạn có thể giúp tôi một tay",
+    "english": "you can give me a hand",
+    "soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "vietnamese": "Tôi hy vọng",
+    "english": "I hope",
+    "soundmark": "/aɪ/ /hop/"
+  },
+  {
+    "vietnamese": "Tôi hy vọng bạn có thể giúp tôi một tay",
+    "english": "I hope you can give me a hand",
+    "soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "nó rất quan trọng đối với tôi",
+    "english": "it is very important for me",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "bởi vì nó rất quan trọng đối với tôi",
+    "english": "because it is very important for me",
+    "soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi hy vọng bạn có thể giúp tôi một tay vì nó rất quan trọng đối với tôi",
+    "english": "I hope you can give me a hand because it is very important for me",
+    "soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "và",
+    "english": "and",
+    "soundmark": "/ənd/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "giúp",
+    "english": "to help",
+    "soundmark": "/tə/ /hɛlp/"
+  },
+  {
+    "vietnamese": "Tôi cần cô giúp tôi",
+    "english": "I need you to help me",
+    "soundmark": "/aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/"
+  },
+  {
+    "vietnamese": "bây giờ",
+    "english": "now",
+    "soundmark": "/naʊ/"
+  },
+  {
+    "vietnamese": "Tôi cần cô giúp tôi ngay bây giờ",
+    "english": "I need you to help me now",
+    "soundmark": "/aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/ /naʊ/"
+  },
+  {
+    "vietnamese": "Tôi hy vọng bạn có thể giúp tôi một tay vì nó rất quan trọng đối với tôi và tôi cần bạn giúp tôi ngay bây giờ",
+    "english": "I hope you can give me a hand because it is very important for me and I need you to help me now",
+    "soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /ənd/ /aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/ /naʊ/"
+  },
+  {
+    "vietnamese": "dùng",
+    "english": "to use",
+    "soundmark": "/tə/ /juz/"
+  },
+  {
+    "vietnamese": "tự điển",
+    "english": "the dictionary",
+    "soundmark": "/ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "từ điển của tôi",
+    "english": "my dictionary",
+    "soundmark": "/maɪ/ /'dɪkʃənɛri/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn sử dụng từ điển của mình",
+    "english": "I want to use my dictionary",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/"
+  },
+  {
+    "vietnamese": "đến",
+    "english": "to get",
+    "soundmark": "/tə/ /ɡɛt/"
+  },
+  {
+    "vietnamese": "nơi đó",
+    "english": "there",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "di chuyển đến đó",
+    "english": "to get there",
+    "soundmark": "/tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "cần",
+    "english": "need",
+    "soundmark": "/nid/"
+  },
+  {
+    "vietnamese": "Tôi cần đến đó",
+    "english": "I need to get there",
+    "soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "Tôi không cần phải đến đó",
+    "english": "I don't need to get there",
+    "soundmark": "/aɪ/ /dont/ /nid/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "sớm",
+    "english": "soon",
+    "soundmark": "/sun/"
+  },
+  {
+    "vietnamese": "Tôi cần đến đó ngay lập tức",
+    "english": "I need to get there soon",
+    "soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /sun/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "possible",
+    "soundmark": "/'pɑsəbl/"
+  },
+  {
+    "vietnamese": "càng sớm càng tốt; càng sớm càng tốt",
+    "english": "as soon as possible",
+    "soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "vietnamese": "Tôi cần đến đó càng sớm càng tốt",
+    "english": "I need to get there as soon as possible",
+    "soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "làm thế nào để đến đó",
+    "english": "how to get there",
+    "soundmark": "/haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "biết cách đi đến đó",
+    "english": "to know how to get there",
+    "soundmark": "/tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết làm thế nào để đến đó",
+    "english": "I want to know how to get there",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "chỉ",
+    "english": "just",
+    "soundmark": "/dʒʌst/"
+  },
+  {
+    "vietnamese": "Tôi chỉ muốn biết làm thế nào để đến đó",
+    "english": "I just want to know how to get there",
+    "soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "thời gian 时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "đúng giờ",
+    "english": "on time",
+    "soundmark": "/ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi chỉ muốn biết làm thế nào để đến đó đúng giờ",
+    "english": "I just want to know how to get there on time",
+    "soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "quên mất",
+    "english": "to forget",
+    "soundmark": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "bạn quên",
+    "english": "you forget",
+    "soundmark": "/ju/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "khóa",
+    "english": "to lock",
+    "soundmark": "/tə/ /lɑk/"
+  },
+  {
+    "vietnamese": "cửa",
+    "english": "the door",
+    "soundmark": "/ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "khóa cửa",
+    "english": "to lock the door",
+    "soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "bạn quên khóa cửa",
+    "english": "you forget to lock the door",
+    "soundmark": "/ju/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "đừng quên khóa cửa",
+    "english": "you don't forget to lock the door",
+    "soundmark": "/ju/ /dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "đừng quên khóa cửa",
+    "english": "don't forget to lock the door",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "rời đi",
+    "english": "to leave",
+    "soundmark": "/tə/ /liv/"
+  },
+  {
+    "vietnamese": "nhà; nhà",
+    "english": "the house",
+    "soundmark": "/ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "xa nhà",
+    "english": "to leave the house",
+    "soundmark": "/tə/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "bạn rời khỏi nhà",
+    "english": "you leave the house",
+    "soundmark": "/ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi bạn rời khỏi nhà",
+    "english": "when you leave the house",
+    "soundmark": "/wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "đừng quên khóa cửa khi bạn rời khỏi nhà",
+    "english": "don't forget to lock the door when you leave the house",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "nhớ tới",
+    "english": "to remember",
+    "soundmark": "/tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "vietnamese": "khóa cửa",
+    "english": "to lock the door",
+    "soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "bạn nhớ khóa cửa",
+    "english": "you remember to lock the door",
+    "soundmark": "/ju/ /rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "nhớ khóa cửa",
+    "english": "remember to lock the door",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "nhớ khóa cửa khi ra khỏi nhà",
+    "english": "remember to lock the door when you leave the house",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "dọn phòng",
+    "english": "the housework",
+    "soundmark": "/ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "làm việc nhà",
+    "english": "to do the housework",
+    "soundmark": "/tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "đừng quên làm việc nhà",
+    "english": "don't forget to do the housework",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "nhớ làm việc nhà",
+    "english": "remember to do the housework",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "chỗ ở",
+    "english": "home",
+    "soundmark": "/hom/"
+  },
+  {
+    "vietnamese": "ở nhà",
+    "english": "at home",
+    "soundmark": "/ət/ /hom/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn đang ở nhà",
+    "english": "you are at home",
+    "soundmark": "/ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi bạn ở nhà",
+    "english": "when you are at home",
+    "soundmark": "/wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "hãy nhớ làm việc nhà khi bạn ở nhà",
+    "english": "remember to do the housework when you are at home",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "đừng quên làm việc nhà khi bạn ở nhà",
+    "english": "don't forget to do the housework when you are at home",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "dạy",
+    "english": "to teach",
+    "soundmark": "/tə/ /titʃ/"
+  },
+  {
+    "vietnamese": "điều gì đó",
+    "english": "something",
+    "soundmark": "/'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "điều gì đó quan trọng",
+    "english": "something important",
+    "soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn dạy bạn một điều quan trọng",
+    "english": "I want to teach you something important",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /titʃ/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "bất cứ điều gì",
+    "english": "anything",
+    "soundmark": "/'ɛnɪθɪŋ/"
+  },
+  {
+    "vietnamese": "bất cứ điều gì quan trọng",
+    "english": "anything important",
+    "soundmark": "/'ɛnɪθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Tôi không muốn dạy bạn bất cứ điều gì quan trọng",
+    "english": "I don't want to teach you anything important",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /titʃ/ /ju/ /'ɛnɪθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "dùng",
+    "english": "to use",
+    "soundmark": "/tə/ /juz/"
+  },
+  {
+    "vietnamese": "tự điển",
+    "english": "the dictionary",
+    "soundmark": "/ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "vietnamese": "sử dụng từ điển",
+    "english": "to use the dictionary",
+    "soundmark": "/tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "cách sử dụng từ điển",
+    "english": "how to use the dictionary",
+    "soundmark": "/haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "vietnamese": "cô phải dạy tôi",
+    "english": "you have to teach me",
+    "soundmark": "/ju/ /hæv/ /tə/ /titʃ/ /mi/"
+  },
+  {
+    "vietnamese": "bạn phải dạy tôi cách sử dụng từ điển",
+    "english": "you have to teach me how to use the dictionary",
+    "soundmark": "/ju/ /hæv/ /tə/ /titʃ/ /mi/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "vietnamese": "bày ra",
+    "english": "to show",
+    "soundmark": "/tə/ /ʃo/"
+  },
+  {
+    "vietnamese": "cho bạn xem",
+    "english": "to show you",
+    "soundmark": "/tə/ /ʃo/ /ju/"
+  },
+  {
+    "vietnamese": "điều gì đó",
+    "english": "something",
+    "soundmark": "/'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "cho bạn xem thứ gì đó",
+    "english": "to show you something",
+    "soundmark": "/tə/ /ʃo/ /ju/ /'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi muốn cho bạn xem một thứ",
+    "english": "I want to show you something",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /ʃo/ /ju/ /'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn cho bạn thấy một điều quan trọng",
+    "english": "I want to show you something important",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /ʃo/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "sử dụng từ điển",
+    "english": "to use the dictionary",
+    "soundmark": "/tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "vietnamese": "cách sử dụng từ điển",
+    "english": "how to use the dictionary",
+    "soundmark": "/haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "vietnamese": "bạn phải chỉ cho tôi cách sử dụng từ điển",
+    "english": "you have to show me how to use the dictionary",
+    "soundmark": "/ju/ /hæv/ /tə/ /ʃo/ /mi/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "vietnamese": "để",
+    "english": "to let",
+    "soundmark": "/tə/ /lɛt/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "cho ngươi",
+    "english": "to let you",
+    "soundmark": "/tə/ /lɛt/ /ju/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "thông báo cho bạn",
+    "english": "to let you know",
+    "soundmark": "/tə/ /lɛt/ /ju/ /no/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn biết",
+    "english": "I want to let you know",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /no/"
+  },
+  {
+    "vietnamese": "sự thật",
+    "english": "the truth",
+    "soundmark": "/ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn biết sự thật",
+    "english": "I want to let you know the truth",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "về",
+    "english": "about",
+    "soundmark": "/ə'baʊt/"
+  },
+  {
+    "vietnamese": "giới thiệu về tôi",
+    "english": "about me",
+    "soundmark": "/ə'baʊt/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn biết sự thật về tôi",
+    "english": "I want to let you know the truth about me",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/ /ə'baʊt/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi sẽ",
+    "english": "I will",
+    "soundmark": "/aɪ/ /wɪl/"
+  },
+  {
+    "vietnamese": "thông báo cho bạn",
+    "english": "to let you know",
+    "soundmark": "/tə/ /lɛt/ /ju/ /no/"
+  },
+  {
+    "vietnamese": "Tôi sẽ thông báo cho bạn",
+    "english": "I will let you know",
+    "soundmark": "/aɪ/ /wɪl/ /lɛt/ /ju/ /no/"
+  },
+  {
+    "vietnamese": "Tôi sẽ cho bạn biết sự thật về tôi",
+    "english": "I will let you know the truth about me",
+    "soundmark": "/aɪ/ /wɪl/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/ /ə'baʊt/ /mi/"
+  },
+  {
+    "vietnamese": "tiếp theo",
+    "english": "next",
+    "soundmark": "/nɛkst/"
+  },
+  {
+    "vietnamese": "tuần",
+    "english": "week",
+    "soundmark": "/wik/"
+  },
+  {
+    "vietnamese": "tuần tới",
+    "english": "next week",
+    "soundmark": "/nɛkst/ /wik/"
+  },
+  {
+    "vietnamese": "Tôi sẽ cho bạn biết sự thật về tôi vào tuần tới",
+    "english": "I will let you know the truth about me next week",
+    "soundmark": "/aɪ/ /wɪl/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/ /ə'baʊt/ /mi/ /nɛkst/ /wik/"
+  },
+  {
+    "vietnamese": "đi",
+    "english": "to go",
+    "soundmark": "/tə/ /ɡo/"
+  },
+  {
+    "vietnamese": "bên ngoài",
+    "english": "out",
+    "soundmark": "/aʊt/"
+  },
+  {
+    "vietnamese": "ra ngoài đi",
+    "english": "to go out",
+    "soundmark": "/tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "vietnamese": "Tôi muốn ra ngoài",
+    "english": "I want to go out",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "vietnamese": "cho ngươi",
+    "english": "to let you",
+    "soundmark": "/tə/ /lɛt/ /ju/"
+  },
+  {
+    "vietnamese": "đưa bạn ra ngoài",
+    "english": "to let you go out",
+    "soundmark": "/tə/ /lɛt/ /ju/ /ɡo/ /aʊt/"
+  },
+  {
+    "vietnamese": "Tôi muốn cô ra ngoài",
+    "english": "I want to let you go out",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/"
+  },
+  {
+    "vietnamese": "Tôi không muốn cô ra ngoài",
+    "english": "I don't want to let you go out",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/"
+  },
+  {
+    "vietnamese": "vào ban đêm",
+    "english": "at night",
+    "soundmark": "/ət/ /naɪt/"
+  },
+  {
+    "vietnamese": "Tôi không muốn bạn ra ngoài vào ban đêm",
+    "english": "I don't want to let you go out at night",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/ /ət/ /naɪt/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "nguy hiểm",
+    "english": "dangerous",
+    "soundmark": "/'dendʒərəs/"
+  },
+  {
+    "vietnamese": "rất",
+    "english": "very",
+    "soundmark": "/ˈvɛri/"
+  },
+  {
+    "vietnamese": "điều này rất nguy hiểm",
+    "english": "it is very dangerous",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/"
+  },
+  {
+    "vietnamese": "bởi vì nó rất nguy hiểm",
+    "english": "because it is very dangerous",
+    "soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/"
+  },
+  {
+    "vietnamese": "Tôi không muốn bạn ra ngoài vào ban đêm vì nó rất nguy hiểm",
+    "english": "I don't want to let you go out at night because it is very dangerous",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/ /ət/ /naɪt/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/"
+  },
+  {
+    "vietnamese": "ở lại",
+    "english": "to stay",
+    "soundmark": "/tə/ /ste/"
+  },
+  {
+    "vietnamese": "ở đây",
+    "english": "here",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "vietnamese": "hãy ở lại đây",
+    "english": "to stay here",
+    "soundmark": "/tə/ /ste/ /hɪr/"
+  },
+  {
+    "vietnamese": "cần",
+    "english": "need",
+    "soundmark": "/nid/"
+  },
+  {
+    "vietnamese": "Tôi cần cô ở lại đây",
+    "english": "I need you to stay here",
+    "soundmark": "/aɪ/ /nid/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "vietnamese": "và",
+    "english": "and",
+    "soundmark": "/ənd/"
+  },
+  {
+    "vietnamese": "và tôi cần cô ở lại đây",
+    "english": "and I need you to stay here",
+    "soundmark": "/ənd/ /aɪ/ /nid/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "vietnamese": "Tôi không muốn bạn ra ngoài vào ban đêm vì nó rất nguy hiểm và tôi cần bạn ở lại đây",
+    "english": "I don't want to let you go out at night because it is very dangerous and I need you to stay here",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/ /ət/ /naɪt/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/ /ənd/ /aɪ/ /nid/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "vietnamese": "ba",
+    "english": "father",
+    "soundmark": "/'fɑðɚ/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "bố tôi",
+    "english": "my father",
+    "soundmark": "/maɪ/ /'fɑðɚ/"
+  },
+  {
+    "vietnamese": "gọi",
+    "english": "to call",
+    "soundmark": "/tə/ /kɔl/"
+  },
+  {
+    "vietnamese": "gọi cho bố tôi",
+    "english": "to call my father",
+    "soundmark": "/tə/ /kɔl/ /maɪ/ /'fɑðɚ/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "to let me",
+    "soundmark": "/tə/ /lɛt/ /mi/"
+  },
+  {
+    "vietnamese": "hãy để tôi gọi cho cha tôi",
+    "english": "to let me call my father",
+    "soundmark": "/tə/ /lɛt/ /mi/ /kɔl/ /maɪ/ /'fɑðɚ/"
+  },
+  {
+    "vietnamese": "nhớ tới",
+    "english": "to remember",
+    "soundmark": "/tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "vietnamese": "bạn phải nhớ",
+    "english": "you have to remember",
+    "soundmark": "/ju/ /hæv/ /tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "vietnamese": "bạn phải nhớ yêu cầu tôi gọi cho cha tôi",
+    "english": "you have to remember to let me call my father",
+    "soundmark": "/ju/ /hæv/ /tə/ /rɪ'mɛmbɚ/ /tə/ /lɛt/ /mi/ /kɔl/ /maɪ/ /'fɑðɚ/"
+  },
+  {
+    "vietnamese": "đến",
+    "english": "to get",
+    "soundmark": "/tə/ /ɡɛt/"
+  },
+  {
+    "vietnamese": "nơi đó",
+    "english": "there",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "di chuyển đến đó",
+    "english": "to get there",
+    "soundmark": "/tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "chúng ta sẽ đạt được điều đó",
+    "english": "we get there",
+    "soundmark": "/wi/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "khi nào... khi nào",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi chúng tôi đến đó",
+    "english": "when we get there",
+    "soundmark": "/wɛn/ /wi/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "bạn phải nhớ yêu cầu tôi gọi cho cha tôi khi chúng tôi đến đó",
+    "english": "you have to remember to let me call my father when we get there",
+    "soundmark": "/ju/ /hæv/ /tə/ /rɪ'mɛmbɚ/ /tə/ /lɛt/ /mi/ /kɔl/ /maɪ/ /'fɑðɚ/ /wɛn/ /wi/ /ɡɛt/ /ðɛr/"
+  }
+]

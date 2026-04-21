@@ -34,12 +34,12 @@ describe("course pack store", () => {
       completionCount: 0,
       statementIndex: 0,
       statements: [
-        { id: "1", order: 1, english: "I", chinese: "我", soundmark: "/aɪ/", isMastered: false },
+        { id: "1", order: 1, english: "I", vietnamese: "我", soundmark: "/aɪ/", isMastered: false },
         {
           id: "2",
           order: 2,
           english: "like",
-          chinese: "喜欢",
+          vietnamese: "喜欢",
           soundmark: "/laɪk/",
           isMastered: false,
         },
@@ -56,12 +56,12 @@ describe("course pack store", () => {
       completionCount: 0,
       statementIndex: 0,
       statements: [
-        { id: "1", order: 1, english: "I", chinese: "我", soundmark: "/aɪ/", isMastered: false },
+        { id: "1", order: 1, english: "I", vietnamese: "我", soundmark: "/aɪ/", isMastered: false },
         {
           id: "2",
           order: 2,
           english: "like",
-          chinese: "喜欢",
+          vietnamese: "喜欢",
           soundmark: "/laɪk/",
           isMastered: false,
         },

@@ -1,0 +1,872 @@
+[
+  {
+    "vietnamese": "sự ngạc nhiên",
+    "english": "surprise",
+    "soundmark": "/sɚ'praɪz/"
+  },
+  {
+    "vietnamese": "một sự ngạc nhiên",
+    "english": "a surprise",
+    "soundmark": "/ə/ /sɚ'praɪz/"
+  },
+  {
+    "vietnamese": "lớn",
+    "english": "big",
+    "soundmark": "/bɪɡ/"
+  },
+  {
+    "vietnamese": "một bất ngờ lớn",
+    "english": "a big surprise",
+    "soundmark": "/ə/ /bɪɡ/ /sɚ'praɪz/"
+  },
+  {
+    "vietnamese": "đưa",
+    "english": "to give",
+    "soundmark": "/tə/ /ɡɪv/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "cho nàng",
+    "english": "to give her",
+    "soundmark": "/tə/ /ɡɪv/ /hɚ/"
+  },
+  {
+    "vietnamese": "cho cô ấy một bất ngờ lớn",
+    "english": "to give her a big surprise",
+    "soundmark": "/tə/ /ɡɪv/ /hɚ/ /ə/ /bɪɡ/ /sɚ'praɪz/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn dành cho cô ấy một bất ngờ lớn",
+    "english": "I want to give her a big surprise",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡɪv/ /hɚ/ /ə/ /bɪɡ/ /sɚ'praɪz/"
+  },
+  {
+    "vietnamese": "đưa",
+    "english": "to give",
+    "soundmark": "/tə/ /ɡɪv/"
+  },
+  {
+    "vietnamese": "建议",
+    "english": "advice",
+    "soundmark": "/əd'vaɪs/"
+  },
+  {
+    "vietnamese": "một số",
+    "english": "some",
+    "soundmark": "/səm/"
+  },
+  {
+    "vietnamese": "một số đề xuất",
+    "english": "some advice",
+    "soundmark": "/səm/ /əd'vaɪs/"
+  },
+  {
+    "vietnamese": "đưa ra một số gợi ý",
+    "english": "to give some advice",
+    "soundmark": "/tə/ /ɡɪv/ /səm/ /əd'vaɪs/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "đưa cho tôi",
+    "english": "to give me",
+    "soundmark": "/tə/ /ɡɪv/ /mi/"
+  },
+  {
+    "vietnamese": "cho tôi lời khuyên",
+    "english": "to give me some advice",
+    "soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể",
+    "english": "you can",
+    "soundmark": "/ju/ /kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể cho tôi một số lời khuyên",
+    "english": "you can give me some advice",
+    "soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+  },
+  {
+    "vietnamese": "bạn có thể cho tôi một lời khuyên được không?",
+    "english": "can you give me some advice",
+    "soundmark": "/kæn/ /ju/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+  },
+  {
+    "vietnamese": "hy vọng",
+    "english": "to hope",
+    "soundmark": "/tə/ /hop/"
+  },
+  {
+    "vietnamese": "Tôi hy vọng",
+    "english": "I hope",
+    "soundmark": "/aɪ/ /hop/"
+  },
+  {
+    "vietnamese": "Tôi hy vọng bạn có thể cho tôi một số lời khuyên",
+    "english": "I hope you can give me some advice",
+    "soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+  },
+  {
+    "vietnamese": "hy vọng",
+    "english": "hope",
+    "soundmark": "/hop/"
+  },
+  {
+    "vietnamese": "đưa",
+    "english": "to give",
+    "soundmark": "/tə/ /ɡɪv/"
+  },
+  {
+    "vietnamese": "mang lại hy vọng",
+    "english": "to give hope",
+    "soundmark": "/tə/ /ɡɪv/ /hop/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "cho tôi hy vọng",
+    "english": "to give me hope",
+    "soundmark": "/tə/ /ɡɪv/ /mi/ /hop/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn cho tôi hy vọng",
+    "english": "you give me hope",
+    "soundmark": "/ju/ /ɡɪv/ /mi/ /hop/"
+  },
+  {
+    "vietnamese": "tay",
+    "english": "hand",
+    "soundmark": "/hænd/"
+  },
+  {
+    "vietnamese": "tay của bạn",
+    "english": "your hand",
+    "soundmark": "/jʊr/ /hænd/"
+  },
+  {
+    "vietnamese": "đưa cho tôi",
+    "english": "to give me",
+    "soundmark": "/tə/ /ɡɪv/ /mi/"
+  },
+  {
+    "vietnamese": "đưa tay cho tôi",
+    "english": "to give me your hand",
+    "soundmark": "/tə/ /ɡɪv/ /mi/ /jʊr/ /hænd/"
+  },
+  {
+    "vietnamese": "giúp tôi một tay",
+    "english": "to give me a hand",
+    "soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "vietnamese": "bạn có thể",
+    "english": "you can",
+    "soundmark": "/ju/ /kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể giúp tôi một tay",
+    "english": "you can give me a hand",
+    "soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "vietnamese": "bạn có thể giúp tôi một tay được không?",
+    "english": "can you give me a hand",
+    "soundmark": "/kæn/ /ju/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "vietnamese": "hy vọng",
+    "english": "to hope",
+    "soundmark": "/tə/ /hop/"
+  },
+  {
+    "vietnamese": "Tôi hy vọng",
+    "english": "I hope",
+    "soundmark": "/aɪ/ /hop/"
+  },
+  {
+    "vietnamese": "Tôi mong bạn có thể giúp tôi một tay",
+    "english": "I hope you can give me a hand",
+    "soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "vietnamese": "bàn giao",
+    "english": "to hand",
+    "soundmark": "/tə/ /hænd/"
+  },
+  {
+    "vietnamese": "dao",
+    "english": "knife",
+    "soundmark": "/naɪf/"
+  },
+  {
+    "vietnamese": "con dao đó",
+    "english": "the knife",
+    "soundmark": "/ðə/ /naɪf/"
+  },
+  {
+    "vietnamese": "đưa con dao",
+    "english": "to hand the knife",
+    "soundmark": "/tə/ /hænd/ /ðə/ /naɪf/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "đưa nó cho tôi",
+    "english": "to hand me",
+    "soundmark": "/tə/ /hænd/ /mi/"
+  },
+  {
+    "vietnamese": "con dao đó",
+    "english": "the knife",
+    "soundmark": "/ðə/ /naɪf/"
+  },
+  {
+    "vietnamese": "đưa tôi con dao",
+    "english": "to hand me the knife",
+    "soundmark": "/tə/ /hænd/ /mi/ /ðə/ /naɪf/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể",
+    "english": "you can",
+    "soundmark": "/ju/ /kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể đưa cho tôi con dao",
+    "english": "you can hand me the knife",
+    "soundmark": "/ju/ /kæn/ /hænd/ /mi/ /ðə/ /naɪf/"
+  },
+  {
+    "vietnamese": "bạn có thể đưa tôi con dao được không?",
+    "english": "can you hand me the knife",
+    "soundmark": "/kæn/ /ju/ /hænd/ /mi/ /ðə/ /naɪf/"
+  },
+  {
+    "vietnamese": "có (phiên bản lịch sự)",
+    "english": "could",
+    "soundmark": "/kʊd/"
+  },
+  {
+    "vietnamese": "bạn có thể (phiên bản lịch sự) đưa cho tôi con dao đó được không?",
+    "english": "could you hand me the knife",
+    "soundmark": "/kʊd/ /ju/ /hænd/ /mi/ /ðə/ /naɪf/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "to read",
+    "soundmark": "/tə/ /rid/"
+  },
+  {
+    "vietnamese": "câu chuyện",
+    "english": "story",
+    "soundmark": "/'stɔri/"
+  },
+  {
+    "vietnamese": "đọc một câu chuyện",
+    "english": "to read a story",
+    "soundmark": "/tə/ /rid/ /ə/ /'stɔri/"
+  },
+  {
+    "vietnamese": "giường",
+    "english": "bed",
+    "soundmark": "/bɛd/"
+  },
+  {
+    "vietnamese": "thời gian 时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "đi ngủ",
+    "english": "bedtime",
+    "soundmark": "/'bɛdtaɪm/"
+  },
+  {
+    "vietnamese": "câu chuyện",
+    "english": "story",
+    "soundmark": "/'stɔri/"
+  },
+  {
+    "vietnamese": "câu chuyện trước khi đi ngủ",
+    "english": "a bedtime story",
+    "soundmark": "/ə/ /'bɛdtaɪm/ /'stɔri/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "to read",
+    "soundmark": "/tə/ /rid/"
+  },
+  {
+    "vietnamese": "đọc truyện trước khi đi ngủ",
+    "english": "to read a bedtime story",
+    "soundmark": "/tə/ /rid/ /ə/ /'bɛdtaɪm/ /'stɔri/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "đọc cho cô ấy nghe",
+    "english": "to read her",
+    "soundmark": "/tə/ /rid/ /hɚ/"
+  },
+  {
+    "vietnamese": "đọc cho cô ấy nghe một câu chuyện trước khi đi ngủ",
+    "english": "to read her a bedtime story",
+    "soundmark": "/tə/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/"
+  },
+  {
+    "vietnamese": "con gái tôi",
+    "english": "my daughter",
+    "soundmark": "/maɪ/ /'dɔtɚ/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "wants",
+    "soundmark": "/wɑnts/"
+  },
+  {
+    "vietnamese": "con gái tôi muốn tôi",
+    "english": "my daughter wants me",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /wɑnts/ /mi/"
+  },
+  {
+    "vietnamese": "con gái tôi muốn tôi đọc truyện cho bé nghe trước khi đi ngủ",
+    "english": "my daughter wants me to read her a bedtime story",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /wɑnts/ /mi/ /tə/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/"
+  },
+  {
+    "vietnamese": "gọi điện thoại",
+    "english": "to call",
+    "soundmark": "/tə/ /kɔl/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "gọi điện thoại cho ta",
+    "english": "to call me",
+    "soundmark": "/tə/ /kɔl/ /mi/"
+  },
+  {
+    "vietnamese": "quên mất",
+    "english": "to forget",
+    "soundmark": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "quên gọi cho tôi",
+    "english": "to forget to call me",
+    "soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn quên gọi cho tôi",
+    "english": "you forget to call me",
+    "soundmark": "/ju/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "đừng quên gọi cho tôi",
+    "english": "you don't forget to call me",
+    "soundmark": "/ju/ /dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/"
+  },
+  {
+    "vietnamese": "đừng quên gọi cho tôi",
+    "english": "don't forget to call me",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/"
+  },
+  {
+    "vietnamese": "đến",
+    "english": "to get",
+    "soundmark": "/tə/ /ɡɛt/"
+  },
+  {
+    "vietnamese": "nơi đó",
+    "english": "there",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "di chuyển đến đó",
+    "english": "to get there",
+    "soundmark": "/tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn đến đó",
+    "english": "you get there",
+    "soundmark": "/ju/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "khi nào... khi nào",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi bạn đến đó",
+    "english": "when you get there",
+    "soundmark": "/wɛn/ /ju/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "đừng quên gọi cho tôi khi bạn đến đó",
+    "english": "don't forget to call me when you get there",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "mua",
+    "english": "to buy",
+    "soundmark": "/tə/ /baɪ/"
+  },
+  {
+    "vietnamese": "váy ngắn",
+    "english": "dress",
+    "soundmark": "/drɛs/"
+  },
+  {
+    "vietnamese": "mới",
+    "english": "new",
+    "soundmark": "/nu/"
+  },
+  {
+    "vietnamese": "một chiếc váy mới",
+    "english": "a new dress",
+    "soundmark": "/ə/ /nu/ /drɛs/"
+  },
+  {
+    "vietnamese": "mua một chiếc váy mới",
+    "english": "to buy a new dress",
+    "soundmark": "/tə/ /baɪ/ /ə/ /nu/ /drɛs/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "mua nó cho cô ấy",
+    "english": "to buy her",
+    "soundmark": "/tə/ /baɪ/ /hɚ/"
+  },
+  {
+    "vietnamese": "mua cho cô ấy một chiếc váy mới",
+    "english": "to buy her a new dress",
+    "soundmark": "/tə/ /baɪ/ /hɚ/ /ə/ /nu/ /drɛs/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi đã mua cho cô ấy một chiếc váy mới",
+    "english": "I buy her a new dress",
+    "soundmark": "/aɪ/ /baɪ/ /hɚ/ /ə/ /nu/ /drɛs/"
+  },
+  {
+    "vietnamese": "Tôi đã mua cho cô ấy một chiếc váy mới (trong quá khứ)",
+    "english": "I bought her a new dress",
+    "soundmark": "/aɪ/ /bɔt/ /hɚ/ /ə/ /nu/ /drɛs/"
+  },
+  {
+    "vietnamese": "con gái",
+    "english": "daughter",
+    "soundmark": "/'dɔtɚ/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "con gái tôi",
+    "english": "my daughter",
+    "soundmark": "/maɪ/ /'dɔtɚ/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đã mua cho con gái tôi một chiếc váy mới",
+    "english": "I bought my daughter a new dress",
+    "soundmark": "/aɪ/ /bɔt/ /maɪ/ /'dɔtɚ/ /ə/ /nu/ /drɛs/"
+  },
+  {
+    "vietnamese": "tuần",
+    "english": "week",
+    "soundmark": "/wik/"
+  },
+  {
+    "vietnamese": "lùi",
+    "english": "last",
+    "soundmark": "/læst/"
+  },
+  {
+    "vietnamese": "tuần trước",
+    "english": "last week",
+    "soundmark": "/læst/ /wik/"
+  },
+  {
+    "vietnamese": "Tôi đã mua cho con gái tôi một chiếc váy mới vào tuần trước",
+    "english": "I bought my daughter a new dress last week",
+    "soundmark": "/aɪ/ /bɔt/ /maɪ/ /'dɔtɚ/ /ə/ /nu/ /drɛs/ /læst/ /wik/"
+  },
+  {
+    "vietnamese": "sinh",
+    "english": "birth",
+    "soundmark": "/bɝθ/"
+  },
+  {
+    "vietnamese": "ngày",
+    "english": "day",
+    "soundmark": "/de/"
+  },
+  {
+    "vietnamese": "sinh nhật",
+    "english": "birthday",
+    "soundmark": "/'bɝθde/"
+  },
+  {
+    "vietnamese": "quà",
+    "english": "gift",
+    "soundmark": "/ɡɪft/"
+  },
+  {
+    "vietnamese": "quà sinh nhật",
+    "english": "birthday gift",
+    "soundmark": "/'bɝθde/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "một món quà sinh nhật",
+    "english": "a birthday gift",
+    "soundmark": "/ə/ /'bɝθde/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "mua",
+    "english": "to buy",
+    "soundmark": "/tə/ /baɪ/"
+  },
+  {
+    "vietnamese": "mua quà sinh nhật",
+    "english": "to buy a birthday gift",
+    "soundmark": "/tə/ /baɪ/ /ə/ /'bɝθde/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "con gái tôi",
+    "english": "my daughter",
+    "soundmark": "/maɪ/ /'dɔtɚ/"
+  },
+  {
+    "vietnamese": "mua cho con gái tôi",
+    "english": "to buy my daughter",
+    "soundmark": "/tə/ /baɪ/ /maɪ/ /'dɔtɚ/"
+  },
+  {
+    "vietnamese": "mua quà sinh nhật cho con gái tôi",
+    "english": "to buy my daughter a birthday gift",
+    "soundmark": "/tə/ /baɪ/ /maɪ/ /'dɔtɚ/ /ə/ /'bɝθde/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "Tôi sẽ",
+    "english": "I will",
+    "soundmark": "/aɪ/ /wɪl/"
+  },
+  {
+    "vietnamese": "Tôi sẽ mua quà sinh nhật cho con gái tôi",
+    "english": "I will buy my daughter a birthday gift",
+    "soundmark": "/aɪ/ /wɪl/ /baɪ/ /maɪ/ /'dɔtɚ/ /ə/ /'bɝθde/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "tháng",
+    "english": "month",
+    "soundmark": "/mʌnθ/"
+  },
+  {
+    "vietnamese": "tiếp theo",
+    "english": "next",
+    "soundmark": "/nɛkst/"
+  },
+  {
+    "vietnamese": "tháng tới",
+    "english": "next month",
+    "soundmark": "/nɛkst/ /mʌnθ/"
+  },
+  {
+    "vietnamese": "Tôi sẽ mua quà sinh nhật cho con gái tôi vào tháng tới",
+    "english": "I will buy my daughter a birthday gift next month",
+    "soundmark": "/aɪ/ /wɪl/ /baɪ/ /maɪ/ /'dɔtɚ/ /ə/ /'bɝθde/ /ɡɪft/ /nɛkst/ /mʌnθ/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "tách",
+    "english": "cup",
+    "soundmark": "/kʌp/"
+  },
+  {
+    "vietnamese": "một cái cốc",
+    "english": "a cup",
+    "soundmark": "/ə/ /kʌp/"
+  },
+  {
+    "vietnamese": "cà phê",
+    "english": "coffee",
+    "soundmark": "/'kɔfi/"
+  },
+  {
+    "vietnamese": "tách cà phê",
+    "english": "a cup of coffee",
+    "soundmark": "/ə/ /kʌp/ /əv/ /'kɔfi/"
+  },
+  {
+    "vietnamese": "pha một tách cà phê",
+    "english": "to make a cup of coffee",
+    "soundmark": "/tə/ /mek/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi pha một tách cà phê",
+    "english": "I make a cup of coffee",
+    "soundmark": "/aɪ/ /mek/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+  },
+  {
+    "vietnamese": "bản thân tôi",
+    "english": "myself",
+    "soundmark": "/maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "Tôi tự pha cho mình một tách cà phê",
+    "english": "I make myself a cup of coffee",
+    "soundmark": "/aɪ/ /mek/ /maɪ'sɛlf/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+  },
+  {
+    "vietnamese": "buổi sáng",
+    "english": "morning",
+    "soundmark": "/'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "mỗi",
+    "english": "every",
+    "soundmark": "/'ɛvri/"
+  },
+  {
+    "vietnamese": "mỗi buổi sáng",
+    "english": "every morning",
+    "soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "Mỗi sáng tôi tự pha cho mình một tách cà phê",
+    "english": "I make myself a cup of coffee every morning",
+    "soundmark": "/aɪ/ /mek/ /maɪ'sɛlf/ /ə/ /kʌp/ /əv/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "làm điều đó cho tôi",
+    "english": "to make me",
+    "soundmark": "/tə/ /mek/ /mi/"
+  },
+  {
+    "vietnamese": "pha cho tôi một tách cà phê",
+    "english": "to make me a cup of coffee",
+    "soundmark": "/tə/ /mek/ /mi/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+  },
+  {
+    "vietnamese": "bạn có thể",
+    "english": "you can",
+    "soundmark": "/ju/ /kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể pha cho tôi một tách cà phê",
+    "english": "you can make me a cup of coffee",
+    "soundmark": "/ju/ /kæn/ /mek/ /mi/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+  },
+  {
+    "vietnamese": "bạn có thể pha cho tôi một tách cà phê được không?",
+    "english": "can you make me a cup of coffee",
+    "soundmark": "/kæn/ /ju/ /mek/ /mi/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "làm điều đó cho cô ấy",
+    "english": "to make her",
+    "soundmark": "/tə/ /mek/ /hɚ/"
+  },
+  {
+    "vietnamese": "bạn có thể pha cho cô ấy một tách cà phê được không?",
+    "english": "can you make her a cup of coffee",
+    "soundmark": "/kæn/ /ju/ /mek/ /hɚ/ /ə/ /kʌp/ /əv/ /'kɔfi/"
+  },
+  {
+    "vietnamese": "vui mừng",
+    "english": "happy",
+    "soundmark": "/'hæpi/"
+  },
+  {
+    "vietnamese": "bạn có thể làm cho cô ấy hạnh phúc?",
+    "english": "can you make her happy",
+    "soundmark": "/kæn/ /ju/ /mek/ /hɚ/ /'hæpi/"
+  },
+  {
+    "vietnamese": "làm cô ấy hạnh phúc",
+    "english": "to make her happy",
+    "soundmark": "/tə/ /mek/ /hɚ/ /'hæpi/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn làm cho cô ấy hạnh phúc",
+    "english": "I want to make her happy",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /hɚ/ /'hæpi/"
+  },
+  {
+    "vietnamese": "sinh nhật",
+    "english": "birthday",
+    "soundmark": "/'bɝθde/"
+  },
+  {
+    "vietnamese": "Sinh nhật của mặt trăng nhỏ",
+    "english": "Xiaoyueliang's birthday",
+    "soundmark": "/'bɝθde/"
+  },
+  {
+    "vietnamese": "ngày mai",
+    "english": "tomorrow",
+    "soundmark": "/tə'mɔro/"
+  },
+  {
+    "vietnamese": "ngày mai là sinh nhật của Trăng Nhỏ",
+    "english": "tomorrow is Xiaoyueliang's birthday",
+    "soundmark": "/tə'mɔro/ /ɪz/ /'bɝθde/"
+  },
+  {
+    "vietnamese": "ngày mai là sinh nhật của Trăng Nhỏ và tôi muốn làm cô ấy hạnh phúc",
+    "english": "tomorrow is Xiaoyueliang's birthday and I want to make her happy",
+    "soundmark": "/tə'mɔro/ /ɪz/ /'bɝθde/ /ənd/ /aɪ/ /wɑnt/ /tə/ /mek/ /hɚ/ /'hæpi/"
+  },
+  {
+    "vietnamese": "mua",
+    "english": "to buy",
+    "soundmark": "/tə/ /baɪ/"
+  },
+  {
+    "vietnamese": "một chiếc váy mới",
+    "english": "a new dress",
+    "soundmark": "/ə/ /nu/ /drɛs/"
+  },
+  {
+    "vietnamese": "mua một chiếc váy mới",
+    "english": "to buy a new dress",
+    "soundmark": "/tə/ /baɪ/ /ə/ /nu/ /drɛs/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "mua nó cho cô ấy",
+    "english": "to buy her",
+    "soundmark": "/tə/ /baɪ/ /hɚ/"
+  },
+  {
+    "vietnamese": "mua cho cô ấy một chiếc váy mới",
+    "english": "to buy her a new dress",
+    "soundmark": "/tə/ /baɪ/ /hɚ/ /ə/ /nu/ /drɛs/"
+  },
+  {
+    "vietnamese": "Tôi đã mua cho cô ấy một chiếc váy mới",
+    "english": "I buy her a new dress",
+    "soundmark": "/aɪ/ /baɪ/ /hɚ/ /ə/ /nu/ /drɛs/"
+  },
+  {
+    "vietnamese": "Tôi đã mua cho cô ấy một chiếc váy mới (trong quá khứ)",
+    "english": "I bought her a new dress",
+    "soundmark": "/aɪ/ /bɔt/ /hɚ/ /ə/ /nu/ /drɛs/"
+  },
+  {
+    "vietnamese": "tuần trước",
+    "english": "last week",
+    "soundmark": "/læst/ /wik/"
+  },
+  {
+    "vietnamese": "Tôi đã mua cho cô ấy một chiếc váy mới vào tuần trước",
+    "english": "I bought her a new dress last week",
+    "soundmark": "/aɪ/ /bɔt/ /hɚ/ /ə/ /nu/ /drɛs/ /læst/ /wik/"
+  },
+  {
+    "vietnamese": "vì vậy",
+    "english": "so",
+    "soundmark": "/so/"
+  },
+  {
+    "vietnamese": "vì vậy tôi đã mua cho cô ấy một chiếc váy mới vào tuần trước",
+    "english": "so I bought her a new dress last week",
+    "soundmark": "/so/ /aɪ/ /bɔt/ /hɚ/ /ə/ /nu/ /drɛs/ /læst/ /wik/"
+  },
+  {
+    "vietnamese": "ngày mai là sinh nhật của Trăng Nhỏ và tôi muốn làm cô ấy vui nên tuần trước tôi đã mua cho cô ấy một chiếc váy mới",
+    "english": "tomorrow is Xiaoyueliang's birthday and I want to make her happy so I bought her a new dress last week",
+    "soundmark": "/tə'mɔro/ /ɪz/ /'bɝθde/ /ənd/ /aɪ/ /wɑnt/ /tə/ /mek/ /hɚ/ /'hæpi/ /so/ /aɪ/ /bɔt/ /hɚ/ /ə/ /nu/ /drɛs/ /læst/ /wik/"
+  }
+]

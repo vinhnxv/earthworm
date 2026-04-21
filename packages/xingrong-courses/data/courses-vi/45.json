@@ -1,0 +1,622 @@
+[
+  {
+    "vietnamese": "cho phép",
+    "english": "to permit",
+    "soundmark": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "vietnamese": "giáo viên",
+    "english": "the teacher",
+    "soundmark": "/ðə/ /'titʃɚ/"
+  },
+  {
+    "vietnamese": "giáo viên cho phép",
+    "english": "the teacher permits",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+  },
+  {
+    "vietnamese": "hát",
+    "english": "to sing",
+    "soundmark": "/tə/ /sɪŋ/"
+  },
+  {
+    "vietnamese": "lớp học",
+    "english": "class",
+    "soundmark": "/klæs/"
+  },
+  {
+    "vietnamese": "hiện hữu",
+    "english": "in",
+    "soundmark": "/ɪn/"
+  },
+  {
+    "vietnamese": "trong lớp",
+    "english": "in the class",
+    "soundmark": "/ɪn/ /ðə/ /klæs/"
+  },
+  {
+    "vietnamese": "âm nhạc",
+    "english": "music",
+    "soundmark": "/'mjuzɪk/"
+  },
+  {
+    "vietnamese": "trong lớp âm nhạc",
+    "english": "in the music class",
+    "soundmark": "/ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+  },
+  {
+    "vietnamese": "hát trong lớp nhạc",
+    "english": "to sing in the music class",
+    "soundmark": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+  },
+  {
+    "vietnamese": "hát trong lớp nhạc (dạng ing)",
+    "english": "singing in the music class",
+    "soundmark": "/'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+  },
+  {
+    "vietnamese": "giáo viên cho phép",
+    "english": "the teacher permits",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+  },
+  {
+    "vietnamese": "cô giáo cho phép hát trong giờ học nhạc",
+    "english": "the teacher permits singing in the music class",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+  },
+  {
+    "vietnamese": "ông, chú, anh ấy",
+    "english": "him",
+    "soundmark": "/hɪm/"
+  },
+  {
+    "vietnamese": "giáo viên cho phép anh ta",
+    "english": "the teacher permits him",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/"
+  },
+  {
+    "vietnamese": "hát trong lớp nhạc",
+    "english": "to sing in the music class",
+    "soundmark": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+  },
+  {
+    "vietnamese": "giáo viên cho phép anh ấy hát trong lớp nhạc",
+    "english": "the teacher permits him to sing in the music class",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+  },
+  {
+    "vietnamese": "biển khơi",
+    "english": "the sea",
+    "soundmark": "/ðə/ /si/"
+  },
+  {
+    "vietnamese": "tRONG",
+    "english": "in",
+    "soundmark": "/ɪn/"
+  },
+  {
+    "vietnamese": "trên biển",
+    "english": "in the sea",
+    "soundmark": "/ɪn/ /ðə/ /si/"
+  },
+  {
+    "vietnamese": "bơi lội",
+    "english": "to swim",
+    "soundmark": "/tə/ /swɪm/"
+  },
+  {
+    "vietnamese": "bơi trong đại dương",
+    "english": "to swim in the sea",
+    "soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+  },
+  {
+    "vietnamese": "hoàng hôn",
+    "english": "sunset",
+    "soundmark": "/'sʌnsɛt/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi mặt trời lặn",
+    "english": "before sunset",
+    "soundmark": "/bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "vietnamese": "bơi trong đại dương trước khi mặt trời lặn",
+    "english": "to swim in the sea before sunset",
+    "soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "vietnamese": "bơi dưới biển trước khi mặt trời lặn (dạng ing)",
+    "english": "swimming in the sea before sunset",
+    "soundmark": "/'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "vietnamese": "cho phép",
+    "english": "to permit",
+    "soundmark": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "vietnamese": "chính sách",
+    "english": "the policy",
+    "soundmark": "/ðə/ /ˈpɑləsi/"
+  },
+  {
+    "vietnamese": "chính sách cho phép",
+    "english": "the policy permits",
+    "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/"
+  },
+  {
+    "vietnamese": "chính sách cho phép tắm biển trước khi mặt trời lặn",
+    "english": "the policy permits swimming in the sea before sunset",
+    "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "vietnamese": "ba",
+    "english": "father",
+    "soundmark": "/'fɑðɚ/"
+  },
+  {
+    "vietnamese": "của anh ấy",
+    "english": "his",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "vietnamese": "cha anh ấy",
+    "english": "his father",
+    "soundmark": "/hɪz/ /'fɑðɚ/"
+  },
+  {
+    "vietnamese": "cho phép",
+    "english": "to permit",
+    "soundmark": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "vietnamese": "bố anh ấy cho phép",
+    "english": "his father permits",
+    "soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/"
+  },
+  {
+    "vietnamese": "ông, chú, anh ấy",
+    "english": "him",
+    "soundmark": "/hɪm/"
+  },
+  {
+    "vietnamese": "bố anh ấy đã cho phép anh ấy",
+    "english": "his father permits him",
+    "soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/"
+  },
+  {
+    "vietnamese": "bơi trong đại dương trước khi mặt trời lặn",
+    "english": "to swim in the sea before sunset",
+    "soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "vietnamese": "cha anh cho anh đi bơi ở biển trước khi mặt trời lặn",
+    "english": "his father permits him to swim in the sea before sunset",
+    "soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "vietnamese": "dừng lại",
+    "english": "to stop",
+    "soundmark": "/tə/ /stɑp/"
+  },
+  {
+    "vietnamese": "anh ấy",
+    "english": "he",
+    "soundmark": "/hi/"
+  },
+  {
+    "vietnamese": "anh ấy dừng lại",
+    "english": "he stops",
+    "soundmark": "/hi/ /stɑps/"
+  },
+  {
+    "vietnamese": "anh ấy đã dừng lại (quá khứ)",
+    "english": "he stopped",
+    "soundmark": "/hi/ /stɑpt/"
+  },
+  {
+    "vietnamese": "khói",
+    "english": "to smoke",
+    "soundmark": "/tə/ /smok/"
+  },
+  {
+    "vietnamese": "hút thuốc (dạng ing)",
+    "english": "smoking",
+    "soundmark": "/'smokɪŋ/"
+  },
+  {
+    "vietnamese": "anh ấy đã ngừng hút thuốc",
+    "english": "he stopped smoking",
+    "soundmark": "/hi/ /stɑpt/ /'smokɪŋ/"
+  },
+  {
+    "vietnamese": "khỏe mạnh",
+    "english": "health",
+    "soundmark": "/hɛlθ/"
+  },
+  {
+    "vietnamese": "sức khỏe của anh ấy",
+    "english": "his health",
+    "soundmark": "/hɪz/ /hɛlθ/"
+  },
+  {
+    "vietnamese": "để",
+    "english": "for",
+    "soundmark": "/fɚ/"
+  },
+  {
+    "vietnamese": "vì sức khỏe của anh ấy",
+    "english": "for his health",
+    "soundmark": "/fɚ/ /hɪz/ /hɛlθ/"
+  },
+  {
+    "vietnamese": "anh ấy đã ngừng hút thuốc",
+    "english": "he stopped smoking",
+    "soundmark": "/hi/ /stɑpt/ /'smokɪŋ/"
+  },
+  {
+    "vietnamese": "anh ấy đã ngừng hút thuốc vì sức khỏe của mình",
+    "english": "he stopped smoking for his health",
+    "soundmark": "/hi/ /stɑpt/ /'smokɪŋ/ /fɚ/ /hɪz/ /hɛlθ/"
+  },
+  {
+    "vietnamese": "anh ấy đã ngừng hút thuốc",
+    "english": "he stopped smoking",
+    "soundmark": "/hi/ /stɑpt/ /'smokɪŋ/"
+  },
+  {
+    "vietnamese": "khói",
+    "english": "to smoke",
+    "soundmark": "/tə/ /smok/"
+  },
+  {
+    "vietnamese": "anh ấy dừng lại để hút thuốc",
+    "english": "he stopped to smoke",
+    "soundmark": "/hi/ /stɑpt/ /tə/ /smok/"
+  },
+  {
+    "vietnamese": "xe buýt",
+    "english": "bus",
+    "soundmark": "/bʌs/"
+  },
+  {
+    "vietnamese": "dừng lại",
+    "english": "stop",
+    "soundmark": "/stɑp/"
+  },
+  {
+    "vietnamese": "trạm xe buýt",
+    "english": "bus stop",
+    "soundmark": "/bʌs/ /stɑp/"
+  },
+  {
+    "vietnamese": "ở bến xe buýt",
+    "english": "at the bus stop",
+    "soundmark": "/ət/ /ðə/ /bʌs/ /stɑp/"
+  },
+  {
+    "vietnamese": "anh ấy dừng lại để hút thuốc",
+    "english": "he stopped to smoke",
+    "soundmark": "/hi/ /stɑpt/ /tə/ /smok/"
+  },
+  {
+    "vietnamese": "anh ấy dừng lại ở trạm xe buýt để hút thuốc",
+    "english": "he stopped to smoke at the bus stop",
+    "soundmark": "/hi/ /stɑpt/ /tə/ /smok/ /ət/ /ðə/ /bʌs/ /stɑp/"
+  },
+  {
+    "vietnamese": "mua",
+    "english": "to buy",
+    "soundmark": "/tə/ /baɪ/"
+  },
+  {
+    "vietnamese": "hoa",
+    "english": "flower",
+    "soundmark": "/'flaʊɚ/"
+  },
+  {
+    "vietnamese": "một số",
+    "english": "some",
+    "soundmark": "/səm/"
+  },
+  {
+    "vietnamese": "một số bông hoa",
+    "english": "some flowers",
+    "soundmark": "/səm/ /'flaʊɚz/"
+  },
+  {
+    "vietnamese": "mua một ít hoa",
+    "english": "to buy some flowers",
+    "soundmark": "/tə/ /baɪ/ /səm/ /'flaʊɚz/"
+  },
+  {
+    "vietnamese": "anh ấy dừng lại",
+    "english": "he stopped",
+    "soundmark": "/hi/ /stɑpt/"
+  },
+  {
+    "vietnamese": "anh dừng lại mua hoa",
+    "english": "he stopped to buy some flowers",
+    "soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/"
+  },
+  {
+    "vietnamese": "đường",
+    "english": "way",
+    "soundmark": "/we/"
+  },
+  {
+    "vietnamese": "của anh ấy",
+    "english": "his",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "vietnamese": "cách của anh ấy",
+    "english": "his way",
+    "soundmark": "/hɪz/ /we/"
+  },
+  {
+    "vietnamese": "chỗ ở",
+    "english": "home",
+    "soundmark": "/hom/"
+  },
+  {
+    "vietnamese": "đường về nhà",
+    "english": "his way home",
+    "soundmark": "/hɪz/ /we/ /hom/"
+  },
+  {
+    "vietnamese": "trên đường về nhà",
+    "english": "on his way home",
+    "soundmark": "/ɑn/ /hɪz/ /we/ /hom/"
+  },
+  {
+    "vietnamese": "anh dừng lại mua hoa",
+    "english": "he stopped to buy some flowers",
+    "soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/"
+  },
+  {
+    "vietnamese": "anh ấy dừng lại trên đường về nhà để mua một ít hoa",
+    "english": "he stopped to buy some flowers on his way home",
+    "soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/ /ɑn/ /hɪz/ /we/ /hom/"
+  },
+  {
+    "vietnamese": "mua (mẫu ing)",
+    "english": "buying",
+    "soundmark": "/'baɪɪŋ/"
+  },
+  {
+    "vietnamese": "hoa",
+    "english": "flowers",
+    "soundmark": "/'flaʊɚz/"
+  },
+  {
+    "vietnamese": "mua hoa (dạng ing)",
+    "english": "buying flowers",
+    "soundmark": "/'baɪɪŋ/ /'flaʊɚz/"
+  },
+  {
+    "vietnamese": "anh ấy dừng lại",
+    "english": "he stopped",
+    "soundmark": "/hi/ /stɑpt/"
+  },
+  {
+    "vietnamese": "anh ngừng mua hoa",
+    "english": "he stopped buying flowers",
+    "soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "để",
+    "english": "for",
+    "soundmark": "/fɚ/"
+  },
+  {
+    "vietnamese": "cho cô ấy",
+    "english": "for her",
+    "soundmark": "/fɚ/ /hɚ/"
+  },
+  {
+    "vietnamese": "anh ấy ngừng mua hoa cho cô ấy",
+    "english": "he stopped buying flowers for her",
+    "soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/"
+  },
+  {
+    "vietnamese": "cãi nhau",
+    "english": "fight",
+    "soundmark": "/faɪt/"
+  },
+  {
+    "vietnamese": "một cuộc cãi vã",
+    "english": "a fight",
+    "soundmark": "/ə/ /faɪt/"
+  },
+  {
+    "vietnamese": "họ",
+    "english": "they",
+    "soundmark": "/ðe/"
+  },
+  {
+    "vietnamese": "có",
+    "english": "have",
+    "soundmark": "/hæv/"
+  },
+  {
+    "vietnamese": "họ có",
+    "english": "they have",
+    "soundmark": "/ðe/ /hæv/"
+  },
+  {
+    "vietnamese": "họ đã cãi nhau",
+    "english": "they have a fight",
+    "soundmark": "/ðe/ /hæv/ /ə/ /faɪt/"
+  },
+  {
+    "vietnamese": "họ đã cãi nhau (trong quá khứ)",
+    "english": "they had a fight",
+    "soundmark": "/ðe/ /hæd/ /ə/ /faɪt/"
+  },
+  {
+    "vietnamese": "sau đó",
+    "english": "after",
+    "soundmark": "/'æftɚ/"
+  },
+  {
+    "vietnamese": "sau khi họ cãi nhau (trong quá khứ)",
+    "english": "after they had a fight",
+    "soundmark": "/'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/"
+  },
+  {
+    "vietnamese": "anh ấy ngừng mua hoa cho cô ấy",
+    "english": "he stopped buying flowers for her",
+    "soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/"
+  },
+  {
+    "vietnamese": "anh ấy đã ngừng mua hoa cho cô ấy sau khi họ cãi nhau (trong quá khứ)",
+    "english": "he stopped buying flowers for her after they had a fight",
+    "soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/ /'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/"
+  },
+  {
+    "vietnamese": "nhớ tới",
+    "english": "to remember",
+    "soundmark": "/tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "Tôi cần phải nhớ",
+    "english": "I need to remember",
+    "soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "vietnamese": "gọi",
+    "english": "to call",
+    "soundmark": "/tə/ /kɔl/"
+  },
+  {
+    "vietnamese": "mẹ",
+    "english": "mom",
+    "soundmark": "/mɑm/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "mẹ tôi",
+    "english": "my mom",
+    "soundmark": "/maɪ/ /mɑm/"
+  },
+  {
+    "vietnamese": "gọi cho mẹ tôi",
+    "english": "to call my mom",
+    "soundmark": "/tə/ /kɔl/ /maɪ/ /mɑm/"
+  },
+  {
+    "vietnamese": "ngày mai",
+    "english": "tomorrow",
+    "soundmark": "/tə'mɔro/"
+  },
+  {
+    "vietnamese": "gọi cho mẹ tôi vào ngày mai",
+    "english": "to call my mom tomorrow",
+    "soundmark": "/tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "Tôi cần phải nhớ",
+    "english": "I need to remember",
+    "soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "vietnamese": "Tôi cần nhớ gọi cho mẹ tôi vào ngày mai",
+    "english": "I need to remember to call my mom tomorrow",
+    "soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/ /tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "gọi",
+    "english": "to call",
+    "soundmark": "/tə/ /kɔl/"
+  },
+  {
+    "vietnamese": "gọi cho bạn",
+    "english": "to call you",
+    "soundmark": "/tə/ /kɔl/ /ju/"
+  },
+  {
+    "vietnamese": "gọi cho bạn (dạng ing)",
+    "english": "calling you",
+    "soundmark": "/ˈkɔlɪŋ/ /ju/"
+  },
+  {
+    "vietnamese": "tối hôm qua",
+    "english": "last night",
+    "soundmark": "/læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "tôi đã gọi cho bạn tối qua (ing form)",
+    "english": "calling you last night",
+    "soundmark": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "Tôi nhớ",
+    "english": "I remember",
+    "soundmark": "/aɪ/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "vietnamese": "Tôi nhớ đã gọi cho bạn tối qua",
+    "english": "I remember calling you last night",
+    "soundmark": "/aɪ/ /rɪ'mɛmbɚ/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "quên mất",
+    "english": "to forget",
+    "soundmark": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "Tôi đã quên",
+    "english": "I forget",
+    "soundmark": "/aɪ/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "Tôi đã quên (quá khứ)",
+    "english": "I forgot",
+    "soundmark": "/aɪ/ /fɚ'ɡɑt/"
+  },
+  {
+    "vietnamese": "tôi đã gọi cho bạn tối qua (ing form)",
+    "english": "calling you last night",
+    "soundmark": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "Tối qua tôi quên gọi cho bạn",
+    "english": "I forgot calling you last night",
+    "soundmark": "/aɪ/ /fɚ'ɡɑt/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "gọi",
+    "english": "to call",
+    "soundmark": "/tə/ /kɔl/"
+  },
+  {
+    "vietnamese": "tôi đã gọi cho bạn tối qua",
+    "english": "to call you last night",
+    "soundmark": "/tə/ /kɔl/ /ju/ /læst/ /naɪt/"
+  },
+  {
+    "vietnamese": "Tối qua tôi quên gọi cho bạn",
+    "english": "I forgot to call you last night",
+    "soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /kɔl/ /ju/ /læst/ /naɪt/"
+  }
+]

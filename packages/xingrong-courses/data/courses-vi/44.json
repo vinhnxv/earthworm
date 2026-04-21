@@ -1,0 +1,887 @@
+[
+  {
+    "vietnamese": "hỏi",
+    "english": "to ask",
+    "soundmark": "/tə/ /æsk/"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "english": "questions",
+    "soundmark": "/'kwɛstʃənz/"
+  },
+  {
+    "vietnamese": "đặt câu hỏi",
+    "english": "to ask questions",
+    "soundmark": "/tə/ /æsk/ /'kwɛstʃənz/"
+  },
+  {
+    "vietnamese": "thời gian 时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "bất kỳ",
+    "english": "any",
+    "soundmark": "/'ɛni/"
+  },
+  {
+    "vietnamese": "bất cứ lúc nào",
+    "english": "any time",
+    "soundmark": "/'ɛni/ /taɪm/"
+  },
+  {
+    "vietnamese": "bất cứ lúc nào",
+    "english": "at any time",
+    "soundmark": "/ət/ /'ɛni/ /taɪm/"
+  },
+  {
+    "vietnamese": "đặt câu hỏi bất cứ lúc nào",
+    "english": "to ask questions at any time",
+    "soundmark": "/tə/ /æsk/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/"
+  },
+  {
+    "vietnamese": "đặt câu hỏi bất cứ lúc nào (ing form)",
+    "english": "asking questions at any time",
+    "soundmark": "/ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/"
+  },
+  {
+    "vietnamese": "cho phép",
+    "english": "to permit",
+    "soundmark": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "vietnamese": "giáo viên",
+    "english": "the teacher",
+    "soundmark": "/ðə/ /'titʃɚ/"
+  },
+  {
+    "vietnamese": "giáo viên cho phép",
+    "english": "the teacher permits",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+  },
+  {
+    "vietnamese": "giáo viên được phép đặt câu hỏi bất cứ lúc nào",
+    "english": "the teacher permits asking questions at any time",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/"
+  },
+  {
+    "vietnamese": "chỗ ở",
+    "english": "home",
+    "soundmark": "/hom/"
+  },
+  {
+    "vietnamese": "từ",
+    "english": "from",
+    "soundmark": "/frʌm/"
+  },
+  {
+    "vietnamese": "từ nhà",
+    "english": "from home",
+    "soundmark": "/frʌm/ /hom/"
+  },
+  {
+    "vietnamese": "làm việc",
+    "english": "to work",
+    "soundmark": "/tə/ /wɝk/"
+  },
+  {
+    "vietnamese": "làm việc ở nhà",
+    "english": "to work from home",
+    "soundmark": "/tə/ /wɝk/ /frʌm/ /hom/"
+  },
+  {
+    "vietnamese": "Thứ sáu",
+    "english": "Friday",
+    "soundmark": "/ˈfraɪde/"
+  },
+  {
+    "vietnamese": "vào thứ sáu",
+    "english": "on Friday",
+    "soundmark": "/ɑn/ /ˈfraɪde/"
+  },
+  {
+    "vietnamese": "làm việc tại nhà vào thứ Sáu",
+    "english": "to work from home on Fridays",
+    "soundmark": "/tə/ /wɝk/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/"
+  },
+  {
+    "vietnamese": "làm việc tại nhà vào thứ Sáu (mẫu ing)",
+    "english": "working from home on Fridays",
+    "soundmark": "/ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/"
+  },
+  {
+    "vietnamese": "cho phép",
+    "english": "to permit",
+    "soundmark": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "vietnamese": "công ty",
+    "english": "the company",
+    "soundmark": "/ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "công ty cho phép",
+    "english": "the company permits",
+    "soundmark": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/"
+  },
+  {
+    "vietnamese": "các công ty cho phép làm việc tại nhà vào thứ Sáu",
+    "english": "the company permits working from home on Fridays",
+    "soundmark": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/ /ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/"
+  },
+  {
+    "vietnamese": "âm nhạc",
+    "english": "music",
+    "soundmark": "/'mjuzɪk/"
+  },
+  {
+    "vietnamese": "nghe",
+    "english": "to listen",
+    "soundmark": "/tə/ /'lɪsn/"
+  },
+  {
+    "vietnamese": "nghe nhạc",
+    "english": "to listen to music",
+    "soundmark": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "đột nhập",
+    "english": "to break",
+    "soundmark": "/tə/ /brek/"
+  },
+  {
+    "vietnamese": "nghỉ",
+    "english": "break",
+    "soundmark": "/brek/"
+  },
+  {
+    "vietnamese": "trong lúc",
+    "english": "during",
+    "soundmark": "/'dʊrɪŋ/"
+  },
+  {
+    "vietnamese": "trong giờ nghỉ",
+    "english": "during the break",
+    "soundmark": "/'dʊrɪŋ/ /ðə/ /brek/"
+  },
+  {
+    "vietnamese": "nghe nhạc trong giờ giải lao",
+    "english": "to listen to music during the break",
+    "soundmark": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/"
+  },
+  {
+    "vietnamese": "nghe nhạc trong giờ giải lao (dạng ing)",
+    "english": "listening to music during the break",
+    "soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/"
+  },
+  {
+    "vietnamese": "cho phép",
+    "english": "to permit",
+    "soundmark": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "vietnamese": "giáo viên",
+    "english": "the teacher",
+    "soundmark": "/ðə/ /'titʃɚ/"
+  },
+  {
+    "vietnamese": "giáo viên cho phép",
+    "english": "the teacher permits",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+  },
+  {
+    "vietnamese": "giáo viên cho phép nghe nhạc trong giờ giải lao",
+    "english": "the teacher permits listening to music during the break",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/"
+  },
+  {
+    "vietnamese": "chơi",
+    "english": "to play",
+    "soundmark": "/tə/ /ple/"
+  },
+  {
+    "vietnamese": "trò chơi",
+    "english": "games",
+    "soundmark": "/ɡemz/"
+  },
+  {
+    "vietnamese": "chơi trò chơi",
+    "english": "to play games",
+    "soundmark": "/tə/ /ple/ /ɡemz/"
+  },
+  {
+    "vietnamese": "chơi trò chơi (dạng ing)",
+    "english": "playing games",
+    "soundmark": "/ˈpleɪŋ/ /ɡemz/"
+  },
+  {
+    "vietnamese": "nghe nhạc (dạng ing)",
+    "english": "listening to music",
+    "soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "hoặc",
+    "english": "or",
+    "soundmark": "/ɔr/"
+  },
+  {
+    "vietnamese": "nghe nhạc hoặc chơi game (dạng ing)",
+    "english": "listening to music or playing games",
+    "soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/"
+  },
+  {
+    "vietnamese": "giáo viên cho phép nghe nhạc hoặc chơi game trong giờ giải lao",
+    "english": "the teacher permits listening to music or playing games during the break",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/ /'dʊrɪŋ/ /ðə/ /brek/"
+  },
+  {
+    "vietnamese": "trong lúc",
+    "english": "during",
+    "soundmark": "/'dʊrɪŋ/"
+  },
+  {
+    "vietnamese": "bài kiểm tra",
+    "english": "test",
+    "soundmark": "/tɛst/"
+  },
+  {
+    "vietnamese": "trong bài kiểm tra này",
+    "english": "during the test",
+    "soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/"
+  },
+  {
+    "vietnamese": "dùng",
+    "english": "to use",
+    "soundmark": "/tə/ /juz/"
+  },
+  {
+    "vietnamese": "máy tính",
+    "english": "calculator",
+    "soundmark": "/ˈkælkjuletɚ/"
+  },
+  {
+    "vietnamese": "sử dụng máy tính",
+    "english": "to use calculators",
+    "soundmark": "/tə/ /juz/ /ˈkælkjuletɚz/"
+  },
+  {
+    "vietnamese": "sử dụng máy tính (dạng ing)",
+    "english": "using calculators",
+    "soundmark": "/'juzɪŋ/ /ˈkælkjuletɚz/"
+  },
+  {
+    "vietnamese": "cho phép",
+    "english": "to permit",
+    "soundmark": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "vietnamese": "giáo viên cho phép",
+    "english": "the teacher permits",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+  },
+  {
+    "vietnamese": "giáo viên được phép sử dụng máy tính",
+    "english": "the teacher permits using calculators",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/"
+  },
+  {
+    "vietnamese": "trong bài kiểm tra này",
+    "english": "during the test",
+    "soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/"
+  },
+  {
+    "vietnamese": "giáo viên cho phép sử dụng máy tính trong bài kiểm tra này",
+    "english": "the teacher permits using calculators during the test",
+    "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/ /'dʊrɪŋ/ /ðə/ /tɛst/"
+  },
+  {
+    "vietnamese": "uống",
+    "english": "to drink",
+    "soundmark": "/tə/ /drɪŋk/"
+  },
+  {
+    "vietnamese": "nước",
+    "english": "water",
+    "soundmark": "/'wɔtɚ/"
+  },
+  {
+    "vietnamese": "uống nước",
+    "english": "to drink water",
+    "soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "bài kiểm tra",
+    "english": "test",
+    "soundmark": "/tɛst/"
+  },
+  {
+    "vietnamese": "máu",
+    "english": "blood",
+    "soundmark": "/blʌd/"
+  },
+  {
+    "vietnamese": "xét nghiệm máu",
+    "english": "the blood test",
+    "soundmark": "/ðə/ /blʌd/ /tɛst/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi xét nghiệm máu",
+    "english": "before the blood test",
+    "soundmark": "/bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+  },
+  {
+    "vietnamese": "uống nước trước khi xét nghiệm máu",
+    "english": "to drink water before the blood test",
+    "soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+  },
+  {
+    "vietnamese": "uống nước trước khi xét nghiệm máu (dạng ing)",
+    "english": "drinking water before the blood test",
+    "soundmark": "/'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+  },
+  {
+    "vietnamese": "cho phép",
+    "english": "to permit",
+    "soundmark": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "vietnamese": "bác sĩ",
+    "english": "the doctor",
+    "soundmark": "/ðə/ /'dɑktɚ/"
+  },
+  {
+    "vietnamese": "sự cho phép của bác sĩ",
+    "english": "the doctor permits",
+    "soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/"
+  },
+  {
+    "vietnamese": "bác sĩ cho phép uống nước",
+    "english": "the doctor permits drinking water",
+    "soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "bác sĩ cho phép uống nước trước khi xét nghiệm máu",
+    "english": "the doctor permits drinking water before the blood test",
+    "soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+  },
+  {
+    "vietnamese": "lái",
+    "english": "to drive",
+    "soundmark": "/draɪv/"
+  },
+  {
+    "vietnamese": "lái xe (dạng ing)",
+    "english": "driving",
+    "soundmark": "/'draɪvɪŋ/"
+  },
+  {
+    "vietnamese": "cho phép",
+    "english": "to permit",
+    "soundmark": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "vietnamese": "chính sách",
+    "english": "policy",
+    "soundmark": "/ˈpɑləsi/"
+  },
+  {
+    "vietnamese": "chính sách cho phép",
+    "english": "the policy permits",
+    "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/"
+  },
+  {
+    "vietnamese": "chính sách cho phép lái xe",
+    "english": "the policy permits driving",
+    "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/"
+  },
+  {
+    "vietnamese": "giấy phép",
+    "english": "license",
+    "soundmark": "/ˈlaɪsns/"
+  },
+  {
+    "vietnamese": "có hiệu lực",
+    "english": "valid",
+    "soundmark": "/ˈvælɪd/"
+  },
+  {
+    "vietnamese": "giấy phép hợp lệ",
+    "english": "a valid license",
+    "soundmark": "/ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "vietnamese": "nắm giữ",
+    "english": "have",
+    "soundmark": "/hæv/"
+  },
+  {
+    "vietnamese": "bạn có",
+    "english": "you have",
+    "soundmark": "/ju/ /hæv/"
+  },
+  {
+    "vietnamese": "bạn có giấy phép hợp lệ",
+    "english": "you have a valid license",
+    "soundmark": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "nếu bạn có giấy phép hợp lệ",
+    "english": "if you have a valid license",
+    "soundmark": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "vietnamese": "chính sách cho phép lái xe",
+    "english": "the policy permits driving",
+    "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/"
+  },
+  {
+    "vietnamese": "chính sách cho phép bạn lái xe nếu bạn có giấy phép hợp lệ",
+    "english": "the policy permits driving if you have a valid license",
+    "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "vietnamese": "du lịch",
+    "english": "to travel",
+    "soundmark": "/tə/ /'trævl/"
+  },
+  {
+    "vietnamese": "đi nước ngoài",
+    "english": "abroad",
+    "soundmark": "/ə'brɔd/"
+  },
+  {
+    "vietnamese": "đi du lịch nước ngoài",
+    "english": "to travel abroad",
+    "soundmark": "/tə/ /'trævl/ /ə'brɔd/"
+  },
+  {
+    "vietnamese": "đi du lịch nước ngoài (mẫu ing)",
+    "english": "traveling abroad",
+    "soundmark": "/'trævlɪŋ/ /ə'brɔd/"
+  },
+  {
+    "vietnamese": "cho phép",
+    "english": "to permit",
+    "soundmark": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "vietnamese": "chính sách",
+    "english": "policy",
+    "soundmark": "/ˈpɑləsi/"
+  },
+  {
+    "vietnamese": "chính sách cho phép",
+    "english": "the policy permits",
+    "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/"
+  },
+  {
+    "vietnamese": "chính sách cho phép đi du lịch nước ngoài",
+    "english": "the policy permits traveling abroad",
+    "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/"
+  },
+  {
+    "vietnamese": "hộ chiếu",
+    "english": "passport",
+    "soundmark": "/'pæspɔrt/"
+  },
+  {
+    "vietnamese": "có hiệu lực",
+    "english": "valid",
+    "soundmark": "/ˈvælɪd/"
+  },
+  {
+    "vietnamese": "hộ chiếu hợp lệ",
+    "english": "a valid passport",
+    "soundmark": "/ə/ /ˈvælɪd/ /'pæspɔrt/"
+  },
+  {
+    "vietnamese": "bạn có",
+    "english": "you have",
+    "soundmark": "/ju/ /hæv/"
+  },
+  {
+    "vietnamese": "bạn có hộ chiếu hợp lệ",
+    "english": "you have a valid passport",
+    "soundmark": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/"
+  },
+  {
+    "vietnamese": "nếu bạn có hộ chiếu hợp lệ",
+    "english": "if you have a valid passport",
+    "soundmark": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/"
+  },
+  {
+    "vietnamese": "chính sách cho phép đi du lịch nước ngoài",
+    "english": "the policy permits traveling abroad",
+    "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/"
+  },
+  {
+    "vietnamese": "chính sách cho phép đi du lịch nước ngoài nếu bạn có hộ chiếu hợp lệ",
+    "english": "the policy permits traveling abroad if you have a valid passport",
+    "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/"
+  },
+  {
+    "vietnamese": "khói",
+    "english": "to smoke",
+    "soundmark": "/tə/ /smok/"
+  },
+  {
+    "vietnamese": "hút thuốc (dạng ing)",
+    "english": "smoking",
+    "soundmark": "/ˈsmokɪŋ/"
+  },
+  {
+    "vietnamese": "cho phép",
+    "english": "to permit",
+    "soundmark": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "vietnamese": "chúng tôi cho phép",
+    "english": "we permit",
+    "soundmark": "/wi/ /pɚˈmɪt/"
+  },
+  {
+    "vietnamese": "chúng tôi cho phép hút thuốc",
+    "english": "we permit smoking",
+    "soundmark": "/wi/ /pɚˈmɪt/ /ˈsmokɪŋ/"
+  },
+  {
+    "vietnamese": "chúng tôi không cho phép hút thuốc",
+    "english": "we don't permit smoking",
+    "soundmark": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/"
+  },
+  {
+    "vietnamese": "văn phòng",
+    "english": "office",
+    "soundmark": "/'ɑfɪs/"
+  },
+  {
+    "vietnamese": "trong văn phòng",
+    "english": "in the office",
+    "soundmark": "/ɪn/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "vietnamese": "chúng tôi không cho phép hút thuốc trong văn phòng",
+    "english": "we don't permit smoking in the office",
+    "soundmark": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "vietnamese": "cấm",
+    "english": "to prohibit",
+    "soundmark": "/tə/ /prəˈhɪbɪt/"
+  },
+  {
+    "vietnamese": "chúng tôi cấm",
+    "english": "we prohibit",
+    "soundmark": "/wi/ /prəˈhɪbɪt/"
+  },
+  {
+    "vietnamese": "hút thuốc trong văn phòng (dạng ing)",
+    "english": "smoking in the office",
+    "soundmark": "/ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "vietnamese": "chúng tôi cấm hút thuốc trong văn phòng",
+    "english": "we prohibit smoking in the office",
+    "soundmark": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "vietnamese": "nơi công cộng",
+    "english": "public",
+    "soundmark": "/ˈpʌblɪk/"
+  },
+  {
+    "vietnamese": "ở những nơi công cộng",
+    "english": "in public",
+    "soundmark": "/ɪn/ /ˈpʌblɪk/"
+  },
+  {
+    "vietnamese": "chúng tôi cấm hút thuốc ở nơi công cộng",
+    "english": "we prohibit smoking in public",
+    "soundmark": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ˈpʌblɪk/"
+  },
+  {
+    "vietnamese": "cấm",
+    "english": "to prohibit",
+    "soundmark": "/tə/ /prəˈhɪbɪt/"
+  },
+  {
+    "vietnamese": "pháp luật",
+    "english": "the law",
+    "soundmark": "/ðə/ /lɔ/"
+  },
+  {
+    "vietnamese": "pháp luật cấm",
+    "english": "the law prohibits",
+    "soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/"
+  },
+  {
+    "vietnamese": "giấy phép",
+    "english": "license",
+    "soundmark": "/ˈlaɪsns/"
+  },
+  {
+    "vietnamese": "có hiệu lực",
+    "english": "valid",
+    "soundmark": "/ˈvælɪd/"
+  },
+  {
+    "vietnamese": "giấy phép hợp lệ",
+    "english": "a valid license",
+    "soundmark": "/ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "vietnamese": "lái",
+    "english": "to drive",
+    "soundmark": "/tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "lái xe với giấy phép hợp lệ",
+    "english": "to drive with a valid license",
+    "soundmark": "/tə/ /draɪv/ /wɪð/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "vietnamese": "không phải với",
+    "english": "without",
+    "soundmark": "/wɪð'aʊt/"
+  },
+  {
+    "vietnamese": "lái xe không có giấy phép",
+    "english": "to drive without a valid license",
+    "soundmark": "/tə/ /draɪv/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "vietnamese": "lái xe không có giấy phép (mẫu ing)",
+    "english": "driving without a valid license",
+    "soundmark": "/'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "vietnamese": "cấm",
+    "english": "to prohibit",
+    "soundmark": "/tə/ /prəˈhɪbɪt/"
+  },
+  {
+    "vietnamese": "pháp luật",
+    "english": "the law",
+    "soundmark": "/ðə/ /lɔ/"
+  },
+  {
+    "vietnamese": "pháp luật cấm",
+    "english": "the law prohibits",
+    "soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/"
+  },
+  {
+    "vietnamese": "luật cấm lái xe mà không có giấy phép",
+    "english": "the law prohibits driving without a valid license",
+    "soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/ /'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "vietnamese": "cấm",
+    "english": "to prohibit",
+    "soundmark": "/tə/ /prəˈhɪbɪt/"
+  },
+  {
+    "vietnamese": "giáo viên",
+    "english": "the teacher",
+    "soundmark": "/ðə/ /'titʃɚ/"
+  },
+  {
+    "vietnamese": "giáo viên bị cấm",
+    "english": "the teacher prohibits",
+    "soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+  },
+  {
+    "vietnamese": "bài tập về nhà",
+    "english": "homework",
+    "soundmark": "/'homwɝk/"
+  },
+  {
+    "vietnamese": "sao chép",
+    "english": "to copy",
+    "soundmark": "/tə/ /ˈkɑpɪ/"
+  },
+  {
+    "vietnamese": "sao chép bài tập về nhà",
+    "english": "to copy homework",
+    "soundmark": "/tə/ /ˈkɑpɪ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "người khác",
+    "english": "others",
+    "soundmark": "/'ʌðɚz/"
+  },
+  {
+    "vietnamese": "từ đó",
+    "english": "from",
+    "soundmark": "/frʌm/"
+  },
+  {
+    "vietnamese": "từ những người khác",
+    "english": "from others",
+    "soundmark": "/frʌm/ /'ʌðɚz/"
+  },
+  {
+    "vietnamese": "sao chép tác phẩm của người khác",
+    "english": "to copy homework from others",
+    "soundmark": "/tə/ /ˈkɑpɪ/ /'homwɝk/ /frʌm/ /'ʌðɚz/"
+  },
+  {
+    "vietnamese": "sao chép tác phẩm của người khác (mẫu ing)",
+    "english": "copying homework from others",
+    "soundmark": "/ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/"
+  },
+  {
+    "vietnamese": "giáo viên bị cấm",
+    "english": "the teacher prohibits",
+    "soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+  },
+  {
+    "vietnamese": "giáo viên bị cấm sao chép bài tập của người khác",
+    "english": "the teacher prohibits copying homework from others",
+    "soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/"
+  },
+  {
+    "vietnamese": "giáo viên bị cấm",
+    "english": "the teacher prohibits",
+    "soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+  },
+  {
+    "vietnamese": "nói chuyện",
+    "english": "to talk",
+    "soundmark": "/tə/ /tɔk/"
+  },
+  {
+    "vietnamese": "cười",
+    "english": "to laugh",
+    "soundmark": "/tə/ /læf/"
+  },
+  {
+    "vietnamese": "hoặc",
+    "english": "or",
+    "soundmark": "/ɔr/"
+  },
+  {
+    "vietnamese": "nói hoặc cười",
+    "english": "to talk or to laugh",
+    "soundmark": "/tə/ /tɔk/ /ɔr/ /tə/ /læf/"
+  },
+  {
+    "vietnamese": "đùa (dạng ing)",
+    "english": "talking or laughing",
+    "soundmark": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/"
+  },
+  {
+    "vietnamese": "bài kiểm tra",
+    "english": "test",
+    "soundmark": "/tɛst/"
+  },
+  {
+    "vietnamese": "trong lúc",
+    "english": "during",
+    "soundmark": "/'dʊrɪŋ/"
+  },
+  {
+    "vietnamese": "trong bài kiểm tra này",
+    "english": "during the test",
+    "soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/"
+  },
+  {
+    "vietnamese": "nói đùa (dạng ing) trong bài kiểm tra này",
+    "english": "talking or laughing during the test",
+    "soundmark": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/"
+  },
+  {
+    "vietnamese": "giáo viên bị cấm",
+    "english": "the teacher prohibits",
+    "soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+  },
+  {
+    "vietnamese": "giáo viên cấm nói đùa trong bài kiểm tra này",
+    "english": "the teacher prohibits talking or laughing during the test",
+    "soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/"
+  },
+  {
+    "vietnamese": "cấm",
+    "english": "to prohibit",
+    "soundmark": "/tə/ /prəˈhɪbɪt/"
+  },
+  {
+    "vietnamese": "trường học",
+    "english": "the school",
+    "soundmark": "/ðə/ /skul/"
+  },
+  {
+    "vietnamese": "trường học bị cấm",
+    "english": "the school prohibits",
+    "soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/"
+  },
+  {
+    "vietnamese": "ăn",
+    "english": "to eat",
+    "soundmark": "/tə/ /it/"
+  },
+  {
+    "vietnamese": "uống",
+    "english": "to drink",
+    "soundmark": "/tə/ /drɪŋk/"
+  },
+  {
+    "vietnamese": "ăn hoặc uống",
+    "english": "to eat or to drink",
+    "soundmark": "/tə/ /it/ /ɔr/ /tə/ /drɪŋk/"
+  },
+  {
+    "vietnamese": "ăn và uống (dạng ing)",
+    "english": "eating or drinking",
+    "soundmark": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/"
+  },
+  {
+    "vietnamese": "khóa học",
+    "english": "class",
+    "soundmark": "/klæs/"
+  },
+  {
+    "vietnamese": "căn phòng",
+    "english": "room",
+    "soundmark": "/rum/"
+  },
+  {
+    "vietnamese": "lớp học",
+    "english": "classroom",
+    "soundmark": "/'klæsrum/"
+  },
+  {
+    "vietnamese": "trong lớp học",
+    "english": "in the classroom",
+    "soundmark": "/ɪn/ /ðə/ /'klæsrum/"
+  },
+  {
+    "vietnamese": "ăn uống trong lớp học (dạng ing)",
+    "english": "eating or drinking in the classroom",
+    "soundmark": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/"
+  },
+  {
+    "vietnamese": "trường học bị cấm",
+    "english": "the school prohibits",
+    "soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/"
+  },
+  {
+    "vietnamese": "trường học cấm ăn uống trong lớp học",
+    "english": "the school prohibits eating or drinking in the classroom",
+    "soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/ /'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/"
+  }
+]

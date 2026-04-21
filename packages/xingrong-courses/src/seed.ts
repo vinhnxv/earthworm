@@ -1,6 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
 
+import { sql } from "drizzle-orm";
+
 import { db } from "@earthworm/db";
 import {
   coursePack,
@@ -8,26 +10,54 @@ import {
   statement as statementSchema,
 } from "@earthworm/schema";
 
-type Statement = typeof statementSchema.$inferInsert;
+type SeedStatement = {
+  chinese?: string;
+  vietnamese?: string;
+  english: string;
+  soundmark: string;
+};
 
-const courses = fs.readdirSync(path.resolve(__dirname, "../data/courses"));
+const courseVariant = process.env.COURSE_VARIANT === "zh" ? "zh" : "vi";
+const courseConfig =
+  courseVariant === "vi"
+    ? {
+        dataDir: "../data/courses-vi",
+        title: "Xingrong Basic English",
+        description: "Beginner-friendly English lessons with Vietnamese prompts.",
+        cover: "/course-packs/xingrong-basic-english.svg",
+        createLessonTitle: createEnglishLessonTitle,
+      }
+    : {
+        dataDir: "../data/courses",
+        title: "星荣零基础学英语",
+        description: "最适合零基础入门的课程",
+        cover:
+          "https://earthworm-prod-1312884695.cos.ap-beijing.myqcloud.com/course-packs/xingrong.jpg",
+        createLessonTitle: convertToChineseNumber,
+      };
+const coursesDir = path.resolve(__dirname, courseConfig.dataDir);
+
+if (!fs.existsSync(coursesDir)) {
+  throw new Error(`Course data directory not found: ${coursesDir}`);
+}
+
+const courses = fs.readdirSync(coursesDir);
 
 (async function () {
-  await db.delete(coursePack);
-  await db.delete(statementSchema);
-  await db.delete(courseSchema);
+  await db.execute(
+    sql`TRUNCATE TABLE courses, statements, "course_packs", "user_course_progress", "course_history", "user_learn_record", "memberships" RESTART IDENTITY CASCADE;`,
+  );
 
   const [coursePackEntity] = await db
     .insert(coursePack)
     .values({
       order: 1,
-      title: "星荣零基础学英语",
-      description: "最适合零基础入门的课程",
+      title: courseConfig.title,
+      description: courseConfig.description,
       creatorId: "1",
       shareLevel: "public",
       isFree: true,
-      cover:
-        "https://earthworm-prod-1312884695.cos.ap-beijing.myqcloud.com/course-packs/xingrong.jpg",
+      cover: courseConfig.cover,
     })
     .returning();
 
@@ -40,7 +70,7 @@ const courses = fs.readdirSync(path.resolve(__dirname, "../data/courses"));
           coursePackId: coursePackEntity.id,
           // Index starts from 0
           order: index + 1,
-          title: convertToChineseNumber(courseName),
+          title: courseConfig.createLessonTitle(courseName),
         })
         .returning({ id: courseSchema.id, order: courseSchema.order, title: courseSchema.title });
 
@@ -61,16 +91,18 @@ const courses = fs.readdirSync(path.resolve(__dirname, "../data/courses"));
       const { id: courseId, meta } = course;
 
       const courseDataJsonText = fs.readFileSync(
-        path.resolve(__dirname, `../data/courses/${meta.courseFileName}`),
+        path.resolve(coursesDir, meta.courseFileName),
         "utf-8",
       );
 
-      const statementList = JSON.parse(courseDataJsonText) as Statement[];
+      const statementList = JSON.parse(courseDataJsonText) as SeedStatement[];
 
       let order = 1;
       const statementInsertTask = statementList.map(async (statement) => {
         return await db.insert(statementSchema).values({
-          ...statement,
+          english: statement.english,
+          soundmark: statement.soundmark,
+          vietnamese: statement.vietnamese ?? statement.chinese ?? "",
           order: order++,
           courseId,
         });
@@ -85,6 +117,10 @@ const courses = fs.readdirSync(path.resolve(__dirname, "../data/courses"));
   console.log("全部创建完成");
   process.exit(0);
 })();
+
+function createEnglishLessonTitle(numStr: string): string {
+  return `Lesson ${parseInt(numStr, 10)}`;
+}
 
 function convertToChineseNumber(numStr: string): string {
   const chineseNumbers = ["零", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十"];

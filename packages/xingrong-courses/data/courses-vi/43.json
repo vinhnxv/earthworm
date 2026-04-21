@@ -1,0 +1,712 @@
+[
+  {
+    "vietnamese": "khóa",
+    "english": "to lock",
+    "soundmark": "/tə/ /lɑk/"
+  },
+  {
+    "vietnamese": "cửa",
+    "english": "the door",
+    "soundmark": "/ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "khóa cửa",
+    "english": "to lock the door",
+    "soundmark": "/lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "quên mất",
+    "english": "to forget",
+    "soundmark": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "quên khóa cửa",
+    "english": "to forget to lock the door",
+    "soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "quên khóa cửa (dạng ing)",
+    "english": "forgetting to lock the door",
+    "soundmark": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "thừa nhận",
+    "english": "to admit",
+    "soundmark": "/tə/ /ədˈmɪt/"
+  },
+  {
+    "vietnamese": "họ thừa nhận",
+    "english": "they admit",
+    "soundmark": "/ðe/ /ədˈmɪt/"
+  },
+  {
+    "vietnamese": "họ (trong quá khứ) đã thừa nhận",
+    "english": "they admitted",
+    "soundmark": "/ðe/ /ədˈmɪtɪd/"
+  },
+  {
+    "vietnamese": "họ thừa nhận (trong quá khứ) rằng họ quên khóa cửa",
+    "english": "they admitted forgetting to lock the door",
+    "soundmark": "/ðe/ /ədˈmɪtɪd/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "đèn",
+    "english": "light",
+    "soundmark": "/laɪt/"
+  },
+  {
+    "vietnamese": "màu đỏ",
+    "english": "red",
+    "soundmark": "/rɛd/"
+  },
+  {
+    "vietnamese": "đèn đỏ",
+    "english": "a red light",
+    "soundmark": "/ə/ /rɛd/ /laɪt/"
+  },
+  {
+    "vietnamese": "chạy",
+    "english": "to run",
+    "soundmark": "/tə/ /rʌn/"
+  },
+  {
+    "vietnamese": "vượt đèn đỏ",
+    "english": "to run a red light",
+    "soundmark": "/tə/ /rʌn/ /ə/ /rɛd/ /laɪt/"
+  },
+  {
+    "vietnamese": "vượt đèn đỏ (dạng ing)",
+    "english": "running a red light",
+    "soundmark": "/'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/"
+  },
+  {
+    "vietnamese": "lái",
+    "english": "to drive",
+    "soundmark": "/tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "tài xế",
+    "english": "the driver",
+    "soundmark": "/ðə/ /'draɪvɚ/"
+  },
+  {
+    "vietnamese": "tài xế (quá khứ) thừa nhận",
+    "english": "the driver admitted",
+    "soundmark": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/"
+  },
+  {
+    "vietnamese": "tài xế (quá khứ) thừa nhận đã vượt đèn đỏ",
+    "english": "the driver admitted running a red light",
+    "soundmark": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/ /'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/"
+  },
+  {
+    "vietnamese": "câu trả lời",
+    "english": "the answers",
+    "soundmark": "/ði/ /'ænsɚz/"
+  },
+  {
+    "vietnamese": "sao chép",
+    "english": "to copy",
+    "soundmark": "/tə/ /ˈkɑpɪ/"
+  },
+  {
+    "vietnamese": "sao chép câu trả lời",
+    "english": "to copy the answers",
+    "soundmark": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/"
+  },
+  {
+    "vietnamese": "bạn cùng lớp",
+    "english": "classmate",
+    "soundmark": "/'klæsmet/"
+  },
+  {
+    "vietnamese": "từ đó",
+    "english": "from",
+    "soundmark": "/frʌm/"
+  },
+  {
+    "vietnamese": "từ một người bạn cùng lớp",
+    "english": "from a classmate",
+    "soundmark": "/frʌm/ /ə/ /'klæsmet/"
+  },
+  {
+    "vietnamese": "sao chép câu trả lời từ một người bạn cùng lớp",
+    "english": "to copy the answers from a classmate",
+    "soundmark": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/"
+  },
+  {
+    "vietnamese": "sao chép câu trả lời từ một người bạn cùng lớp (dạng ing)",
+    "english": "copying the answers from a classmate",
+    "soundmark": "/ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/"
+  },
+  {
+    "vietnamese": "sinh viên đó",
+    "english": "the student",
+    "soundmark": "/ðə/ /'studnt/"
+  },
+  {
+    "vietnamese": "học sinh đó (quá khứ) đã thừa nhận",
+    "english": "the student admitted",
+    "soundmark": "/ðə/ /'studnt/ /ədˈmɪtɪd/"
+  },
+  {
+    "vietnamese": "học sinh (trước đây) thừa nhận đã chép đáp án của bạn cùng lớp",
+    "english": "the student admitted copying the answers from a classmate",
+    "soundmark": "/ðə/ /'studnt/ /ədˈmɪtɪd/ /ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/"
+  },
+  {
+    "vietnamese": "muộn",
+    "english": "late",
+    "soundmark": "/let/"
+  },
+  {
+    "vietnamese": "cô ấy đến muộn",
+    "english": "she is late",
+    "soundmark": "/ʃi/ /ɪz/ /let/"
+  },
+  {
+    "vietnamese": "gặp; nhìn thấy",
+    "english": "to meet",
+    "soundmark": "/tə/ /mit/"
+  },
+  {
+    "vietnamese": "cuộc họp",
+    "english": "meeting",
+    "soundmark": "/'mitɪŋ/"
+  },
+  {
+    "vietnamese": "vì; vì",
+    "english": "for",
+    "soundmark": "/fɚ/"
+  },
+  {
+    "vietnamese": "cho cuộc họp này",
+    "english": "for the meeting",
+    "soundmark": "/fɚ/ /ðə/ /'mitɪŋ/"
+  },
+  {
+    "vietnamese": "cô ấy đến muộn trong cuộc họp này",
+    "english": "she is late for the meeting",
+    "soundmark": "/ʃi/ /ɪz/ /let/ /fɚ/ /ðə/ /'mitɪŋ/ /ədˈmɪtɪd/"
+  },
+  {
+    "vietnamese": "có (dạng ing)",
+    "english": "being",
+    "soundmark": "/ˈbiɪŋ/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) thừa nhận đã đến muộn trong cuộc họp",
+    "english": "she admitted being late for the meeting",
+    "soundmark": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /let/ /fɚ/ /ðə/ /'mitɪŋ/"
+  },
+  {
+    "vietnamese": "nói chuyện",
+    "english": "to speak",
+    "soundmark": "/tə/ /spik/"
+  },
+  {
+    "vietnamese": "lời nói",
+    "english": "speaking",
+    "soundmark": "/'spikɪŋ/"
+  },
+  {
+    "vietnamese": "công cộng",
+    "english": "public",
+    "soundmark": "/ˈpʌblɪk/"
+  },
+  {
+    "vietnamese": "nói trước công chúng",
+    "english": "public speaking",
+    "soundmark": "/ˈpʌblɪk/ /'spikɪŋ/"
+  },
+  {
+    "vietnamese": "sợ hãi",
+    "english": "afraid",
+    "soundmark": "/ə'fred/"
+  },
+  {
+    "vietnamese": "cô ấy sợ hãi",
+    "english": "she is afraid",
+    "soundmark": "/ʃi/ /ɪz/ /ə'fred/"
+  },
+  {
+    "vietnamese": "cô ấy sợ nói trước đám đông",
+    "english": "she is afraid of public speaking",
+    "soundmark": "/ʃi/ /ɪz/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+  },
+  {
+    "vietnamese": "có (dạng ing)",
+    "english": "being",
+    "soundmark": "/ˈbiɪŋ/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã thừa nhận",
+    "english": "she admitted",
+    "soundmark": "/ʃi/ /ədˈmɪtɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) thừa nhận sợ nói trước đám đông",
+    "english": "she admitted being afraid of public speaking",
+    "soundmark": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+  },
+  {
+    "vietnamese": "thực phẩm:",
+    "english": "food",
+    "soundmark": "/fud/"
+  },
+  {
+    "vietnamese": "rác",
+    "english": "junk",
+    "soundmark": "/dʒʌŋk/"
+  },
+  {
+    "vietnamese": "đồ ăn vặt",
+    "english": "junk food",
+    "soundmark": "/dʒʌŋk/ /fud/"
+  },
+  {
+    "vietnamese": "ăn",
+    "english": "to eat",
+    "soundmark": "/tə/ /it/"
+  },
+  {
+    "vietnamese": "ăn đồ ăn vặt",
+    "english": "to eat junk food",
+    "soundmark": "/tə/ /it/ /dʒʌŋk/ /fud/"
+  },
+  {
+    "vietnamese": "ăn đồ ăn vặt (dạng ing)",
+    "english": "eating junk food",
+    "soundmark": "/'itɪŋ/ /dʒʌŋk/ /fud/"
+  },
+  {
+    "vietnamese": "tránh xa",
+    "english": "to avoid",
+    "soundmark": "/tə/ /əˈvɔɪd/"
+  },
+  {
+    "vietnamese": "cô ấy tránh",
+    "english": "she avoids",
+    "soundmark": "/ʃi/ /əˈvɔɪdz/"
+  },
+  {
+    "vietnamese": "cô ấy tránh ăn đồ ăn vặt",
+    "english": "she avoids eating junk food",
+    "soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/"
+  },
+  {
+    "vietnamese": "mạng sống",
+    "english": "life",
+    "soundmark": "/laɪf/"
+  },
+  {
+    "vietnamese": "đường",
+    "english": "style",
+    "soundmark": "/staɪl/"
+  },
+  {
+    "vietnamese": "lối sống",
+    "english": "lifestyle",
+    "soundmark": "/'laɪfstaɪl/"
+  },
+  {
+    "vietnamese": "khỏe mạnh",
+    "english": "healthy",
+    "soundmark": "/'hɛlθi/"
+  },
+  {
+    "vietnamese": "một lối sống lành mạnh",
+    "english": "a healthy lifestyle",
+    "soundmark": "/ə/ /'hɛlθi/ /'laɪfstaɪl/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to maintain",
+    "soundmark": "/tə/ /menˈten/"
+  },
+  {
+    "vietnamese": "duy trì lối sống lành mạnh",
+    "english": "to maintain a healthy lifestyle",
+    "soundmark": "/tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/"
+  },
+  {
+    "vietnamese": "cô ấy tránh ăn đồ ăn vặt",
+    "english": "she avoids eating junk food",
+    "soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/"
+  },
+  {
+    "vietnamese": "cô tránh đồ ăn vặt để duy trì lối sống lành mạnh",
+    "english": "she avoids eating junk food to maintain a healthy lifestyle",
+    "soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/ /tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "sự thật",
+    "english": "the truth",
+    "soundmark": "/ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "nói sự thật",
+    "english": "to tell the truth",
+    "soundmark": "/tə/ /tɛl/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "kể sự thật (dạng ing)",
+    "english": "telling the truth",
+    "soundmark": "/ˈtɛlɪŋ/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "tránh xa",
+    "english": "to avoid",
+    "soundmark": "/tə/ /əˈvɔɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) tránh né",
+    "english": "she avoided",
+    "soundmark": "/ʃi/ /əˈvɔɪdɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) tránh nói sự thật",
+    "english": "she avoided telling the truth",
+    "soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "nói dối",
+    "english": "to lie",
+    "soundmark": "/tə/ /laɪ/"
+  },
+  {
+    "vietnamese": "nói dối (dạng ing)",
+    "english": "lying",
+    "soundmark": "/'laɪɪŋ/"
+  },
+  {
+    "vietnamese": "cha mẹ",
+    "english": "parents",
+    "soundmark": "/'pɛrənts/"
+  },
+  {
+    "vietnamese": "bố mẹ cô ấy",
+    "english": "her parents",
+    "soundmark": "/hɚ/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "nói dối bố mẹ cô ấy (ing form)",
+    "english": "lying to her parents",
+    "soundmark": "/'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "vượt qua",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "bằng cách nói dối bố mẹ cô ấy",
+    "english": "by lying to her parents",
+    "soundmark": "/baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) tránh nói sự thật",
+    "english": "she avoided telling the truth",
+    "soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "cô ấy tránh nói sự thật (trước đây) bằng cách nói dối bố mẹ",
+    "english": "she avoided telling the truth by lying to her parents",
+    "soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/ /baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "làm hại",
+    "english": "to hurt",
+    "soundmark": "/tə/ /hɝt/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "làm tổn thương cô ấy",
+    "english": "to hurt her",
+    "soundmark": "/tə/ /hɝt/ /hɚ/"
+  },
+  {
+    "vietnamese": "làm tổn thương cô ấy (dạng ing)",
+    "english": "hurting her",
+    "soundmark": "/ˈhɝtɪŋ/ /hɚ/"
+  },
+  {
+    "vietnamese": "tránh xa",
+    "english": "to avoid",
+    "soundmark": "/tə/ /əˈvɔɪd/"
+  },
+  {
+    "vietnamese": "Tôi (đã từng) tránh",
+    "english": "I avoided",
+    "soundmark": "/aɪ/ /əˈvɔɪdɪd/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) tránh làm tổn thương cô ấy",
+    "english": "I avoided hurting her",
+    "soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "im lặng",
+    "english": "silent",
+    "soundmark": "/'saɪlənt/"
+  },
+  {
+    "vietnamese": "giữ im lặng",
+    "english": "to keep silent",
+    "soundmark": "/tə/ /kip/ /'saɪlənt/"
+  },
+  {
+    "vietnamese": "giữ im lặng (dạng ing)",
+    "english": "keeping silent",
+    "soundmark": "/'kipɪŋ/ /'saɪlənt/"
+  },
+  {
+    "vietnamese": "vượt qua",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "bằng cách giữ im lặng",
+    "english": "by keeping silent",
+    "soundmark": "/baɪ/ /'kipɪŋ/ /'saɪlənt/"
+  },
+  {
+    "vietnamese": "Tôi tránh làm tổn thương cô ấy bằng cách giữ im lặng",
+    "english": "I avoided hurting her by keeping silent",
+    "soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/ /baɪ/ /'kipɪŋ/ /'saɪlənt/"
+  },
+  {
+    "vietnamese": "muộn",
+    "english": "late",
+    "soundmark": "/let/"
+  },
+  {
+    "vietnamese": "Tôi đến muộn",
+    "english": "I am late",
+    "soundmark": "/aɪ/ /æm/ /let/"
+  },
+  {
+    "vietnamese": "có (dạng ing)",
+    "english": "being",
+    "soundmark": "/ˈbiɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi (trước đây) tránh đến muộn",
+    "english": "I avoided being late",
+    "soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/"
+  },
+  {
+    "vietnamese": "taxi",
+    "english": "taxi",
+    "soundmark": "/'tæksi/"
+  },
+  {
+    "vietnamese": "lái",
+    "english": "to take",
+    "soundmark": "/tə/ /tek/"
+  },
+  {
+    "vietnamese": "bắt taxi",
+    "english": "to take a taxi",
+    "soundmark": "/tə/ /tek/ /ə/ /'tæksi/"
+  },
+  {
+    "vietnamese": "đi taxi (mẫu ing)",
+    "english": "taking a taxi",
+    "soundmark": "/ˈtekɪŋ/ /ə/ /'tæksi/"
+  },
+  {
+    "vietnamese": "vượt qua",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "bằng cách đi taxi",
+    "english": "by taking a taxi",
+    "soundmark": "/baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/"
+  },
+  {
+    "vietnamese": "Tôi (trước đây) tránh đến muộn",
+    "english": "I avoided being late",
+    "soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/"
+  },
+  {
+    "vietnamese": "Tôi tránh bị trễ bằng cách bắt taxi (quá khứ)",
+    "english": "I avoided being late by taking a taxi",
+    "soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/ /baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/"
+  },
+  {
+    "vietnamese": "tránh xa",
+    "english": "to avoid",
+    "soundmark": "/tə/ /əˈvɔɪd/"
+  },
+  {
+    "vietnamese": "anh ấy tránh",
+    "english": "he avoids",
+    "soundmark": "/hi/ /əˈvɔɪdz/"
+  },
+  {
+    "vietnamese": "khói",
+    "english": "to smoke",
+    "soundmark": "/tə/ /smok/"
+  },
+  {
+    "vietnamese": "hút thuốc (dạng ing)",
+    "english": "smoking",
+    "soundmark": "/'smokɪŋ/"
+  },
+  {
+    "vietnamese": "anh ấy tránh hút thuốc",
+    "english": "he avoids smoking",
+    "soundmark": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/"
+  },
+  {
+    "vietnamese": "khỏe mạnh",
+    "english": "healthy",
+    "soundmark": "/'hɛlθi/"
+  },
+  {
+    "vietnamese": "khỏe mạnh",
+    "english": "health",
+    "soundmark": "/hɛlθ/"
+  },
+  {
+    "vietnamese": "sức khỏe của anh ấy",
+    "english": "his health",
+    "soundmark": "/hɪz/ /hɛlθ/"
+  },
+  {
+    "vietnamese": "bảo vệ",
+    "english": "to protect",
+    "soundmark": "/tə/ /prə'tɛkt/"
+  },
+  {
+    "vietnamese": "bảo vệ sức khỏe của anh ấy",
+    "english": "to protect his health",
+    "soundmark": "/tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/"
+  },
+  {
+    "vietnamese": "anh ấy tránh hút thuốc để bảo vệ sức khỏe của mình",
+    "english": "he avoids smoking to protect his health",
+    "soundmark": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/ /tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/"
+  },
+  {
+    "vietnamese": "nói dối",
+    "english": "lie",
+    "soundmark": "/laɪ/"
+  },
+  {
+    "vietnamese": "một lời nói dối",
+    "english": "a lie",
+    "soundmark": "/ə/ /laɪ/"
+  },
+  {
+    "vietnamese": "trắng",
+    "english": "white",
+    "soundmark": "/waɪt/"
+  },
+  {
+    "vietnamese": "một lời nói dối trắng trợn",
+    "english": "a white lie",
+    "soundmark": "/ə/ /waɪt/ /laɪ/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "nói dối trắng trợn",
+    "english": "to tell a white lie",
+    "soundmark": "/tə/ /tɛl/ /ə/ /waɪt/ /laɪ/"
+  },
+  {
+    "vietnamese": "nói một lời nói dối trắng trợn (dạng ing)",
+    "english": "telling a white lie",
+    "soundmark": "/ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/"
+  },
+  {
+    "vietnamese": "thừa nhận",
+    "english": "to admit",
+    "soundmark": "/tə/ /ədˈmɪt/"
+  },
+  {
+    "vietnamese": "anh ấy (quá khứ) đã thừa nhận",
+    "english": "he admitted",
+    "soundmark": "/hi/ /ədˈmɪtɪd/"
+  },
+  {
+    "vietnamese": "anh ấy (trong quá khứ) thừa nhận đã nói dối trắng trợn (ing form)",
+    "english": "he admitted telling a white lie",
+    "soundmark": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/"
+  },
+  {
+    "vietnamese": "cảm thấy",
+    "english": "to feel",
+    "soundmark": "/tə/ /fil/"
+  },
+  {
+    "vietnamese": "cảm xúc",
+    "english": "feelings",
+    "soundmark": "/'filɪŋz/"
+  },
+  {
+    "vietnamese": "người nào đó",
+    "english": "someone",
+    "soundmark": "/'sʌmwʌn/"
+  },
+  {
+    "vietnamese": "cảm xúc của ai đó",
+    "english": "someone's feelings",
+    "soundmark": "/'sʌmwʌnz/ /'filɪŋz/"
+  },
+  {
+    "vietnamese": "làm hại",
+    "english": "to hurt",
+    "soundmark": "/tə/ /hɝt/"
+  },
+  {
+    "vietnamese": "làm tổn thương cảm xúc của ai đó",
+    "english": "to hurt someone's feelings",
+    "soundmark": "/tə/ /hɝt/ /'sʌmwʌnz/ /'filɪŋz/"
+  },
+  {
+    "vietnamese": "làm tổn thương cảm xúc của ai đó (dạng ing)",
+    "english": "hurting someone's feelings",
+    "soundmark": "/ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/"
+  },
+  {
+    "vietnamese": "tránh xa",
+    "english": "to avoid",
+    "soundmark": "/tə/ /əˈvɔɪd/"
+  },
+  {
+    "vietnamese": "tránh làm tổn thương cảm xúc của ai đó",
+    "english": "to avoid hurting someone's feelings",
+    "soundmark": "/tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/"
+  },
+  {
+    "vietnamese": "anh ấy thừa nhận (trong quá khứ) đã nói dối trắng trợn",
+    "english": "he admitted telling a white lie",
+    "soundmark": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/"
+  },
+  {
+    "vietnamese": "anh ấy thừa nhận (trước đây) đã nói dối vô hại để tránh làm tổn thương cảm xúc của ai đó",
+    "english": "he admitted telling a white lie to avoid hurting someone's feelings",
+    "soundmark": "/hi/ /ədˈmɪtɪd/ /tə/ /ədˈmɪt/ /tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/"
+  }
+]

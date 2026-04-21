@@ -11,7 +11,7 @@ describe("start game", () => {
         title: "第一课",
         statements: [
           {
-            chinese: "我",
+            vietnamese: "我",
             english: "I",
             id: 30725,
             soundmark: "/aɪ/",
@@ -47,7 +47,7 @@ describe("start game", () => {
         title: "第二课",
         statements: [
           {
-            chinese: "我",
+            vietnamese: "我",
             english: "I",
             id: 30725,
             soundmark: "/aɪ/",

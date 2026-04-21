@@ -1,0 +1,777 @@
+[
+  {
+    "vietnamese": "sống",
+    "english": "to save",
+    "soundmark": "/tə/ /sev/"
+  },
+  {
+    "vietnamese": "lưu (dạng ed)",
+    "english": "saved",
+    "soundmark": "/sevd/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) lưu",
+    "english": "we had saved",
+    "soundmark": "/wi/ /hæd/ /sevd/"
+  },
+  {
+    "vietnamese": "tiền bạc",
+    "english": "money",
+    "soundmark": "/ˈmʌni/"
+  },
+  {
+    "vietnamese": "đủ",
+    "english": "enough",
+    "soundmark": "/ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "đủ tiền",
+    "english": "enough money",
+    "soundmark": "/ɪ'nʌf/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) tiết kiệm đủ tiền",
+    "english": "we had saved enough money",
+    "soundmark": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "mua",
+    "english": "to buy",
+    "soundmark": "/tə/ /baɪ/"
+  },
+  {
+    "vietnamese": "nhà cửa",
+    "english": "house",
+    "soundmark": "/haʊs/"
+  },
+  {
+    "vietnamese": "mua nhà",
+    "english": "to buy a house",
+    "soundmark": "/tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "to decide",
+    "soundmark": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "quyết định mua nhà",
+    "english": "to decide to buy a house",
+    "soundmark": "/tə/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "chúng tôi quyết định mua một căn nhà",
+    "english": "we decide to buy a house",
+    "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/ /(过去)决定 decided/ /dɪ'saɪdɪd/"
+  },
+  {
+    "vietnamese": "chúng tôi (trước đây) quyết định mua một căn nhà",
+    "english": "we decided to buy a house",
+    "soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi chúng tôi quyết định mua nhà (trong quá khứ)",
+    "english": "before we decided to buy a house",
+    "soundmark": "/bɪ'fɔr/ /wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) tiết kiệm đủ tiền",
+    "english": "we had saved enough money",
+    "soundmark": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã từng) tiết kiệm đủ tiền trước khi (đã từng) quyết định mua một căn nhà",
+    "english": "we had saved enough money before we decided to buy a house",
+    "soundmark": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/ /bɪ'fɔr/ /wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "vietnamese": "lau dọn",
+    "english": "to clean",
+    "soundmark": "/tə/ /klin/"
+  },
+  {
+    "vietnamese": "làm sạch (mẫu ed)",
+    "english": "cleaned",
+    "soundmark": "/klind/"
+  },
+  {
+    "vietnamese": "họ (đã) dọn dẹp trong quá khứ",
+    "english": "they had cleaned",
+    "soundmark": "/ðe/ /hæd/ /klind/"
+  },
+  {
+    "vietnamese": "nhà cửa",
+    "english": "house",
+    "soundmark": "/haʊs/"
+  },
+  {
+    "vietnamese": "họ (đã) dọn dẹp ngôi nhà đó",
+    "english": "they had cleaned the house",
+    "soundmark": "/ðe/ /hæd/ /klind/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "toàn bộ",
+    "english": "entire",
+    "soundmark": "/ɪnˈtaɪɚ/"
+  },
+  {
+    "vietnamese": "họ (đã) dọn dẹp toàn bộ ngôi nhà",
+    "english": "they had cleaned the entire house",
+    "soundmark": "/ðe/ /hæd/ /klind/ /ði/ /ɪnˈtaɪɚ/ /haʊs/"
+  },
+  {
+    "vietnamese": "cha mẹ",
+    "english": "parents",
+    "soundmark": "/'pɛrənts/"
+  },
+  {
+    "vietnamese": "của họ",
+    "english": "their",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "cha mẹ của họ",
+    "english": "their parents",
+    "soundmark": "/ðɛr/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "đến",
+    "english": "to arrive",
+    "soundmark": "/tə/ /ə'raɪv/ /(过去)达到 arrived/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "cha mẹ của họ (quá khứ) đã đến",
+    "english": "their parents arrived",
+    "soundmark": "/ðɛr/ /'pɛrənts/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "trước khi cha mẹ (quá khứ) của họ đến",
+    "english": "before their parents arrived",
+    "soundmark": "/bɪ'fɔr/ /ðɛr/ /'pɛrənts/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "họ (đã) dọn dẹp toàn bộ ngôi nhà",
+    "english": "they had cleaned the entire house",
+    "soundmark": "/ðe/ /hæd/ /klind/ /ðə/ /ɪnˈtaɪɚ/ /haʊs/"
+  },
+  {
+    "vietnamese": "họ (đã từng) dọn dẹp toàn bộ ngôi nhà trước khi bố mẹ (đã từng) đến",
+    "english": "they had cleaned the entire house before their parents arrived",
+    "soundmark": "/ðe/ /hæd/ /klind/ /ði/ /ɪnˈtaɪɚ/ /haʊs/ /bɪ'fɔr/ /ðɛr/ /'pɛrənts/ /ə'raɪvd/"
+  },
+  {
+    "vietnamese": "di chuyển nơi",
+    "english": "move",
+    "soundmark": "/muv/"
+  },
+  {
+    "vietnamese": "di chuyển (dạng ed)",
+    "english": "moved",
+    "soundmark": "/muvd/"
+  },
+  {
+    "vietnamese": "họ (đã) chuyển đi trong quá khứ",
+    "english": "they had moved",
+    "soundmark": "/ðe/ /hæd/ /muvd/"
+  },
+  {
+    "vietnamese": "thành phố",
+    "english": "city",
+    "soundmark": "/'sɪti/"
+  },
+  {
+    "vietnamese": "mới",
+    "english": "new",
+    "soundmark": "/nu/"
+  },
+  {
+    "vietnamese": "một thành phố mới",
+    "english": "a new city",
+    "soundmark": "/ə/ /nu/ /'sɪti/"
+  },
+  {
+    "vietnamese": "họ (đã) chuyển đến một thành phố mới",
+    "english": "they had moved to a new city",
+    "soundmark": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/"
+  },
+  {
+    "vietnamese": "sinh",
+    "english": "to bear",
+    "soundmark": "/tə/ /bɜːθ/"
+  },
+  {
+    "vietnamese": "ngày sinh (dạng ed)",
+    "english": "born",
+    "soundmark": "/bɔrn/"
+  },
+  {
+    "vietnamese": "được sinh ra",
+    "english": "be born",
+    "soundmark": "/bi/ /bɔrn/"
+  },
+  {
+    "vietnamese": "đứa bé đó",
+    "english": "the baby",
+    "soundmark": "/ðə/ /'bebi/"
+  },
+  {
+    "vietnamese": "đứa bé đó đã được sinh ra (trong quá khứ)",
+    "english": "the baby was born",
+    "soundmark": "/ðə/ /'bebi/ /wəz/ /bɔrn/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi đứa bé đó được sinh ra (trong quá khứ)",
+    "english": "before the baby was born",
+    "soundmark": "/bɪ'fɔr/ /ðə/ /'bebi/ /wəz/ /bɔrn/"
+  },
+  {
+    "vietnamese": "họ (đã) chuyển đến một thành phố mới",
+    "english": "they had moved to a new city",
+    "soundmark": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/"
+  },
+  {
+    "vietnamese": "trước khi đứa bé (quá khứ) được sinh ra, họ (quá khứ) đã chuyển đến một thành phố mới",
+    "english": "they had moved to a new city before the baby was born",
+    "soundmark": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/ /bɪ'fɔr/ /ðə/ /'bebi/ /wəz/ /bɔrn/"
+  },
+  {
+    "vietnamese": "kế hoạch",
+    "english": "to plan",
+    "soundmark": "/tə/ /plæn/"
+  },
+  {
+    "vietnamese": "kế hoạch (mẫu biên tập)",
+    "english": "planned",
+    "soundmark": "/plænd/"
+  },
+  {
+    "vietnamese": "họ (đã) lên kế hoạch",
+    "english": "they had planned",
+    "soundmark": "/ðe/ /hæd/ /plænd/"
+  },
+  {
+    "vietnamese": "đã",
+    "english": "already",
+    "soundmark": "/ɔl'rɛdi/"
+  },
+  {
+    "vietnamese": "họ (trong quá khứ) đã lên kế hoạch",
+    "english": "they had already planned",
+    "soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/"
+  },
+  {
+    "vietnamese": "ngày lễ",
+    "english": "vacation",
+    "soundmark": "/veˈkeʃn/"
+  },
+  {
+    "vietnamese": "của họ",
+    "english": "their",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "kỳ nghỉ của họ",
+    "english": "their vacation",
+    "soundmark": "/ðɛr/ /veˈkeʃn/"
+  },
+  {
+    "vietnamese": "họ đã lên kế hoạch cho kỳ nghỉ của mình (trong quá khứ)",
+    "english": "they had already planned their vacation",
+    "soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/"
+  },
+  {
+    "vietnamese": "mời",
+    "english": "to invite",
+    "soundmark": "/tə/ /ɪn'vaɪt/"
+  },
+  {
+    "vietnamese": "mời",
+    "english": "invitation",
+    "soundmark": "/ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "lời mời đó",
+    "english": "the invitation",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "nhận được",
+    "english": "to receive",
+    "soundmark": "/tə/ /rɪ'siv/"
+  },
+  {
+    "vietnamese": "nhận được lời mời đó",
+    "english": "to receive the invitation",
+    "soundmark": "/tə/ /rɪ'siv/ /ði/ /ɪnvɪ'teʃən/ /(过去)收到 received/ /rɪ'sivd/ /(过去)收到那个邀请 received the invitation/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "họ (quá khứ) đã nhận được lời mời đó",
+    "english": "they received the invitation",
+    "soundmark": "/ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi họ nhận được lời mời đó (trong quá khứ)",
+    "english": "before they received the invitation",
+    "soundmark": "/bɪ'fɔr/ /ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "họ đã lên kế hoạch cho kỳ nghỉ của mình (trong quá khứ)",
+    "english": "they had already planned their vacation",
+    "soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/"
+  },
+  {
+    "vietnamese": "họ (quá khứ) đã lên kế hoạch cho kỳ nghỉ của mình trước khi họ (quá khứ) nhận được lời mời đó",
+    "english": "they had already planned their vacation before they received the invitation",
+    "soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/ /bɪ'fɔr/ /ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "rời đi",
+    "english": "to leave",
+    "soundmark": "/tə/ /liv/"
+  },
+  {
+    "vietnamese": "văn phòng",
+    "english": "office",
+    "soundmark": "/ði/ /'ɑfɪs/"
+  },
+  {
+    "vietnamese": "rời khỏi văn phòng",
+    "english": "to leave the office",
+    "soundmark": "/tə/ /liv/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "vietnamese": "nghỉ phép (dạng ed)",
+    "english": "left",
+    "soundmark": "/lɛft/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) rời đi",
+    "english": "she had left",
+    "soundmark": "/ʃi/ /hæd/ /lɛft/"
+  },
+  {
+    "vietnamese": "cô ấy (đã) rời khỏi văn phòng",
+    "english": "she had left the office",
+    "soundmark": "/ʃi/ /hæd/ /lɛft/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "vietnamese": "chỉ",
+    "english": "just",
+    "soundmark": "/dʒʌst/"
+  },
+  {
+    "vietnamese": "cô ấy (vừa) rời khỏi văn phòng",
+    "english": "she had just left the office",
+    "soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "vietnamese": "ông chủ",
+    "english": "boss",
+    "soundmark": "/bɔs/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "sếp của cô ấy",
+    "english": "her boss",
+    "soundmark": "/hɚ/ /bɔs/"
+  },
+  {
+    "vietnamese": "gọi điện thoại",
+    "english": "to call",
+    "soundmark": "/tə/ /kɔl/ /(过去)打电话 called/ /kɔld/"
+  },
+  {
+    "vietnamese": "sếp của cô ấy (quá khứ) đã gọi điện",
+    "english": "her boss called",
+    "soundmark": "/hɚ/ /bɔs/ /kɔld/"
+  },
+  {
+    "vietnamese": "khi nào... khi nào",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi sếp của cô ấy (quá khứ) gọi",
+    "english": "when her boss called",
+    "soundmark": "/wɛn/ /hɚ/ /bɔs/ /kɔld/"
+  },
+  {
+    "vietnamese": "cô ấy (vừa) rời khỏi văn phòng",
+    "english": "she had just left the office",
+    "soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) vừa rời khỏi văn phòng thì sếp của cô ấy (quá khứ) gọi đến",
+    "english": "she had just left the office when her boss called",
+    "soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/ /wɛn/ /hɚ/ /bɔs/ /kɔld/"
+  },
+  {
+    "vietnamese": "nhiệm vụ",
+    "english": "task",
+    "soundmark": "/tæsk/"
+  },
+  {
+    "vietnamese": "khẩn cấp",
+    "english": "urgent",
+    "soundmark": "/'ɝdʒənt/"
+  },
+  {
+    "vietnamese": "một nhiệm vụ khẩn cấp",
+    "english": "an urgent task",
+    "soundmark": "/ən/ /'ɝdʒənt/ /tæsk/"
+  },
+  {
+    "vietnamese": "sếp của cô ấy (quá khứ) đã gọi điện",
+    "english": "her boss called",
+    "soundmark": "/hɚ/ /bɔs/ /kɔld/"
+  },
+  {
+    "vietnamese": "sếp của cô ấy (trước đây) đã gọi điện cho cô ấy để sắp xếp một công việc khẩn cấp",
+    "english": "her boss called with an urgent task",
+    "soundmark": "/hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/"
+  },
+  {
+    "vietnamese": "khi sếp của cô ấy (trước đây) gọi cho cô ấy với một nhiệm vụ khẩn cấp",
+    "english": "when her boss called with an urgent task",
+    "soundmark": "/wɛn/ /hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/"
+  },
+  {
+    "vietnamese": "cô ấy (vừa) rời khỏi văn phòng",
+    "english": "she had just left the office",
+    "soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "vietnamese": "cô vừa rời khỏi văn phòng thì sếp (trước đây) gọi cô với một nhiệm vụ khẩn cấp",
+    "english": "she had just left the office when her boss called with an urgent task",
+    "soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/ /wɛn/ /hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/"
+  },
+  {
+    "vietnamese": "ở nước ngoài",
+    "english": "abroad",
+    "soundmark": "/ə'brɔd/"
+  },
+  {
+    "vietnamese": "Tôi đang ở nước ngoài",
+    "english": "I am abroad",
+    "soundmark": "/aɪ/ /æm/ /ə'brɔd/ /be(ed形式) been/ /bɪn/"
+  },
+  {
+    "vietnamese": "Tôi (đã) ở nước ngoài",
+    "english": "I have been abroad",
+    "soundmark": "/aɪ/ /hæv/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "vietnamese": "chưa",
+    "english": "haven't",
+    "soundmark": "/ˈhævnt/"
+  },
+  {
+    "vietnamese": "Tôi chưa ra nước ngoài",
+    "english": "I haven't been abroad",
+    "soundmark": "/aɪ/ /ˈhævnt/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "vietnamese": "không bao giờ",
+    "english": "never",
+    "soundmark": "/'nɛvɚ/"
+  },
+  {
+    "vietnamese": "Tôi chưa bao giờ ra nước ngoài",
+    "english": "I have never been abroad",
+    "soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "vietnamese": "Tôi chưa bao giờ ra nước ngoài (trong quá khứ)",
+    "english": "I had never been abroad",
+    "soundmark": "/aɪ/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ ra nước ngoài (trong quá khứ)",
+    "english": "she had never been abroad",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "vietnamese": "du lịch",
+    "english": "trip",
+    "soundmark": "/trɪp/"
+  },
+  {
+    "vietnamese": "chuyến đi của cô ấy",
+    "english": "her trip",
+    "soundmark": "/hɚ/ /trɪp/"
+  },
+  {
+    "vietnamese": "Tây ban nha",
+    "english": "Spain",
+    "soundmark": "/spen/"
+  },
+  {
+    "vietnamese": "chuyến đi của cô ấy tới Tây Ban Nha",
+    "english": "her trip to Spain",
+    "soundmark": "/hɚ/ /trɪp/ /tə/ /spen/"
+  },
+  {
+    "vietnamese": "lùi",
+    "english": "last",
+    "soundmark": "/læst/"
+  },
+  {
+    "vietnamese": "năm",
+    "english": "year",
+    "soundmark": "/jɪr/"
+  },
+  {
+    "vietnamese": "năm ngoái",
+    "english": "last year",
+    "soundmark": "/læst/ /jɪr/"
+  },
+  {
+    "vietnamese": "chuyến đi Tây Ban Nha của cô ấy năm ngoái",
+    "english": "her trip to Spain last year",
+    "soundmark": "/hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước chuyến đi Tây Ban Nha năm ngoái",
+    "english": "before her trip to Spain last year",
+    "soundmark": "/bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ ra nước ngoài (trong quá khứ)",
+    "english": "she had never been abroad",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ ra nước ngoài trước chuyến đi tới Tây Ban Nha vào năm ngoái",
+    "english": "she had never been abroad before her trip to Spain last year",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/ /bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+  },
+  {
+    "vietnamese": "quốc gia",
+    "english": "country",
+    "soundmark": "/ˈkʌntri/"
+  },
+  {
+    "vietnamese": "nước ngoài",
+    "english": "foreign",
+    "soundmark": "/ˈfɔrən/"
+  },
+  {
+    "vietnamese": "nước ngoài",
+    "english": "a foreign country",
+    "soundmark": "/ə/ /ˈfɔrən/ /ˈkʌntri/"
+  },
+  {
+    "vietnamese": "ở nước ngoài",
+    "english": "abroad",
+    "soundmark": "/ə'brɔd/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ ra nước ngoài (trong quá khứ)",
+    "english": "she had never been abroad",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ đến nước ngoài (trong quá khứ)",
+    "english": "she had never been to a foreign country",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ə/ /ˈfɔrən/ /ˈkʌntri/"
+  },
+  {
+    "vietnamese": "trước chuyến đi Tây Ban Nha năm ngoái",
+    "english": "before her trip to Spain last year",
+    "soundmark": "/bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+  },
+  {
+    "vietnamese": "cô chưa bao giờ đến nước ngoài trước chuyến đi Tây Ban Nha vào năm ngoái",
+    "english": "she had never been to a foreign country before her trip to Spain last year",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ə/ /ˈfɔrən/ /ˈkʌntri/ /bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ (trong quá khứ)",
+    "english": "she had never been",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/"
+  },
+  {
+    "vietnamese": "California",
+    "english": "California",
+    "soundmark": "/ˌkælɪˈfɔrnjə/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ đến California (trong quá khứ)",
+    "english": "she had never been to California",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ˌkælɪˈfɔrnjə/"
+  },
+  {
+    "vietnamese": "mùa hè",
+    "english": "summer",
+    "soundmark": "/'sʌmɚ/"
+  },
+  {
+    "vietnamese": "lùi",
+    "english": "last",
+    "soundmark": "/læst/"
+  },
+  {
+    "vietnamese": "mùa hè năm ngoái",
+    "english": "last summer",
+    "soundmark": "/læst/ /'sʌmɚ/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước mùa hè năm ngoái",
+    "english": "before last summer",
+    "soundmark": "/bɪ'fɔr/ /læst/ /'sʌmɚ/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ đến California trước mùa hè năm ngoái",
+    "english": "she had never been to California before last summer",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ˌkælɪˈfɔrnjə/ /bɪ'fɔr/ /læst/ /'sʌmɚ/"
+  },
+  {
+    "vietnamese": "đến muộn",
+    "english": "late",
+    "soundmark": "/let/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ đến muộn (trong quá khứ)",
+    "english": "she had never been late",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/"
+  },
+  {
+    "vietnamese": "làm việc",
+    "english": "work",
+    "soundmark": "/wɝk/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ đi làm muộn (trong quá khứ)",
+    "english": "she had never been late to work",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/ /tə/ /wɝk/"
+  },
+  {
+    "vietnamese": "bầu trời",
+    "english": "day",
+    "soundmark": "/de/"
+  },
+  {
+    "vietnamese": "ngày hôm đó",
+    "english": "that day",
+    "soundmark": "/ðæt/ /de/"
+  },
+  {
+    "vietnamese": "trước ngày đó",
+    "english": "before that day",
+    "soundmark": "/bɪ'fɔr/ /ðæt/ /de/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ đi làm muộn trước ngày hôm đó",
+    "english": "she had never been late to work before that day",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/ /tə/ /wɝk/ /bɪ'fɔr/ /ðæt/ /de/"
+  },
+  {
+    "vietnamese": "lái",
+    "english": "to drive",
+    "soundmark": "/tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "lái xe (dạng ed)",
+    "english": "driven",
+    "soundmark": "/'drɪvn/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ lái xe (trong quá khứ)",
+    "english": "she had never driven",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/"
+  },
+  {
+    "vietnamese": "xe hơi",
+    "english": "car",
+    "soundmark": "/kɑr/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ lái xe (trong quá khứ)",
+    "english": "she had never driven a car",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/"
+  },
+  {
+    "vietnamese": "lái",
+    "english": "to drive",
+    "soundmark": "/tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "tài xế",
+    "english": "driver",
+    "soundmark": "/'draɪvɚ/"
+  },
+  {
+    "vietnamese": "giấy phép",
+    "english": "license",
+    "soundmark": "/'laɪsns/"
+  },
+  {
+    "vietnamese": "bằng lái",
+    "english": "driver's license",
+    "soundmark": "/'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "bằng lái xe của cô ấy",
+    "english": "her driver's license",
+    "soundmark": "/hɚ/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "lấy",
+    "english": "to get",
+    "soundmark": "/tə/ /ɡɛt/ /(过去)拿到 got/ /ɡɑt/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) có",
+    "english": "she got",
+    "soundmark": "/ʃi/ /ɡɑt/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã có bằng lái xe",
+    "english": "she got her driver's license",
+    "soundmark": "/ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "trước khi cô ấy có bằng lái xe (trong quá khứ)",
+    "english": "before she got her driver's license",
+    "soundmark": "/bɪ'fɔr/ /ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "cô ấy chưa bao giờ lái xe (trong quá khứ)",
+    "english": "she had never driven a car",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/"
+  },
+  {
+    "vietnamese": "trước khi cô ấy (quá khứ) có bằng lái xe, cô ấy (quá khứ) chưa bao giờ lái ô tô",
+    "english": "she had never driven a car before she got her driver's license",
+    "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/ /bɪ'fɔr/ /ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/"
+  }
+]

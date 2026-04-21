@@ -1,0 +1,547 @@
+[
+  {
+    "vietnamese": "gặp",
+    "english": "to see",
+    "soundmark": "/tə/ /si/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "gặp bạn",
+    "english": "to see you",
+    "soundmark": "/tə/ /si/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn gặp bạn",
+    "english": "I want to see you",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /si/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn nhìn bạn (một cách có ý thức)",
+    "english": "I want to look at you",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /lʊk/ /ət/ /ju/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "nhìn tôi",
+    "english": "to look at me",
+    "soundmark": "/tə/ /lʊk/ /ət/ /mi/"
+  },
+  {
+    "vietnamese": "Anh muốn em",
+    "english": "I want you",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn nhìn tôi",
+    "english": "I want you to look at me",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /lʊk/ /ət/ /mi/"
+  },
+  {
+    "vietnamese": "nhìn tôi",
+    "english": "to look at me",
+    "soundmark": "/tə/ /lʊk/ /ət/ /mi/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "nhìn bạn",
+    "english": "to look at you",
+    "soundmark": "/tə/ /lʊk/ /ət/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi thấy bạn",
+    "english": "I look at you",
+    "soundmark": "/aɪ/ /lʊk/ /ət/ /ju/"
+  },
+  {
+    "vietnamese": "nhìn (dạng ing)",
+    "english": "looking",
+    "soundmark": "/ˈlʊkɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "nhìn vào",
+    "english": "be looking",
+    "soundmark": "/bi/ /ˈlʊkɪŋ/"
+  },
+  {
+    "vietnamese": "nhìn bạn",
+    "english": "be looking at you",
+    "soundmark": "/bi/ /ˈlʊkɪŋ/ /ət/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang nhìn bạn",
+    "english": "I am looking at you",
+    "soundmark": "/aɪ/ /æm/ /ˈlʊkɪŋ/ /ət/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đang nhìn bạn",
+    "english": "I was looking at you",
+    "soundmark": "/aɪ/ /wəz/ /ˈlʊkɪŋ/ /ət/ /ju/"
+  },
+  {
+    "vietnamese": "bản thân tôi",
+    "english": "myself",
+    "soundmark": "/maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "Tôi (đã) nhìn vào chính mình",
+    "english": "I was looking at myself",
+    "soundmark": "/aɪ/ /wəz/ /ˈlʊkɪŋ/ /ət/ /maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "gương",
+    "english": "mirror",
+    "soundmark": "/'mɪrɚ/"
+  },
+  {
+    "vietnamese": "trong gương",
+    "english": "in the mirror",
+    "soundmark": "/ɪn/ /ðə/ /'mɪrɚ/"
+  },
+  {
+    "vietnamese": "Tôi (đã) nhìn mình trong gương",
+    "english": "I was looking at myself in the mirror",
+    "soundmark": "/aɪ/ /wəz/ /ˈlʊkɪŋ/ /ət/ /maɪ'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/"
+  },
+  {
+    "vietnamese": "Tôi (ngay bây giờ) đang nhìn mình trong gương",
+    "english": "I am looking at myself in the mirror",
+    "soundmark": "/aɪ/ /æm/ /ˈlʊkɪŋ/ /ət/ /maɪ'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/"
+  },
+  {
+    "vietnamese": "bạn đang (bây giờ) đang nhìn vào",
+    "english": "you are looking",
+    "soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/"
+  },
+  {
+    "vietnamese": "bản thân bạn",
+    "english": "yourself",
+    "soundmark": "/jɔr'sɛlf/"
+  },
+  {
+    "vietnamese": "bạn (bây giờ) đang nhìn vào chính mình",
+    "english": "you are looking at yourself",
+    "soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /ət/ /jɔr'sɛlf/"
+  },
+  {
+    "vietnamese": "gương",
+    "english": "mirror",
+    "soundmark": "/'mɪrɚ/"
+  },
+  {
+    "vietnamese": "trong gương",
+    "english": "in the mirror",
+    "soundmark": "/ɪn/ /ðə/ /'mɪrɚ/"
+  },
+  {
+    "vietnamese": "bạn (bây giờ) đang nhìn mình trong gương",
+    "english": "you are looking at yourself in the mirror",
+    "soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /ət/ /jɔr'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/"
+  },
+  {
+    "vietnamese": "bạn (quá khứ) đang nhìn mình trong gương",
+    "english": "you were looking at yourself in the mirror",
+    "soundmark": "/ju/ /wɚ/ /ˈlʊkɪŋ/ /ət/ /jɔr'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/"
+  },
+  {
+    "vietnamese": "họ",
+    "english": "they",
+    "soundmark": "/ðe/"
+  },
+  {
+    "vietnamese": "nhìn (dạng ing)",
+    "english": "looking",
+    "soundmark": "/ˈlʊkɪŋ/"
+  },
+  {
+    "vietnamese": "họ (bây giờ) đang xem",
+    "english": "they are looking",
+    "soundmark": "/ðe/ /ɚ/ /ˈlʊkɪŋ/"
+  },
+  {
+    "vietnamese": "chúng tôi?",
+    "english": "us",
+    "soundmark": "/ʌs/"
+  },
+  {
+    "vietnamese": "họ đang theo dõi chúng tôi (bây giờ)",
+    "english": "they are looking at us",
+    "soundmark": "/ðe/ /ɚ/ /ˈlʊkɪŋ/ /ət/ /ʌs/"
+  },
+  {
+    "vietnamese": "vẫn",
+    "english": "still",
+    "soundmark": "/stɪl/"
+  },
+  {
+    "vietnamese": "họ (vẫn) đang theo dõi chúng ta",
+    "english": "they are still looking at us",
+    "soundmark": "/ðe/ /ɚ/ /stɪl/ /ˈlʊkɪŋ/ /ət/ /ʌs/"
+  },
+  {
+    "vietnamese": "để",
+    "english": "for",
+    "soundmark": "/fɝ/"
+  },
+  {
+    "vietnamese": "mới",
+    "english": "new",
+    "soundmark": "/nu/"
+  },
+  {
+    "vietnamese": "làm việc",
+    "english": "job",
+    "soundmark": "/dʒɑb/"
+  },
+  {
+    "vietnamese": "cho một công việc mới",
+    "english": "for a new job",
+    "soundmark": "/fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "vietnamese": "tìm kiếm (có ý thức) một công việc mới",
+    "english": "to look for a new job",
+    "soundmark": "/tə/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "vietnamese": "đang tìm kiếm",
+    "english": "to look for",
+    "soundmark": "/tə/ /lʊk/ /fɝ/"
+  },
+  {
+    "vietnamese": "đang tìm kiếm một công việc mới",
+    "english": "to look for a new job",
+    "soundmark": "/tə/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "Tôi cần tìm một công việc mới",
+    "english": "I need to look for a new job",
+    "soundmark": "/aɪ/ /nid/ /tə/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "vietnamese": "Tôi đang tìm một công việc mới",
+    "english": "I look for a new job",
+    "soundmark": "/aɪ/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "vietnamese": "tìm (dạng ing)",
+    "english": "looking for",
+    "soundmark": "/ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đang tìm kiếm",
+    "english": "be looking for",
+    "soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "một công việc mới",
+    "english": "a new job",
+    "soundmark": "/ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "vietnamese": "đang tìm kiếm một công việc mới",
+    "english": "be looking for a new job",
+    "soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang tìm kiếm một công việc mới",
+    "english": "I am looking for a new job",
+    "soundmark": "/aɪ/ /æm/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "vietnamese": "vẫn",
+    "english": "still",
+    "soundmark": "/stɪl/"
+  },
+  {
+    "vietnamese": "Tôi (vẫn) đang tìm kiếm một công việc mới",
+    "english": "I am still looking for a new job",
+    "soundmark": "/aɪ/ /æm/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "vietnamese": "Tôi (đã) đang tìm kiếm một công việc mới",
+    "english": "I was looking for a new job",
+    "soundmark": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "vietnamese": "phím (số nhiều)",
+    "english": "keys",
+    "soundmark": "/kiz/"
+  },
+  {
+    "vietnamese": "chìa khóa của tôi",
+    "english": "my keys",
+    "soundmark": "/maɪ/ /kiz/"
+  },
+  {
+    "vietnamese": "Tôi (đang) tìm chìa khóa của mình",
+    "english": "I was looking for my keys",
+    "soundmark": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /maɪ/ /kiz/"
+  },
+  {
+    "vietnamese": "tìm tới",
+    "english": "to find",
+    "soundmark": "/tə/ /faɪnd/"
+  },
+  {
+    "vietnamese": "chìa khóa của tôi",
+    "english": "my keys",
+    "soundmark": "/maɪ/ /kiz/"
+  },
+  {
+    "vietnamese": "tìm chìa khóa của tôi",
+    "english": "to find my keys",
+    "soundmark": "/tə/ /faɪnd/ /maɪ/ /kiz/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "Tôi có thể tìm thấy chìa khóa của mình",
+    "english": "I can find my keys",
+    "soundmark": "/aɪ/ /kæn/ /faɪnd/ /maɪ/ /kiz/"
+  },
+  {
+    "vietnamese": "không thể",
+    "english": "can't",
+    "soundmark": "/kænt/"
+  },
+  {
+    "vietnamese": "Tôi không thể tìm thấy chìa khóa của mình",
+    "english": "I can't find my keys",
+    "soundmark": "/aɪ/ /kænt/ /faɪnd/ /maɪ/ /kiz/"
+  },
+  {
+    "vietnamese": "nhưng",
+    "english": "but",
+    "soundmark": "/bʌt/"
+  },
+  {
+    "vietnamese": "nhưng tôi không thể tìm thấy chìa khóa của mình",
+    "english": "but I can't find my keys",
+    "soundmark": "/bʌt/ /aɪ/ /kænt/ /faɪnd/ /maɪ/ /kiz/"
+  },
+  {
+    "vietnamese": "nhưng tôi (đã) không thể tìm thấy chìa khóa của mình",
+    "english": "but I couldn't find my keys",
+    "soundmark": "/bʌt/ /aɪ/ /kʊdnt/ /faɪnd/ /maɪ/ /kiz/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đang tìm chìa khóa nhưng tôi (quá khứ) không thể tìm thấy chìa khóa của mình",
+    "english": "I was looking for my keys but I couldn't find my keys",
+    "soundmark": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /maɪ/ /kiz/ /bʌt/ /aɪ/ /kʊdnt/ /faɪnd/ /maɪ/ /kiz/"
+  },
+  {
+    "vietnamese": "họ",
+    "english": "them",
+    "soundmark": "/ðəm/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đang tìm chìa khóa nhưng tôi (quá khứ) không thể tìm thấy chúng",
+    "english": "I was looking for my keys but I couldn't find them",
+    "soundmark": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /maɪ/ /kiz/ /bʌt/ /aɪ/ /kʊdnt/ /faɪnd/ /ðəm/"
+  },
+  {
+    "vietnamese": "đang tìm kiếm",
+    "english": "look for",
+    "soundmark": "/lʊk/ /fɝ/"
+  },
+  {
+    "vietnamese": "tìm (dạng ing)",
+    "english": "looking for",
+    "soundmark": "/ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đang tìm kiếm",
+    "english": "be looking for",
+    "soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn đang (bây giờ) đang tìm kiếm",
+    "english": "you are looking for",
+    "soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "bạn đang (bây giờ) đang tìm kiếm tôi",
+    "english": "you are looking for me",
+    "soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "nghe; nghe",
+    "english": "to hear",
+    "soundmark": "/tə/ /hɪr/"
+  },
+  {
+    "vietnamese": "Tôi nghe nói",
+    "english": "I hear",
+    "soundmark": "/aɪ/ /hɪr/"
+  },
+  {
+    "vietnamese": "Tôi nghe nói bạn đang tìm kiếm tôi (bây giờ)",
+    "english": "I hear you are looking for me",
+    "soundmark": "/aɪ/ /hɪr/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "mọi người",
+    "english": "person",
+    "soundmark": "/'pɝsn/"
+  },
+  {
+    "vietnamese": "người đó",
+    "english": "the person",
+    "soundmark": "/ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "bạn (hiện tại) đang tìm kiếm người đó",
+    "english": "you are looking for the person",
+    "soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "Tôi là",
+    "english": "I am",
+    "soundmark": "/aɪ/ /æm/"
+  },
+  {
+    "vietnamese": "Tôi là người đó",
+    "english": "I am the person",
+    "soundmark": "/aɪ/ /æm/ /ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "Tôi không phải là người đó",
+    "english": "I am not the person",
+    "soundmark": "/aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "bạn đang (bây giờ) đang tìm kiếm",
+    "english": "you are looking for",
+    "soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "người đó",
+    "english": "the person",
+    "soundmark": "/ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "bạn (hiện tại) đang tìm kiếm người đó",
+    "english": "you are looking for the person",
+    "soundmark": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "người mà bạn (bây giờ) đang tìm kiếm",
+    "english": "the person you are looking for",
+    "soundmark": "/ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "Tôi là người đó",
+    "english": "I am the person",
+    "soundmark": "/aɪ/ /æm/ /ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "Tôi là người mà bạn (bây giờ) đang tìm kiếm",
+    "english": "I am the person you are looking for",
+    "soundmark": "/aɪ/ /æm/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "Tôi không phải là người bạn đang tìm kiếm (ngay bây giờ)",
+    "english": "I am not the person you are looking for",
+    "soundmark": "/aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "nhưng",
+    "english": "but",
+    "soundmark": "/bʌt/"
+  },
+  {
+    "vietnamese": "nhưng tôi không phải là người bạn đang tìm kiếm (ngay bây giờ)",
+    "english": "but I am not the person you are looking for",
+    "soundmark": "/bʌt/ /aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "Tôi nghe nói bạn đang tìm kiếm tôi (bây giờ)",
+    "english": "I hear you are looking for me",
+    "soundmark": "/aɪ/ /hɪr/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi nghe nói bạn đang tìm kiếm tôi nhưng tôi không phải là người bạn đang tìm kiếm",
+    "english": "I hear you are looking for me but I am not the person you are looking for",
+    "soundmark": "/aɪ/ /hɪr/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/ /bʌt/ /aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "nghe; nghe",
+    "english": "to hear",
+    "soundmark": "/tə/ /hɪr/"
+  },
+  {
+    "vietnamese": "Tôi (trước đây) đã nghe nói",
+    "english": "I heard",
+    "soundmark": "/aɪ/ /hɚd/"
+  },
+  {
+    "vietnamese": "bạn (quá khứ) đang tìm kiếm tôi",
+    "english": "you were looking for me",
+    "soundmark": "/ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) nghe nói rằng bạn (quá khứ) đang tìm kiếm tôi",
+    "english": "I heard you were looking for me",
+    "soundmark": "/aɪ/ /hɚd/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "nhưng tôi (đã) không phải là người mà bạn (đã) tìm kiếm",
+    "english": "but I was not the person you were looking for",
+    "soundmark": "/bʌt/ /aɪ/ /wəz/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) nghe nói rằng bạn (quá khứ) đang tìm kiếm tôi nhưng tôi (quá khứ) không phải là người mà bạn (quá khứ) đang tìm kiếm",
+    "english": "I heard you were looking for me but I was not the person you were looking for",
+    "soundmark": "/aɪ/ /hɚd/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/ /bʌt/ /aɪ/ /wəz/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  }
+]

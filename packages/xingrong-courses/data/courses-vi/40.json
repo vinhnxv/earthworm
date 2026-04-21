@@ -1,0 +1,732 @@
+[
+  {
+    "vietnamese": "Tôi thích",
+    "english": "I like",
+    "soundmark": "/aɪ/ /laɪk/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "to read",
+    "soundmark": "/tə/ /rid/"
+  },
+  {
+    "vietnamese": "Tôi thích đọc sách",
+    "english": "I like to read",
+    "soundmark": "/aɪ/ /laɪk/ /tə/ /rid/"
+  },
+  {
+    "vietnamese": "đọc (dạng ing)",
+    "english": "reading",
+    "soundmark": "/'ridɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi thích đọc sách",
+    "english": "I like reading",
+    "soundmark": "/aɪ/ /laɪk/ /ridɪŋ/"
+  },
+  {
+    "vietnamese": "nấu ăn",
+    "english": "to cook",
+    "soundmark": "/tə/ /kʊk/"
+  },
+  {
+    "vietnamese": "nấu ăn (dạng ing)",
+    "english": "cooking",
+    "soundmark": "/'kʊkɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi thích nấu ăn",
+    "english": "I like cooking",
+    "soundmark": "/aɪ/ /laɪk/ /'kʊkɪŋ/"
+  },
+  {
+    "vietnamese": "mua sắm",
+    "english": "to shop",
+    "soundmark": "/tə/ /ʃɑp/"
+  },
+  {
+    "vietnamese": "mua sắm (dạng ing)",
+    "english": "shopping",
+    "soundmark": "/'ʃɑpɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi thích mua sắm",
+    "english": "I like shopping",
+    "soundmark": "/aɪ/ /laɪk/ /'ʃɑpɪŋ/"
+  },
+  {
+    "vietnamese": "bóng rổ",
+    "english": "basketball",
+    "soundmark": "/'bæskɪtbɔl/"
+  },
+  {
+    "vietnamese": "tiết tấu",
+    "english": "to play",
+    "soundmark": "/tə/ /ple/"
+  },
+  {
+    "vietnamese": "chơi bóng rổ",
+    "english": "to play basketball",
+    "soundmark": "/tə/ /ple/ /'bæskɪtbɔl/"
+  },
+  {
+    "vietnamese": "nhịp (dạng ing)",
+    "english": "playing",
+    "soundmark": "/'pleɪŋ/"
+  },
+  {
+    "vietnamese": "chơi bóng rổ (dạng ing)",
+    "english": "playing basketball",
+    "soundmark": "/'pleɪŋ/ /'bæskɪtbɔl/"
+  },
+  {
+    "vietnamese": "Tôi thích chơi bóng rổ",
+    "english": "I like playing basketball",
+    "soundmark": "/aɪ/ /laɪk/ /'pleɪŋ/ /'bæskɪtbɔl/"
+  },
+  {
+    "vietnamese": "thưởng thức",
+    "english": "to enjoy",
+    "soundmark": "/tə/ /ɪn'dʒɔɪ/"
+  },
+  {
+    "vietnamese": "Tôi thích",
+    "english": "I enjoy",
+    "soundmark": "/aɪ/ /ɪn'dʒɔɪ/"
+  },
+  {
+    "vietnamese": "chơi bóng rổ (dạng ing)",
+    "english": "playing basketball",
+    "soundmark": "/'pleɪŋ/ /'bæskɪtbɔl/"
+  },
+  {
+    "vietnamese": "Tôi thích chơi bóng rổ",
+    "english": "I enjoy playing basketball",
+    "soundmark": "/aɪ/ /ɪn'dʒɔɪ/ /'pleɪŋ/ /'bæskɪtbɔl/"
+  },
+  {
+    "vietnamese": "sách",
+    "english": "books",
+    "soundmark": "/bʊks/"
+  },
+  {
+    "vietnamese": "đọc (dạng ing)",
+    "english": "reading",
+    "soundmark": "/'ridɪŋ/"
+  },
+  {
+    "vietnamese": "đọc (dạng ing)",
+    "english": "reading books",
+    "soundmark": "/'ridɪŋ/ /bʊks/"
+  },
+  {
+    "vietnamese": "Tôi thích",
+    "english": "I enjoy",
+    "soundmark": "/aɪ/ /ɪn'dʒɔɪ/"
+  },
+  {
+    "vietnamese": "Tôi thích đọc sách",
+    "english": "I enjoy reading books",
+    "soundmark": "/aɪ/ /ɪn'dʒɔɪ/ /'ridɪŋ/ /bʊks/"
+  },
+  {
+    "vietnamese": "miễn phí",
+    "english": "free",
+    "soundmark": "/fri/"
+  },
+  {
+    "vietnamese": "thời gian 时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "thời gian rảnh",
+    "english": "free time",
+    "soundmark": "/fri/ /taɪm/"
+  },
+  {
+    "vietnamese": "thời gian rảnh của tôi",
+    "english": "my free time",
+    "soundmark": "/maɪ/ /fri/ /taɪm/"
+  },
+  {
+    "vietnamese": "trong thời gian rảnh của tôi",
+    "english": "in my free time",
+    "soundmark": "/ɪn/ /maɪ/ /fri/ /taɪm/"
+  },
+  {
+    "vietnamese": "Trong thời gian rảnh tôi thích đọc sách",
+    "english": "I enjoy reading books in my free time",
+    "soundmark": "/aɪ/ /ɪn'dʒɔɪ/ /'ridɪŋ/ /bʊks/ /ɪn/ /maɪ/ /fri/ /taɪm/"
+  },
+  {
+    "vietnamese": "anh ấy thích",
+    "english": "he enjoys",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "bằng hữu",
+    "english": "friends",
+    "soundmark": "/frɛndz/"
+  },
+  {
+    "vietnamese": "kết bạn",
+    "english": "to make friends",
+    "soundmark": "/tə/ /mek/ /frɛndz/"
+  },
+  {
+    "vietnamese": "kết bạn (dạng ing)",
+    "english": "making friends",
+    "soundmark": "/'mekɪŋ/ /frɛndz/"
+  },
+  {
+    "vietnamese": "anh ấy thích kết bạn",
+    "english": "he enjoys making friends",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/ /'mekɪŋ/ /frɛndz/"
+  },
+  {
+    "vietnamese": "mọi người",
+    "english": "people",
+    "soundmark": "/'pipl/"
+  },
+  {
+    "vietnamese": "khác biệt",
+    "english": "different",
+    "soundmark": "/'dɪfrənt/"
+  },
+  {
+    "vietnamese": "những người khác nhau",
+    "english": "different people",
+    "soundmark": "/'dɪfrənt/ /'pipl/"
+  },
+  {
+    "vietnamese": "và những người khác nhau",
+    "english": "with different people",
+    "soundmark": "/wɪð/ /'dɪfrənt/ /'pipl/"
+  },
+  {
+    "vietnamese": "anh ấy thích kết bạn",
+    "english": "he enjoys making friends",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/ /'mekɪŋ/ /frɛndz/"
+  },
+  {
+    "vietnamese": "anh ấy thích kết bạn với nhiều người khác nhau",
+    "english": "he enjoys making friends with different people",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/ /'mekɪŋ/ /frɛndz/ /wɪð/ /'dɪfrənt/ /'pipl/"
+  },
+  {
+    "vietnamese": "xem",
+    "english": "to watch",
+    "soundmark": "/tə/ /wɑtʃ/"
+  },
+  {
+    "vietnamese": "bộ phim",
+    "english": "movies",
+    "soundmark": "/'muviz/"
+  },
+  {
+    "vietnamese": "xem một bộ phim",
+    "english": "to watch movies",
+    "soundmark": "/tə/ /wɑtʃ/ /'muviz/"
+  },
+  {
+    "vietnamese": "xem phim (dạng ing)",
+    "english": "watching movies",
+    "soundmark": "/'wɑtʃɪŋ/ /'muviz/"
+  },
+  {
+    "vietnamese": "anh ấy thích",
+    "english": "he enjoys",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/"
+  },
+  {
+    "vietnamese": "anh ấy thích xem phim",
+    "english": "he enjoys watching movies",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/ /'wɑtʃɪŋ/ /'muviz/"
+  },
+  {
+    "vietnamese": "bằng hữu",
+    "english": "friend",
+    "soundmark": "/frɛnd/"
+  },
+  {
+    "vietnamese": "con gái",
+    "english": "girl",
+    "soundmark": "/ɡɝl/"
+  },
+  {
+    "vietnamese": "bạn gái",
+    "english": "girlfriend",
+    "soundmark": "/'ɡɝlfrɛnd/"
+  },
+  {
+    "vietnamese": "bạn gái của anh ấy",
+    "english": "his girlfriend",
+    "soundmark": "/hɪz/ /'ɡɝlfrɛnd/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "với bạn gái của anh ấy",
+    "english": "with his girlfriend",
+    "soundmark": "/wɪð/ /hɪz/ /'ɡɝlfrɛnd/"
+  },
+  {
+    "vietnamese": "anh ấy thích xem phim",
+    "english": "he enjoys watching movies",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/ /'wɑtʃɪŋ/ /'muviz/"
+  },
+  {
+    "vietnamese": "anh ấy thích xem phim cùng bạn gái",
+    "english": "he enjoys watching movies with his girlfriend",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/ /'wɑtʃɪŋ/ /'muviz/ /wɪð/ /hɪz/ /'ɡɝlfrɛnd/"
+  },
+  {
+    "vietnamese": "thế giới",
+    "english": "the world",
+    "soundmark": "/ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "bao quanh",
+    "english": "around",
+    "soundmark": "/ə'raʊnd/"
+  },
+  {
+    "vietnamese": "trên toàn thế giới",
+    "english": "around the world",
+    "soundmark": "/ə'raʊnd/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "du lịch",
+    "english": "to travel",
+    "soundmark": "/tə/ /'trævl/"
+  },
+  {
+    "vietnamese": "trên toàn thế giới",
+    "english": "to travel around the world",
+    "soundmark": "/tə/ /'trævl/ /ə'raʊnd/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "du lịch vòng quanh thế giới (dạng ing)",
+    "english": "traveling around the world",
+    "soundmark": "/'trævlɪŋ/ /ə'raʊnd/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "họ tận hưởng",
+    "english": "they enjoy",
+    "soundmark": "/ðe/ /ɪn'dʒɔɪ/"
+  },
+  {
+    "vietnamese": "họ thích đi du lịch vòng quanh thế giới",
+    "english": "they enjoy traveling around the world",
+    "soundmark": "/ðe/ /ɪn'dʒɔɪ/ /'trævlɪŋ/ /ə'raʊnd/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "trò chơi",
+    "english": "games",
+    "soundmark": "/ɡemz/"
+  },
+  {
+    "vietnamese": "video",
+    "english": "video",
+    "soundmark": "/'vɪdɪo/"
+  },
+  {
+    "vietnamese": "trò chơi điện tử",
+    "english": "video games",
+    "soundmark": "/'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "vietnamese": "chơi",
+    "english": "to play",
+    "soundmark": "/tə/ /ple/"
+  },
+  {
+    "vietnamese": "chơi trò chơi điện tử",
+    "english": "to play video games",
+    "soundmark": "/tə/ /ple/ /'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "vietnamese": "chơi trò chơi điện tử (dạng ing)",
+    "english": "playing video games",
+    "soundmark": "/'pleɪŋ/ /'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "vietnamese": "anh ấy thích",
+    "english": "he enjoys",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/"
+  },
+  {
+    "vietnamese": "anh ấy thích chơi trò chơi điện tử",
+    "english": "he enjoys playing video games",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/ /'pleɪŋ/ /'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "friends",
+    "soundmark": "/frɛndz/"
+  },
+  {
+    "vietnamese": "bạn bè của anh ấy",
+    "english": "his friends",
+    "soundmark": "/hɪz/ /frɛndz/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "với bạn bè của anh ấy",
+    "english": "with his friends",
+    "soundmark": "/wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "vietnamese": "anh ấy thích chơi trò chơi điện tử với bạn bè",
+    "english": "he enjoys playing video games with his friends",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/ /'pleɪŋ/ /'vɪdɪo/ /ɡemz/ /wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "vietnamese": "luyện tập",
+    "english": "to practice",
+    "soundmark": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "vietnamese": "yoga",
+    "english": "yoga",
+    "soundmark": "/ˈjoɡə/"
+  },
+  {
+    "vietnamese": "tập yoga",
+    "english": "to practice yoga",
+    "soundmark": "/tə/ /ˈpræktɪs/ /ˈjoɡə/"
+  },
+  {
+    "vietnamese": "tập yoga (dạng ing)",
+    "english": "practicing yoga",
+    "soundmark": "/ˈpræktɪsɪŋ/ /ˈjoɡə/"
+  },
+  {
+    "vietnamese": "Tôi thích",
+    "english": "I enjoy",
+    "soundmark": "/aɪ/ /ɪn'dʒɔɪ/"
+  },
+  {
+    "vietnamese": "Tôi thích tập yoga",
+    "english": "I enjoy practicing yoga",
+    "soundmark": "/aɪ/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ˈjoɡə/"
+  },
+  {
+    "vietnamese": "mỗi buổi sáng",
+    "english": "every morning",
+    "soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi thích tập yoga mỗi sáng",
+    "english": "I enjoy practicing yoga every morning",
+    "soundmark": "/aɪ/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ˈjoɡə/ /'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "họ tận hưởng",
+    "english": "they enjoy",
+    "soundmark": "/ðe/ /ɪn'dʒɔɪ/"
+  },
+  {
+    "vietnamese": "thực hành (dạng ing)",
+    "english": "practicing",
+    "soundmark": "/ˈpræktɪsɪŋ/"
+  },
+  {
+    "vietnamese": "họ thích luyện tập",
+    "english": "they enjoy practicing",
+    "soundmark": "/ðe/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "của họ",
+    "english": "their",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "tiếng anh của họ",
+    "english": "their English",
+    "soundmark": "/ðɛr/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "họ thích thực hành tiếng Anh của họ",
+    "english": "they enjoy practicing their English",
+    "soundmark": "/ðe/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ðɛr/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "nói chuyện",
+    "english": "to speak",
+    "soundmark": "/tə/ /spik/"
+  },
+  {
+    "vietnamese": "loa",
+    "english": "speaker",
+    "soundmark": "/'spikɚ/"
+  },
+  {
+    "vietnamese": "địa phương",
+    "english": "native",
+    "soundmark": "/ˈnetɪv/"
+  },
+  {
+    "vietnamese": "người bản xứ",
+    "english": "native speakers",
+    "soundmark": "/ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "vietnamese": "và người bản xứ",
+    "english": "with native speakers",
+    "soundmark": "/wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "vietnamese": "họ thích thực hành tiếng Anh với người bản xứ",
+    "english": "they enjoy practicing their English with native speakers",
+    "soundmark": "/ðe/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ðɛr/ /ˈɪŋɡlɪʃ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "vietnamese": "đàn ghi-ta",
+    "english": "guitar",
+    "soundmark": "/ɡɪ'tɑr/"
+  },
+  {
+    "vietnamese": "công nghệ",
+    "english": "skills",
+    "soundmark": "/'skɪlz/"
+  },
+  {
+    "vietnamese": "công nghệ đàn guitar",
+    "english": "guitar skills",
+    "soundmark": "/ɡɪ'tɑr/ /'skɪlz/"
+  },
+  {
+    "vietnamese": "kỹ năng chơi guitar của anh ấy",
+    "english": "his guitar skills",
+    "soundmark": "/hɪz/ /ɡɪ'tɑr/ /'skɪlz/"
+  },
+  {
+    "vietnamese": "thực hành (dạng ing)",
+    "english": "practicing",
+    "soundmark": "/ˈpræktɪsɪŋ/"
+  },
+  {
+    "vietnamese": "luyện tập kỹ năng chơi guitar của mình",
+    "english": "practicing his guitar skills",
+    "soundmark": "/ˈpræktɪsɪŋ/ /hɪz/ /ɡɪ'tɑr/ /'skɪlz/"
+  },
+  {
+    "vietnamese": "anh ấy thích",
+    "english": "he enjoys",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/"
+  },
+  {
+    "vietnamese": "anh ấy thích luyện tập kỹ năng chơi guitar của mình",
+    "english": "he enjoys practicing his guitar skills",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/ /ˈpræktɪsɪŋ/ /hɪz/ /ɡɪ'tɑr/ /'skɪlz/"
+  },
+  {
+    "vietnamese": "mỗi ngày",
+    "english": "every day",
+    "soundmark": "/'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "anh ấy thích luyện tập kỹ năng chơi guitar của mình mỗi ngày",
+    "english": "he enjoys practicing his guitar skills every day",
+    "soundmark": "/hi/ /ɪn'dʒɔɪz/ /ˈpræktɪsɪŋ/ /hɪz/ /ɡɪ'tɑr/ /'skɪlz/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "bạn nên",
+    "english": "you should",
+    "soundmark": "/ju/ /ʃʊd/"
+  },
+  {
+    "vietnamese": "luyện tập",
+    "english": "to practice",
+    "soundmark": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "vietnamese": "bạn nên luyện tập",
+    "english": "you should practice",
+    "soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/"
+  },
+  {
+    "vietnamese": "nhảy",
+    "english": "to dance",
+    "soundmark": "/tə/ /dæns/"
+  },
+  {
+    "vietnamese": "khiêu vũ (dạng ing)",
+    "english": "dancing",
+    "soundmark": "/'dænsɪŋ/"
+  },
+  {
+    "vietnamese": "bạn nên tập nhảy",
+    "english": "you should practice dancing",
+    "soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'dænsɪŋ/"
+  },
+  {
+    "vietnamese": "hơn",
+    "english": "more",
+    "soundmark": "/mɔr/"
+  },
+  {
+    "vietnamese": "thường xuyên",
+    "english": "often",
+    "soundmark": "/'ɔfn/"
+  },
+  {
+    "vietnamese": "thường xuyên hơn",
+    "english": "more often",
+    "soundmark": "/mɔr/ /'ɔfn/"
+  },
+  {
+    "vietnamese": "bạn nên tập nhảy thường xuyên hơn",
+    "english": "you should practice dancing more often",
+    "soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'dænsɪŋ/ /mɔr/ /'ɔfn/"
+  },
+  {
+    "vietnamese": "luyện tập",
+    "english": "to practice",
+    "soundmark": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "vietnamese": "anh ấy cần",
+    "english": "he needs",
+    "soundmark": "/hi/ /nidz/"
+  },
+  {
+    "vietnamese": "anh ấy cần luyện tập",
+    "english": "he needs to practice",
+    "soundmark": "/hi/ /nidz/ /tə/ /ˈpræktɪs/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to speak",
+    "soundmark": "/tə/ /spik/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "nói tiếng Anh",
+    "english": "to speak English",
+    "soundmark": "/tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "nói tiếng Anh (dạng ing)",
+    "english": "speaking English",
+    "soundmark": "/'spikɪŋ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "anh ấy cần luyện tập",
+    "english": "he needs to practice",
+    "soundmark": "/hi/ /nidz/ /tə/ /ˈpræktɪs/"
+  },
+  {
+    "vietnamese": "anh ấy cần luyện nói tiếng Anh",
+    "english": "he needs to practice speaking English",
+    "soundmark": "/hi/ /nidz/ /tə/ /ˈpræktɪs/ /'spikɪŋ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "thường xuyên hơn",
+    "english": "more often",
+    "soundmark": "/mɔr/ /'ɔfn/"
+  },
+  {
+    "vietnamese": "anh ấy cần luyện nói tiếng Anh thường xuyên hơn",
+    "english": "he needs to practice speaking English more often",
+    "soundmark": "/hi/ /nidz/ /tə/ /ˈpræktɪs/ /'spikɪŋ/ /ˈɪŋɡlɪʃ/ /mɔr/ /'ɔfn/"
+  },
+  {
+    "vietnamese": "bạn nên",
+    "english": "you should",
+    "soundmark": "/ju/ /ʃʊd/"
+  },
+  {
+    "vietnamese": "luyện tập",
+    "english": "to practice",
+    "soundmark": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "vietnamese": "bạn nên luyện tập",
+    "english": "you should practice",
+    "soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "to read",
+    "soundmark": "/tə/ /rid/"
+  },
+  {
+    "vietnamese": "ồn ào",
+    "english": "aloud",
+    "soundmark": "/ə'laʊd/"
+  },
+  {
+    "vietnamese": "đọc to",
+    "english": "to read aloud",
+    "soundmark": "/tə/ /rid/ /ə'laʊd/"
+  },
+  {
+    "vietnamese": "đọc to (dạng ing)",
+    "english": "reading aloud",
+    "soundmark": "/'ridɪŋ/ /ə'laʊd/"
+  },
+  {
+    "vietnamese": "bạn nên luyện tập",
+    "english": "you should practice",
+    "soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/"
+  },
+  {
+    "vietnamese": "bạn nên tập đọc to",
+    "english": "you should practice reading aloud",
+    "soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'ridɪŋ/ /ə'laʊd/"
+  },
+  {
+    "vietnamese": "phát âm",
+    "english": "pronunciation",
+    "soundmark": "/prənʌnsɪ'eʃən/"
+  },
+  {
+    "vietnamese": "cách phát âm của bạn",
+    "english": "your pronunciation",
+    "soundmark": "/jʊr/ /prənʌnsɪ'eʃən/"
+  },
+  {
+    "vietnamese": "cải thiện",
+    "english": "to improve",
+    "soundmark": "/tə/ /ɪmˈpruv/"
+  },
+  {
+    "vietnamese": "cải thiện cách phát âm của bạn",
+    "english": "to improve your pronunciation",
+    "soundmark": "/tə/ /ɪmˈpruv/ /jʊr/ /prənʌnsɪ'eʃən/"
+  },
+  {
+    "vietnamese": "bạn nên tập đọc to",
+    "english": "you should practice reading aloud",
+    "soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'ridɪŋ/ /ə'laʊd/"
+  },
+  {
+    "vietnamese": "bạn nên luyện đọc to để cải thiện khả năng phát âm của mình",
+    "english": "you should practice reading aloud to improve your pronunciation",
+    "soundmark": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'ridɪŋ/ /ə'laʊd/ /tə/ /ɪmˈpruv/ /jʊr/ /prənʌnsɪ'eʃən/"
+  }
+]

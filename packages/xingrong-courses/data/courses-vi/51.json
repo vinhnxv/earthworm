@@ -1,0 +1,727 @@
+[
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "sai lầm",
+    "english": "mistake",
+    "soundmark": "/mɪ'stek/"
+  },
+  {
+    "vietnamese": "tạo ra một lỗi",
+    "english": "to make a mistake",
+    "soundmark": "/tə/ /mek/ /ə/ /mɪ'stek/"
+  },
+  {
+    "vietnamese": "Tôi tạo ra một lỗi",
+    "english": "I make a mistake",
+    "soundmark": "/aɪ/ /mek/ /ə/ /mɪ'stek/"
+  },
+  {
+    "vietnamese": "sản xuất (phân từ quá khứ)",
+    "english": "made",
+    "soundmark": "/med/"
+  },
+  {
+    "vietnamese": "Tôi (đã) phạm sai lầm",
+    "english": "I have made a mistake",
+    "soundmark": "/aɪ/ /hæv/ /med/ /ə/ /mɪ'stek/"
+  },
+  {
+    "vietnamese": "Tôi đã không phạm sai lầm",
+    "english": "I have not made a mistake",
+    "soundmark": "/aɪ/ /hæv/ /nɑt/ /med/ /ə/ /mɪ'stek/"
+  },
+  {
+    "vietnamese": "không bao giờ",
+    "english": "never",
+    "soundmark": "/'nɛvɚ/"
+  },
+  {
+    "vietnamese": "Tôi chưa bao giờ phạm sai lầm",
+    "english": "I have never made a mistake",
+    "soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/"
+  },
+  {
+    "vietnamese": "mạng sống",
+    "english": "life",
+    "soundmark": "/laɪf/"
+  },
+  {
+    "vietnamese": "trong cuộc đời tôi",
+    "english": "in my life",
+    "soundmark": "/ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "vietnamese": "Tôi chưa bao giờ phạm sai lầm trong đời",
+    "english": "I have never made a mistake in my life",
+    "soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/ /ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "vietnamese": "Tôi chưa bao giờ phạm sai lầm",
+    "english": "I have never made a mistake",
+    "soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/"
+  },
+  {
+    "vietnamese": "một lần",
+    "english": "ever",
+    "soundmark": "/'ɛvɚ/"
+  },
+  {
+    "vietnamese": "Tôi đã từng mắc sai lầm",
+    "english": "I have ever made a mistake",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /med/ /ə/ /mɪ'stek/"
+  },
+  {
+    "vietnamese": "Tôi đã từng",
+    "english": "I have ever",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "to lớn",
+    "english": "big",
+    "soundmark": "/bɪɡ/"
+  },
+  {
+    "vietnamese": "lớn nhất",
+    "english": "the biggest",
+    "soundmark": "/ðə/ /'bɪgɪst/"
+  },
+  {
+    "vietnamese": "sai lầm lớn nhất",
+    "english": "the biggest mistake",
+    "soundmark": "/ðə/ /'bɪgɪst/ /mɪ'stek/"
+  },
+  {
+    "vietnamese": "Tôi đã từng làm nó trước đây",
+    "english": "I have ever made",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /med/"
+  },
+  {
+    "vietnamese": "sai lầm lớn nhất tôi từng mắc phải",
+    "english": "the biggest mistake I have ever made",
+    "soundmark": "/ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/"
+  },
+  {
+    "vietnamese": "đó là",
+    "english": "that was",
+    "soundmark": "/ðæt/ /wəz/"
+  },
+  {
+    "vietnamese": "đó là sai lầm lớn nhất tôi từng mắc phải",
+    "english": "that was the biggest mistake I have ever made",
+    "soundmark": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/"
+  },
+  {
+    "vietnamese": "trong cuộc đời tôi",
+    "english": "in my life",
+    "soundmark": "/ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "vietnamese": "đó là sai lầm lớn nhất tôi từng mắc phải trong đời",
+    "english": "that was the biggest mistake I have ever made in my life",
+    "soundmark": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/ /ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "vietnamese": "thử thách",
+    "english": "challenge",
+    "soundmark": "/'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "lớn nhất",
+    "english": "the biggest",
+    "soundmark": "/ðə/ /'bɪgɪst/"
+  },
+  {
+    "vietnamese": "thách thức lớn nhất",
+    "english": "the biggest challenge",
+    "soundmark": "/ðə/ /'bɪgɪst/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "khuôn mặt",
+    "english": "to face",
+    "soundmark": "/tə/ /fes/"
+  },
+  {
+    "vietnamese": "khuôn mặt (quá khứ phân từ)",
+    "english": "faced",
+    "soundmark": "/fest/"
+  },
+  {
+    "vietnamese": "Tôi đã phải đối mặt",
+    "english": "I have ever faced",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /fest/"
+  },
+  {
+    "vietnamese": "thử thách lớn nhất tôi từng đối mặt",
+    "english": "the biggest challenge I have ever faced",
+    "soundmark": "/ðə/ /'bɪgɪst/ /'tʃælɪndʒ/ /aɪ/ /hæv/ /'ɛvɚ/ /fest/"
+  },
+  {
+    "vietnamese": "đó là",
+    "english": "that was",
+    "soundmark": "/ðæt/ /wəz/"
+  },
+  {
+    "vietnamese": "đó là thử thách lớn nhất tôi từng đối mặt",
+    "english": "that was the biggest challenge I have ever faced",
+    "soundmark": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /'tʃælɪndʒ/ /aɪ/ /hæv/ /'ɛvɚ/ /fest/"
+  },
+  {
+    "vietnamese": "mạnh",
+    "english": "strong",
+    "soundmark": "/strɔŋ/"
+  },
+  {
+    "vietnamese": "mạnh nhất",
+    "english": "the strongest",
+    "soundmark": "/ðə/ /'strɔŋgəst/"
+  },
+  {
+    "vietnamese": "mọi người",
+    "english": "man",
+    "soundmark": "/mæn/"
+  },
+  {
+    "vietnamese": "người đàn ông mạnh nhất",
+    "english": "the strongest man",
+    "soundmark": "/ðə/ /'strɔŋgəst/ /mæn/"
+  },
+  {
+    "vietnamese": "nhìn thấy",
+    "english": "to meet",
+    "soundmark": "/tə/ /mit/"
+  },
+  {
+    "vietnamese": "nhìn thấy (phân từ quá khứ)",
+    "english": "met",
+    "soundmark": "/mɛt/"
+  },
+  {
+    "vietnamese": "Tôi đã từng",
+    "english": "I have ever",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "Tôi đã thấy",
+    "english": "I have ever met",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "Tôi đã từng thấy nó trước đây",
+    "english": "I have ever met before",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "người đàn ông mạnh mẽ nhất mà tôi từng thấy trước đây",
+    "english": "the strongest man I have ever met before",
+    "soundmark": "/ðə/ /'strɔŋgəst/ /mæn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "bạn là",
+    "english": "you are",
+    "soundmark": "/ju/ /ɚ/"
+  },
+  {
+    "vietnamese": "bạn là người mạnh mẽ nhất mà tôi từng thấy",
+    "english": "you are the strongest man I have ever met before",
+    "soundmark": "/ju/ /ɚ/ /ðə/ /'strɔŋgəst/ /mæn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "xinh đẹp",
+    "english": "beautiful",
+    "soundmark": "/'bjʊtəfəl/"
+  },
+  {
+    "vietnamese": "hầu hết",
+    "english": "the most",
+    "soundmark": "/ðə/ /most/"
+  },
+  {
+    "vietnamese": "đẹp nhất",
+    "english": "the most beautiful",
+    "soundmark": "/ðə/ /most/ /'bjʊtəfəl/"
+  },
+  {
+    "vietnamese": "đàn bà",
+    "english": "woman",
+    "soundmark": "/'wʊmən/"
+  },
+  {
+    "vietnamese": "người phụ nữ đẹp nhất",
+    "english": "the most beautiful woman",
+    "soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "biết (quá khứ phân từ)",
+    "english": "known",
+    "soundmark": "/non/"
+  },
+  {
+    "vietnamese": "Tôi đã từng",
+    "english": "I have ever",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "Tôi đã từng biết",
+    "english": "I have ever known",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "vietnamese": "người phụ nữ đẹp nhất tôi từng biết",
+    "english": "the most beautiful woman I have ever known",
+    "soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "vietnamese": "bạn là",
+    "english": "you are",
+    "soundmark": "/ju/ /ɚ/"
+  },
+  {
+    "vietnamese": "em là người phụ nữ đẹp nhất mà anh từng biết",
+    "english": "you are the most beautiful woman I have ever known",
+    "soundmark": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "vietnamese": "câu chuyện",
+    "english": "story",
+    "soundmark": "/'stɔri/"
+  },
+  {
+    "vietnamese": "tốt",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "vietnamese": "câu chuyện hay",
+    "english": "good story",
+    "soundmark": "/ɡʊd/ /'stɔri/"
+  },
+  {
+    "vietnamese": "tốt nhất",
+    "english": "the best",
+    "soundmark": "/ðə/ /bɛst/"
+  },
+  {
+    "vietnamese": "câu chuyện hay nhất",
+    "english": "the best story",
+    "soundmark": "/ðə/ /bɛst/ /'stɔri/"
+  },
+  {
+    "vietnamese": "nghe",
+    "english": "to hear",
+    "soundmark": "/tə/ /hɪr/"
+  },
+  {
+    "vietnamese": "đã nghe (quá khứ phân từ)",
+    "english": "heard",
+    "soundmark": "/hɚd/"
+  },
+  {
+    "vietnamese": "Tôi đã từng",
+    "english": "I have ever",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "Tôi đã từng nghe",
+    "english": "I have ever heard",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /hɚd/"
+  },
+  {
+    "vietnamese": "câu chuyện hay nhất tôi từng nghe",
+    "english": "the best story I have ever heard",
+    "soundmark": "/ðə/ /bɛst/ /'stɔri/ /aɪ/ /hæv/ /'ɛvɚ/ /hɚd/"
+  },
+  {
+    "vietnamese": "đây là",
+    "english": "this is",
+    "soundmark": "/ðɪs/ /ɪz/"
+  },
+  {
+    "vietnamese": "đây là câu chuyện hay nhất tôi từng nghe",
+    "english": "this is the best story I have ever heard",
+    "soundmark": "/ðɪs/ /ɪz/ /ðə/ /bɛst/ /'stɔri/ /aɪ/ /hæv/ /'ɛvɚ/ /hɚd/"
+  },
+  {
+    "vietnamese": "buồn cười",
+    "english": "funny",
+    "soundmark": "/'fʌni/"
+  },
+  {
+    "vietnamese": "hài hước nhất",
+    "english": "the funniest",
+    "soundmark": "/ðə/ /ˈfʌniəst/"
+  },
+  {
+    "vietnamese": "vấn đề",
+    "english": "thing",
+    "soundmark": "/θɪŋ/"
+  },
+  {
+    "vietnamese": "điều buồn cười nhất",
+    "english": "the funniest thing",
+    "soundmark": "/ðə/ /ˈfʌniəst/ /θɪŋ/"
+  },
+  {
+    "vietnamese": "gặp",
+    "english": "to see",
+    "soundmark": "/tə/ /si/"
+  },
+  {
+    "vietnamese": "nhìn thấy (phân từ quá khứ)",
+    "english": "seen",
+    "soundmark": "/sin/"
+  },
+  {
+    "vietnamese": "Tôi đã từng",
+    "english": "I have ever",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "Tôi đã từng nhìn thấy",
+    "english": "I have ever seen",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /sin/"
+  },
+  {
+    "vietnamese": "điều buồn cười nhất tôi từng thấy",
+    "english": "the funniest thing I have ever seen",
+    "soundmark": "/ðə/ /ˈfʌniəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /sin/"
+  },
+  {
+    "vietnamese": "đó là",
+    "english": "that was",
+    "soundmark": "/ðæt/ /wəz/"
+  },
+  {
+    "vietnamese": "đó là điều buồn cười nhất tôi từng thấy",
+    "english": "that was the funniest thing I have ever seen",
+    "soundmark": "/ðæt/ /wəz/ /ðə/ /ˈfʌniəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /sin/"
+  },
+  {
+    "vietnamese": "ngốc nghếch",
+    "english": "stupid",
+    "soundmark": "/'stupɪd/"
+  },
+  {
+    "vietnamese": "vấn đề",
+    "english": "thing",
+    "soundmark": "/θɪŋ/"
+  },
+  {
+    "vietnamese": "những điều ngu ngốc",
+    "english": "stupid thing",
+    "soundmark": "/'stupɪd/ /θɪŋ/"
+  },
+  {
+    "vietnamese": "điều ngu ngốc nhất",
+    "english": "the stupidest thing",
+    "soundmark": "/ðə/ /ˈstupɪdəst/ /θɪŋ/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "làm (quá khứ phân từ)",
+    "english": "done",
+    "soundmark": "/dʌn/"
+  },
+  {
+    "vietnamese": "Tôi đã từng",
+    "english": "I have ever",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "Tôi đã làm xong",
+    "english": "I have ever done",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /dʌn/"
+  },
+  {
+    "vietnamese": "điều ngu ngốc nhất tôi từng làm",
+    "english": "the stupidest thing I have ever done",
+    "soundmark": "/ðə/ /ˈstupɪdəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /dʌn/"
+  },
+  {
+    "vietnamese": "đó là",
+    "english": "that was",
+    "soundmark": "/ðæt/ /wəz/"
+  },
+  {
+    "vietnamese": "đó là điều ngu ngốc nhất tôi từng làm",
+    "english": "that was the stupidest thing I have ever done",
+    "soundmark": "/ðæt/ /wəz/ /ðə/ /ˈstupɪdəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /dʌn/"
+  },
+  {
+    "vietnamese": "bướng bỉnh",
+    "english": "stubborn",
+    "soundmark": "/ˈstʌbɚn/"
+  },
+  {
+    "vietnamese": "hầu hết",
+    "english": "the most",
+    "soundmark": "/ðə/ /most/"
+  },
+  {
+    "vietnamese": "bướng bỉnh nhất",
+    "english": "the most stubborn",
+    "soundmark": "/ðə/ /most/ /ˈstʌbɚn/"
+  },
+  {
+    "vietnamese": "mọi người",
+    "english": "person",
+    "soundmark": "/'pɝsn/"
+  },
+  {
+    "vietnamese": "người cứng đầu nhất",
+    "english": "the most stubborn person",
+    "soundmark": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "nhìn thấy",
+    "english": "to meet",
+    "soundmark": "/tə/ /mit/"
+  },
+  {
+    "vietnamese": "nhìn thấy (phân từ quá khứ)",
+    "english": "met",
+    "soundmark": "/mɛt/"
+  },
+  {
+    "vietnamese": "Tôi đã thấy",
+    "english": "I have ever met",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/"
+  },
+  {
+    "vietnamese": "người cứng đầu nhất mà tôi từng gặp",
+    "english": "the most stubborn person I have ever met",
+    "soundmark": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/"
+  },
+  {
+    "vietnamese": "trong cuộc đời tôi",
+    "english": "in my life",
+    "soundmark": "/ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "vietnamese": "người cứng đầu nhất mà tôi từng gặp trong đời",
+    "english": "the most stubborn person I have ever met in my life",
+    "soundmark": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "vietnamese": "bạn là",
+    "english": "you are",
+    "soundmark": "/ju/ /ɚ/"
+  },
+  {
+    "vietnamese": "bạn là người cứng đầu nhất mà tôi từng gặp trong đời",
+    "english": "you are the most stubborn person I have ever met in my life",
+    "soundmark": "/ju/ /ɚ/ /ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "to decide",
+    "soundmark": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "decision",
+    "soundmark": "/dɪ'sɪʒn/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "đưa ra quyết định",
+    "english": "to make a decision",
+    "soundmark": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "quyết định quan trọng",
+    "english": "important decision",
+    "soundmark": "/ɪm'pɔrtnt/ /dɪ'sɪʒn/"
+  },
+  {
+    "vietnamese": "hầu hết",
+    "english": "the most",
+    "soundmark": "/ðə/ /most/"
+  },
+  {
+    "vietnamese": "quyết định quan trọng nhất",
+    "english": "the most important decision",
+    "soundmark": "/ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "làm (quá khứ phân từ)",
+    "english": "made",
+    "soundmark": "/med/"
+  },
+  {
+    "vietnamese": "Tôi đã từng",
+    "english": "I have ever",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "vietnamese": "Tôi đã làm xong",
+    "english": "I have ever made",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /med/"
+  },
+  {
+    "vietnamese": "quyết định quan trọng nhất mà tôi từng đưa ra",
+    "english": "the most important decision I have ever made",
+    "soundmark": "/ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/ /aɪ/ /hæv/ /'ɛvɚ/ /med/"
+  },
+  {
+    "vietnamese": "đây là",
+    "english": "this is",
+    "soundmark": "/ðɪs/ /ɪz/"
+  },
+  {
+    "vietnamese": "đây là quyết định quan trọng nhất mà tôi từng đưa ra",
+    "english": "this is the most important decision I have ever made",
+    "soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/ /aɪ/ /hæv/ /'ɛvɚ/ /med/"
+  },
+  {
+    "vietnamese": "xinh đẹp",
+    "english": "beautiful",
+    "soundmark": "/'bjʊtəfəl/"
+  },
+  {
+    "vietnamese": "hầu hết",
+    "english": "the most",
+    "soundmark": "/ðə/ /most/"
+  },
+  {
+    "vietnamese": "đẹp nhất",
+    "english": "the most beautiful",
+    "soundmark": "/ðə/ /most/ /'bjʊtəfəl/"
+  },
+  {
+    "vietnamese": "địa điểm",
+    "english": "place",
+    "soundmark": "/ples/"
+  },
+  {
+    "vietnamese": "nơi đẹp nhất",
+    "english": "the most beautiful place",
+    "soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /ples/"
+  },
+  {
+    "vietnamese": "thăm nom",
+    "english": "to visit",
+    "soundmark": "/tə/ /'vɪzɪt/"
+  },
+  {
+    "vietnamese": "chuyến thăm (phân từ quá khứ)",
+    "english": "visited",
+    "soundmark": "/'vɪzɪtɪd/"
+  },
+  {
+    "vietnamese": "Tôi đã đến thăm",
+    "english": "I have ever visited",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/"
+  },
+  {
+    "vietnamese": "nơi đẹp nhất tôi từng đến thăm",
+    "english": "the most beautiful place I have ever visited",
+    "soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /ples/ /aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/"
+  },
+  {
+    "vietnamese": "đây là",
+    "english": "this is",
+    "soundmark": "/ðɪs/ /ɪz/"
+  },
+  {
+    "vietnamese": "đây là nơi đẹp nhất tôi từng đến thăm",
+    "english": "this is the most beautiful place I have ever visited",
+    "soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /'bjʊtəfəl/ /ples/ /aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/"
+  },
+  {
+    "vietnamese": "xem",
+    "english": "to watch",
+    "soundmark": "/tə/ /wɑtʃ/"
+  },
+  {
+    "vietnamese": "bộ phim",
+    "english": "movie",
+    "soundmark": "/'muvi/"
+  },
+  {
+    "vietnamese": "xem một bộ phim",
+    "english": "to watch a movie",
+    "soundmark": "/tə/ /wɑtʃ/ /ə/ /'muvi/"
+  },
+  {
+    "vietnamese": "đáng sợ",
+    "english": "scary",
+    "soundmark": "/ˈskɛri/"
+  },
+  {
+    "vietnamese": "phim kinh dị",
+    "english": "scary movie",
+    "soundmark": "/ˈskɛri/ /'muvi/"
+  },
+  {
+    "vietnamese": "đáng sợ nhất",
+    "english": "the scariest",
+    "soundmark": "/ðə/ /ˈskɛriəst/"
+  },
+  {
+    "vietnamese": "bộ phim đáng sợ nhất",
+    "english": "the scariest movie",
+    "soundmark": "/ðə/ /ˈskɛriəst/ /'muvi/"
+  },
+  {
+    "vietnamese": "xem",
+    "english": "to watch",
+    "soundmark": "/tə/ /wɑtʃ/"
+  },
+  {
+    "vietnamese": "nhìn (quá khứ phân từ)",
+    "english": "watched",
+    "soundmark": "/wɑtʃt/"
+  },
+  {
+    "vietnamese": "Tôi đã thấy",
+    "english": "I have ever watched",
+    "soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/"
+  },
+  {
+    "vietnamese": "bộ phim đáng sợ nhất mà tôi từng xem",
+    "english": "the scariest movie I have ever watched",
+    "soundmark": "/ðə/ /ˈskɛriəst/ /'muvi/ /aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/"
+  },
+  {
+    "vietnamese": "đó là",
+    "english": "that was",
+    "soundmark": "/ðæt/ /wəz/"
+  },
+  {
+    "vietnamese": "đó là bộ phim đáng sợ nhất tôi từng xem",
+    "english": "that was the scariest movie I have ever watched",
+    "soundmark": "/ðæt/ /wəz/ /ðə/ /ˈskɛriəst/ /'muvi/ /aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/"
+  }
+]

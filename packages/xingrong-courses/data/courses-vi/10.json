@@ -1,0 +1,852 @@
+[
+  {
+    "vietnamese": "đến",
+    "english": "to get",
+    "soundmark": "/tə/ /ɡɛt/"
+  },
+  {
+    "vietnamese": "nơi đó",
+    "english": "there",
+    "soundmark": "/ðɛr/"
+  },
+  {
+    "vietnamese": "di chuyển đến đó",
+    "english": "to get there",
+    "soundmark": "/tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "cần",
+    "english": "need",
+    "soundmark": "/nid/"
+  },
+  {
+    "vietnamese": "Tôi cần đến đó",
+    "english": "I need to get there",
+    "soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "Tôi không cần phải đến đó",
+    "english": "I don't need to get there",
+    "soundmark": "/aɪ/ /dont/ /nid/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "sớm",
+    "english": "soon",
+    "soundmark": "/sun/"
+  },
+  {
+    "vietnamese": "Tôi cần đến đó ngay lập tức",
+    "english": "I need to get there soon",
+    "soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /sun/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "possible",
+    "soundmark": "/'pɑsəbl/"
+  },
+  {
+    "vietnamese": "càng sớm càng tốt; càng sớm càng tốt",
+    "english": "as soon as possible",
+    "soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "vietnamese": "Tôi cần đến đó càng sớm càng tốt",
+    "english": "I need to get there as soon as possible",
+    "soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "làm thế nào để đến đó",
+    "english": "how to get there",
+    "soundmark": "/haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "biết cách đi đến đó",
+    "english": "to know how to get there",
+    "soundmark": "/tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết làm thế nào để đến đó",
+    "english": "I want to know how to get there",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "chỉ",
+    "english": "just",
+    "soundmark": "/dʒʌst/"
+  },
+  {
+    "vietnamese": "Tôi chỉ muốn biết làm thế nào để đến đó",
+    "english": "I just want to know how to get there",
+    "soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "thời gian 时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "đúng giờ",
+    "english": "on time",
+    "soundmark": "/ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi chỉ muốn biết làm thế nào để đến đó đúng giờ",
+    "english": "I just want to know how to get there on time",
+    "soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "bạn phải đến đó",
+    "english": "you have to get there",
+    "soundmark": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "tối nay",
+    "english": "tonight",
+    "soundmark": "/tə'naɪt/"
+  },
+  {
+    "vietnamese": "bạn phải đến đó tối nay",
+    "english": "you have to get there tonight",
+    "soundmark": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/"
+  },
+  {
+    "vietnamese": "bạn không cần phải đến đó tối nay",
+    "english": "you don't have to get there tonight",
+    "soundmark": "/ju/ /dont/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "chúng tôi có thể",
+    "english": "we can",
+    "soundmark": "/wi/ /kæn/"
+  },
+  {
+    "vietnamese": "di chuyển đến đó",
+    "english": "to get there",
+    "soundmark": "/tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "chúng ta có thể đến đó",
+    "english": "we can get there",
+    "soundmark": "/wi/ /kæn/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "vietnamese": "đúng giờ",
+    "english": "on time",
+    "soundmark": "/ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "chúng ta có thể đến đó đúng giờ",
+    "english": "we can get there on time",
+    "soundmark": "/wi/ /kæn/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "chúng tôi không thể đến đó đúng giờ",
+    "english": "we can not get there on time",
+    "soundmark": "/wi/ /kæn/ /nɑt/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "chúng tôi đến đó đúng giờ",
+    "english": "we get there on time",
+    "soundmark": "/wi/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "cô ấy đã đến đó đúng giờ",
+    "english": "she gets there on time",
+    "soundmark": "/ʃi/ /ɡɛts/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi sẽ có mặt đúng giờ",
+    "english": "I get there on time",
+    "soundmark": "/aɪ/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "bạn sẽ đến đó đúng giờ",
+    "english": "you get there on time",
+    "soundmark": "/ju/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "quên mất",
+    "english": "to forget",
+    "soundmark": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "bạn quên",
+    "english": "you forget",
+    "soundmark": "/ju/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "khóa",
+    "english": "to lock",
+    "soundmark": "/tə/ /lɑk/"
+  },
+  {
+    "vietnamese": "cửa",
+    "english": "the door",
+    "soundmark": "/ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "khóa cửa",
+    "english": "to lock the door",
+    "soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "bạn quên khóa cửa",
+    "english": "you forget to lock the door",
+    "soundmark": "/ju/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "đừng quên khóa cửa",
+    "english": "you don't forget to lock the door",
+    "soundmark": "/ju/ /dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "đừng quên khóa cửa",
+    "english": "don't forget to lock the door",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "rời đi",
+    "english": "to leave",
+    "soundmark": "/tə/ /liv/"
+  },
+  {
+    "vietnamese": "nhà; nhà",
+    "english": "the house",
+    "soundmark": "/ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "xa nhà",
+    "english": "to leave the house",
+    "soundmark": "/tə/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "bạn rời khỏi nhà",
+    "english": "you leave the house",
+    "soundmark": "/ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi bạn rời khỏi nhà",
+    "english": "when you leave the house",
+    "soundmark": "/wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "đừng quên khóa cửa khi bạn rời khỏi nhà",
+    "english": "don't forget to lock the door when you leave the house",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "nhớ tới",
+    "english": "to remember",
+    "soundmark": "/tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "vietnamese": "khóa cửa",
+    "english": "to lock the door",
+    "soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "bạn nhớ khóa cửa",
+    "english": "you remember to lock the door",
+    "soundmark": "/ju/ /rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "nhớ khóa cửa",
+    "english": "remember to lock the door",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "nhớ khóa cửa khi ra khỏi nhà",
+    "english": "remember to lock the door when you leave the house",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "nói với cô ấy",
+    "english": "to tell her",
+    "soundmark": "/tə/ /tɛl/ /hɚ/"
+  },
+  {
+    "vietnamese": "sự thật",
+    "english": "the truth",
+    "soundmark": "/ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "nói với cô ấy sự thật",
+    "english": "to tell her the truth",
+    "soundmark": "/tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "hãy nhớ nói với cô ấy sự thật",
+    "english": "remember to tell her the truth",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "ở đây",
+    "english": "here",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "vietnamese": "đến đây",
+    "english": "to get here",
+    "soundmark": "/tə/ /ɡɛt/ /hɪr/"
+  },
+  {
+    "vietnamese": "Tôi đã đến đây",
+    "english": "I get here",
+    "soundmark": "/aɪ/ /ɡɛt/ /hɪr/"
+  },
+  {
+    "vietnamese": "cô ấy đã đến đây",
+    "english": "she gets here",
+    "soundmark": "/ʃi/ /ɡɛts/ /hɪr/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi cô ấy đến đây",
+    "english": "when she gets here",
+    "soundmark": "/wɛn/ /ʃi/ /ɡɛts/ /hɪr/"
+  },
+  {
+    "vietnamese": "hãy nhớ nói với cô ấy sự thật khi cô ấy đến đây",
+    "english": "remember to tell her the truth when she gets here",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/"
+  },
+  {
+    "vietnamese": "đừng quên nói với cô ấy sự thật khi cô ấy đến đây",
+    "english": "don't forget to tell her the truth when she gets here",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/"
+  },
+  {
+    "vietnamese": "trả",
+    "english": "to pay",
+    "soundmark": "/tə/ /pe/"
+  },
+  {
+    "vietnamese": "hóa đơn",
+    "english": "the bill",
+    "soundmark": "/ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "thanh toán hóa đơn",
+    "english": "to pay the bill",
+    "soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "hãy nhớ thanh toán hóa đơn của bạn",
+    "english": "remember to pay the bill",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "đừng quên thanh toán hóa đơn của bạn",
+    "english": "don't forget to pay the bill",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi bạn rời đi",
+    "english": "when you leave",
+    "soundmark": "/wɛn/ /ju/ /liv/"
+  },
+  {
+    "vietnamese": "đừng quên thanh toán hóa đơn khi bạn rời đi",
+    "english": "don't forget to pay the bill when you leave",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/"
+  },
+  {
+    "vietnamese": "hãy nhớ thanh toán hóa đơn khi bạn rời đi",
+    "english": "remember to pay the bill when you leave",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "dọn phòng",
+    "english": "the housework",
+    "soundmark": "/ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "làm việc nhà",
+    "english": "to do the housework",
+    "soundmark": "/tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "đừng quên làm việc nhà",
+    "english": "don't forget to do the housework",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "nhớ làm việc nhà",
+    "english": "remember to do the housework",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "vietnamese": "chỗ ở",
+    "english": "home",
+    "soundmark": "/hom/"
+  },
+  {
+    "vietnamese": "ở nhà",
+    "english": "at home",
+    "soundmark": "/ət/ /hom/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn đang ở nhà",
+    "english": "you are at home",
+    "soundmark": "/ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi bạn ở nhà",
+    "english": "when you are at home",
+    "soundmark": "/wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "hãy nhớ làm việc nhà khi bạn ở nhà",
+    "english": "remember to do the housework when you are at home",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "đừng quên làm việc nhà khi bạn ở nhà",
+    "english": "don't forget to do the housework when you are at home",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "tay",
+    "english": "hand",
+    "soundmark": "/hænd/"
+  },
+  {
+    "vietnamese": "tay bài (Số nhiều)",
+    "english": "hands",
+    "soundmark": "/hændz/"
+  },
+  {
+    "vietnamese": "tay của bạn",
+    "english": "your hands",
+    "soundmark": "/jʊr/ /hænds/"
+  },
+  {
+    "vietnamese": "rửa",
+    "english": "to wash",
+    "soundmark": "/tə/ /wɑʃ/"
+  },
+  {
+    "vietnamese": "rửa tay",
+    "english": "to wash your hands",
+    "soundmark": "/tə/ /wɑʃ/ /jʊr/ /hænds/"
+  },
+  {
+    "vietnamese": "đưng KNớ",
+    "english": "don't forget",
+    "soundmark": "/dont/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "đừng quên rửa tay",
+    "english": "don't forget to wash your hands",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/"
+  },
+  {
+    "vietnamese": "ăn",
+    "english": "to eat",
+    "soundmark": "/tə/ /it/"
+  },
+  {
+    "vietnamese": "món ăn này",
+    "english": "the food",
+    "soundmark": "/ðə/ /fud/"
+  },
+  {
+    "vietnamese": "ăn đồ ăn",
+    "english": "to eat the food",
+    "soundmark": "/tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "vietnamese": "bạn có thể ăn thức ăn",
+    "english": "you can eat the food",
+    "soundmark": "/ju/ /kæn/ /it/ /ðə/ /fud/"
+  },
+  {
+    "vietnamese": "bạn ăn đồ ăn",
+    "english": "you eat the food",
+    "soundmark": "/ju/ /it/ /ðə/ /fud/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi ăn",
+    "english": "before you eat the food",
+    "soundmark": "/bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/"
+  },
+  {
+    "vietnamese": "đừng quên rửa tay trước khi ăn",
+    "english": "don't forget to wash your hands before you eat the food",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/"
+  },
+  {
+    "vietnamese": "hãy nhớ rửa tay trước khi ăn",
+    "english": "remember to wash your hands before you eat the food",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/"
+  },
+  {
+    "vietnamese": "đến",
+    "english": "to get",
+    "soundmark": "/tə/ /ɡɛt/"
+  },
+  {
+    "vietnamese": "về đến nhà; trở về nhà",
+    "english": "to get home",
+    "soundmark": "/tə/ /ɡɛt/ /hom/"
+  },
+  {
+    "vietnamese": "cần",
+    "english": "need",
+    "soundmark": "/nid/"
+  },
+  {
+    "vietnamese": "Tôi cần về nhà",
+    "english": "I need to get home",
+    "soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /hom/"
+  },
+  {
+    "vietnamese": "nên",
+    "english": "should",
+    "soundmark": "/ʃʊd/"
+  },
+  {
+    "vietnamese": "Tôi nên về nhà",
+    "english": "I should get home",
+    "soundmark": "/aɪ/ /ʃʊd/ /ɡɛt/ /hom/"
+  },
+  {
+    "vietnamese": "Tôi sẽ về nhà",
+    "english": "I get home",
+    "soundmark": "/aɪ/ /ɡɛt/ /hom/"
+  },
+  {
+    "vietnamese": "anh về nhà đi",
+    "english": "you get home",
+    "soundmark": "/ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "vietnamese": "gọi điện thoại",
+    "english": "to call",
+    "soundmark": "/tə/ /kɔl/"
+  },
+  {
+    "vietnamese": "gọi điện thoại cho ta",
+    "english": "to call me",
+    "soundmark": "/tə/ /kɔl/ /mi/"
+  },
+  {
+    "vietnamese": "hãy nhớ gọi cho tôi",
+    "english": "remember to call me",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi bạn về nhà",
+    "english": "when you get home",
+    "soundmark": "/wɛn/ /ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "vietnamese": "hãy nhớ gọi cho tôi khi bạn về nhà",
+    "english": "remember to call me when you get home",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "vietnamese": "đưng KNớ",
+    "english": "don't forget",
+    "soundmark": "/dont/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "đừng quên gọi cho tôi khi bạn về nhà",
+    "english": "don't forget to call me when you get home",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "vietnamese": "làm sạch",
+    "english": "to clean",
+    "soundmark": "/tə/ /klin/"
+  },
+  {
+    "vietnamese": "căn phòng",
+    "english": "the room",
+    "soundmark": "/ðə/ /rum/"
+  },
+  {
+    "vietnamese": "vệ sinh phòng",
+    "english": "to clean the room",
+    "soundmark": "/tə/ /klin/ /ðə/ /rum/"
+  },
+  {
+    "vietnamese": "đừng quên vệ sinh phòng",
+    "english": "don't forget to clean the room",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/"
+  },
+  {
+    "vietnamese": "khi bạn về nhà",
+    "english": "when you get home",
+    "soundmark": "/wɛn/ /ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "vietnamese": "đừng quên dọn dẹp phòng khi bạn về nhà",
+    "english": "don't forget to clean the room when you get home",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "vietnamese": "hãy nhớ dọn dẹp phòng khi bạn về nhà",
+    "english": "remember to clean the room when you get home",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "vietnamese": "tìm tới",
+    "english": "to find",
+    "soundmark": "/tə/ /faɪnd/"
+  },
+  {
+    "vietnamese": "chìa khóa!",
+    "english": "the key",
+    "soundmark": "/ðə/ /ki/"
+  },
+  {
+    "vietnamese": "tìm chìa khóa",
+    "english": "to find the key",
+    "soundmark": "/tə/ /faɪnd/ /ðə/ /ki/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "Tôi cần tìm chìa khóa",
+    "english": "I need to find the key",
+    "soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/"
+  },
+  {
+    "vietnamese": "cửa",
+    "english": "the door",
+    "soundmark": "/ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "chìa khóa cửa",
+    "english": "the key to the door",
+    "soundmark": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "nhà cửa",
+    "english": "the house",
+    "soundmark": "/ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "chìa khóa nhà",
+    "english": "the key to the house",
+    "soundmark": "/ðə/ /ki/ /tə/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "Tôi cần tìm chìa khóa cửa",
+    "english": "I need to find the key to the door",
+    "soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "Tôi phải tìm chìa khóa nhà",
+    "english": "I have to find the key to the house",
+    "soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "Tôi có thể tìm chìa khóa cửa",
+    "english": "I can find the key to the door",
+    "soundmark": "/aɪ/ /kæn/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "Tôi không thể tìm thấy chìa khóa cửa",
+    "english": "I can not find the key to the door",
+    "soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "Tôi không thể tìm thấy chìa khóa nhà",
+    "english": "I can not find the key to the house",
+    "soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/"
+  },
+  {
+    "vietnamese": "mất",
+    "english": "lost",
+    "soundmark": "/lɔst/"
+  },
+  {
+    "vietnamese": "Tôi làm mất chìa khóa",
+    "english": "I lost the key",
+    "soundmark": "/aɪ/ /lɔst/ /ðə/ /ki/"
+  },
+  {
+    "vietnamese": "chìa khóa cửa",
+    "english": "the key to the door",
+    "soundmark": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "Tôi làm mất chìa khóa cửa",
+    "english": "I lost the key to the door",
+    "soundmark": "/aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ",
+    "english": "I think",
+    "soundmark": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ tôi đã làm mất chìa khóa cửa",
+    "english": "I think I lost the key to the door",
+    "soundmark": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "Tôi không thể tìm thấy nó",
+    "english": "I can not find it",
+    "soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ rằng tôi đã làm mất chìa khóa cửa vì tôi không thể tìm thấy nó",
+    "english": "I think I lost the key to the door because I can not find it",
+    "soundmark": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/"
+  },
+  {
+    "vietnamese": "đóng",
+    "english": "to close",
+    "soundmark": "/tə/ /kloz/"
+  },
+  {
+    "vietnamese": "cửa sổ",
+    "english": "the window",
+    "soundmark": "/ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "đóng cửa sổ",
+    "english": "to close the window",
+    "soundmark": "/tə/ /kloz/ /ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "Tôi muốn đóng cửa sổ",
+    "english": "I want to close the window",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "nhớ tới",
+    "english": "to remember",
+    "soundmark": "/tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "vietnamese": "bạn nhớ đóng cửa sổ",
+    "english": "you remember to close the window",
+    "soundmark": "/ju/ /rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "nhớ đóng cửa sổ",
+    "english": "remember to close the window",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "đưng KNớ",
+    "english": "don't forget",
+    "soundmark": "/dont/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "đừng quên đóng cửa sổ",
+    "english": "don't forget to close the window",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi bạn rời đi",
+    "english": "when you leave",
+    "soundmark": "/wɛn/ /ju/ /liv/"
+  },
+  {
+    "vietnamese": "căn phòng",
+    "english": "the room",
+    "soundmark": "/ðə/ /rum/"
+  },
+  {
+    "vietnamese": "khi bạn rời khỏi phòng",
+    "english": "when you leave the room",
+    "soundmark": "/wɛn/ /ju/ /liv/ /ðə/ /rum/"
+  },
+  {
+    "vietnamese": "đừng quên đóng cửa sổ khi bạn rời khỏi phòng",
+    "english": "don't forget to close the window when you leave the room",
+    "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/"
+  },
+  {
+    "vietnamese": "nhớ đóng cửa sổ khi bạn rời khỏi phòng",
+    "english": "remember to close the window when you leave the room",
+    "soundmark": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/"
+  }
+]

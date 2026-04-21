@@ -1,0 +1,627 @@
+[
+  {
+    "vietnamese": "trả",
+    "english": "to pay",
+    "soundmark": "/tə/ /pe/"
+  },
+  {
+    "vietnamese": "hóa đơn",
+    "english": "the bill",
+    "soundmark": "/ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "thanh toán hóa đơn",
+    "english": "to pay the bill",
+    "soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "ông, chú, anh ấy",
+    "english": "him",
+    "soundmark": "/hɪm/"
+  },
+  {
+    "vietnamese": "trả tiền cho anh ta",
+    "english": "to pay him",
+    "soundmark": "/tə/ /pe/ /hɪm/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn trả tiền cho anh ta (trong quá khứ)",
+    "english": "you paid him",
+    "soundmark": "/ju/ /ped/ /hɪm/"
+  },
+  {
+    "vietnamese": "mười",
+    "english": "ten",
+    "soundmark": "/tɛn/"
+  },
+  {
+    "vietnamese": "đô la",
+    "english": "dollars",
+    "soundmark": "/'dɑlɚz/"
+  },
+  {
+    "vietnamese": "$ 10",
+    "english": "ten dollars",
+    "soundmark": "/tɛn/ /'dɑlɚz/"
+  },
+  {
+    "vietnamese": "bạn đã trả cho anh ta $ 10 (trong quá khứ)",
+    "english": "you paid him ten dollars",
+    "soundmark": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/"
+  },
+  {
+    "vietnamese": "bạn đã không trả cho anh ta $ 10 (trong quá khứ)",
+    "english": "you didn't pay him ten dollars",
+    "soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "làm việc này",
+    "english": "to do it",
+    "soundmark": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn (trong quá khứ) đã trả tiền cho anh ta để làm điều đó",
+    "english": "you paid him to do it",
+    "soundmark": "/ju/ /ped/ /hɪm/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn (trong quá khứ) đã không trả tiền cho anh ta để làm điều đó",
+    "english": "you didn't pay him to do it",
+    "soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn (trong quá khứ) đã trả cho anh ta mười đô la để làm điều này",
+    "english": "you paid him ten dollars to do it",
+    "soundmark": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "bạn (trong quá khứ) đã không trả cho anh ta mười đô la để làm điều này",
+    "english": "you didn't pay him ten dollars to do it",
+    "soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "to decide",
+    "soundmark": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "chúng ta phải quyết định",
+    "english": "we have to decide",
+    "soundmark": "/wi/ /hæv/ /tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "tối nay",
+    "english": "tonight",
+    "soundmark": "/tə'naɪt/"
+  },
+  {
+    "vietnamese": "tối nay chúng ta phải quyết định",
+    "english": "we have to decide tonight",
+    "soundmark": "/wi/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/"
+  },
+  {
+    "vietnamese": "chúng ta không cần phải quyết định tối nay",
+    "english": "we don't have to decide tonight",
+    "soundmark": "/wi/ /dont/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/"
+  },
+  {
+    "vietnamese": "chúng tôi quyết định",
+    "english": "we decide",
+    "soundmark": "/wi/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "đi",
+    "english": "to go",
+    "soundmark": "/tə/ /ɡo/"
+  },
+  {
+    "vietnamese": "bên ngoài",
+    "english": "out",
+    "soundmark": "/aʊt/"
+  },
+  {
+    "vietnamese": "ra ngoài đi",
+    "english": "to go out",
+    "soundmark": "/tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "vietnamese": "chúng tôi quyết định ra ngoài",
+    "english": "we decide to go out",
+    "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "vietnamese": "để",
+    "english": "for",
+    "soundmark": "/fɝ/"
+  },
+  {
+    "vietnamese": "bữa ăn tối",
+    "english": "dinner",
+    "soundmark": "/'dɪnɚ/"
+  },
+  {
+    "vietnamese": "cho bữa tối",
+    "english": "for dinner",
+    "soundmark": "/fɝ/ /'dɪnɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi quyết định ra ngoài ăn tối",
+    "english": "we decide to go out for dinner",
+    "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/"
+  },
+  {
+    "vietnamese": "quyết định (Trước đây)",
+    "english": "decided",
+    "soundmark": "/dɪ'saɪdɪd/"
+  },
+  {
+    "vietnamese": "chúng tôi đã quyết định (trong quá khứ)",
+    "english": "we decided",
+    "soundmark": "/wi/ /dɪ'saɪdɪd/"
+  },
+  {
+    "vietnamese": "chúng tôi (trong quá khứ) đã quyết định ra ngoài ăn tối",
+    "english": "we decided to go out for dinner",
+    "soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/"
+  },
+  {
+    "vietnamese": "lái",
+    "english": "to drive",
+    "soundmark": "/tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "chiếc xe đó",
+    "english": "the car",
+    "soundmark": "/ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "lái chiếc xe đó",
+    "english": "to drive the car",
+    "soundmark": "/tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi đã quyết định (trong quá khứ)",
+    "english": "I decided",
+    "soundmark": "/aɪ/ /dɪ'saɪdɪd/"
+  },
+  {
+    "vietnamese": "Tôi đã quyết định lái chiếc xe đó (trong quá khứ)",
+    "english": "I decided to drive the car",
+    "soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi đã lái chiếc xe đó",
+    "english": "I drive the car",
+    "soundmark": "/aɪ/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi lái chiếc xe đó (đằng kia)",
+    "english": "I drove the car",
+    "soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "ngày hôm qua",
+    "english": "yesterday",
+    "soundmark": "/'jɛstɚde/"
+  },
+  {
+    "vietnamese": "Hôm qua tôi đã lái chiếc xe đó",
+    "english": "I drove the car yesterday",
+    "soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "Hôm qua tôi không lái chiếc xe đó",
+    "english": "I didn't drive the car yesterday",
+    "soundmark": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "tin",
+    "english": "to believe",
+    "soundmark": "/tə/ /bɪ'liv/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "tin tôi",
+    "english": "to believe me",
+    "soundmark": "/tə/ /bɪ'liv/ /mi/"
+  },
+  {
+    "vietnamese": "bạn cần",
+    "english": "you need",
+    "soundmark": "/ju/ /nid/"
+  },
+  {
+    "vietnamese": "anh cần phải tin tôi",
+    "english": "you need to believe me",
+    "soundmark": "/ju/ /nid/ /tə/ /bɪ'liv/ /mi/"
+  },
+  {
+    "vietnamese": "bạn tin tưởng tôi",
+    "english": "you believe me",
+    "soundmark": "/ju/ /bɪ'liv/ /mi/"
+  },
+  {
+    "vietnamese": "anh không tin tôi",
+    "english": "you don't believe me",
+    "soundmark": "/ju/ /dont/ /bɪ'liv/ /mi/"
+  },
+  {
+    "vietnamese": "bạn (trong quá khứ) tin tưởng tôi",
+    "english": "you believed me",
+    "soundmark": "/ju/ /bɪ'livd/ /mi/"
+  },
+  {
+    "vietnamese": "bạn không tin tôi (trong quá khứ)",
+    "english": "you didn't believe me",
+    "soundmark": "/ju/ /'dɪdnt/ /bɪ'liv/ /mi/"
+  },
+  {
+    "vietnamese": "nhưng",
+    "english": "but",
+    "soundmark": "/bət/"
+  },
+  {
+    "vietnamese": "nhưng bạn không tin tôi (trong quá khứ)",
+    "english": "but you didn't believe me",
+    "soundmark": "/bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi đã lái chiếc xe đó ngày hôm qua, nhưng bạn không tin tôi",
+    "english": "I drove the car yesterday but you didn't believe me",
+    "soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/ /bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/"
+  },
+  {
+    "vietnamese": "thay đổi",
+    "english": "to change",
+    "soundmark": "/tə/ /tʃendʒ/"
+  },
+  {
+    "vietnamese": "ý tưởng",
+    "english": "mind",
+    "soundmark": "/maɪnd/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "suy nghĩ của tôi",
+    "english": "my mind",
+    "soundmark": "/maɪ/ /maɪnd/"
+  },
+  {
+    "vietnamese": "thay đổi ý định",
+    "english": "to change my mind",
+    "soundmark": "/tə/ /tʃendʒ/ /maɪ/ /maɪnd/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn đổi ý",
+    "english": "I want to change my mind",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /tʃendʒ/ /maɪ/ /maɪnd/"
+  },
+  {
+    "vietnamese": "Tôi đổi ý",
+    "english": "I change my mind",
+    "soundmark": "/aɪ/ /tʃendʒ/ /maɪ/ /maɪnd/"
+  },
+  {
+    "vietnamese": "đã thay đổi",
+    "english": "changed",
+    "soundmark": "/tʃendʒd/"
+  },
+  {
+    "vietnamese": "Tôi đã đổi ý",
+    "english": "I changed my mind",
+    "soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/"
+  },
+  {
+    "vietnamese": "một lần nữa",
+    "english": "again",
+    "soundmark": "/ə'ɡɛn/"
+  },
+  {
+    "vietnamese": "Tôi lại đổi ý lần nữa",
+    "english": "I changed my mind again",
+    "soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "to decide",
+    "soundmark": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "lái chiếc xe đó",
+    "english": "to drive the car",
+    "soundmark": "/tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi đã quyết định lái chiếc xe đó (trong quá khứ)",
+    "english": "I decided to drive the car",
+    "soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi đã đổi ý một lần nữa và tôi (trong quá khứ) đã quyết định lái chiếc xe đó",
+    "english": "I changed my mind again I decided to drive the car",
+    "soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/ /aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "thử nghiệm",
+    "english": "to try",
+    "soundmark": "/tə/ /traɪ/"
+  },
+  {
+    "vietnamese": "Tôi đã quyết định thử (trong quá khứ)",
+    "english": "I decided to try",
+    "soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/"
+  },
+  {
+    "vietnamese": "Tôi đã quyết định (trong quá khứ) cố gắng lái chiếc xe đó",
+    "english": "I decided to try to drive the car",
+    "soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi đã không (trong quá khứ) quyết định thử lái chiếc xe đó",
+    "english": "I didn't decide to try to drive the car",
+    "soundmark": "/aɪ/ /'dɪdnt/ /dɪ'saɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi đã cố gắng lái chiếc xe đó",
+    "english": "I try to drive the car",
+    "soundmark": "/aɪ/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi không cố lái chiếc xe đó",
+    "english": "I don't try to drive the car",
+    "soundmark": "/aɪ/ /dont/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi đã cố gắng lái chiếc xe đó (trong quá khứ)",
+    "english": "I tried to drive the car",
+    "soundmark": "/aɪ/ /traɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi đã không cố gắng lái chiếc xe đó (trong quá khứ)",
+    "english": "I didn't try to drive the car",
+    "soundmark": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi đã lái chiếc xe đó",
+    "english": "I drive the car",
+    "soundmark": "/aɪ/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi sẽ không lái chiếc xe đó",
+    "english": "I don't drive the car",
+    "soundmark": "/aɪ/ /dont/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi lái chiếc xe đó (đằng kia)",
+    "english": "I drove the car",
+    "soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi đã không lái chiếc xe đó (trước đây)",
+    "english": "I didn't drive the car",
+    "soundmark": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "dừng; Chặn",
+    "english": "to stop",
+    "soundmark": "/tə/ /stɑp/"
+  },
+  {
+    "vietnamese": "ông, chú, anh ấy",
+    "english": "him",
+    "soundmark": "/hɪm/"
+  },
+  {
+    "vietnamese": "ngăn anh ta lại",
+    "english": "to stop him",
+    "soundmark": "/tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi đã cố gắng ngăn chặn anh ta (trong quá khứ)",
+    "english": "I tried to stop him",
+    "soundmark": "/aɪ/ /traɪd/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi đã không cố gắng ngăn chặn anh ta (trong quá khứ)",
+    "english": "I didn't try to stop him",
+    "soundmark": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "tìm tới",
+    "english": "to find",
+    "soundmark": "/tə/ /faɪnd/"
+  },
+  {
+    "vietnamese": "một chiều",
+    "english": "a way",
+    "soundmark": "/ə/ /we/"
+  },
+  {
+    "vietnamese": "tìm cách",
+    "english": "to find a way",
+    "soundmark": "/tə/ /faɪnd/ /ə/ /we/"
+  },
+  {
+    "vietnamese": "Tôi phải tìm cách",
+    "english": "I have to find a way",
+    "soundmark": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/"
+  },
+  {
+    "vietnamese": "ngăn anh ta lại",
+    "english": "to stop him",
+    "soundmark": "/tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi phải tìm cách để ngăn anh ta lại",
+    "english": "I have to find a way to stop him",
+    "soundmark": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi không cần phải tìm cách để ngăn anh ta lại",
+    "english": "I don't have to find a way to stop him",
+    "soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) phải",
+    "english": "I had to",
+    "soundmark": "/aɪ/ /hæd/ /tə/"
+  },
+  {
+    "vietnamese": "Tôi (trong quá khứ) đã phải tìm cách",
+    "english": "I had to find a way",
+    "soundmark": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/"
+  },
+  {
+    "vietnamese": "Tôi phải tìm cách để ngăn anh ta lại",
+    "english": "I had to find a way to stop him",
+    "soundmark": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi không cần phải tìm cách để ngăn chặn anh ta (trong quá khứ)",
+    "english": "I didn't have to find a way to stop him",
+    "soundmark": "/aɪ/ /'dɪdnt/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi đã tìm ra cách để ngăn chặn anh ta",
+    "english": "I find a way to stop him",
+    "soundmark": "/aɪ/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi (trong quá khứ) đã tìm ra cách để ngăn chặn anh ta",
+    "english": "I found a way to stop him",
+    "soundmark": "/aɪ/ /faʊnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi đã không tìm ra cách để ngăn chặn anh ta (trong quá khứ)",
+    "english": "I didn't find a way to stop him",
+    "soundmark": "/aɪ/ /'dɪdnt/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi đã ngăn anh ta lại",
+    "english": "I stop him",
+    "soundmark": "/aɪ/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi đã ngăn anh ta lại",
+    "english": "I stopped him",
+    "soundmark": "/aɪ/ /stɑpt/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi đã không ngăn cản anh ta (trong quá khứ)",
+    "english": "I didn't stop him",
+    "soundmark": "/aɪ/ /'dɪdnt/ /stɑp/ /hɪm/"
+  },
+  {
+    "vietnamese": "hỏi",
+    "english": "to ask",
+    "soundmark": "/tə/ /æsk/"
+  },
+  {
+    "vietnamese": "hỏi qua",
+    "english": "asked",
+    "soundmark": "/æskt/"
+  },
+  {
+    "vietnamese": "họ……\"",
+    "english": "them",
+    "soundmark": "/ðəm/"
+  },
+  {
+    "vietnamese": "đã hỏi họ",
+    "english": "asked them",
+    "soundmark": "/æskt/ /ðəm/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi hỏi họ",
+    "english": "I asked them",
+    "soundmark": "/aɪ/ /æskt/ /ðəm/"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "english": "the question",
+    "soundmark": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "tương tự",
+    "english": "same",
+    "soundmark": "/sem/"
+  },
+  {
+    "vietnamese": "cùng một câu hỏi đó",
+    "english": "the same question",
+    "soundmark": "/ðə/ /sem/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "Tôi hỏi họ cùng một câu hỏi",
+    "english": "I asked them the same question",
+    "soundmark": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "Tôi đã không hỏi họ cùng một câu hỏi",
+    "english": "I didn't ask them the same question",
+    "soundmark": "/aɪ/ /'dɪdnt/ /æsk/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "trả lời",
+    "english": "to answer",
+    "soundmark": "/tə/ /'ænsɚ/"
+  },
+  {
+    "vietnamese": "đã trả lời",
+    "english": "answered",
+    "soundmark": "/'ænsɚd/"
+  },
+  {
+    "vietnamese": "không ai",
+    "english": "nobody",
+    "soundmark": "/ˈnobɑdi/"
+  },
+  {
+    "vietnamese": "không ai trả lời",
+    "english": "nobody answered",
+    "soundmark": "/ˈnobɑdi/ /'ænsɚd/"
+  },
+  {
+    "vietnamese": "nhưng",
+    "english": "but",
+    "soundmark": "/bət/"
+  },
+  {
+    "vietnamese": "nhưng không ai trả lời",
+    "english": "but nobody answered",
+    "soundmark": "/bət/ /ˈnobɑdi/ /'ænsɚd/"
+  },
+  {
+    "vietnamese": "Tôi hỏi họ cùng một câu hỏi, nhưng không ai trả lời",
+    "english": "I asked them the same question but nobody answered",
+    "soundmark": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/ /bət/ /ˈnobɑdi/ /'ænsɚd/"
+  }
+]

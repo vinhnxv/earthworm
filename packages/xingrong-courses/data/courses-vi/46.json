@@ -1,0 +1,642 @@
+[
+  {
+    "vietnamese": "nắm giữ",
+    "english": "to master",
+    "soundmark": "/tə/ /'mæstɚ/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "thành thạo tiếng Anh",
+    "english": "to master English",
+    "soundmark": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "thử nghiệm",
+    "english": "to try",
+    "soundmark": "/tə/ /traɪ/"
+  },
+  {
+    "vietnamese": "cố gắng thành thạo tiếng anh",
+    "english": "to try to master English",
+    "soundmark": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "to decide",
+    "soundmark": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã quyết định",
+    "english": "she decided",
+    "soundmark": "/ʃi/ /dɪ'saɪdɪd/"
+  },
+  {
+    "vietnamese": "cố gắng thành thạo tiếng anh",
+    "english": "to try to master English",
+    "soundmark": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) quyết định cố gắng học tiếng Anh",
+    "english": "she decided to try to master English",
+    "soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "phòng ăn",
+    "english": "restaurant",
+    "soundmark": "/'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "mới",
+    "english": "new",
+    "soundmark": "/nu/"
+  },
+  {
+    "vietnamese": "nhà hàng mới",
+    "english": "new restaurant",
+    "soundmark": "/nu/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "nhà hàng mới đó",
+    "english": "the new restaurant",
+    "soundmark": "/ðə/ /nu/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) đã quyết định thử",
+    "english": "she decided to try",
+    "soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) đã quyết định thử nhà hàng mới đó",
+    "english": "she decided to try the new restaurant",
+    "soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "to read",
+    "soundmark": "/tə/ /rid/"
+  },
+  {
+    "vietnamese": "sách",
+    "english": "books",
+    "soundmark": "/bʊks/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "to read books",
+    "soundmark": "/tə/ /rid/ /bʊks/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "đọc sách tiếng anh",
+    "english": "to read English books",
+    "soundmark": "/tə/ /rid/ /ˈɪŋɡlɪʃ/ /bʊks/"
+  },
+  {
+    "vietnamese": "đọc sách tiếng Anh (dạng ing)",
+    "english": "reading English books",
+    "soundmark": "/'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/"
+  },
+  {
+    "vietnamese": "thử nghiệm",
+    "english": "to try",
+    "soundmark": "/tə/ /traɪ/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng",
+    "english": "she tried",
+    "soundmark": "/ʃi/ /traɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) đã cố gắng đọc sách tiếng Anh",
+    "english": "she tried reading English books",
+    "soundmark": "/ʃi/ /traɪd/ /'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/"
+  },
+  {
+    "vietnamese": "dây điện",
+    "english": "line",
+    "soundmark": "/laɪn/"
+  },
+  {
+    "vietnamese": "trực tuyến",
+    "english": "online",
+    "soundmark": "/ɑnˈlaɪn/"
+  },
+  {
+    "vietnamese": "khóa học",
+    "english": "course",
+    "soundmark": "/kɔrsɪz/"
+  },
+  {
+    "vietnamese": "các khóa học trực tuyến",
+    "english": "online courses",
+    "soundmark": "/ɑnˈlaɪn/ /kɔrsɪz/"
+  },
+  {
+    "vietnamese": "dùng",
+    "english": "to use",
+    "soundmark": "/tə/ /juz/"
+  },
+  {
+    "vietnamese": "sử dụng các khóa học trực tuyến",
+    "english": "to use online courses",
+    "soundmark": "/tə/ /juz/ /ɑnˈlaɪn/ /kɔrsɪz/"
+  },
+  {
+    "vietnamese": "sử dụng các khóa học trực tuyến (định dạng ing)",
+    "english": "using online courses",
+    "soundmark": "/juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng",
+    "english": "she tried",
+    "soundmark": "/ʃi/ /traɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) đã thử sử dụng các khóa học trực tuyến",
+    "english": "she tried using online courses",
+    "soundmark": "/ʃi/ /traɪd/ /juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/"
+  },
+  {
+    "vietnamese": "bài hát",
+    "english": "song",
+    "soundmark": "/sɔŋ/"
+  },
+  {
+    "vietnamese": "Bài hát tiếng anh",
+    "english": "English songs",
+    "soundmark": "/ˈɪŋɡlɪʃ/ /sɔŋz/"
+  },
+  {
+    "vietnamese": "nghe",
+    "english": "to listen",
+    "soundmark": "/tə/ /'lɪsn/"
+  },
+  {
+    "vietnamese": "nghe các bài hát tiếng Anh",
+    "english": "to listen to English songs",
+    "soundmark": "/tə/ /'lɪsn/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/"
+  },
+  {
+    "vietnamese": "nghe các bài hát tiếng Anh (dạng ing)",
+    "english": "listening to English songs",
+    "soundmark": "/'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng",
+    "english": "she tried",
+    "soundmark": "/ʃi/ /traɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) đã cố gắng nghe những bài hát tiếng Anh",
+    "english": "she tried listening to English songs",
+    "soundmark": "/ʃi/ /traɪd/ /'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/"
+  },
+  {
+    "vietnamese": "nói chuyện",
+    "english": "to speak",
+    "soundmark": "/tə/ /spik/"
+  },
+  {
+    "vietnamese": "loa",
+    "english": "speaker",
+    "soundmark": "/'spikɚ/"
+  },
+  {
+    "vietnamese": "địa phương",
+    "english": "native",
+    "soundmark": "/ˈnetɪv/"
+  },
+  {
+    "vietnamese": "người bản xứ",
+    "english": "native speakers",
+    "soundmark": "/ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "vietnamese": "nói chuyện",
+    "english": "to speak",
+    "soundmark": "/tə/ /spik/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "nói chuyện với người bản xứ",
+    "english": "to speak with native speakers",
+    "soundmark": "/tə/ /spik/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "vietnamese": "nói chuyện với người bản xứ (dạng ing)",
+    "english": "speaking with native speakers",
+    "soundmark": "/'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "vietnamese": "luyện tập",
+    "english": "to practice",
+    "soundmark": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "vietnamese": "luyện nói chuyện với người bản xứ",
+    "english": "to practice speaking with native speakers",
+    "soundmark": "/tə/ /ˈpræktɪs/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "vietnamese": "luyện nói với người bản xứ (dạng ing)",
+    "english": "practicing speaking with native speakers",
+    "soundmark": "/ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng",
+    "english": "she tried",
+    "soundmark": "/ʃi/ /traɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng luyện nói với người bản xứ",
+    "english": "she tried practicing speaking with native speakers",
+    "soundmark": "/ʃi/ /traɪd/ /ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "vietnamese": "nói (dạng ing)",
+    "english": "speaking",
+    "soundmark": "/'spikɪŋ/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Nói tiếng anh",
+    "english": "English-speaking",
+    "soundmark": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/"
+  },
+  {
+    "vietnamese": "môi trường",
+    "english": "environment",
+    "soundmark": "/ɪnˈvaɪrənmənt/"
+  },
+  {
+    "vietnamese": "Môi trường nói tiếng Anh",
+    "english": "English-speaking environment",
+    "soundmark": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+  },
+  {
+    "vietnamese": "môi trường nói tiếng anh",
+    "english": "an English-speaking environment",
+    "soundmark": "/ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+  },
+  {
+    "vietnamese": "tRONG",
+    "english": "in",
+    "soundmark": "/ɪn/"
+  },
+  {
+    "vietnamese": "trong môi trường nói tiếng Anh",
+    "english": "in an English-speaking environment",
+    "soundmark": "/ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+  },
+  {
+    "vietnamese": "đắm chìm",
+    "english": "to immerse",
+    "soundmark": "/tə/ /ɪˈmɝs/"
+  },
+  {
+    "vietnamese": "bản thân cô ấy",
+    "english": "herself",
+    "soundmark": "/hɝ'sɛlf/"
+  },
+  {
+    "vietnamese": "đắm mình",
+    "english": "to immerse herself",
+    "soundmark": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/"
+  },
+  {
+    "vietnamese": "hòa mình vào môi trường nói tiếng Anh",
+    "english": "to immerse herself in an English-speaking environment",
+    "soundmark": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+  },
+  {
+    "vietnamese": "ngâm (dạng ing)",
+    "english": "immersing",
+    "soundmark": "/ɪˈmɝsɪŋ/"
+  },
+  {
+    "vietnamese": "hòa mình vào môi trường nói tiếng Anh (dạng ing)",
+    "english": "immersing herself in an English-speaking environment",
+    "soundmark": "/ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng",
+    "english": "she tried",
+    "soundmark": "/ʃi/ /traɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng hòa mình vào môi trường nói tiếng Anh",
+    "english": "she tried immersing herself in an English-speaking environment",
+    "soundmark": "/ʃi/ /traɪd/ /ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+  },
+  {
+    "vietnamese": "khỏe mạnh",
+    "english": "fitness",
+    "soundmark": "/'fɪtnəs/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "sức khỏe của cô ấy",
+    "english": "her fitness",
+    "soundmark": "/hɚ/ /'fɪtnəs/"
+  },
+  {
+    "vietnamese": "cải thiện",
+    "english": "to improve",
+    "soundmark": "/tə/ /ɪmˈpruv/"
+  },
+  {
+    "vietnamese": "cải thiện sức khỏe của cô ấy",
+    "english": "to improve her fitness",
+    "soundmark": "/tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/"
+  },
+  {
+    "vietnamese": "thử nghiệm",
+    "english": "to try",
+    "soundmark": "/tə/ /traɪ/"
+  },
+  {
+    "vietnamese": "cố gắng cải thiện sức khỏe của cô ấy",
+    "english": "to try to improve her fitness",
+    "soundmark": "/tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "to decide",
+    "soundmark": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã quyết định",
+    "english": "she decided",
+    "soundmark": "/ʃi/ /dɪ'saɪdɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) quyết định cố gắng cải thiện sức khỏe của mình",
+    "english": "she decided to try to improve her fitness",
+    "soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) đã quyết định thử nhà hàng mới đó",
+    "english": "she decided to try the new restaurant",
+    "soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/"
+  },
+  {
+    "vietnamese": "buổi sáng",
+    "english": "morning",
+    "soundmark": "/'mɔrnɪŋ/"
+  },
+  {
+    "vietnamese": "vào buổi sáng",
+    "english": "in the mornings",
+    "soundmark": "/ɪn/ /ðə/ /'mɔrnɪŋz/"
+  },
+  {
+    "vietnamese": "đang chạy",
+    "english": "to run",
+    "soundmark": "/tə/ /rʌn/"
+  },
+  {
+    "vietnamese": "chạy vào buổi sáng",
+    "english": "to run in the mornings",
+    "soundmark": "/tə/ /rʌn/ /ɪn/ /ðə/ /'mɔrnɪŋz/"
+  },
+  {
+    "vietnamese": "chạy vào buổi sáng (dạng ing)",
+    "english": "running in the mornings",
+    "soundmark": "/'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng",
+    "english": "she tried",
+    "soundmark": "/ʃi/ /traɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (đã từng) cố gắng chạy vào buổi sáng",
+    "english": "she tried running in the mornings",
+    "soundmark": "/ʃi/ /traɪd/ /'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/"
+  },
+  {
+    "vietnamese": "sau đó",
+    "english": "after",
+    "soundmark": "/'æftɚ/"
+  },
+  {
+    "vietnamese": "buổi trưa",
+    "english": "noon",
+    "soundmark": "/nun/"
+  },
+  {
+    "vietnamese": "buổi chiều",
+    "english": "afternoon",
+    "soundmark": "/æftɚ'nun/"
+  },
+  {
+    "vietnamese": "vào buổi chiều",
+    "english": "in the afternoons",
+    "soundmark": "/ɪn/ /ði/ /æftɚ'nunz/"
+  },
+  {
+    "vietnamese": "đạp xe",
+    "english": "to cycle",
+    "soundmark": "/tə/ /ˈsaɪkl/"
+  },
+  {
+    "vietnamese": "đạp xe vào buổi chiều",
+    "english": "to cycle in the afternoons",
+    "soundmark": "/tə/ /ˈsaɪkl/ /ɪn/ /ði/ /æftɚ'nunz/"
+  },
+  {
+    "vietnamese": "đi xe đạp vào buổi chiều (dạng ing)",
+    "english": "cycling in the afternoons",
+    "soundmark": "/ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng",
+    "english": "she tried",
+    "soundmark": "/ʃi/ /traɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng đi xe đạp vào buổi chiều",
+    "english": "she tried cycling in the afternoons",
+    "soundmark": "/ʃi/ /traɪd/ /ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/"
+  },
+  {
+    "vietnamese": "ban đêm",
+    "english": "night",
+    "soundmark": "/naɪt/"
+  },
+  {
+    "vietnamese": "ban đêm",
+    "english": "in the nights",
+    "soundmark": "/ɪn/ /ðə/ /naɪts/"
+  },
+  {
+    "vietnamese": "yoga",
+    "english": "yoga",
+    "soundmark": "/ˈjoɡə/"
+  },
+  {
+    "vietnamese": "khóa học",
+    "english": "classes",
+    "soundmark": "/klæsɪz/"
+  },
+  {
+    "vietnamese": "lớp học yoga",
+    "english": "yoga classes",
+    "soundmark": "/ˈjoɡə/ /klæsɪz/"
+  },
+  {
+    "vietnamese": "tham gia",
+    "english": "to attend",
+    "soundmark": "/tə/ /əˈtɛnd/"
+  },
+  {
+    "vietnamese": "tham gia một lớp học yoga",
+    "english": "to attend yoga classes",
+    "soundmark": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/"
+  },
+  {
+    "vietnamese": "ban đêm",
+    "english": "in the nights",
+    "soundmark": "/ɪn/ /ðə/ /naɪts/"
+  },
+  {
+    "vietnamese": "tham gia lớp học yoga vào buổi tối",
+    "english": "to attend yoga classes in the nights",
+    "soundmark": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/"
+  },
+  {
+    "vietnamese": "tham gia (mẫu đơn)",
+    "english": "attending",
+    "soundmark": "/əˈtɛndɪŋ/"
+  },
+  {
+    "vietnamese": "tham gia lớp học yoga vào buổi tối (dạng ing)",
+    "english": "attending yoga classes in the nights",
+    "soundmark": "/əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng",
+    "english": "she tried",
+    "soundmark": "/ʃi/ /traɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (trước đây) đã cố gắng tham gia lớp học yoga vào buổi tối",
+    "english": "she tried attending yoga classes in the nights",
+    "soundmark": "/ʃi/ /traɪd/ /əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/"
+  },
+  {
+    "vietnamese": "phòng tập thể dục",
+    "english": "gym",
+    "soundmark": "/dʒɪm/"
+  },
+  {
+    "vietnamese": "trong phòng tập thể dục",
+    "english": "in the gym",
+    "soundmark": "/ɪn/ /ðə/ /dʒɪm/"
+  },
+  {
+    "vietnamese": "cân nặng",
+    "english": "weights",
+    "soundmark": "/wets/"
+  },
+  {
+    "vietnamese": "thang máy",
+    "english": "to lift",
+    "soundmark": "/tə/ /lɪft/"
+  },
+  {
+    "vietnamese": "nâng tạ",
+    "english": "to lift weights",
+    "soundmark": "/tə/ /lɪft/ /wets/"
+  },
+  {
+    "vietnamese": "trong phòng tập thể dục",
+    "english": "in the gym",
+    "soundmark": "/ɪn/ /ðə/ /dʒɪm/"
+  },
+  {
+    "vietnamese": "nâng tạ trong phòng gym",
+    "english": "to lift weights in the gym",
+    "soundmark": "/tə/ /lɪft/ /wets/ /ɪn/ /ðə/ /dʒɪm/"
+  },
+  {
+    "vietnamese": "nâng tạ (dạng ing) trong phòng gym",
+    "english": "lifting weights in the gym",
+    "soundmark": "/lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng",
+    "english": "she tried",
+    "soundmark": "/ʃi/ /traɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã thử nâng tạ trong phòng gym",
+    "english": "she tried lifting weights in the gym",
+    "soundmark": "/ʃi/ /traɪd/ /lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/"
+  },
+  {
+    "vietnamese": "tuần",
+    "english": "week",
+    "soundmark": "/wik/"
+  },
+  {
+    "vietnamese": "kết thúc",
+    "english": "end",
+    "soundmark": "/ɛnd/"
+  },
+  {
+    "vietnamese": "cuối tuần",
+    "english": "weekend",
+    "soundmark": "/'wikɛnd/"
+  },
+  {
+    "vietnamese": "vào cuối tuần",
+    "english": "on the weekends",
+    "soundmark": "/ɑn/ /ðə/ /'wikɛndz/"
+  },
+  {
+    "vietnamese": "bơi lội",
+    "english": "to swim",
+    "soundmark": "/tə/ /swɪm/"
+  },
+  {
+    "vietnamese": "bơi lội vào cuối tuần",
+    "english": "to swim on the weekends",
+    "soundmark": "/tə/ /swɪm/ /ɑn/ /ðə/ /'wikɛndz/"
+  },
+  {
+    "vietnamese": "bơi lội vào cuối tuần (dạng ing)",
+    "english": "swimming on the weekends",
+    "soundmark": "/swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã cố gắng",
+    "english": "she tried",
+    "soundmark": "/ʃi/ /traɪd/"
+  },
+  {
+    "vietnamese": "cô ấy (đã từng) thử bơi vào cuối tuần",
+    "english": "she tried swimming on the weekends",
+    "soundmark": "/ʃi/ /traɪd/ /swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/"
+  }
+]

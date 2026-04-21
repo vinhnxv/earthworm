@@ -1,0 +1,782 @@
+[
+  {
+    "vietnamese": "trả",
+    "english": "to pay",
+    "soundmark": "/tə/ /pe/"
+  },
+  {
+    "vietnamese": "hóa đơn",
+    "english": "the bill",
+    "soundmark": "/ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "thanh toán hóa đơn này",
+    "english": "to pay the bill",
+    "soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "trả tiền (quá khứ)",
+    "english": "paid",
+    "soundmark": "/ped/"
+  },
+  {
+    "vietnamese": "Tôi đã trả tiền (quá khứ)",
+    "english": "I paid",
+    "soundmark": "/aɪ/ /ped/"
+  },
+  {
+    "vietnamese": "Tôi thanh toán (trước đây) hóa đơn này",
+    "english": "I paid the bill",
+    "soundmark": "/aɪ/ /ped/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "thời gian 时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "đúng giờ",
+    "english": "on time",
+    "soundmark": "/ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi đã thanh toán (trước đây) hóa đơn này đúng hạn",
+    "english": "I paid the bill on time",
+    "soundmark": "/aɪ/ /ped/ /ðə/ /bɪl/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "trả tiền (quá khứ)",
+    "english": "paid",
+    "soundmark": "/ped/"
+  },
+  {
+    "vietnamese": "thanh toán (mẫu ed)",
+    "english": "paid",
+    "soundmark": "/ped/"
+  },
+  {
+    "vietnamese": "được trả tiền",
+    "english": "be paid",
+    "soundmark": "/bi/ /ped/"
+  },
+  {
+    "vietnamese": "hóa đơn",
+    "english": "the bill",
+    "soundmark": "/ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "hóa đơn đã được thanh toán (trong quá khứ)",
+    "english": "the bill was paid",
+    "soundmark": "/ðə/ /bɪl/ /wəz/ /ped/"
+  },
+  {
+    "vietnamese": "hóa đơn này đã được thanh toán đúng hạn (trong quá khứ)",
+    "english": "the bill was paid on time",
+    "soundmark": "/ðə/ /bɪl/ /wəz/ /ped/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "sẽ được trả tiền",
+    "english": "will be paid",
+    "soundmark": "/wɪl/ /bi/ /ped/"
+  },
+  {
+    "vietnamese": "hóa đơn này sẽ được thanh toán đúng hạn",
+    "english": "the bill will be paid on time",
+    "soundmark": "/ðə/ /bɪl/ /wɪl/ /bi/ /ped/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "được (dạng ed)",
+    "english": "been",
+    "soundmark": "/bɪn/"
+  },
+  {
+    "vietnamese": "(đã) trả tiền",
+    "english": "has been paid",
+    "soundmark": "/hæz/ /bɪn/ /ped/"
+  },
+  {
+    "vietnamese": "hóa đơn đã được thanh toán đúng hạn",
+    "english": "the bill has been paid on time",
+    "soundmark": "/ðə/ /bɪl/ /hæz/ /bɪn/ /ped/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "(đã được) thanh toán trong quá khứ",
+    "english": "had been paid",
+    "soundmark": "/hæd/ /bɪn/ /ped/"
+  },
+  {
+    "vietnamese": "hóa đơn đã (đã) được thanh toán đúng hạn",
+    "english": "the bill had been paid on time",
+    "soundmark": "/ðə/ /bɪl/ /hæd/ /bɪn/ /ped/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "mời",
+    "english": "to invite",
+    "soundmark": "/tə/ /ɪn'vaɪt/"
+  },
+  {
+    "vietnamese": "lời mời đó",
+    "english": "the invitation",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "tiếp quản",
+    "english": "to accept",
+    "soundmark": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "vietnamese": "nhận (dạng ed)",
+    "english": "accepted",
+    "soundmark": "/ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "được chấp nhận",
+    "english": "be accepted",
+    "soundmark": "/bi/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "lời mời đó đã được chấp nhận",
+    "english": "the invitation is accepted",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "khách mời",
+    "english": "guest",
+    "soundmark": "/ɡɛst/"
+  },
+  {
+    "vietnamese": "vượt qua",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "qua vị khách đó",
+    "english": "by the guest",
+    "soundmark": "/baɪ/ /ðə/ /ɡɛst/"
+  },
+  {
+    "vietnamese": "lời mời đó đã được người khách đó chấp nhận",
+    "english": "the invitation is accepted by the guest",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/"
+  },
+  {
+    "vietnamese": "(quá khứ) được chấp nhận",
+    "english": "was accepted",
+    "soundmark": "/wəz/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "lời mời đó (trong quá khứ) đã được người khách đó chấp nhận",
+    "english": "the invitation was accepted by the guest",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/"
+  },
+  {
+    "vietnamese": "sẽ được chấp nhận",
+    "english": "will be accepted",
+    "soundmark": "/wɪl/ /bi/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "lời mời đó sẽ được khách đó chấp nhận",
+    "english": "the invitation will be accepted by the guest",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /wɪl/ /bi/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/"
+  },
+  {
+    "vietnamese": "(đã) được chấp nhận",
+    "english": "has been accepted",
+    "soundmark": "/hæz/ /bɪn/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "lời mời đó (đã được) chấp nhận bởi vị khách đó",
+    "english": "the invitation has been accepted by the guest",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /hæz/ /bɪn/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/"
+  },
+  {
+    "vietnamese": "(đã) được chấp nhận trong quá khứ",
+    "english": "had been accepted",
+    "soundmark": "/hæd/ /bɪn/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "lời mời đó (đã được) chấp nhận bởi vị khách đó",
+    "english": "the invitation had been accepted by the guest",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /hæd/ /bɪn/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/"
+  },
+  {
+    "vietnamese": "vấn đề",
+    "english": "to send",
+    "soundmark": "/tə/ /sɛnd/"
+  },
+  {
+    "vietnamese": "vấn đề (dạng biên tập)",
+    "english": "sent",
+    "soundmark": "/sɛnt/"
+  },
+  {
+    "vietnamese": "được ban hành",
+    "english": "be sent",
+    "soundmark": "/bi/ /sɛnt/"
+  },
+  {
+    "vietnamese": "lời mời đó",
+    "english": "the invitation",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "lời mời đó đã được gửi",
+    "english": "the invitation was sent",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /sɛnt/"
+  },
+  {
+    "vietnamese": "nhà tài trợ",
+    "english": "host",
+    "soundmark": "/host/"
+  },
+  {
+    "vietnamese": "bởi nhà tài trợ",
+    "english": "by the host",
+    "soundmark": "/baɪ/ /ðə/ /host/"
+  },
+  {
+    "vietnamese": "lời mời đó được gửi bởi người tổ chức",
+    "english": "the invitation is sent by the host",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /sɛnt/ /baɪ/ /ðə/ /host/"
+  },
+  {
+    "vietnamese": "(quá khứ) được ban hành",
+    "english": "was sent",
+    "soundmark": "/wəz/ /sɛnt/"
+  },
+  {
+    "vietnamese": "lời mời đó (trước đây) do người tổ chức gửi",
+    "english": "the invitation was sent by the host",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /sɛnt/ /baɪ/ /ðə/ /host/"
+  },
+  {
+    "vietnamese": "sẽ được ban hành",
+    "english": "will be sent",
+    "soundmark": "/wɪl/ /bi/ /sɛnt/"
+  },
+  {
+    "vietnamese": "lời mời đó sẽ được ban tổ chức gửi đi",
+    "english": "the invitation will be sent by the host",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /wɪl/ /bi/ /sɛnt/ /baɪ/ /ðə/ /host/"
+  },
+  {
+    "vietnamese": "tuần tới",
+    "english": "next week",
+    "soundmark": "/nɛkst/ /wik/"
+  },
+  {
+    "vietnamese": "lời mời đó sẽ được ban tổ chức gửi đi vào tuần tới",
+    "english": "the invitation will be sent by the host next week",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /wɪl/ /bi/ /sɛnt/ /baɪ/ /ðə/ /host/ /nɛkst/ /wik/"
+  },
+  {
+    "vietnamese": "(đã được) ban hành",
+    "english": "has been sent",
+    "soundmark": "/hæz/ /bɪn/ /sɛnt/"
+  },
+  {
+    "vietnamese": "lời mời (đã được) gửi bởi ban tổ chức",
+    "english": "the invitation has been sent by the host",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /hæz/ /bɪn/ /sɛnt/ /baɪ/ /ðə/ /host/"
+  },
+  {
+    "vietnamese": "(đã được) ban hành trong quá khứ",
+    "english": "had been sent",
+    "soundmark": "/hæd/ /bɪn/ /sɛnt/"
+  },
+  {
+    "vietnamese": "lời mời đó (đã được) gửi bởi người tổ chức",
+    "english": "the invitation had been sent by the host",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /hæd/ /bɪn/ /sɛnt/ /baɪ/ /ðə/ /host/"
+  },
+  {
+    "vietnamese": "xuất bản",
+    "english": "to publish",
+    "soundmark": "/tə/ /ˈpʌblɪʃ/"
+  },
+  {
+    "vietnamese": "xuất bản (dạng ed)",
+    "english": "published",
+    "soundmark": "/ˈpʌblɪʃt/"
+  },
+  {
+    "vietnamese": "được xuất bản",
+    "english": "be published",
+    "soundmark": "/bi/ /ˈpʌblɪʃt/"
+  },
+  {
+    "vietnamese": "sách",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "vietnamese": "cuốn sách đó đã được xuất bản",
+    "english": "the book is published",
+    "soundmark": "/ðə/ /bʊk/ /ɪz/ /ˈpʌblɪʃt/"
+  },
+  {
+    "vietnamese": "công ty",
+    "english": "company",
+    "soundmark": "/ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "vượt qua",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "thông qua công ty đó",
+    "english": "by the company",
+    "soundmark": "/baɪ/ /ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "cuốn sách đó được xuất bản thông qua công ty đó",
+    "english": "the book is published by the company",
+    "soundmark": "/ðə/ /bʊk/ /ɪz/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "sẽ được xuất bản",
+    "english": "will be published",
+    "soundmark": "/wɪl/ /bi/ /ˈpʌblɪʃt/"
+  },
+  {
+    "vietnamese": "cuốn sách đó sẽ được xuất bản bởi công ty đó",
+    "english": "the book will be published by the company",
+    "soundmark": "/ðə/ /bʊk/ /wɪl/ /bi/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "(đã) được xuất bản",
+    "english": "has been published",
+    "soundmark": "/hæz/ /bɪn/ /ˈpʌblɪʃt/"
+  },
+  {
+    "vietnamese": "cuốn sách đó (đã được) xuất bản bởi công ty đó",
+    "english": "the book has been published by the company",
+    "soundmark": "/ðə/ /bʊk/ /hæz/ /bɪn/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "(đã) được xuất bản trong quá khứ",
+    "english": "had been published",
+    "soundmark": "/hæd/ /bɪn/ /ˈpʌblɪʃt/"
+  },
+  {
+    "vietnamese": "cuốn sách đó (đã được) xuất bản bởi công ty đó",
+    "english": "the book had been published by the company",
+    "soundmark": "/ðə/ /bʊk/ /hæd/ /bɪn/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "chịu đựng",
+    "english": "to construct",
+    "soundmark": "/tə/ /kənˈstrʌkt/"
+  },
+  {
+    "vietnamese": "xây dựng (dạng ed)",
+    "english": "constructed",
+    "soundmark": "/kənˈstrʌktɪd/"
+  },
+  {
+    "vietnamese": "được xây dựng",
+    "english": "be constructed",
+    "soundmark": "/bi/ /kənˈstrʌktɪd/"
+  },
+  {
+    "vietnamese": "ngành kiến ​​​​trúc",
+    "english": "to build",
+    "soundmark": "/tə/ /bɪld/"
+  },
+  {
+    "vietnamese": "ngành kiến ​​​​trúc",
+    "english": "building",
+    "soundmark": "/'bɪldɪŋ/"
+  },
+  {
+    "vietnamese": "tòa nhà đó",
+    "english": "the building",
+    "soundmark": "/ðə/ /'bɪldɪŋ/"
+  },
+  {
+    "vietnamese": "tòa nhà đó được xây dựng",
+    "english": "the building is constructed",
+    "soundmark": "/ðə/ /'bɪldɪŋ/ /ɪz/ /kənˈstrʌktɪd/"
+  },
+  {
+    "vietnamese": "vượt qua",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "công ty",
+    "english": "company",
+    "soundmark": "/ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "thông qua công ty đó",
+    "english": "by the company",
+    "soundmark": "/baɪ/ /ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "chịu đựng",
+    "english": "to construct",
+    "soundmark": "/tə/ /kənˈstrʌkt/"
+  },
+  {
+    "vietnamese": "chịu đựng",
+    "english": "construction",
+    "soundmark": "/kənˈstrʌkʃn/"
+  },
+  {
+    "vietnamese": "công ty xây dựng",
+    "english": "construction company",
+    "soundmark": "/kənˈstrʌkʃn/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "thông qua công ty xây dựng đó",
+    "english": "by the construction company",
+    "soundmark": "/baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "tòa nhà đó được xây dựng",
+    "english": "the building is constructed",
+    "soundmark": "/ðə/ /'bɪldɪŋ/ /ɪz/ /kənˈstrʌktɪd/"
+  },
+  {
+    "vietnamese": "tòa nhà đó được xây dựng bởi công ty xây dựng đó",
+    "english": "the building is constructed by the construction company",
+    "soundmark": "/ðə/ /'bɪldɪŋ/ /ɪz/ /kənˈstrʌktɪd/ /baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "sẽ được xây dựng",
+    "english": "will be constructed",
+    "soundmark": "/wɪl/ /bi/ /kənˈstrʌktɪd/"
+  },
+  {
+    "vietnamese": "tòa nhà đó sẽ được xây dựng bởi công ty xây dựng đó",
+    "english": "the building will be constructed by the construction company",
+    "soundmark": "/ðə/ /'bɪldɪŋ/ /wɪl/ /bi/ /kənˈstrʌktɪd/ /baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "(đã) được xây dựng",
+    "english": "has been constructed",
+    "soundmark": "/hæz/ /bɪn/ /kənˈstrʌktɪd/"
+  },
+  {
+    "vietnamese": "tòa nhà đó (đã được) xây dựng bởi công ty xây dựng đó",
+    "english": "the building has been constructed by the construction company",
+    "soundmark": "/ðə/ /'bɪldɪŋ/ /hæz/ /bɪn/ /kənˈstrʌktɪd/ /baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "(đã) được xây dựng trong quá khứ",
+    "english": "had been constructed",
+    "soundmark": "/hæd/ /bɪn/ /kənˈstrʌktɪd/"
+  },
+  {
+    "vietnamese": "tòa nhà đó (đã được) xây dựng bởi công ty xây dựng đó",
+    "english": "the building had been constructed by the construction company",
+    "soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/ /baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "xem",
+    "english": "to watch",
+    "soundmark": "/tə/ /wɑtʃ/"
+  },
+  {
+    "vietnamese": "nhìn (dạng ed)",
+    "english": "watched",
+    "soundmark": "/wɑtʃt/"
+  },
+  {
+    "vietnamese": "được nhìn thấy",
+    "english": "be watched",
+    "soundmark": "/bi/ /wɑtʃt/"
+  },
+  {
+    "vietnamese": "bộ phim đó",
+    "english": "the movie",
+    "soundmark": "/ðə/ /'muvi/"
+  },
+  {
+    "vietnamese": "bộ phim đó đã được xem",
+    "english": "the movie was watched",
+    "soundmark": "/ðə/ /'muvi/ /wəz/ /wɑtʃt/"
+  },
+  {
+    "vietnamese": "triệu",
+    "english": "million",
+    "soundmark": "/ˈmɪljən/"
+  },
+  {
+    "vietnamese": "mọi người",
+    "english": "people",
+    "soundmark": "/'pipl/"
+  },
+  {
+    "vietnamese": "hàng triệu người",
+    "english": "millions of people",
+    "soundmark": "/ˈmɪljənz/ /əv/ /'pipl/"
+  },
+  {
+    "vietnamese": "vượt qua",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "bởi hàng triệu người",
+    "english": "by millions of people",
+    "soundmark": "/baɪ/ /ˈmɪljənz/ /əv/ /'pipl/"
+  },
+  {
+    "vietnamese": "bộ phim đó đã được hàng triệu người xem",
+    "english": "the movie was watched by millions of people",
+    "soundmark": "/ðə/ /'muvi/ /wəz/ /wɑtʃt/ /baɪ/ /ˈmɪljənz/ /əv/ /'pipl/"
+  },
+  {
+    "vietnamese": "sẽ được nhìn thấy",
+    "english": "will be watched",
+    "soundmark": "/wɪl/ /bi/ /wɑtʃt/"
+  },
+  {
+    "vietnamese": "bộ phim đó sẽ được hàng triệu người xem",
+    "english": "the movie will be watched by millions of people",
+    "soundmark": "/ðə/ /'muvi/ /wɪl/ /bi/ /wɑtʃt/ /baɪ/ /ˈmɪljənz/ /əv/ /'pipl/"
+  },
+  {
+    "vietnamese": "(đã) nhìn thấy",
+    "english": "has been watched",
+    "soundmark": "/hæz/ /bɪn/ /wɑtʃt/"
+  },
+  {
+    "vietnamese": "bộ phim đó (đã) được hàng triệu người xem",
+    "english": "the movie has been watched by millions of people",
+    "soundmark": "/ðə/ /'muvi/ /hæz/ /bɪn/ /wɑtʃt/ /baɪ/ /ˈmɪljənz/ /əv/ /'pipl/"
+  },
+  {
+    "vietnamese": "(đã) được nhìn thấy trong quá khứ",
+    "english": "had been watched",
+    "soundmark": "/hæd/ /bɪn/ /wɑtʃt/"
+  },
+  {
+    "vietnamese": "bộ phim đó đã được hàng triệu người xem",
+    "english": "the movie had been watched by millions of people",
+    "soundmark": "/ðə/ /'muvi/ /hæd/ /bɪn/ /wɑtʃt/ /baɪ/ /ˈmɪljənz/ /əv/ /'pipl/"
+  },
+  {
+    "vietnamese": "sửa chữa",
+    "english": "to repair",
+    "soundmark": "/tə/ /rɪ'pɛr/"
+  },
+  {
+    "vietnamese": "sửa chữa (mẫu biên tập)",
+    "english": "repaired",
+    "soundmark": "/rɪ'pɛrd/"
+  },
+  {
+    "vietnamese": "được sửa chữa",
+    "english": "be repaired",
+    "soundmark": "/bi/ /rɪ'pɛrd/"
+  },
+  {
+    "vietnamese": "chiếc xe đó",
+    "english": "the car",
+    "soundmark": "/ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "chiếc xe (trong quá khứ) đã được phục hồi",
+    "english": "the car was repaired",
+    "soundmark": "/ðə/ /kɑr/ /wəz/ /rɪ'pɛrd/"
+  },
+  {
+    "vietnamese": "thợ cơ khí",
+    "english": "mechanic",
+    "soundmark": "/məˈkænɪk/"
+  },
+  {
+    "vietnamese": "thông qua người thợ máy đó",
+    "english": "by the mechanic",
+    "soundmark": "/baɪ/ /ðə/ /məˈkænɪk/"
+  },
+  {
+    "vietnamese": "chiếc xe đó (ngày xưa) đã được người thợ đó phục hồi",
+    "english": "the car was repaired by the mechanic",
+    "soundmark": "/ðə/ /kɑr/ /wəz/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/"
+  },
+  {
+    "vietnamese": "sẽ được sửa chữa",
+    "english": "will be repaired",
+    "soundmark": "/wɪl/ /bi/ /rɪ'pɛrd/"
+  },
+  {
+    "vietnamese": "chiếc xe đó sẽ được người thợ đó phục hồi",
+    "english": "the car will be repaired by the mechanic",
+    "soundmark": "/ðə/ /kɑr/ /wɪl/ /bi/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/"
+  },
+  {
+    "vietnamese": "(đã) được sửa chữa",
+    "english": "has been repaired",
+    "soundmark": "/hæz/ /bɪn/ /rɪ'pɛrd/"
+  },
+  {
+    "vietnamese": "chiếc xe đó (đã được) phục hồi bởi người thợ máy đó",
+    "english": "the car has been repaired by the mechanic",
+    "soundmark": "/ðə/ /kɑr/ /hæz/ /bɪn/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/"
+  },
+  {
+    "vietnamese": "(đã) được sửa chữa trong quá khứ",
+    "english": "had been repaired",
+    "soundmark": "/hæd/ /bɪn/ /rɪ'pɛrd/"
+  },
+  {
+    "vietnamese": "chiếc xe đó (đã được) phục hồi bởi người thợ máy đó",
+    "english": "the car had been repaired by the mechanic",
+    "soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "to decide",
+    "soundmark": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "decision",
+    "soundmark": "/dɪ'sɪʒn/"
+  },
+  {
+    "vietnamese": "quyết định đó",
+    "english": "the decision",
+    "soundmark": "/ðə/ /dɪ'sɪʒn/"
+  },
+  {
+    "vietnamese": "thông báo",
+    "english": "to announce",
+    "soundmark": "/tə/ /əˈnaʊns/"
+  },
+  {
+    "vietnamese": "thông báo (mẫu biên tập)",
+    "english": "announced",
+    "soundmark": "/əˈnaʊnst/"
+  },
+  {
+    "vietnamese": "được công bố",
+    "english": "be announced",
+    "soundmark": "/bi/ /əˈnaʊnst/"
+  },
+  {
+    "vietnamese": "quyết định đó được công bố",
+    "english": "the decision was announced",
+    "soundmark": "/ðə/ /dɪ'sɪʒn/ /wəz/ /əˈnaʊnst/"
+  },
+  {
+    "vietnamese": "công cộng",
+    "english": "public",
+    "soundmark": "/ˈpʌblɪk/"
+  },
+  {
+    "vietnamese": "tới công chúng",
+    "english": "to the public",
+    "soundmark": "/tə/ /ðə/ /ˈpʌblɪk/"
+  },
+  {
+    "vietnamese": "quyết định đó đã được công bố cho công chúng",
+    "english": "the decision was announced to the public",
+    "soundmark": "/ðə/ /dɪ'sɪʒn/ /wəz/ /əˈnaʊnst/ /tə/ /ðə/ /ˈpʌblɪk/"
+  },
+  {
+    "vietnamese": "sẽ được công bố",
+    "english": "will be announced",
+    "soundmark": "/wɪl/ /bi/ /əˈnaʊnst/"
+  },
+  {
+    "vietnamese": "quyết định đó sẽ được công bố rộng rãi",
+    "english": "the decision will be announced to the public",
+    "soundmark": "/ðə/ /dɪ'sɪʒn/ /wɪl/ /bi/ /əˈnaʊnst/ /tə/ /ðə/ /ˈpʌblɪk/"
+  },
+  {
+    "vietnamese": "(đã) công bố",
+    "english": "has been announced",
+    "soundmark": "/hæz/ /bɪn/ /əˈnaʊnst/"
+  },
+  {
+    "vietnamese": "quyết định đó (đã được) công bố cho công chúng",
+    "english": "the decision has been announced to the public",
+    "soundmark": "/ðə/ /dɪ'sɪʒn/ /hæz/ /bɪn/ /əˈnaʊnst/ /tə/ /ðə/ /ˈpʌblɪk/"
+  },
+  {
+    "vietnamese": "(đã) được công bố trong quá khứ",
+    "english": "had been announced",
+    "soundmark": "/hæd/ /bɪn/ /əˈnaʊnst/"
+  },
+  {
+    "vietnamese": "quyết định đó (đã được) công bố ra công chúng",
+    "english": "the decision had been announced to the public",
+    "soundmark": "/ðə/ /dɪ'sɪʒn/ /hæd/ /bɪn/ /əˈnaʊnst/ /tə/ /ðə/ /ˈpʌblɪk/"
+  },
+  {
+    "vietnamese": "dịch",
+    "english": "to translate",
+    "soundmark": "/tə/ /træns'let/"
+  },
+  {
+    "vietnamese": "bản dịch (dạng ed)",
+    "english": "translated",
+    "soundmark": "/træns'letɪd/"
+  },
+  {
+    "vietnamese": "được dịch",
+    "english": "be translated",
+    "soundmark": "/bi/ /træns'letɪd/"
+  },
+  {
+    "vietnamese": "cuốn sách đó đã được dịch",
+    "english": "the book was translated",
+    "soundmark": "/ðə/ /bʊk/ /wəz/ /træns'letɪd/"
+  },
+  {
+    "vietnamese": "ngôn ngữ",
+    "english": "language",
+    "soundmark": "/'læŋɡwɪdʒ/"
+  },
+  {
+    "vietnamese": "nhiều",
+    "english": "several",
+    "soundmark": "/'sɛvrəl/"
+  },
+  {
+    "vietnamese": "đa ngôn ngữ",
+    "english": "several languages",
+    "soundmark": "/'sɛvrəl/ /'læŋɡwɪdʒɪz/"
+  },
+  {
+    "vietnamese": "cuốn sách đó đã được dịch ra nhiều thứ tiếng",
+    "english": "the book was translated into several languages",
+    "soundmark": "/ðə/ /bʊk/ /wəz/ /træns'letɪd/ /'ɪntə/ /'sɛvrəl/ /'læŋɡwɪdʒɪz/"
+  },
+  {
+    "vietnamese": "sẽ được dịch",
+    "english": "will be translated",
+    "soundmark": "/wɪl/ /bi/ /træns'letɪd/"
+  },
+  {
+    "vietnamese": "cuốn sách đó sẽ được dịch ra nhiều thứ tiếng",
+    "english": "the book will be translated into several languages",
+    "soundmark": "/ðə/ /bʊk/ /wɪl/ /bi/ /træns'letɪd/ /'ɪntə/ /'sɛvrəl/ /'læŋɡwɪdʒɪz/"
+  },
+  {
+    "vietnamese": "(đã) dịch",
+    "english": "has been translated",
+    "soundmark": "/hæz/ /bɪn/ /træns'letɪd/"
+  },
+  {
+    "vietnamese": "sách đã được dịch ra nhiều thứ tiếng",
+    "english": "the book has been translated into several languages",
+    "soundmark": "/ðə/ /bʊk/ /hæz/ /bɪn/ /træns'letɪd/ /'ɪntə/ /'sɛvrəl/ /'læŋɡwɪdʒɪz/"
+  },
+  {
+    "vietnamese": "(đã được) dịch trong quá khứ",
+    "english": "had been translated",
+    "soundmark": "/hæd/ /bɪn/ /træns'letɪd/"
+  },
+  {
+    "vietnamese": "cuốn sách đó đã được dịch sang nhiều thứ tiếng",
+    "english": "the book had been translated into several languages",
+    "soundmark": "/ðə/ /bʊk/ /hæd/ /bɪn/ /træns'letɪd/ /'ɪntə/ /'sɛvrəl/ /'læŋɡwɪdʒɪz/"
+  }
+]

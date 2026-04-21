@@ -53,18 +53,15 @@
 </template>
 <script setup lang="ts">
 import { useAsyncData } from "#imports";
-import { ref } from "vue";
 
 import { fetchTodayLearningTime } from "~/api/user-learning-activity";
 import { useLearningDailyTime } from "~/composables/learningDailyTime";
-import { type CalendarDataItem } from "~/composables/user/calendarGraph";
 import { useUserStore } from "~/store/user";
 import { useLearningTimeTracker } from "../../composables/main/learningTimeTracker";
 
 const userStore = useUserStore();
 const { learningDailyTimeList, learningDailyTotalTime, setupLearningDailyTime } =
   useLearningDailyTime();
-const { toggleYear } = useCalendarGraph();
 
 useAsyncData(async () => {
   // Sync today's total learning time
@@ -72,19 +69,18 @@ useAsyncData(async () => {
   setupLearningTime(await fetchTodayLearningTime());
 });
 
-function useCalendarGraph() {
-  const data = ref<CalendarDataItem[]>([]);
-  const totalLearningTime = ref<number>(0);
+async function toggleYear(year?: number) {
+  await setupLearningDailyTime(buildYearQuery(year));
+}
 
-  async function toggleYear(year?: number) {
-    // TODO: support switching between multiple years
-    setupLearningDailyTime();
+function buildYearQuery(year?: number) {
+  if (!year) {
+    return {};
   }
 
   return {
-    data,
-    totalLearningTime,
-    toggleYear,
+    startDate: `${year}-01-01`,
+    endDate: `${year}-12-31`,
   };
 }
 </script>

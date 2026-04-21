@@ -54,7 +54,7 @@ export default defineNuxtConfig({
     detectBrowserLanguage: {
       useCookie: true,
       cookieKey: "i18n_locale",
-      fallbackLocale: "zh-CN",
+      fallbackLocale: "en",
     },
   },
   plugins: ["~/plugins/logto.ts", "~/plugins/http.ts"],

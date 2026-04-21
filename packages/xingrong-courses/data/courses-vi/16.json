@@ -1,0 +1,677 @@
+[
+  {
+    "vietnamese": "tụ hội",
+    "english": "the party",
+    "soundmark": "/ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "tham gia; tham gia",
+    "english": "to join",
+    "soundmark": "/tə/ /dʒɔɪn/"
+  },
+  {
+    "vietnamese": "tham dự một bữa tiệc",
+    "english": "to join the party",
+    "soundmark": "/tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "mời",
+    "english": "to invite",
+    "soundmark": "/tə/ /'ɪnvaɪt/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "mời cô ấy",
+    "english": "to invite her",
+    "soundmark": "/tə/ /'ɪnvaɪt/ /hɚ/"
+  },
+  {
+    "vietnamese": "tham dự một bữa tiệc",
+    "english": "to join the party",
+    "soundmark": "/tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "mời cô ấy đến một bữa tiệc",
+    "english": "to invite her to join the party",
+    "soundmark": "/tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn",
+    "english": "we want",
+    "soundmark": "/wi/ /wɑnt/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn mời cô ấy đến bữa tiệc",
+    "english": "we want to invite her to join the party",
+    "soundmark": "/wi/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "chúng tôi không muốn mời cô ấy đến bữa tiệc",
+    "english": "we don't want to invite her to join the party",
+    "soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "chúng tôi (trước đây) muốn mời cô ấy đến một bữa tiệc",
+    "english": "we wanted to invite her to join the party",
+    "soundmark": "/wi/ /wɑntɪd/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "ngày hôm qua",
+    "english": "yesterday",
+    "soundmark": "/'jɛstɚde/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn mời cô ấy đến bữa tiệc ngày hôm qua",
+    "english": "we wanted to invite her to join the party yesterday",
+    "soundmark": "/wi/ /wɑntɪd/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "chúng tôi không muốn mời cô ấy đến bữa tiệc hôm qua",
+    "english": "we didn't want to invite her to join the party yesterday",
+    "soundmark": "/wi/ /ˈdɪdnt/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "chúng tôi đã mời cô ấy đến một bữa tiệc",
+    "english": "we invite her to join the party",
+    "soundmark": "/wi/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "thường xuyên",
+    "english": "often",
+    "soundmark": "/'ɔfn/"
+  },
+  {
+    "vietnamese": "chúng tôi thường mời cô ấy đến các bữa tiệc",
+    "english": "we often invite her to join the party",
+    "soundmark": "/wi/ /'ɔfn/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "chúng tôi đã mời cô ấy đến bữa tiệc (trong quá khứ)",
+    "english": "we invited her to join the party",
+    "soundmark": "/wi/ /'ɪnvaɪtɪd/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "chúng tôi đã không mời cô ấy đến bữa tiệc (trong quá khứ)",
+    "english": "we didn't invite her to join the party",
+    "soundmark": "/wi/ /ˈdɪdnt/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "tham gia; tham gia",
+    "english": "to join",
+    "soundmark": "/tə/ /dʒɔɪn/"
+  },
+  {
+    "vietnamese": "chúng tôi?",
+    "english": "us",
+    "soundmark": "/ʌs/"
+  },
+  {
+    "vietnamese": "tham gia cùng chúng tôi",
+    "english": "to join us",
+    "soundmark": "/tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "cô ấy muốn tham gia cùng chúng tôi",
+    "english": "she wants to join us",
+    "soundmark": "/ʃi/ /wɑnts/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "vietnamese": "cô ấy muốn tham gia cùng chúng tôi (trong quá khứ)",
+    "english": "she wanted to join us",
+    "soundmark": "/ʃi/ /wɑntɪd/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "vietnamese": "thật ấy hả?\"",
+    "english": "really",
+    "soundmark": "/'rili/"
+  },
+  {
+    "vietnamese": "cô ấy thực sự (trong quá khứ) muốn tham gia cùng chúng tôi",
+    "english": "she really wanted to join us",
+    "soundmark": "/ʃi/ /'rili/ /wɑntɪd/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "vietnamese": "cô ấy không muốn tham gia cùng chúng tôi (trong quá khứ)",
+    "english": "she didn't want to join us",
+    "soundmark": "/ʃi/ /ˈdɪdnt/ /wɑnt/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "vietnamese": "nhưng",
+    "english": "but",
+    "soundmark": "/bət/"
+  },
+  {
+    "vietnamese": "nhưng cô ấy không muốn tham gia cùng chúng tôi (trong quá khứ)",
+    "english": "but she didn't want to join us",
+    "soundmark": "/bət/ /ʃi/ /ˈdɪdnt/ /wɑnt/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn mời cô ấy đến bữa tiệc ngày hôm qua",
+    "english": "we wanted to invite her to join the party yesterday",
+    "soundmark": "/wi/ /wɑntɪd/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "nhưng cô ấy không muốn tham gia cùng chúng tôi (trong quá khứ)",
+    "english": "but she didn't want to join us",
+    "soundmark": "/bət/ /ʃi/ /ˈdɪdnt/ /wɑnt/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "vietnamese": "chúng tôi không muốn mời cô ấy đến bữa tiệc ngày hôm qua, nhưng cô ấy thực sự (trong quá khứ) muốn tham gia cùng chúng tôi",
+    "english": "we didn't want to invite her to join the party yesterday but she really wanted to join us",
+    "soundmark": "/wi/ /ˈdɪdnt/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/ /bət/ /ʃi/ /'rili/ /wɑntɪd/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "vietnamese": "cự tuyệt",
+    "english": "to refuse",
+    "soundmark": "/tə/ /ri'fjuz/"
+  },
+  {
+    "vietnamese": "cô ấy đã từ chối (trong quá khứ)",
+    "english": "she refused",
+    "soundmark": "/ʃi/ /ri'fjuzd/"
+  },
+  {
+    "vietnamese": "tham dự một bữa tiệc",
+    "english": "to join the party",
+    "soundmark": "/tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "cô ấy từ chối đi dự tiệc (trong quá khứ)",
+    "english": "she refused to join the party",
+    "soundmark": "/ʃi/ /ri'fjuzd/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "cô ấy không từ chối tham dự bữa tiệc (trước đây)",
+    "english": "she didn't refuse to join the party",
+    "soundmark": "/ʃi/ /ˈdɪdnt/ /ri'fjuz/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "vietnamese": "thời gian 时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "nắm giữ",
+    "english": "have",
+    "soundmark": "/hæv/"
+  },
+  {
+    "vietnamese": "cô ấy có thời gian",
+    "english": "she has time",
+    "soundmark": "/ʃi/ /hæz/ /taɪm/"
+  },
+  {
+    "vietnamese": "đủ",
+    "english": "enough",
+    "soundmark": "/ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "cô ấy có nhiều thời gian",
+    "english": "she has enough time",
+    "soundmark": "/ʃi/ /hæz/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "cô ấy có rất nhiều thời gian (trong quá khứ)",
+    "english": "she had enough time",
+    "soundmark": "/ʃi/ /hæd/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "cô ấy không có đủ thời gian (trong quá khứ)",
+    "english": "she didn't have enough time",
+    "soundmark": "/ʃi/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "bởi vì cô ấy không có đủ thời gian (trong quá khứ)",
+    "english": "because she didn't have enough time",
+    "soundmark": "/bɪ'kɔz/ /ʃi/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "cô ấy (trong quá khứ) đã từ chối đến bữa tiệc vì cô ấy (trong quá khứ) không có đủ thời gian",
+    "english": "she refused to join the party because she didn't have enough time",
+    "soundmark": "/ʃi/ /ri'fjuzd/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /bɪ'kɔz/ /ʃi/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "cô ấy (trong quá khứ) đã không từ chối tham dự bữa tiệc vì cô ấy (trong quá khứ) có đủ thời gian",
+    "english": "she didn't refuse to join the party because she had enough time",
+    "soundmark": "/ʃi/ /ˈdɪdnt/ /ri'fjuz/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /bɪ'kɔz/ /ʃi/ /hæd/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "chấp nhận; thực hiện",
+    "english": "to accept",
+    "soundmark": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "vietnamese": "责任Trách nhiệm",
+    "english": "the responsibility",
+    "soundmark": "/ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "vietnamese": "chịu trách nhiệm",
+    "english": "to accept the responsibility",
+    "soundmark": "/tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "vietnamese": "cự tuyệt",
+    "english": "to refuse",
+    "soundmark": "/tə/ /ri'fjuz/"
+  },
+  {
+    "vietnamese": "anh ta từ chối nhận trách nhiệm",
+    "english": "he refuses to accept the responsibility",
+    "soundmark": "/hi/ /ri'fjuzɪz/ /tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "vietnamese": "anh ta từ chối chịu trách nhiệm (trong quá khứ)",
+    "english": "he refused to accept the responsibility",
+    "soundmark": "/hi/ /ri'fjuzd/ /tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "vietnamese": "anh ấy đã không (trong quá khứ) từ chối chịu trách nhiệm",
+    "english": "he didn't refuse to accept the responsibility",
+    "soundmark": "/hi/ /ˈdɪdnt/ /ri'fjuz/ /tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "vietnamese": "anh ấy chịu trách nhiệm",
+    "english": "he accepts the responsibility",
+    "soundmark": "/hi/ /ək'sɛpts/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "vietnamese": "đã thực hiện",
+    "english": "accepted",
+    "soundmark": "/ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "anh ấy chịu trách nhiệm",
+    "english": "he accepted the responsibility",
+    "soundmark": "/hi/ /ək'sɛptɪd/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "vietnamese": "anh ta không chịu trách nhiệm (trong quá khứ)",
+    "english": "he didn't accept the responsibility",
+    "soundmark": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "vietnamese": "lái xe",
+    "english": "to drive",
+    "soundmark": "/tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "cách lái xe",
+    "english": "how to drive",
+    "soundmark": "/haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "học tập",
+    "english": "to learn",
+    "soundmark": "/tə/ /lɝn/"
+  },
+  {
+    "vietnamese": "tìm hiểu cách lái xe",
+    "english": "to learn how to drive",
+    "soundmark": "/tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "Tôi muốn học lái xe",
+    "english": "I want to learn how to drive",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "thật ấy hả?\"",
+    "english": "really",
+    "soundmark": "/'rili/"
+  },
+  {
+    "vietnamese": "Tôi thực sự muốn học lái xe",
+    "english": "I really want to learn how to drive",
+    "soundmark": "/aɪ/ /'rili/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "Tôi thực sự không muốn học lái xe",
+    "english": "I really don't want to learn how to drive",
+    "soundmark": "/aɪ/ /'rili/ /dont/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "Tôi thực sự (đã từng) muốn học lái xe",
+    "english": "I really wanted to learn how to drive",
+    "soundmark": "/aɪ/ /'rili/ /wɑntɪd/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "Tôi thực sự (trong quá khứ) không muốn học lái xe",
+    "english": "I really didn't want to learn how to drive",
+    "soundmark": "/aɪ/ /'rili/ /ˈdɪdnt/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "lái xe",
+    "english": "to drive",
+    "soundmark": "/tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "tài xế",
+    "english": "driver",
+    "soundmark": "/'draɪvɚ/"
+  },
+  {
+    "vietnamese": "giấy phép",
+    "english": "license",
+    "soundmark": "/'laɪsns/"
+  },
+  {
+    "vietnamese": "bằng lái",
+    "english": "driver's license",
+    "soundmark": "/'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "giấy phép lái xe",
+    "english": "a driver's license",
+    "soundmark": "/ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "đạt được",
+    "english": "to get",
+    "soundmark": "/tə/ /gɛt/"
+  },
+  {
+    "vietnamese": "lấy bằng lái xe",
+    "english": "to get a driver's license",
+    "soundmark": "/tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "Tôi cần phải có bằng lái xe",
+    "english": "I need to get a driver's license",
+    "soundmark": "/aɪ/ /nid/ /tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "và",
+    "english": "and",
+    "soundmark": "/ənd/"
+  },
+  {
+    "vietnamese": "và tôi cần phải có bằng lái xe",
+    "english": "and I need to get a driver's license",
+    "soundmark": "/ənd/ /aɪ/ /nid/ /tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "Tôi thực sự (đã từng) muốn học lái xe",
+    "english": "I really wanted to learn how to drive",
+    "soundmark": "/aɪ/ /'rili/ /wɑntɪd/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "Tôi thực sự (đã từng) muốn học lái xe và tôi cần phải có bằng lái xe",
+    "english": "I really wanted to learn how to drive and I need to get a driver's license",
+    "soundmark": "/aɪ/ /'rili/ /wɑntɪd/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/ /ənd/ /aɪ/ /nid/ /tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "to finish",
+    "soundmark": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "làm việc",
+    "english": "work",
+    "soundmark": "/wɝk/"
+  },
+  {
+    "vietnamese": "công việc của tôi",
+    "english": "my work",
+    "soundmark": "/maɪ/ /wɝk/"
+  },
+  {
+    "vietnamese": "hoàn thành công việc của tôi",
+    "english": "to finish my work",
+    "soundmark": "/tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn hoàn thành công việc của mình",
+    "english": "I want to finish my work",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  },
+  {
+    "vietnamese": "Tôi không muốn hoàn thành công việc của mình",
+    "english": "I don't want to finish my work",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  },
+  {
+    "vietnamese": "chỉ",
+    "english": "just",
+    "soundmark": "/dʒʌst/"
+  },
+  {
+    "vietnamese": "Tôi chỉ muốn hoàn thành công việc của mình",
+    "english": "I just want to finish my work",
+    "soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  },
+  {
+    "vietnamese": "Tôi chỉ (đã từng) muốn hoàn thành công việc của mình",
+    "english": "I just wanted to finish my work",
+    "soundmark": "/aɪ/ /dʒʌst/ /wɑntɪd/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  },
+  {
+    "vietnamese": "thời gian 时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "đúng giờ",
+    "english": "on time",
+    "soundmark": "/ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi chỉ (đã từng) muốn hoàn thành công việc của mình đúng hạn",
+    "english": "I just wanted to finish my work on time",
+    "soundmark": "/aɪ/ /dʒʌst/ /wɑntɪd/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi (đã từng) không muốn hoàn thành công việc đúng hạn",
+    "english": "I didn't want to finish my work on time",
+    "soundmark": "/aɪ/ /ˈdɪdnt/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi hoàn thành công việc đúng hạn",
+    "english": "I finish my work on time",
+    "soundmark": "/aɪ/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi đã không hoàn thành công việc đúng hạn",
+    "english": "I don't finish my work on time",
+    "soundmark": "/aɪ/ /dont/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "hoàn tất",
+    "english": "finished",
+    "soundmark": "/'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "Tôi đã hoàn thành công việc đúng hạn",
+    "english": "I finished my work on time",
+    "soundmark": "/aɪ/ /'fɪnɪʃt/ /maɪ/ /wɝk/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi đã không hoàn thành công việc của mình đúng hạn (trong quá khứ)",
+    "english": "I didn't finish my work on time",
+    "soundmark": "/aɪ/ /ˈdɪdnt/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/"
+  },
+  {
+    "vietnamese": "xem",
+    "english": "to watch",
+    "soundmark": "/tə/ /wɔtʃ/"
+  },
+  {
+    "vietnamese": "một bộ phim",
+    "english": "a movie",
+    "soundmark": "/ə/ /'muvi/"
+  },
+  {
+    "vietnamese": "xem phim",
+    "english": "to watch a movie",
+    "soundmark": "/tə/ /wɔtʃ/ /ə/ /'muvi/"
+  },
+  {
+    "vietnamese": "Tôi muốn xem một bộ phim",
+    "english": "I want to watch a movie",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /wɔtʃ/ /ə/ /'muvi/"
+  },
+  {
+    "vietnamese": "Tôi không muốn xem bộ phim đó",
+    "english": "I don't want to watch the movie",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /wɔtʃ/ /ðə/ /'muvi/"
+  },
+  {
+    "vietnamese": "Tôi (đã từng) muốn xem một bộ phim",
+    "english": "I wanted to watch a movie",
+    "soundmark": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/"
+  },
+  {
+    "vietnamese": "tuần",
+    "english": "week",
+    "soundmark": "/wik/"
+  },
+  {
+    "vietnamese": "cuối tuần",
+    "english": "weekend",
+    "soundmark": "/'wikɛnd/"
+  },
+  {
+    "vietnamese": "lùi",
+    "english": "last",
+    "soundmark": "/læst/"
+  },
+  {
+    "vietnamese": "cuối tuần trước",
+    "english": "last weekend",
+    "soundmark": "/læst/ /'wikɛnd/"
+  },
+  {
+    "vietnamese": "Tôi muốn đi xem phim vào cuối tuần trước",
+    "english": "I wanted to watch a movie last weekend",
+    "soundmark": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/ /læst/ /'wikɛnd/"
+  },
+  {
+    "vietnamese": "Tôi không muốn xem bộ phim đó vào cuối tuần trước",
+    "english": "I didn't want to watch the movie last weekend",
+    "soundmark": "/aɪ/ /ˈdɪdnt/ /wɑnt/ /tə/ /wɔtʃ/ /ðə/ /'muvi/ /læst/ /'wikɛnd/"
+  },
+  {
+    "vietnamese": "thời gian 时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "đủ",
+    "english": "enough",
+    "soundmark": "/ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "đủ thời gian",
+    "english": "enough time",
+    "soundmark": "/ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "nắm giữ",
+    "english": "have",
+    "soundmark": "/hæv/"
+  },
+  {
+    "vietnamese": "Tôi có đủ thời gian",
+    "english": "I have enough time",
+    "soundmark": "/aɪ/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi không có đủ thời gian",
+    "english": "I don't have enough time",
+    "soundmark": "/aɪ/ /dont/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi có đủ thời gian (trong quá khứ)",
+    "english": "I had enough time",
+    "soundmark": "/aɪ/ /hæd/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi không có đủ thời gian (trong quá khứ)",
+    "english": "I didn't have enough time",
+    "soundmark": "/aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "nhưng",
+    "english": "but",
+    "soundmark": "/bət/"
+  },
+  {
+    "vietnamese": "nhưng tôi không có đủ thời gian (trong quá khứ)",
+    "english": "but I didn't have enough time",
+    "soundmark": "/bət/ /aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi muốn đi xem phim vào cuối tuần trước",
+    "english": "I wanted to watch a movie last weekend",
+    "soundmark": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/ /læst/ /'wikɛnd/"
+  },
+  {
+    "vietnamese": "Tôi muốn xem một bộ phim vào cuối tuần trước nhưng tôi không có đủ thời gian (trong quá khứ)",
+    "english": "I wanted to watch a movie last weekend but I didn't have enough time",
+    "soundmark": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/ /læst/ /'wikɛnd/ /bət/ /aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "to finish",
+    "soundmark": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "công việc của tôi",
+    "english": "my work",
+    "soundmark": "/maɪ/ /wɝk/"
+  },
+  {
+    "vietnamese": "hoàn thành công việc của tôi",
+    "english": "to finish my work",
+    "soundmark": "/tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  },
+  {
+    "vietnamese": "Tôi không có đủ thời gian",
+    "english": "I don't have enough time",
+    "soundmark": "/aɪ/ /dont/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi không có đủ thời gian (trong quá khứ)",
+    "english": "I didn't have enough time",
+    "soundmark": "/aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "vietnamese": "Tôi không có đủ thời gian (trong quá khứ) để hoàn thành công việc của mình",
+    "english": "I didn't have enough time to finish my work",
+    "soundmark": "/aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  }
+]

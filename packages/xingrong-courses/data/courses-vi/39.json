@@ -1,0 +1,917 @@
+[
+  {
+    "vietnamese": "lau dọn",
+    "english": "to wash",
+    "soundmark": "/tə/ /wɔʃ/"
+  },
+  {
+    "vietnamese": "sạch sẽ (quá khứ phân từ)",
+    "english": "washed",
+    "soundmark": "/wɔʃt/"
+  },
+  {
+    "vietnamese": "đã bị thanh lọc",
+    "english": "be washed",
+    "soundmark": "/bi/ /wɔʃt/"
+  },
+  {
+    "vietnamese": "chiếc xe này",
+    "english": "the car",
+    "soundmark": "/ðə/ /kɑr/"
+  },
+  {
+    "vietnamese": "xe đã được làm sạch",
+    "english": "the car is washed",
+    "soundmark": "/ðə/ /kɑr/ /ɪz/ /wɔʃt/"
+  },
+  {
+    "vietnamese": "ông, chú, anh ấy",
+    "english": "him",
+    "soundmark": "/hɪm/"
+  },
+  {
+    "vietnamese": "vượt qua",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "thông qua anh ấy",
+    "english": "by him",
+    "soundmark": "/baɪ/ /hɪm/"
+  },
+  {
+    "vietnamese": "chiếc xe đã được làm sạch thông qua anh ấy",
+    "english": "the car is washed by him",
+    "soundmark": "/ðə/ /kɑr/ /ɪz/ /wɔʃt/ /baɪ/ /hɪm/"
+  },
+  {
+    "vietnamese": "chiếc xe này (ngày xưa) đã được anh ấy lau chùi",
+    "english": "the car was washed by him",
+    "soundmark": "/ðə/ /kɑr/ /wəz/ /wɔʃt/ /baɪ/ /hɪm/"
+  },
+  {
+    "vietnamese": "ngày hôm qua",
+    "english": "yesterday",
+    "soundmark": "/'jɛstɚde/"
+  },
+  {
+    "vietnamese": "chiếc xe này đã được anh ấy lau chùi ngày hôm qua",
+    "english": "the car was washed by him yesterday",
+    "soundmark": "/ðə/ /kɑr/ /wəz/ /wɔʃt/ /baɪ/ /hɪm/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "trả lời",
+    "english": "to answer",
+    "soundmark": "/tə/ /'ænsɚ/"
+  },
+  {
+    "vietnamese": "trả lời (phân từ quá khứ)",
+    "english": "answered",
+    "soundmark": "/'ænsɚd/"
+  },
+  {
+    "vietnamese": "đã được trả lời",
+    "english": "be answered",
+    "soundmark": "/bi/ /'ænsɚd/"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "english": "the question",
+    "soundmark": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "câu hỏi này đã được trả lời",
+    "english": "the question is answered",
+    "soundmark": "/ðə/ /'kwɛstʃən/ /ɪz/ /'ænsɚd/"
+  },
+  {
+    "vietnamese": "sinh viên đó",
+    "english": "the student",
+    "soundmark": "/ðə/ /'studnt/"
+  },
+  {
+    "vietnamese": "thông qua sinh viên đó",
+    "english": "by the student",
+    "soundmark": "/baɪ/ /ðə/ /'studnt/"
+  },
+  {
+    "vietnamese": "câu hỏi này đã được học sinh trả lời",
+    "english": "the question is answered by the student",
+    "soundmark": "/ðə/ /'kwɛstʃən/ /ɪz/ /'ænsɚd/ /baɪ/ /ðə/ /'studnt/"
+  },
+  {
+    "vietnamese": "câu hỏi này (trước đây) đã được học sinh đó trả lời",
+    "english": "the question was answered by the student",
+    "soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /'ænsɚd/ /baɪ/ /ðə/ /'studnt/"
+  },
+  {
+    "vietnamese": "gỡ rối",
+    "english": "to solve",
+    "soundmark": "/tə/ /sɑlv/"
+  },
+  {
+    "vietnamese": "giải quyết (phân từ quá khứ)",
+    "english": "solved",
+    "soundmark": "/sɑlvd/"
+  },
+  {
+    "vietnamese": "đã được giải quyết",
+    "english": "be solved",
+    "soundmark": "/bi/ /sɑlvd/"
+  },
+  {
+    "vietnamese": "câu hỏi đó",
+    "english": "the problem",
+    "soundmark": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "vấn đề đó đã được giải quyết",
+    "english": "the problem is solved",
+    "soundmark": "/ðə/ /'prɑbləm/ /ɪz/ /sɑlvd/"
+  },
+  {
+    "vietnamese": "vấn đề đó (trong quá khứ) đã được giải quyết",
+    "english": "the problem was solved",
+    "soundmark": "/ðə/ /'prɑbləm/ /wəz/ /sɑlvd/"
+  },
+  {
+    "vietnamese": "khẩn cấp",
+    "english": "urgent",
+    "soundmark": "/'ɝdʒənt/"
+  },
+  {
+    "vietnamese": "câu hỏi khẩn cấp đó",
+    "english": "the urgent problem",
+    "soundmark": "/ðə/ /'ɝdʒənt/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "vấn đề cấp bách đó (trong quá khứ) đã được giải quyết",
+    "english": "the urgent problem was solved",
+    "soundmark": "/ðə/ /'ɝdʒənt/ /'prɑbləm/ /wəz/ /sɑlvd/"
+  },
+  {
+    "vietnamese": "họ……\"",
+    "english": "them",
+    "soundmark": "/ðəm/"
+  },
+  {
+    "vietnamese": "thông qua họ",
+    "english": "by them",
+    "soundmark": "/baɪ/ /ðəm/"
+  },
+  {
+    "vietnamese": "vấn đề cấp bách đó (trong quá khứ) đã được họ giải quyết",
+    "english": "the urgent problem was solved by them",
+    "soundmark": "/ðə/ /'ɝdʒənt/ /'prɑbləm/ /wəz/ /sɑlvd/ /baɪ/ /ðəm/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "kể (quá khứ phân từ)",
+    "english": "told",
+    "soundmark": "/told/"
+  },
+  {
+    "vietnamese": "được nói",
+    "english": "be told",
+    "soundmark": "/bi/ /told/"
+  },
+  {
+    "vietnamese": "câu chuyện",
+    "english": "story",
+    "soundmark": "/'stɔri/"
+  },
+  {
+    "vietnamese": "câu chuyện này",
+    "english": "the story",
+    "soundmark": "/ðə/ /'stɔri/"
+  },
+  {
+    "vietnamese": "câu chuyện được kể",
+    "english": "the story is told",
+    "soundmark": "/ðə/ /'stɔri/ /ɪz/ /told/"
+  },
+  {
+    "vietnamese": "câu chuyện (quá khứ) được kể",
+    "english": "the story was told",
+    "soundmark": "/ðə/ /'stɔri/ /wəz/ /told/"
+  },
+  {
+    "vietnamese": "ba",
+    "english": "father",
+    "soundmark": "/'fɑðɚ/"
+  },
+  {
+    "vietnamese": "ông nội",
+    "english": "grandfather",
+    "soundmark": "/'grænfɑðɚ/"
+  },
+  {
+    "vietnamese": "ông tôi",
+    "english": "my grandfather",
+    "soundmark": "/maɪ/ /'grænfɑðɚ/"
+  },
+  {
+    "vietnamese": "bởi ông tôi",
+    "english": "by my grandfather",
+    "soundmark": "/baɪ/ /maɪ/ /'grænfɑðɚ/"
+  },
+  {
+    "vietnamese": "chuyện này (ngày xưa) do ông nội tôi kể",
+    "english": "the story was told by my grandfather",
+    "soundmark": "/ðə/ /'stɔri/ /wəz/ /told/ /baɪ/ /maɪ/ /'grænfɑðɚ/"
+  },
+  {
+    "vietnamese": "được nói",
+    "english": "be told",
+    "soundmark": "/bi/ /told/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã được kể",
+    "english": "she was told",
+    "soundmark": "/ʃi/ /wəz/ /told/"
+  },
+  {
+    "vietnamese": "uống",
+    "english": "to drink",
+    "soundmark": "/tə/ /drɪŋk/"
+  },
+  {
+    "vietnamese": "nước",
+    "english": "water",
+    "soundmark": "/'wɔtɚ/"
+  },
+  {
+    "vietnamese": "uống nước",
+    "english": "to drink water",
+    "soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "hơn",
+    "english": "more",
+    "soundmark": "/mɔr/"
+  },
+  {
+    "vietnamese": "uống nhiều nước hơn",
+    "english": "to drink more water",
+    "soundmark": "/tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đã được kể",
+    "english": "she was told",
+    "soundmark": "/ʃi/ /wəz/ /told/"
+  },
+  {
+    "vietnamese": "cô ấy được yêu cầu (trước đây) uống nhiều nước hơn",
+    "english": "she was told to drink more water",
+    "soundmark": "/ʃi/ /wəz/ /told/ /tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "bác sĩ",
+    "english": "the doctor",
+    "soundmark": "/ðə/ /'dɑktɚ/"
+  },
+  {
+    "vietnamese": "bởi bác sĩ",
+    "english": "by the doctor",
+    "soundmark": "/baɪ/ /ðə/ /'dɑktɚ/"
+  },
+  {
+    "vietnamese": "cô được bác sĩ bảo",
+    "english": "she was told by the doctor",
+    "soundmark": "/ʃi/ /wəz/ /told/ /baɪ/ /ðə/ /'dɑktɚ/"
+  },
+  {
+    "vietnamese": "uống nhiều nước hơn",
+    "english": "to drink more water",
+    "soundmark": "/tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "cô ấy đã được bác sĩ khuyên (trước đây) phải uống nhiều nước hơn",
+    "english": "she was told by the doctor to drink more water",
+    "soundmark": "/ʃi/ /wəz/ /told/ /baɪ/ /ðə/ /'dɑktɚ/ /tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "nước",
+    "english": "water",
+    "soundmark": "/'wɔtɚ/"
+  },
+  {
+    "vietnamese": "tưới nước",
+    "english": "to water",
+    "soundmark": "/tə/ /'wɔtɚ/"
+  },
+  {
+    "vietnamese": "nước (quá khứ phân từ)",
+    "english": "watered",
+    "soundmark": "/'wɔtɚd/"
+  },
+  {
+    "vietnamese": "được tưới nước",
+    "english": "be watered",
+    "soundmark": "/bi/ /'wɔtɚd/"
+  },
+  {
+    "vietnamese": "sẽ",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "vietnamese": "sẽ được tưới nước",
+    "english": "will be watered",
+    "soundmark": "/wɪl/ /bi/ /'wɔtɚd/"
+  },
+  {
+    "vietnamese": "hoa",
+    "english": "flower",
+    "soundmark": "/'flaʊɚ/"
+  },
+  {
+    "vietnamese": "những bông hoa này",
+    "english": "the flowers",
+    "soundmark": "/ðə/ /'flaʊɚz/"
+  },
+  {
+    "vietnamese": "những bông hoa này sẽ được tưới nước",
+    "english": "the flowers will be watered",
+    "soundmark": "/ðə/ /'flaʊɚz/ /wɪl/ /bi/ /'wɔtɚd/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "thông qua tôi",
+    "english": "by me",
+    "soundmark": "/baɪ/ /mi/"
+  },
+  {
+    "vietnamese": "những bông hoa này sẽ được tôi tưới nước",
+    "english": "the flowers will be watered by me",
+    "soundmark": "/ðə/ /'flaʊɚz/ /wɪl/ /bi/ /'wɔtɚd/ /baɪ/ /mi/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to speak",
+    "soundmark": "/tə/ /spik/"
+  },
+  {
+    "vietnamese": "loa",
+    "english": "speaker",
+    "soundmark": "/'spikɚ/"
+  },
+  {
+    "vietnamese": "cái loa đó",
+    "english": "the speaker",
+    "soundmark": "/ðə/ /'spikɚ/"
+  },
+  {
+    "vietnamese": "mời",
+    "english": "to invite",
+    "soundmark": "/tə/ /ɪn'vaɪt/"
+  },
+  {
+    "vietnamese": "lời mời (phân từ quá khứ)",
+    "english": "invited",
+    "soundmark": "/ɪn'vaɪtɪd/"
+  },
+  {
+    "vietnamese": "được mời",
+    "english": "be invited",
+    "soundmark": "/bi/ /ɪn'vaɪtɪd/"
+  },
+  {
+    "vietnamese": "diễn giả được mời",
+    "english": "the speaker is invited",
+    "soundmark": "/ðə/ /'spikɚ/ /ɪz/ /ɪn'vaɪtɪd/"
+  },
+  {
+    "vietnamese": "diễn giả đó (trong quá khứ) đã được mời",
+    "english": "the speaker was invited",
+    "soundmark": "/ðə/ /'spikɚ/ /wəz/ /ɪn'vaɪtɪd/"
+  },
+  {
+    "vietnamese": "thông qua họ",
+    "english": "by them",
+    "soundmark": "/baɪ/ /ðəm/"
+  },
+  {
+    "vietnamese": "người diễn thuyết (trước đây) được họ mời",
+    "english": "the speaker was invited by them",
+    "soundmark": "/ðə/ /'spikɚ/ /wəz/ /ɪn'vaɪtɪd/ /baɪ/ /ðəm/"
+  },
+  {
+    "vietnamese": "mời",
+    "english": "to invite",
+    "soundmark": "/tə/ /ɪn'vaɪt/"
+  },
+  {
+    "vietnamese": "lời mời (danh từ)",
+    "english": "invitation",
+    "soundmark": "/ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "lời mời đó",
+    "english": "the invitation",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "接受",
+    "english": "to accept",
+    "soundmark": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "vietnamese": "chấp nhận (phân từ quá khứ)",
+    "english": "accepted",
+    "soundmark": "/ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "được chấp nhận",
+    "english": "be accepted",
+    "soundmark": "/bi/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "lời mời đó đã được chấp nhận",
+    "english": "the invitation is accepted",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "lời mời đó (trong quá khứ) đã được chấp nhận",
+    "english": "the invitation was accepted",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "thông qua họ",
+    "english": "by them",
+    "soundmark": "/baɪ/ /ðəm/"
+  },
+  {
+    "vietnamese": "lời mời đó (trong quá khứ) đã được họ chấp nhận",
+    "english": "the invitation was accepted by them",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðəm/"
+  },
+  {
+    "vietnamese": "tham gia",
+    "english": "to join",
+    "soundmark": "/tə/ /dʒɔɪn/"
+  },
+  {
+    "vietnamese": "đội ngũ",
+    "english": "team",
+    "soundmark": "/tim/"
+  },
+  {
+    "vietnamese": "nhóm của chúng tôi",
+    "english": "our team",
+    "soundmark": "/'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "tham gia nhóm của chúng tôi",
+    "english": "to join our team",
+    "soundmark": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "lời mời đó",
+    "english": "the invitation",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "lời mời tham gia nhóm của chúng tôi",
+    "english": "the invitation to join our team",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "được chấp nhận",
+    "english": "be accepted",
+    "soundmark": "/bi/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "lời mời tham gia nhóm của chúng tôi (trong quá khứ) đã được chấp nhận",
+    "english": "the invitation to join our team was accepted",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/ /wəz/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "thông qua họ",
+    "english": "by them",
+    "soundmark": "/baɪ/ /ðəm/"
+  },
+  {
+    "vietnamese": "lời mời gia nhập nhóm của chúng tôi (trước đây) đã được họ chấp nhận",
+    "english": "the invitation to join our team was accepted by them",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðəm/"
+  },
+  {
+    "vietnamese": "được chấp nhận",
+    "english": "be accepted",
+    "soundmark": "/bi/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "sẽ",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "vietnamese": "sẽ được chấp nhận",
+    "english": "will be accepted",
+    "soundmark": "/wɪl/ /bi/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "thử thách đó",
+    "english": "the challenge",
+    "soundmark": "/ðə/ /ˈtʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "thử thách đó sẽ được chấp nhận",
+    "english": "the challenge will be accepted",
+    "soundmark": "/ðə/ /ˈtʃælɪndʒ/ /wɪl/ /bi/ /ək'sɛptɪd/"
+  },
+  {
+    "vietnamese": "thông qua chúng tôi",
+    "english": "by us",
+    "soundmark": "/baɪ/ /ʌs/"
+  },
+  {
+    "vietnamese": "lời thách thức đó sẽ được chúng tôi chấp nhận",
+    "english": "the challenge will be accepted by us",
+    "soundmark": "/ðə/ /ˈtʃælɪndʒ/ /wɪl/ /bi/ /ək'sɛptɪd/ /baɪ/ /ʌs/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "to finish",
+    "soundmark": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "hoàn thành (phân từ quá khứ)",
+    "english": "finished",
+    "soundmark": "/'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "được hoàn thành",
+    "english": "be finished",
+    "soundmark": "/bi/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "nên",
+    "english": "should",
+    "soundmark": "/ʃʊd/"
+  },
+  {
+    "vietnamese": "nên được hoàn thành",
+    "english": "should be finished",
+    "soundmark": "/ʃʊd/ /bi/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "bài tập về nhà",
+    "english": "the homework",
+    "soundmark": "/ðə/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "bài tập về nhà phải được hoàn thành",
+    "english": "the homework should be finished",
+    "soundmark": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "thông qua bạn",
+    "english": "by you",
+    "soundmark": "/baɪ/ /ju/"
+  },
+  {
+    "vietnamese": "bài tập về nhà nên do bạn làm",
+    "english": "the homework should be finished by you",
+    "soundmark": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/ /baɪ/ /ju/"
+  },
+  {
+    "vietnamese": "bữa tối",
+    "english": "dinner",
+    "soundmark": "/'dɪnɚ/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước bữa tối",
+    "english": "before dinner",
+    "soundmark": "/bɪ'fɔr/ /'dɪnɚ/"
+  },
+  {
+    "vietnamese": "bài tập về nhà bạn phải hoàn thành trước bữa tối",
+    "english": "the homework should be finished by you before dinner",
+    "soundmark": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/ /baɪ/ /ju/ /bɪ'fɔr/ /'dɪnɚ/"
+  },
+  {
+    "vietnamese": "nấu ăn; nấu ăn",
+    "english": "to cook",
+    "soundmark": "/tə/ /kʊk/"
+  },
+  {
+    "vietnamese": "nấu ăn (phân từ quá khứ)",
+    "english": "cooked",
+    "soundmark": "/kʊkt/"
+  },
+  {
+    "vietnamese": "đang được nấu chín",
+    "english": "be cooked",
+    "soundmark": "/bi/ /kʊkt/"
+  },
+  {
+    "vietnamese": "mẹ",
+    "english": "mother",
+    "soundmark": "/'mʌðɚ/"
+  },
+  {
+    "vietnamese": "mẹ tôi",
+    "english": "my mother",
+    "soundmark": "/maɪ/ /'mʌðɚ/"
+  },
+  {
+    "vietnamese": "bởi mẹ tôi",
+    "english": "by my mother",
+    "soundmark": "/baɪ/ /maɪ/ /'mʌðɚ/"
+  },
+  {
+    "vietnamese": "được mẹ nấu ăn",
+    "english": "be cooked by my mother",
+    "soundmark": "/bi/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/"
+  },
+  {
+    "vietnamese": "bữa tối",
+    "english": "dinner",
+    "soundmark": "/'dɪnɚ/"
+  },
+  {
+    "vietnamese": "bữa tối này",
+    "english": "the dinner",
+    "soundmark": "/ðə/ /'dɪnɚ/"
+  },
+  {
+    "vietnamese": "bữa tối này do mẹ tôi nấu",
+    "english": "the dinner is cooked by my mother",
+    "soundmark": "/ðə/ /'dɪnɚ/ /ɪz/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/"
+  },
+  {
+    "vietnamese": "bữa tối này (ngày xưa) do mẹ tôi nấu",
+    "english": "the dinner was cooked by my mother",
+    "soundmark": "/ðə/ /'dɪnɚ/ /wəz/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/"
+  },
+  {
+    "vietnamese": "đột nhập",
+    "english": "to break",
+    "soundmark": "/tə/ /brek/"
+  },
+  {
+    "vietnamese": "nghỉ (quá khứ phân từ)",
+    "english": "broken",
+    "soundmark": "/'brokən/"
+  },
+  {
+    "vietnamese": "bị phá vỡ",
+    "english": "be broken",
+    "soundmark": "/bi/ /'brokən/"
+  },
+  {
+    "vietnamese": "cửa sổ",
+    "english": "window",
+    "soundmark": "/'wɪndo/"
+  },
+  {
+    "vietnamese": "cửa sổ đó",
+    "english": "the window",
+    "soundmark": "/ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "cửa sổ đó đã bị vỡ",
+    "english": "the window is broken",
+    "soundmark": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/"
+  },
+  {
+    "vietnamese": "cục đá",
+    "english": "stone",
+    "soundmark": "/ston/"
+  },
+  {
+    "vietnamese": "vượt qua",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "qua một hòn đá",
+    "english": "by a stone",
+    "soundmark": "/baɪ/ /ə/ /ston/"
+  },
+  {
+    "vietnamese": "cửa sổ đó bị đá vỡ",
+    "english": "the window is broken by a stone",
+    "soundmark": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/ /baɪ/ /ə/ /ston/"
+  },
+  {
+    "vietnamese": "cánh cửa sổ đó (ngày xưa) đã bị đá vỡ",
+    "english": "the window was broken by a stone",
+    "soundmark": "/ðə/ /'wɪndo/ /wəz/ /'brokən/ /baɪ/ /ə/ /ston/"
+  },
+  {
+    "vietnamese": "đóng",
+    "english": "to close",
+    "soundmark": "/tə/ /kloz/"
+  },
+  {
+    "vietnamese": "đóng (quá khứ phân từ)",
+    "english": "closed",
+    "soundmark": "/klozd/"
+  },
+  {
+    "vietnamese": "đã đóng cửa",
+    "english": "be closed",
+    "soundmark": "/bi/ /klozd/"
+  },
+  {
+    "vietnamese": "sẽ",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "vietnamese": "sẽ đóng cửa",
+    "english": "will be closed",
+    "soundmark": "/wɪl/ /bi/ /klozd/"
+  },
+  {
+    "vietnamese": "cửa sổ đó",
+    "english": "the window",
+    "soundmark": "/ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "cửa sổ đó sẽ đóng lại",
+    "english": "the window will be closed",
+    "soundmark": "/ðə/ /'wɪndo/ /wɪl/ /bi/ /klozd/"
+  },
+  {
+    "vietnamese": "thông qua tôi",
+    "english": "by me",
+    "soundmark": "/baɪ/ /mi/"
+  },
+  {
+    "vietnamese": "cửa sổ đó sẽ do tôi đóng lại",
+    "english": "the window will be closed by me",
+    "soundmark": "/ðə/ /'wɪndo/ /wɪl/ /bi/ /klozd/ /baɪ/ /mi/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "giữ (quá khứ phân từ)",
+    "english": "kept",
+    "soundmark": "/kɛpt/"
+  },
+  {
+    "vietnamese": "được duy trì",
+    "english": "be kept",
+    "soundmark": "/bi/ /kɛpt/"
+  },
+  {
+    "vietnamese": "sẽ",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "vietnamese": "sẽ được duy trì",
+    "english": "will be kept",
+    "soundmark": "/wɪl/ /bi/ /kɛpt/"
+  },
+  {
+    "vietnamese": "bí mật",
+    "english": "secret",
+    "soundmark": "/'sikrət/"
+  },
+  {
+    "vietnamese": "bí mật này",
+    "english": "the secret",
+    "soundmark": "/ðə/ /'sikrət/"
+  },
+  {
+    "vietnamese": "bí mật này sẽ được giữ kín",
+    "english": "the secret will be kept",
+    "soundmark": "/ðə/ /'sikrət/ /wɪl/ /bi/ /kɛpt/"
+  },
+  {
+    "vietnamese": "thông qua anh ấy",
+    "english": "by him",
+    "soundmark": "/baɪ/ /hɪm/"
+  },
+  {
+    "vietnamese": "bí mật này sẽ được anh ấy giữ kín",
+    "english": "the secret will be kept by him",
+    "soundmark": "/ðə/ /'sikrət/ /wɪl/ /bi/ /kɛpt/ /baɪ/ /hɪm/"
+  },
+  {
+    "vietnamese": "cứu; cứu",
+    "english": "to save",
+    "soundmark": "/tə/ /sev/"
+  },
+  {
+    "vietnamese": "lưu (quá khứ phân từ)",
+    "english": "saved",
+    "soundmark": "/sevd/"
+  },
+  {
+    "vietnamese": "được cứu",
+    "english": "be saved",
+    "soundmark": "/bi/ /sevd/"
+  },
+  {
+    "vietnamese": "sẽ được lưu",
+    "english": "will be saved",
+    "soundmark": "/wɪl/ /bi/ /sevd/"
+  },
+  {
+    "vietnamese": "thế giới",
+    "english": "the world",
+    "soundmark": "/ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "thế giới sẽ được cứu",
+    "english": "the world will be saved",
+    "soundmark": "/ðə/ /wɝld/ /wɪl/ /bi/ /sevd/"
+  },
+  {
+    "vietnamese": "thông qua họ",
+    "english": "by them",
+    "soundmark": "/baɪ/ /ðəm/"
+  },
+  {
+    "vietnamese": "thế giới sẽ được họ cứu",
+    "english": "the world will be saved by them",
+    "soundmark": "/ðə/ /wɝld/ /wɪl/ /bi/ /sevd/ /baɪ/ /ðəm/"
+  },
+  {
+    "vietnamese": "chân",
+    "english": "foot",
+    "soundmark": "/fʊt/"
+  },
+  {
+    "vietnamese": "quả bóng",
+    "english": "ball",
+    "soundmark": "/bɔl/"
+  },
+  {
+    "vietnamese": "bóng đá",
+    "english": "football",
+    "soundmark": "/'fʊtbɔl/"
+  },
+  {
+    "vietnamese": "cuộc thi",
+    "english": "match",
+    "soundmark": "/mætʃ/"
+  },
+  {
+    "vietnamese": "trận đấu bóng đá",
+    "english": "football match",
+    "soundmark": "/'fʊtbɔl/ /mætʃ/"
+  },
+  {
+    "vietnamese": "trận bóng đá đó",
+    "english": "the football match",
+    "soundmark": "/ðə/ /'fʊtbɔl/ /mætʃ/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to hold",
+    "soundmark": "/tə/ /hold/"
+  },
+  {
+    "vietnamese": "được tổ chức (phân từ quá khứ)",
+    "english": "held",
+    "soundmark": "/hɛld/"
+  },
+  {
+    "vietnamese": "được tổ chức",
+    "english": "be held",
+    "soundmark": "/bi/ /hɛld/"
+  },
+  {
+    "vietnamese": "sẽ được tổ chức",
+    "english": "will be held",
+    "soundmark": "/wɪl/ /bi/ /hɛld/"
+  },
+  {
+    "vietnamese": "trận bóng đá đó sẽ được tổ chức",
+    "english": "the football match will be held",
+    "soundmark": "/ðə/ /'fʊtbɔl/ /mætʃ/ /wɪl/ /bi/ /hɛld/"
+  },
+  {
+    "vietnamese": "ngày mai",
+    "english": "tomorrow",
+    "soundmark": "/tə'mɔro/"
+  },
+  {
+    "vietnamese": "trận đấu bóng đá đó sẽ được tổ chức vào ngày mai",
+    "english": "the football match will be held tomorrow",
+    "soundmark": "/ðə/ /'fʊtbɔl/ /mætʃ/ /wɪl/ /bi/ /hɛld/ /tə'mɔro/"
+  }
+]

@@ -1,0 +1,762 @@
+[
+  {
+    "vietnamese": "làm việc",
+    "english": "job",
+    "soundmark": "/dʒɑb/"
+  },
+  {
+    "vietnamese": "làm việc",
+    "english": "to work",
+    "soundmark": "/tə/ /wɝk/"
+  },
+  {
+    "vietnamese": "cần",
+    "english": "need",
+    "soundmark": "/nid/"
+  },
+  {
+    "vietnamese": "anh ấy",
+    "english": "he",
+    "soundmark": "/hi/"
+  },
+  {
+    "vietnamese": "anh ấy cần",
+    "english": "he needs",
+    "soundmark": "/hi/ /nidz/"
+  },
+  {
+    "vietnamese": "anh ấy cần một công việc",
+    "english": "he needs to work",
+    "soundmark": "/hi/ /nidz/ /tə/ /wɝk/"
+  },
+  {
+    "vietnamese": "chỗ ở",
+    "english": "home",
+    "soundmark": "/hom/"
+  },
+  {
+    "vietnamese": "bài tập về nhà",
+    "english": "homework",
+    "soundmark": "/'homwɝk/"
+  },
+  {
+    "vietnamese": "của anh ấy",
+    "english": "his",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "vietnamese": "bài tập về nhà của anh ấy",
+    "english": "his homework",
+    "soundmark": "/hɪz/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "tRÊN",
+    "english": "on",
+    "soundmark": "/ɑn/"
+  },
+  {
+    "vietnamese": "về bài tập về nhà của anh ấy",
+    "english": "on his homework",
+    "soundmark": "/ɑn/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "anh ấy cần phải làm bài tập về nhà",
+    "english": "he needs to work on his homework",
+    "soundmark": "/hi/ /nidz/ /tə/ /wɝk/ /ɑn/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "anh ấy đang làm bài tập về nhà",
+    "english": "he works on his homework",
+    "soundmark": "/hi/ /wɝks/ /ɑn/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "công việc (dạng ing)",
+    "english": "working",
+    "soundmark": "/'wɝkɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đang làm việc",
+    "english": "be working",
+    "soundmark": "/bi/ /'wɝkɪŋ/"
+  },
+  {
+    "vietnamese": "anh ấy (hiện tại) đang làm việc",
+    "english": "he is working",
+    "soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/"
+  },
+  {
+    "vietnamese": "về bài tập về nhà của anh ấy",
+    "english": "on his homework",
+    "soundmark": "/ɑn/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "anh ấy (hiện tại) đang làm bài tập về nhà",
+    "english": "he is working on his homework",
+    "soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/ /ɑn/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "bài tập về nhà của tôi",
+    "english": "my homework",
+    "soundmark": "/maɪ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "đang làm việc",
+    "english": "be working",
+    "soundmark": "/bi/ /'wɝkɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang làm việc",
+    "english": "I am working",
+    "soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/"
+  },
+  {
+    "vietnamese": "tRÊN",
+    "english": "on",
+    "soundmark": "/ɑn/"
+  },
+  {
+    "vietnamese": "Tôi (hiện tại) đang làm bài tập về nhà",
+    "english": "I am working on my homework",
+    "soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /maɪ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "Tôi (hiện tại) đang làm việc đó",
+    "english": "I am working on it",
+    "soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+  },
+  {
+    "vietnamese": "vẫn",
+    "english": "still",
+    "soundmark": "/stɪl/"
+  },
+  {
+    "vietnamese": "Tôi (vẫn) đang làm việc đó",
+    "english": "I am still working on it",
+    "soundmark": "/aɪ/ /æm/ /stɪl/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+  },
+  {
+    "vietnamese": "chúng tôi",
+    "english": "we",
+    "soundmark": "/wi/"
+  },
+  {
+    "vietnamese": "chúng tôi (hiện) đang làm việc đó",
+    "english": "we are working on it",
+    "soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+  },
+  {
+    "vietnamese": "dự án",
+    "english": "project",
+    "soundmark": "/ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "mới",
+    "english": "new",
+    "soundmark": "/nu/"
+  },
+  {
+    "vietnamese": "một dự án mới",
+    "english": "a new project",
+    "soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "chúng tôi (hiện) đang thực hiện một dự án mới",
+    "english": "we are working on a new project",
+    "soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "sẽ",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "vietnamese": "đang làm việc",
+    "english": "be working",
+    "soundmark": "/bi/ /'wɝkɪŋ/"
+  },
+  {
+    "vietnamese": "sẽ làm việc",
+    "english": "will be working",
+    "soundmark": "/wɪl/ /bi/ /'wɝkɪŋ/"
+  },
+  {
+    "vietnamese": "một dự án mới",
+    "english": "a new project",
+    "soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ thực hiện một dự án mới",
+    "english": "we will be working on a new project",
+    "soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "tuần",
+    "english": "week",
+    "soundmark": "/wik/"
+  },
+  {
+    "vietnamese": "tiếp theo",
+    "english": "next",
+    "soundmark": "/nɛkst/"
+  },
+  {
+    "vietnamese": "tuần tới",
+    "english": "next week",
+    "soundmark": "/nɛkst/ /wik/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ thực hiện một dự án mới vào tuần tới",
+    "english": "we will be working on a new project next week",
+    "soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/ /nɛkst/ /wik/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ làm việc đó vào tuần tới",
+    "english": "we will be working on it next week",
+    "soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ɪt/ /nɛkst/ /wik/"
+  },
+  {
+    "vietnamese": "Tôi (hiện tại) đang làm việc đó",
+    "english": "I am working on it",
+    "soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+  },
+  {
+    "vietnamese": "đang tìm kiếm",
+    "english": "to look for",
+    "soundmark": "/tə/ /lʊk/ /fɝ/"
+  },
+  {
+    "vietnamese": "tìm (dạng ing)",
+    "english": "looking for",
+    "soundmark": "/ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đang tìm kiếm",
+    "english": "be looking for",
+    "soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "cô ấy (bây giờ) đang tìm kiếm",
+    "english": "she is looking for",
+    "soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "đồ chơi",
+    "english": "toy",
+    "soundmark": "/tɔɪ/"
+  },
+  {
+    "vietnamese": "đồ chơi của cô ấy",
+    "english": "her toy",
+    "soundmark": "/hɚ/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "cô ấy (bây giờ) đang tìm đồ chơi của mình",
+    "english": "she is looking for her toy",
+    "soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "con gái",
+    "english": "daughter",
+    "soundmark": "/'dɔtɚ/"
+  },
+  {
+    "vietnamese": "con gái tôi",
+    "english": "my daughter",
+    "soundmark": "/maɪ/ /'dɔtɚ/"
+  },
+  {
+    "vietnamese": "con gái tôi (bây giờ) đang tìm đồ chơi",
+    "english": "my daughter is looking for her toy",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "tìm tới",
+    "english": "to find",
+    "soundmark": "/tə/ /faɪnd/"
+  },
+  {
+    "vietnamese": "đồ chơi của cô ấy",
+    "english": "her toy",
+    "soundmark": "/hɚ/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "tìm đồ chơi của cô ấy",
+    "english": "to find her toy",
+    "soundmark": "/tə/ /faɪnd/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "con gái tôi",
+    "english": "my daughter",
+    "soundmark": "/maɪ/ /'dɔtɚ/"
+  },
+  {
+    "vietnamese": "con gái tôi tìm thấy đồ chơi của nó",
+    "english": "my daughter finds her toy",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /faɪndz/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "con gái tôi có thể tìm thấy đồ chơi của nó",
+    "english": "my daughter can find her toy",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /kæn/ /faɪnd/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "không thể",
+    "english": "can't",
+    "soundmark": "/kænt/"
+  },
+  {
+    "vietnamese": "con gái tôi không thể tìm thấy đồ chơi của mình",
+    "english": "my daughter can't find her toy",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "nhưng",
+    "english": "but",
+    "soundmark": "/bʌt/"
+  },
+  {
+    "vietnamese": "nhưng con gái tôi không thể tìm thấy đồ chơi của nó",
+    "english": "but my daughter can't find her toy",
+    "soundmark": "/bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "con gái tôi (bây giờ) đang tìm đồ chơi",
+    "english": "my daughter is looking for her toy",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "con gái tôi (hiện) đang tìm đồ chơi nhưng con gái tôi không thể tìm thấy đồ chơi của nó",
+    "english": "my daughter is looking for her toy but my daughter can't find her toy",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "nhưng cô ấy không thể tìm thấy nó",
+    "english": "but she can't find it",
+    "soundmark": "/bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/"
+  },
+  {
+    "vietnamese": "con gái tôi (hiện) đang tìm đồ chơi nhưng không tìm thấy",
+    "english": "my daughter is looking for her toy but she can't find it",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/"
+  },
+  {
+    "vietnamese": "con gái tôi (quá khứ) đang tìm đồ chơi",
+    "english": "my daughter was looking for her toy",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "nhưng cô ấy không thể tìm thấy nó (trong quá khứ)",
+    "english": "but she couldn't find it",
+    "soundmark": "/bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/"
+  },
+  {
+    "vietnamese": "con gái tôi (quá khứ) đang tìm đồ chơi nhưng nó (quá khứ) không tìm thấy nó",
+    "english": "my daughter was looking for her toy but she couldn't find it",
+    "soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/"
+  },
+  {
+    "vietnamese": "nghe; nghe",
+    "english": "to hear",
+    "soundmark": "/tə/ /hɪr/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "nghe tôi nói",
+    "english": "to hear me",
+    "soundmark": "/tə/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn đã nghe tôi nói",
+    "english": "you hear me",
+    "soundmark": "/ju/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy tôi",
+    "english": "you can hear me",
+    "soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "nếu bạn có thể nghe thấy tôi",
+    "english": "if you can hear me",
+    "soundmark": "/ɪf/ /ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết",
+    "english": "I want to know",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết liệu bạn có thể nghe thấy tôi không",
+    "english": "I want to know if you can hear me",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "Anh biết.",
+    "english": "I know",
+    "soundmark": "/aɪ/ /no/"
+  },
+  {
+    "vietnamese": "Tôi biết bạn có thể nghe thấy tôi",
+    "english": "I know you can hear me",
+    "soundmark": "/aɪ/ /no/ /ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy tôi",
+    "english": "you can hear me",
+    "soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy tôi không?",
+    "english": "can you hear me",
+    "soundmark": "/kæn/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "vietnamese": "âm nhạc",
+    "english": "music",
+    "soundmark": "/'mjuzɪk/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy âm nhạc",
+    "english": "you can hear music",
+    "soundmark": "/ju/ /kæn/ /hɪr/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "một số",
+    "english": "some",
+    "soundmark": "/səm/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy một số bản nhạc",
+    "english": "you can hear some music",
+    "soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "nghe",
+    "english": "to listen",
+    "soundmark": "/tə/ /'lɪsn/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn nghe",
+    "english": "I want to listen",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /'lɪsn/"
+  },
+  {
+    "vietnamese": "Tôi lắng nghe",
+    "english": "I listen",
+    "soundmark": "/aɪ/ /'lɪsn/"
+  },
+  {
+    "vietnamese": "lắng nghe (dạng ing)",
+    "english": "listening",
+    "soundmark": "/ˈlɪsnɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi đang nghe (ngay bây giờ)",
+    "english": "I am listening",
+    "soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/"
+  },
+  {
+    "vietnamese": "âm nhạc",
+    "english": "music",
+    "soundmark": "/'mjuzɪk/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang nghe nhạc",
+    "english": "I am listening to music",
+    "soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "cô ấy (bây giờ) đang nghe nhạc",
+    "english": "she is listening to music",
+    "soundmark": "/ʃi/ /ɪz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đang nghe nhạc",
+    "english": "she was listening to music",
+    "soundmark": "/ʃi/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi (đang) nghe nhạc",
+    "english": "I was listening to music",
+    "soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "một số",
+    "english": "some",
+    "soundmark": "/səm/"
+  },
+  {
+    "vietnamese": "Tôi đang nghe một ít nhạc (trong quá khứ)",
+    "english": "I was listening to some music",
+    "soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /səm/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "bạn đang (bây giờ) đang lắng nghe",
+    "english": "you are listening",
+    "soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/"
+  },
+  {
+    "vietnamese": "bạn (hiện tại) đang nghe nhạc",
+    "english": "you are listening to music",
+    "soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "bạn lắng nghe",
+    "english": "you listen",
+    "soundmark": "/ju/ /'lɪsn/"
+  },
+  {
+    "vietnamese": "nghiêm túc",
+    "english": "carefully",
+    "soundmark": "/'kɛrfəli/"
+  },
+  {
+    "vietnamese": "hãy lắng nghe cẩn thận",
+    "english": "you listen carefully",
+    "soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "nếu bạn lắng nghe cẩn thận",
+    "english": "if you listen carefully",
+    "soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy một số bản nhạc",
+    "english": "you can hear some music",
+    "soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "nếu bạn lắng nghe cẩn thận, bạn có thể nghe thấy một số bản nhạc",
+    "english": "if you listen carefully you can hear some music",
+    "soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "âm nhạc này",
+    "english": "the music",
+    "soundmark": "/ðə/ /'mjuzɪk/"
+  },
+  {
+    "vietnamese": "nếu bạn nghe nhạc này một cách nghiêm túc",
+    "english": "if you listen to the music carefully",
+    "soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/"
+  },
+  {
+    "vietnamese": "đàn ghi-ta",
+    "english": "guitar",
+    "soundmark": "/ɡɪ'tɑr/"
+  },
+  {
+    "vietnamese": "một cây đàn guitar",
+    "english": "a guitar",
+    "soundmark": "/ə/ /ɡɪ'tɑr/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy",
+    "english": "you can hear",
+    "soundmark": "/ju/ /kæn/ /hɪr/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy tiếng ghi-ta",
+    "english": "you can hear a guitar",
+    "soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/"
+  },
+  {
+    "vietnamese": "phía sau",
+    "english": "back",
+    "soundmark": "/bæk/"
+  },
+  {
+    "vietnamese": "địa điểm",
+    "english": "ground",
+    "soundmark": "/ɡraʊnd/"
+  },
+  {
+    "vietnamese": "lý lịch",
+    "english": "background",
+    "soundmark": "/'bækɡraʊnd/"
+  },
+  {
+    "vietnamese": "trong nền",
+    "english": "in the background",
+    "soundmark": "/ɪn/ /ðə/ /'bækɡraʊnd/"
+  },
+  {
+    "vietnamese": "bạn có thể nghe thấy tiếng ghi-ta ở phía sau",
+    "english": "you can hear a guitar in the background",
+    "soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /background/ /'bækɡraʊnd/"
+  },
+  {
+    "vietnamese": "nếu bạn nghe bản nhạc này một cách cẩn thận, bạn có thể nghe thấy tiếng guitar ở phía sau",
+    "english": "if you listen to the music carefully you can hear a guitar in the background",
+    "soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /'bækɡraʊnd/"
+  },
+  {
+    "vietnamese": "hãy lắng nghe cẩn thận",
+    "english": "you listen carefully",
+    "soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "bạn không lắng nghe cẩn thận",
+    "english": "you don't listen carefully",
+    "soundmark": "/ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "nếu bạn không lắng nghe cẩn thận",
+    "english": "if you don't listen carefully",
+    "soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+  },
+  {
+    "vietnamese": "nghe",
+    "english": "to hear",
+    "soundmark": "/tə/ /hɪr/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn sẽ nghe thấy",
+    "english": "you will hear",
+    "soundmark": "/ju/ /wɪl/ /hɪr/"
+  },
+  {
+    "vietnamese": "điều",
+    "english": "thing",
+    "soundmark": "/θɪŋ/"
+  },
+  {
+    "vietnamese": "không có gì",
+    "english": "nothing",
+    "soundmark": "/'nʌθɪŋ/"
+  },
+  {
+    "vietnamese": "bạn sẽ không nghe thấy gì",
+    "english": "you will hear nothing",
+    "soundmark": "/ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/"
+  },
+  {
+    "vietnamese": "nếu bạn không lắng nghe cẩn thận",
+    "english": "if you don't listen carefully",
+    "soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+  },
+  {
+    "vietnamese": "nếu bạn không lắng nghe cẩn thận, bạn sẽ không nghe thấy gì cả",
+    "english": "if you don't listen carefully you will hear nothing",
+    "soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/ /ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/"
+  }
+]

@@ -47,7 +47,7 @@
               <div
                 class="truncate text-lg text-purple-600 group-hover:text-clip group-hover:whitespace-normal dark:text-purple-300"
               >
-                {{ item.chinese }}
+                {{ item.vietnamese }}
               </div>
               <div
                 class="truncate text-lg text-gray-500 group-hover:text-clip group-hover:whitespace-normal dark:text-gray-400"

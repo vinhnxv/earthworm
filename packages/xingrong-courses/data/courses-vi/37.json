@@ -1,0 +1,672 @@
+[
+  {
+    "vietnamese": "nổi tiếng",
+    "english": "famous",
+    "soundmark": "/'feməs/"
+  },
+  {
+    "vietnamese": "anh ấy nổi tiếng",
+    "english": "he is famous",
+    "soundmark": "/hi/ /ɪz/ /'feməs/"
+  },
+  {
+    "vietnamese": "thậm chí",
+    "english": "more",
+    "soundmark": "/mɔr/"
+  },
+  {
+    "vietnamese": "nổi tiếng hơn",
+    "english": "more famous",
+    "soundmark": "/mɔr/ /'feməs/"
+  },
+  {
+    "vietnamese": "anh ấy nổi tiếng hơn",
+    "english": "he is more famous",
+    "soundmark": "/hi/ /ɪz/ /mɔr/ /'feməs/"
+  },
+  {
+    "vietnamese": "hơn tôi",
+    "english": "than me",
+    "soundmark": "/ðæn/ /mi/"
+  },
+  {
+    "vietnamese": "anh ấy nổi tiếng hơn tôi",
+    "english": "he is more famous than me",
+    "soundmark": "/hi/ /ɪz/ /mɔr/ /'feməs/ /ðæn/ /mi/"
+  },
+  {
+    "vietnamese": "không ai",
+    "english": "nobody",
+    "soundmark": "/ˈnobɑdi/"
+  },
+  {
+    "vietnamese": "Michael jackson",
+    "english": "Michael Jackson",
+    "soundmark": "/ˈmaɪkəl/ /ˈdʒæksən/"
+  },
+  {
+    "vietnamese": "không ai nổi tiếng hơn Michael Jackson",
+    "english": "nobody is more famous than Michael Jackson",
+    "soundmark": "/ˈnobɑdi/ /ɪz/ /mɔr/ /'feməs/ /ðæn/ /ˈmaɪkəl/ /ˈdʒæksən/"
+  },
+  {
+    "vietnamese": "hầu hết",
+    "english": "the most",
+    "soundmark": "/ðə/ /most/"
+  },
+  {
+    "vietnamese": "nổi tiếng nhất",
+    "english": "the most famous",
+    "soundmark": "/ðə/ /most/ /'feməs/"
+  },
+  {
+    "vietnamese": "Michael Jackson là người nổi tiếng nhất",
+    "english": "Michael Jackson is the most famous",
+    "soundmark": "/ˈmaɪkəl/ /ˈdʒæksən/ /ɪz/ /ðə/ /most/ /'feməs/"
+  },
+  {
+    "vietnamese": "hát",
+    "english": "to sing",
+    "soundmark": "/tə/ /sɪŋ/"
+  },
+  {
+    "vietnamese": "ca sĩ",
+    "english": "singer",
+    "soundmark": "/'sɪŋɚ/"
+  },
+  {
+    "vietnamese": "ca sĩ nổi tiếng nhất",
+    "english": "the most famous singer",
+    "soundmark": "/ðə/ /most/ /'feməs/ /'sɪŋɚ/"
+  },
+  {
+    "vietnamese": "Michael Jackson là ca sĩ nổi tiếng nhất",
+    "english": "Michael Jackson is the most famous singer",
+    "soundmark": "/ˈmaɪkəl/ /ˈdʒæksən/ /ɪz/ /ðə/ /most/ /'feməs/ /'sɪŋɚ/"
+  },
+  {
+    "vietnamese": "trên thế giới",
+    "english": "in the world",
+    "soundmark": "/ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "Michael Jackson là ca sĩ nổi tiếng nhất thế giới",
+    "english": "Michael Jackson is the most famous singer in the world",
+    "soundmark": "/ˈmaɪkəl/ /ˈdʒæksən/ /ɪz/ /ðə/ /most/ /'feməs/ /'sɪŋɚ/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "Michael Jackson (từng) là ca sĩ nổi tiếng nhất thế giới",
+    "english": "Michael Jackson was the most famous singer in the world",
+    "soundmark": "/ˈmaɪkəl/ /ˈdʒæksən/ /wəz/ /ðə/ /most/ /'feməs/ /'sɪŋɚ/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "ca sĩ",
+    "english": "singer",
+    "soundmark": "/'sɪŋɚ/"
+  },
+  {
+    "vietnamese": "hai ca sĩ",
+    "english": "two singers",
+    "soundmark": "/tu/ /'sɪŋɚz/"
+  },
+  {
+    "vietnamese": "một",
+    "english": "one",
+    "soundmark": "/wʌn/"
+  },
+  {
+    "vietnamese": "một trong hai ca sĩ",
+    "english": "one of two singers",
+    "soundmark": "/wʌn/ /əv/ /tu/ /'sɪŋɚz/"
+  },
+  {
+    "vietnamese": "những ca sĩ nổi tiếng nhất",
+    "english": "the most famous singers",
+    "soundmark": "/ðə/ /most/ /'feməs/ /'sɪŋɚz/"
+  },
+  {
+    "vietnamese": "một trong những ca sĩ nổi tiếng nhất",
+    "english": "one of the most famous singers",
+    "soundmark": "/wʌn/ /əv/ /ðə/ /most/ /'feməs/ /'sɪŋɚz/"
+  },
+  {
+    "vietnamese": "Michael Jackson (từng) là một trong những ca sĩ nổi tiếng nhất thế giới",
+    "english": "Michael Jackson was one of the most famous singers in the world",
+    "soundmark": "/ˈmaɪkəl/ /ˈdʒæksən/ /wəz/ /wʌn/ /əv/ /ðə/ /most/ /'feməs/ /'sɪŋɚz/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "nổi tiếng nhất",
+    "english": "the most famous",
+    "soundmark": "/ðə/ /most/ /'feməs/"
+  },
+  {
+    "vietnamese": "sơn",
+    "english": "to paint",
+    "soundmark": "/tə/ /pent/"
+  },
+  {
+    "vietnamese": "bức vẽ",
+    "english": "painting",
+    "soundmark": "/'pentɪŋ/"
+  },
+  {
+    "vietnamese": "bức tranh nổi tiếng nhất",
+    "english": "the most famous painting",
+    "soundmark": "/ðə/ /most/ /'feməs/ /'pentɪŋ/"
+  },
+  {
+    "vietnamese": "Mona Lisa",
+    "english": "The Mona Lisa",
+    "soundmark": "/ðə/ /'monə/ /ˈlisə/"
+  },
+  {
+    "vietnamese": "Mona Lisa là bức tranh nổi tiếng nhất",
+    "english": "The Mona Lisa is the most famous painting",
+    "soundmark": "/ðə/ /'monə/ /ˈlisə/ /ɪz/ /ðə/ /most/ /'feməs/ /'pentɪŋ/"
+  },
+  {
+    "vietnamese": "trên thế giới",
+    "english": "in the world",
+    "soundmark": "/ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "Mona Lisa là bức tranh nổi tiếng nhất thế giới",
+    "english": "The Mona Lisa is the most famous painting in the world",
+    "soundmark": "/ðə/ /'monə/ /ˈlisə/ /ɪz/ /ðə/ /most/ /'feməs/ /'pentɪŋ/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "bức vẽ",
+    "english": "painting",
+    "soundmark": "/'pentɪŋ/"
+  },
+  {
+    "vietnamese": "bức tranh (số nhiều)",
+    "english": "paintings",
+    "soundmark": "/'pentɪŋz/"
+  },
+  {
+    "vietnamese": "bức tranh nổi tiếng nhất (số nhiều)",
+    "english": "the most famous paintings",
+    "soundmark": "/ðə/ /most/ /'feməs/ /'pentɪŋz/"
+  },
+  {
+    "vietnamese": "một trong những bức tranh nổi tiếng nhất (số nhiều)",
+    "english": "one of the most famous paintings",
+    "soundmark": "/wʌn/ /əv/ /ðə/ /most/ /'feməs/ /'pentɪŋz/"
+  },
+  {
+    "vietnamese": "Mona Lisa",
+    "english": "The Mona Lisa",
+    "soundmark": "/ðə/ /'monə/ /ˈlisə/"
+  },
+  {
+    "vietnamese": "trên thế giới",
+    "english": "in the world",
+    "soundmark": "/ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "Mona Lisa là một trong những bức tranh nổi tiếng nhất thế giới",
+    "english": "The Mona Lisa is one of the most famous paintings in the world",
+    "soundmark": "/ðə/ /'monə/ /ˈlisə/ /ɪz/ /wʌn/ /əv/ /ðə/ /most/ /'feməs/ /'pentɪŋz/ /in the world/"
+  },
+  {
+    "vietnamese": "đất",
+    "english": "land",
+    "soundmark": "/lænd/"
+  },
+  {
+    "vietnamese": "biểu tượng",
+    "english": "mark",
+    "soundmark": "/mɑrk/"
+  },
+  {
+    "vietnamese": "cột mốc",
+    "english": "landmark",
+    "soundmark": "/ˈlændmɑrk/"
+  },
+  {
+    "vietnamese": "nổi tiếng nhất",
+    "english": "the most famous",
+    "soundmark": "/ðə/ /most/ /'feməs/"
+  },
+  {
+    "vietnamese": "địa danh nổi tiếng nhất",
+    "english": "the most famous landmark",
+    "soundmark": "/ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "vietnamese": "tháp",
+    "english": "tower",
+    "soundmark": "/'taʊɚ/"
+  },
+  {
+    "vietnamese": "Tháp eiffel",
+    "english": "The Eiffel Tower",
+    "soundmark": "/ði/ /ˈaɪfəl/ /'taʊɚ/"
+  },
+  {
+    "vietnamese": "Tháp Eiffel là địa danh nổi tiếng nhất",
+    "english": "The Eiffel Tower is the most famous landmark",
+    "soundmark": "/ði/ /ˈaɪfəl/ /'taʊɚ/ /ɪz/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "vietnamese": "Paris",
+    "english": "Paris",
+    "soundmark": "/ˈpærɪs/"
+  },
+  {
+    "vietnamese": "ở Paris",
+    "english": "in Paris",
+    "soundmark": "/ɪn/ /ˈpærɪs/"
+  },
+  {
+    "vietnamese": "Tháp Eiffel là địa danh nổi tiếng nhất ở Paris",
+    "english": "The Eiffel Tower is the most famous landmark in Paris",
+    "soundmark": "/ði/ /ˈaɪfəl/ /'taʊɚ/ /ɪz/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/ /ɪn/ /ˈpærɪs/"
+  },
+  {
+    "vietnamese": "nổi tiếng nhất",
+    "english": "the most famous",
+    "soundmark": "/ðə/ /most/ /'feməs/"
+  },
+  {
+    "vietnamese": "cột mốc",
+    "english": "landmark",
+    "soundmark": "/ˈlændmɑrk/"
+  },
+  {
+    "vietnamese": "địa danh nổi tiếng nhất",
+    "english": "the most famous landmark",
+    "soundmark": "/ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "vietnamese": "tường",
+    "english": "wall",
+    "soundmark": "/wɔl/"
+  },
+  {
+    "vietnamese": "tuyệt",
+    "english": "great",
+    "soundmark": "/ɡret/"
+  },
+  {
+    "vietnamese": "Vạn Lý Trường Thành",
+    "english": "The Great Wall",
+    "soundmark": "/ðə/ /ɡret/ /wɔl/"
+  },
+  {
+    "vietnamese": "Trung Quốc",
+    "english": "China",
+    "soundmark": "/ˈtʃaɪnə/"
+  },
+  {
+    "vietnamese": "Bức tường lớn của trung quốc",
+    "english": "The Great Wall of China",
+    "soundmark": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/"
+  },
+  {
+    "vietnamese": "Vạn Lý Trường Thành của Trung Quốc là địa danh nổi tiếng nhất",
+    "english": "The Great Wall of China is the most famous landmark",
+    "soundmark": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/ /ɪz/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "vietnamese": "trên thế giới",
+    "english": "in the world",
+    "soundmark": "/ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "Vạn Lý Trường Thành của Trung Quốc là địa danh nổi tiếng nhất thế giới",
+    "english": "The Great Wall of China is the most famous landmark in the world",
+    "soundmark": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/ /ɪz/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "cột mốc",
+    "english": "landmark",
+    "soundmark": "/ˈlændmɑrk/"
+  },
+  {
+    "vietnamese": "cột mốc (số nhiều)",
+    "english": "landmarks",
+    "soundmark": "/ˈlændmɑrks/"
+  },
+  {
+    "vietnamese": "một trong những địa danh nổi tiếng nhất",
+    "english": "one of the most famous landmarks",
+    "soundmark": "/wʌn/ /əv/ /ðə/ /most/ /'feməs/ /ˈlændmɑrks/"
+  },
+  {
+    "vietnamese": "Vạn Lý Trường Thành của Trung Quốc là một trong những địa danh nổi tiếng nhất thế giới",
+    "english": "The Great Wall of China is one of the most famous landmarks in the world",
+    "soundmark": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/ /ɪz/ /wʌn/ /əv/ /ðə/ /most/ /'feməs/ /ˈlændmɑrks/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "tốt",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "vietnamese": "tốt hơn",
+    "english": "better",
+    "soundmark": "/ˈbɛtɚ/"
+  },
+  {
+    "vietnamese": "Tiếng Trung",
+    "english": "Chinese",
+    "soundmark": "/tʃaɪˈniz/"
+  },
+  {
+    "vietnamese": "của bạn",
+    "english": "your",
+    "soundmark": "/jʊr/"
+  },
+  {
+    "vietnamese": "tiếng trung của bạn",
+    "english": "your Chinese",
+    "soundmark": "/jʊr/ /tʃaɪˈniz/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "tiếng anh của tôi",
+    "english": "my English",
+    "soundmark": "/maɪ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Tiếng Trung của bạn tốt hơn tiếng Anh của tôi",
+    "english": "Your Chinese is better than my English",
+    "soundmark": "/jʊr/ /tʃaɪˈniz/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /maɪ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "done",
+    "soundmark": "/dʌn/"
+  },
+  {
+    "vietnamese": "làm xong thì tốt hơn",
+    "english": "done is better",
+    "soundmark": "/dʌn/ /ɪz/ /ˈbɛtɚ/"
+  },
+  {
+    "vietnamese": "hoàn hảo",
+    "english": "perfect",
+    "soundmark": "/'pɝfɪkt/"
+  },
+  {
+    "vietnamese": "so sánh",
+    "english": "than",
+    "soundmark": "/ðæn/"
+  },
+  {
+    "vietnamese": "hoàn thành còn hơn hoàn hảo",
+    "english": "done is better than perfect",
+    "soundmark": "/dʌn/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /'pɝfɪkt/"
+  },
+  {
+    "vietnamese": "mùa hè",
+    "english": "summer",
+    "soundmark": "/'sʌmɚ/"
+  },
+  {
+    "vietnamese": "mùa đông",
+    "english": "winter",
+    "soundmark": "/'wɪntɚ/"
+  },
+  {
+    "vietnamese": "mùa hè tốt hơn mùa đông",
+    "english": "summer is better than winter",
+    "soundmark": "/'sʌmɚ/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /'wɪntɚ/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ",
+    "english": "I think",
+    "soundmark": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ mùa hè tốt hơn mùa đông",
+    "english": "I think summer is better than winter",
+    "soundmark": "/aɪ/ /θɪŋk/ /'sʌmɚ/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /'wɪntɚ/"
+  },
+  {
+    "vietnamese": "điều gì đó",
+    "english": "something",
+    "soundmark": "/'sʌmθɪŋ/"
+  },
+  {
+    "vietnamese": "không có gì",
+    "english": "nothing",
+    "soundmark": "/'nʌθɪŋ/"
+  },
+  {
+    "vietnamese": "một cái gì đó tốt hơn là không có gì",
+    "english": "something is better than nothing",
+    "soundmark": "/'sʌmθɪŋ/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /'nʌθɪŋ/"
+  },
+  {
+    "vietnamese": "tốt hơn",
+    "english": "better",
+    "soundmark": "/ˈbɛtɚ/"
+  },
+  {
+    "vietnamese": "tốt nhất",
+    "english": "the best",
+    "soundmark": "/ðə/ /bɛst/"
+  },
+  {
+    "vietnamese": "bạn là",
+    "english": "you are",
+    "soundmark": "/ju/ /ɚ/"
+  },
+  {
+    "vietnamese": "bạn là người giỏi nhất",
+    "english": "you are the best",
+    "soundmark": "/ju/ /ɚ/ /ðə/ /bɛst/"
+  },
+  {
+    "vietnamese": "mọi người",
+    "english": "person",
+    "soundmark": "/'pɝsn/"
+  },
+  {
+    "vietnamese": "bạn là người tốt nhất",
+    "english": "you are the best person",
+    "soundmark": "/ju/ /ɚ/ /ðə/ /bɛst/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "Tôi biết",
+    "english": "I know",
+    "soundmark": "/aɪ/ /no/"
+  },
+  {
+    "vietnamese": "người tốt nhất",
+    "english": "the best person",
+    "soundmark": "/ðə/ /bɛst/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "người tốt nhất mà tôi biết",
+    "english": "the best person I know",
+    "soundmark": "/ðə/ /bɛst/ /'pɝsn/ /aɪ/ /no/"
+  },
+  {
+    "vietnamese": "bạn là người tốt nhất mà tôi biết",
+    "english": "you are the best person I know",
+    "soundmark": "/ju/ /ɚ/ /ðə/ /bɛst/ /'pɝsn/ /aɪ/ /no/"
+  },
+  {
+    "vietnamese": "tốt nhất",
+    "english": "the best",
+    "soundmark": "/ðə/ /bɛst/"
+  },
+  {
+    "vietnamese": "bằng hữu",
+    "english": "friend",
+    "soundmark": "/frend/"
+  },
+  {
+    "vietnamese": "bạn thân",
+    "english": "the best friend",
+    "soundmark": "/ðə/ /bɛst/ /frend/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "người bạn thân nhất của tôi",
+    "english": "my best friend",
+    "soundmark": "/maɪ/ /bɛst/ /frend/"
+  },
+  {
+    "vietnamese": "bạn là",
+    "english": "you are",
+    "soundmark": "/ju/ /ɚ/"
+  },
+  {
+    "vietnamese": "bạn là người bạn tốt nhất của tôi",
+    "english": "you are my best friend",
+    "soundmark": "/ju/ /ɚ/ /maɪ/ /bɛst/ /frend/"
+  },
+  {
+    "vietnamese": "họ là",
+    "english": "they are",
+    "soundmark": "/ðe/ /ɚ/"
+  },
+  {
+    "vietnamese": "họ là những người bạn tốt nhất của tôi",
+    "english": "they are my best friends",
+    "soundmark": "/ðe/ /ɚ/ /maɪ/ /bɛst/ /frendz/"
+  },
+  {
+    "vietnamese": "những người bạn tốt nhất của tôi",
+    "english": "my best friends",
+    "soundmark": "/maɪ/ /bɛst/ /frendz/"
+  },
+  {
+    "vietnamese": "một trong những người bạn tốt nhất của tôi",
+    "english": "one of my best friends",
+    "soundmark": "/wʌn/ /əv/ /maɪ/ /bɛst/ /frendz/"
+  },
+  {
+    "vietnamese": "anh ấy là",
+    "english": "he is",
+    "soundmark": "/hi/ /ɪz/"
+  },
+  {
+    "vietnamese": "anh ấy là một trong những người bạn tốt nhất của tôi",
+    "english": "he is one of my best friends",
+    "soundmark": "/hi/ /ɪz/ /wʌn/ /əv/ /maɪ/ /bɛst/ /frendz/"
+  },
+  {
+    "vietnamese": "điều tốt nhất của tôi",
+    "english": "my best",
+    "soundmark": "/maɪ/ /bɛst/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "cố gắng hết sức mình",
+    "english": "to do my best",
+    "soundmark": "/tə/ /du/ /maɪ/ /bɛst/"
+  },
+  {
+    "vietnamese": "Tôi cố gắng hết sức",
+    "english": "I do my best",
+    "soundmark": "/aɪ/ /du/ /maɪ/ /bɛst/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đã cố gắng hết sức",
+    "english": "I did my best",
+    "soundmark": "/aɪ/ /dɪd/ /maɪ/ /bɛst/"
+  },
+  {
+    "vietnamese": "tHĂNG BẰNG",
+    "english": "balance",
+    "soundmark": "/'bæləns/"
+  },
+  {
+    "vietnamese": "tốt",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "vietnamese": "sự cân bằng tốt",
+    "english": "a good balance",
+    "soundmark": "/ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "duy trì sự cân bằng tốt",
+    "english": "to keep a good balance",
+    "soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đã cố gắng hết sức",
+    "english": "I did my best",
+    "soundmark": "/aɪ/ /dɪd/ /maɪ/ /bɛst/"
+  },
+  {
+    "vietnamese": "Tôi (đã từng) cố gắng hết sức để duy trì sự cân bằng tốt",
+    "english": "I did my best to keep a good balance",
+    "soundmark": "/aɪ/ /dɪd/ /maɪ/ /bɛst/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "vietnamese": "công việc và cuộc sống",
+    "english": "work and life",
+    "soundmark": "/wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "vietnamese": "giữa",
+    "english": "between",
+    "soundmark": "/bɪ'twin/"
+  },
+  {
+    "vietnamese": "giữa công việc và cuộc sống",
+    "english": "between work and life",
+    "soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "vietnamese": "duy trì sự cân bằng tốt",
+    "english": "to keep a good balance",
+    "soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "vietnamese": "duy trì sự cân bằng tốt giữa công việc và cuộc sống",
+    "english": "to keep a good balance between work and life",
+    "soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đã cố gắng hết sức",
+    "english": "I did my best",
+    "soundmark": "/aɪ/ /dɪd/ /maɪ/ /bɛst/"
+  },
+  {
+    "vietnamese": "Tôi (trước đây) đã cố gắng hết sức để duy trì sự cân bằng giữa công việc và cuộc sống",
+    "english": "I did my best to keep a good balance between work and life",
+    "soundmark": "/aɪ/ /dɪd/ /maɪ/ /bɛst/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  }
+]

@@ -1,7 +1,7 @@
 export interface Statement {
   english: string;
   phonetic: string;
-  chinese: string;
+  vietnamese: string;
 }
 
 interface Course {

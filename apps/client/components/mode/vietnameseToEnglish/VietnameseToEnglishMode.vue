@@ -1,7 +1,7 @@
 <template>
   <div class="flex h-full items-center justify-center">
     <template v-if="isQuestion()">
-      <ModeChineseToEnglishQuestion />
+      <ModeVietnameseToEnglishQuestion />
       <template v-if="isAnswerTip()">
         <MainAnswerTip />
       </template>

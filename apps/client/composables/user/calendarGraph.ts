@@ -1,51 +1,57 @@
 import dayjs from "dayjs";
 import { ref } from "vue";
 
-const weeks: Record<number, string> = {
-  0: "Sun",
-  1: "Mon",
-  2: "Tue",
-  3: "Wed",
-  4: "Thu",
-  5: "Fri",
-  6: "Sat",
-};
-const weeksZh: Record<number, string> = {
-  0: "周日",
-  1: "周一",
-  2: "周二",
-  3: "周三",
-  4: "周四",
-  5: "周五",
-  6: "周六",
-};
-const months: Record<number, string> = {
-  0: "January",
-  1: "February",
-  2: "March",
-  3: "April",
-  4: "May",
-  5: "June",
-  6: "July",
-  7: "August",
-  8: "September",
-  9: "October",
-  10: "November",
-  11: "December",
-};
-const monthsZh: Record<number, string> = {
-  0: "一月",
-  1: "二月",
-  2: "三月",
-  3: "四月",
-  4: "五月",
-  5: "六月",
-  6: "七月",
-  7: "八月",
-  8: "九月",
-  9: "十月",
-  10: "十一月",
-  11: "十二月",
+const labelSets = {
+  en: {
+    weeks: {
+      0: "Sun",
+      1: "Mon",
+      2: "Tue",
+      3: "Wed",
+      4: "Thu",
+      5: "Fri",
+      6: "Sat",
+    } satisfies Record<number, string>,
+    months: {
+      0: "Jan",
+      1: "Feb",
+      2: "Mar",
+      3: "Apr",
+      4: "May",
+      5: "Jun",
+      6: "Jul",
+      7: "Aug",
+      8: "Sep",
+      9: "Oct",
+      10: "Nov",
+      11: "Dec",
+    } satisfies Record<number, string>,
+  },
+  "zh-CN": {
+    weeks: {
+      0: "周日",
+      1: "周一",
+      2: "周二",
+      3: "周三",
+      4: "周四",
+      5: "周五",
+      6: "周六",
+    } satisfies Record<number, string>,
+    months: {
+      0: "一月",
+      1: "二月",
+      2: "三月",
+      3: "四月",
+      4: "五月",
+      5: "六月",
+      6: "七月",
+      7: "八月",
+      8: "九月",
+      9: "十月",
+      10: "十一月",
+      11: "十二月",
+    } satisfies Record<number, string>,
+  },
 };
 
 export interface EmitsType {
@@ -81,8 +87,13 @@ const yearOptions = ref<Options[]>([]);
 const thead = ref<TableHead[]>([]);
 const tbody = ref<(null | TableBody)[][]>([]);
 
-export function useCalendarGraph(emits: EmitsType, config: CalendarConfig) {
+function getLabelSet(locale = "en") {
+  return locale === "zh-CN" ? labelSets["zh-CN"] : labelSets.en;
+}
+
+export function useCalendarGraph(emits: EmitsType, config: CalendarConfig, locale = "en") {
   getOptions();
+  const labels = getLabelSet(locale);
 
   /**
    * format date
@@ -136,7 +147,7 @@ export function useCalendarGraph(emits: EmitsType, config: CalendarConfig) {
     return thead.map((item, i) => {
       const nextItem = thead[i + 1] || { offset: 53 };
       const colSpan = nextItem.offset - item.offset;
-      const month = monthsZh[item.month]?.slice(0, 3);
+      const month = labels.months[item.month] ?? "";
       return { colSpan, month };
     });
   }
@@ -224,8 +235,7 @@ export function useCalendarGraph(emits: EmitsType, config: CalendarConfig) {
     initData,
     renderHead,
     renderBody,
-    weeks,
-    weeksZh,
+    weekLabels: labels.weeks,
     thead,
     tbody,
     year,

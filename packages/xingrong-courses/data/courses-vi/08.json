@@ -1,0 +1,1102 @@
+[
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "ở lại",
+    "english": "to stay",
+    "soundmark": "/tə/ /ste/"
+  },
+  {
+    "vietnamese": "Tôi muốn ở lại",
+    "english": "I want to stay",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /ste/"
+  },
+  {
+    "vietnamese": "ở đây",
+    "english": "here",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "vietnamese": "Tôi muốn ở lại đây",
+    "english": "I want to stay here",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "vietnamese": "với bạn",
+    "english": "with you",
+    "soundmark": "/wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn ở lại đây với bạn",
+    "english": "I want to stay here with you",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Anh không muốn ở đây với em",
+    "english": "I don't want to stay here with you",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "kế hoạch",
+    "english": "plan",
+    "soundmark": "/plæn/"
+  },
+  {
+    "vietnamese": "Tôi dự định",
+    "english": "I plan",
+    "soundmark": "/aɪ/ /plæn/"
+  },
+  {
+    "vietnamese": "Tôi dự định ở lại đây",
+    "english": "I plan to stay here",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "vietnamese": "với bạn",
+    "english": "with you",
+    "soundmark": "/wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi dự định ở lại đây với bạn",
+    "english": "I plan to stay here with you",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Em sẽ không ở lại đây với anh",
+    "english": "I don't plan to stay here with you",
+    "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "muốn biết",
+    "english": "want to know",
+    "soundmark": "/wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "họ muốn biết",
+    "english": "they want to know",
+    "soundmark": "/ðe/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "chỉ",
+    "english": "just",
+    "soundmark": "/dʒʌst/"
+  },
+  {
+    "vietnamese": "họ chỉ muốn biết",
+    "english": "they just want to know",
+    "soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "họ chỉ muốn biết liệu tôi có ở đây với bạn hay không",
+    "english": "they just want to know if I plan to stay here with you",
+    "soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "lý do",
+    "english": "the reason",
+    "soundmark": "/ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "họ chỉ muốn biết tại sao",
+    "english": "they just want to know the reason",
+    "soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/"
+  },
+  {
+    "vietnamese": "tại sao",
+    "english": "why",
+    "soundmark": "/waɪ/"
+  },
+  {
+    "vietnamese": "họ chỉ muốn biết tại sao tôi sẽ không ở đây với bạn",
+    "english": "they just want to know the reason why I don't plan to stay here with you",
+    "soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/ /waɪ/ /aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "bạn dự định",
+    "english": "you plan",
+    "soundmark": "/ju/ /plæn/"
+  },
+  {
+    "vietnamese": "bạn có ý định ở lại đây",
+    "english": "you plan to stay here",
+    "soundmark": "/ju/ /plæn/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "vietnamese": "với tôi",
+    "english": "with me",
+    "soundmark": "/wɪð/ /mi/"
+  },
+  {
+    "vietnamese": "em sẽ ở lại đây với anh",
+    "english": "you plan to stay here with me",
+    "soundmark": "/ju/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
+  },
+  {
+    "vietnamese": "em sẽ không ở đây với anh",
+    "english": "you don't plan to stay here with me",
+    "soundmark": "/ju/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
+  },
+  {
+    "vietnamese": "với anh ấy",
+    "english": "with him",
+    "soundmark": "/wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "anh sẽ ở lại đây với anh ta",
+    "english": "you plan to stay here with him",
+    "soundmark": "/ju/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "anh sẽ không ở đây với anh ta",
+    "english": "you don't plan to stay here with him",
+    "soundmark": "/ju/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "chúng tôi",
+    "english": "we",
+    "soundmark": "/wi/"
+  },
+  {
+    "vietnamese": "chúng ta sẽ ở lại đây với anh ấy",
+    "english": "we plan to stay here with him",
+    "soundmark": "/wi/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ không ở lại đây với anh ấy",
+    "english": "we don't plan to stay here with him",
+    "soundmark": "/wi/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "họ",
+    "english": "they",
+    "soundmark": "/ðe/"
+  },
+  {
+    "vietnamese": "họ sẽ ở lại đây với anh ta",
+    "english": "they plan to stay here with him",
+    "soundmark": "/ðe/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "họ sẽ không ở lại đây với anh ta",
+    "english": "they don't plan to stay here with him",
+    "soundmark": "/ðe/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/ /him/"
+  },
+  {
+    "vietnamese": "với chúng tôi",
+    "english": "with us",
+    "soundmark": "/wɪð/ /ʌs/"
+  },
+  {
+    "vietnamese": "họ sẽ ở lại đây với chúng ta",
+    "english": "they plan to stay here with us",
+    "soundmark": "/ðe/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+  },
+  {
+    "vietnamese": "họ sẽ không ở lại đây với chúng ta",
+    "english": "they don't plan to stay here with us",
+    "soundmark": "/ðe/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+  },
+  {
+    "vietnamese": "anh ấy dự định",
+    "english": "he plans",
+    "soundmark": "/hi/ /plænz/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ ở lại đây với chúng ta",
+    "english": "he plans to stay here with us",
+    "soundmark": "/hi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ không ở lại đây với chúng ta",
+    "english": "he doesn't plan to stay here with us",
+    "soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+  },
+  {
+    "vietnamese": "với họ",
+    "english": "with them",
+    "soundmark": "/wɪð/ /ðəm/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ ở lại đây với họ",
+    "english": "he plans to stay here with them",
+    "soundmark": "/hi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ không ở lại đây với họ",
+    "english": "he doesn't plan to stay here with them",
+    "soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+  },
+  {
+    "vietnamese": "cô ấy dự định",
+    "english": "she plans",
+    "soundmark": "/ʃi/ /plænz/"
+  },
+  {
+    "vietnamese": "cô ấy sẽ ở lại đây với họ",
+    "english": "she plans to stay here with them",
+    "soundmark": "/ʃi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+  },
+  {
+    "vietnamese": "cô ấy sẽ không ở lại đây với họ",
+    "english": "she doesn't plan to stay here with them",
+    "soundmark": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+  },
+  {
+    "vietnamese": "Xingrong dự định",
+    "english": "Xingrong plans",
+    "soundmark": "/plænz/"
+  },
+  {
+    "vietnamese": "Xingrong có ý định ở lại đây với Little Moon",
+    "english": "Xingrong plans to stay here with Xiaoyueliang",
+    "soundmark": "/plænz/ /tə/ /ste/ /hɪr/ /wɪð/"
+  },
+  {
+    "vietnamese": "rời đi",
+    "english": "to leave",
+    "soundmark": "/tə/ /liv/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn rời đi",
+    "english": "I want to leave",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /liv/"
+  },
+  {
+    "vietnamese": "Tôi không muốn rời đi",
+    "english": "I don't want to leave",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /liv/"
+  },
+  {
+    "vietnamese": "kế hoạch",
+    "english": "plan",
+    "soundmark": "/plæn/"
+  },
+  {
+    "vietnamese": "Tôi đi đây",
+    "english": "I plan to leave",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /liv/"
+  },
+  {
+    "vietnamese": "ở đây",
+    "english": "here",
+    "soundmark": "/hɪr/"
+  },
+  {
+    "vietnamese": "Tôi sẽ ra khỏi đây",
+    "english": "I plan to leave here",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/"
+  },
+  {
+    "vietnamese": "ngày mai",
+    "english": "tomorrow",
+    "soundmark": "/tə'mɔro/"
+  },
+  {
+    "vietnamese": "Tôi dự định rời đi vào ngày mai",
+    "english": "I plan to leave here tomorrow",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "ban đêm",
+    "english": "night",
+    "soundmark": "/naɪt/"
+  },
+  {
+    "vietnamese": "Tối mai tôi sẽ đi",
+    "english": "I plan to leave here tomorrow night",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/ /naɪt/"
+  },
+  {
+    "vietnamese": "Tôi sẽ không rời khỏi đây vào tối mai",
+    "english": "I don't plan to leave here tomorrow night",
+    "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/ /naɪt/"
+  },
+  {
+    "vietnamese": "rời đi",
+    "english": "to leave",
+    "soundmark": "/tə/ /liv/"
+  },
+  {
+    "vietnamese": "thành phố",
+    "english": "the city",
+    "soundmark": "/ðə/ /'sɪti/"
+  },
+  {
+    "vietnamese": "rời khỏi thành phố",
+    "english": "to leave the city",
+    "soundmark": "/tə/ /liv/ /ðə/ /'sɪti/"
+  },
+  {
+    "vietnamese": "bạn dự định",
+    "english": "you plan",
+    "soundmark": "/ju/ /plæn/"
+  },
+  {
+    "vietnamese": "bạn sắp rời khỏi thành phố",
+    "english": "you plan to leave the city",
+    "soundmark": "/ju/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/"
+  },
+  {
+    "vietnamese": "tiếp theo",
+    "english": "next",
+    "soundmark": "/nɛkst/"
+  },
+  {
+    "vietnamese": "tuần",
+    "english": "week",
+    "soundmark": "/wik/"
+  },
+  {
+    "vietnamese": "tuần tới",
+    "english": "next week",
+    "soundmark": "/nɛkst/ /wik/"
+  },
+  {
+    "vietnamese": "bạn sẽ rời thành phố vào tuần tới",
+    "english": "you plan to leave the city next week",
+    "soundmark": "/ju/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/ /nɛkst/ /wik/"
+  },
+  {
+    "vietnamese": "bạn sẽ không rời thành phố vào tuần tới",
+    "english": "you don't plan to leave the city next week",
+    "soundmark": "/ju/ /dont/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/ /nɛkst/ /wik/"
+  },
+  {
+    "vietnamese": "cô ấy dự định",
+    "english": "she plans",
+    "soundmark": "/ʃi/ /plænz/"
+  },
+  {
+    "vietnamese": "rời đi",
+    "english": "to leave",
+    "soundmark": "/tə/ /liv/"
+  },
+  {
+    "vietnamese": "đất nước",
+    "english": "the country",
+    "soundmark": "/ðə/ /'kʌntri/"
+  },
+  {
+    "vietnamese": "rời khỏi đất nước",
+    "english": "to leave the country",
+    "soundmark": "/tə/ /liv/ /ðə/ /'kʌntri/"
+  },
+  {
+    "vietnamese": "cô ấy đang có kế hoạch rời khỏi đất nước",
+    "english": "she plans to leave the country",
+    "soundmark": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/"
+  },
+  {
+    "vietnamese": "tiếp theo",
+    "english": "next",
+    "soundmark": "/nɛkst/"
+  },
+  {
+    "vietnamese": "tháng",
+    "english": "month",
+    "soundmark": "/mʌnθ/"
+  },
+  {
+    "vietnamese": "tháng tới",
+    "english": "next month",
+    "soundmark": "/nɛkst/ /mʌnθ/"
+  },
+  {
+    "vietnamese": "cô dự định rời khỏi đất nước vào tháng tới",
+    "english": "she plans to leave the country next month",
+    "soundmark": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/"
+  },
+  {
+    "vietnamese": "cô ấy sẽ không rời khỏi đất nước vào tháng tới",
+    "english": "she doesn't plan to leave the country next month",
+    "soundmark": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/"
+  },
+  {
+    "vietnamese": "chúng tôi dự định",
+    "english": "we plan",
+    "soundmark": "/wi/ /plæn/"
+  },
+  {
+    "vietnamese": "rời khỏi đây!\"",
+    "english": "to leave here",
+    "soundmark": "/tə/ /liv/ /hɪr/"
+  },
+  {
+    "vietnamese": "chúng ta sẽ ra khỏi đây",
+    "english": "we plan to leave here",
+    "soundmark": "/wi/ /plæn/ /tə/ /liv/ /hɪr/"
+  },
+  {
+    "vietnamese": "chúng ta sẽ không ra khỏi đây",
+    "english": "we don't plan to leave here",
+    "soundmark": "/wi/ /dont/ /plæn/ /tə/ /liv/ /hɪr/"
+  },
+  {
+    "vietnamese": "sớm",
+    "english": "early",
+    "soundmark": "/ˈɚli/"
+  },
+  {
+    "vietnamese": "chúng ta sẽ ra khỏi đây sớm",
+    "english": "we plan to leave here early",
+    "soundmark": "/wi/ /plæn/ /tə/ /liv/ /hɪr/ /ˈɚli/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "possible",
+    "soundmark": "/'pɑsəbl/"
+  },
+  {
+    "vietnamese": "càng sớm càng tốt; càng sớm càng tốt",
+    "english": "as early as possible",
+    "soundmark": "/əz/ /ˈɚli/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "vietnamese": "chúng tôi dự định sẽ rời khỏi đây càng sớm càng tốt",
+    "english": "we plan to leave here as early as possible",
+    "soundmark": "/wi/ /plæn/ /tə/ /liv/ /hɪr/ /əz/ /ˈɚli/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "vietnamese": "trả",
+    "english": "to pay",
+    "soundmark": "/tə/ /pe/"
+  },
+  {
+    "vietnamese": "hóa đơn",
+    "english": "the bill",
+    "soundmark": "/ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "thanh toán hóa đơn",
+    "english": "to pay the bill",
+    "soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "Tôi cần thanh toán hóa đơn của mình",
+    "english": "I need to pay the bill",
+    "soundmark": "/aɪ/ /nid/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "Tôi không cần thanh toán hóa đơn",
+    "english": "I don't need to pay the bill",
+    "soundmark": "/aɪ/ /dont/ /nid/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "Tôi dự định",
+    "english": "I plan",
+    "soundmark": "/aɪ/ /plæn/"
+  },
+  {
+    "vietnamese": "Tôi dự định thanh toán hóa đơn của mình",
+    "english": "I plan to pay the bill",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "cho bạn",
+    "english": "for you",
+    "soundmark": "/fɝ/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi sẽ thanh toán hóa đơn cho bạn",
+    "english": "I plan to pay the bill for you",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi sẽ không thanh toán hóa đơn cho bạn",
+    "english": "I don't plan to pay the bill for you",
+    "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/"
+  },
+  {
+    "vietnamese": "quý vị có ý định thanh toán hóa đơn",
+    "english": "you plan to pay the bill",
+    "soundmark": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "đối với tôi",
+    "english": "for me",
+    "soundmark": "/fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "bạn sẽ thanh toán hóa đơn của tôi",
+    "english": "you plan to pay the bill for me",
+    "soundmark": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "bạn sẽ không thanh toán hóa đơn của tôi",
+    "english": "you don't plan to pay the bill for me",
+    "soundmark": "/ju/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết",
+    "english": "I want to know",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "Tôi muốn biết liệu bạn có trả các hóa đơn của tôi không",
+    "english": "I want to know if you plan to pay the bill for me",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "anh ấy dự định",
+    "english": "he plans",
+    "soundmark": "/hi/ /plænz/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ thanh toán hóa đơn cho tôi",
+    "english": "he plans to pay the bill for me",
+    "soundmark": "/hi/ /plænz/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ không thanh toán hóa đơn cho tôi",
+    "english": "he doesn't plan to pay the bill for me",
+    "soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "cho anh ấy",
+    "english": "for him",
+    "soundmark": "/fɝ/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi sẽ trả hóa đơn cho anh ấy",
+    "english": "I plan to pay the bill for him",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi sẽ không thanh toán hóa đơn cho anh ấy",
+    "english": "I don't plan to pay the bill for him",
+    "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "điều này rất quan trọng",
+    "english": "it is important",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "rất",
+    "english": "very",
+    "soundmark": "/ˈvɛri/"
+  },
+  {
+    "vietnamese": "điều này rất quan trọng",
+    "english": "it is very important",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "bởi vì nó rất quan trọng",
+    "english": "because it is very important",
+    "soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Tôi sẽ trả các hóa đơn cho anh ấy vì nó rất quan trọng",
+    "english": "I plan to pay the bill for him because it is very important",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "làm việc này",
+    "english": "to do it",
+    "soundmark": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "Tôi cần phải làm điều này",
+    "english": "I need to do it",
+    "soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "và",
+    "english": "and",
+    "soundmark": "/ənd/"
+  },
+  {
+    "vietnamese": "và tôi cần phải làm điều đó",
+    "english": "and I need to do it",
+    "soundmark": "/ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "Tôi sẽ trả các hóa đơn cho anh ấy vì nó rất quan trọng và tôi cần phải làm điều đó",
+    "english": "I plan to pay the bill for him because it is very important and I need to do it",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "vietnamese": "cho cô ấy",
+    "english": "for her",
+    "soundmark": "/fɝ/ /hɚ/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ trả các hóa đơn cho cô ấy",
+    "english": "he plans to pay the bill for her",
+    "soundmark": "/hi/ /plænz/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ không thanh toán hóa đơn cho cô ấy",
+    "english": "he doesn't plan to pay the bill for her",
+    "soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi dự định",
+    "english": "we plan",
+    "soundmark": "/wi/ /plæn/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ trả các hóa đơn cho cô ấy",
+    "english": "we plan to pay the bill for her",
+    "soundmark": "/wi/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ không thanh toán hóa đơn cho cô ấy",
+    "english": "we don't plan to pay the bill for her",
+    "soundmark": "/wi/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/"
+  },
+  {
+    "vietnamese": "cho họ",
+    "english": "for them",
+    "soundmark": "/fɝ/ /ðəm/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ thanh toán hóa đơn cho họ",
+    "english": "we plan to pay the bill for them",
+    "soundmark": "/wi/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ không thanh toán hóa đơn cho họ",
+    "english": "we don't plan to pay the bill for them",
+    "soundmark": "/wi/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/"
+  },
+  {
+    "vietnamese": "du lịch",
+    "english": "to travel",
+    "soundmark": "/tə/ /'trævl/"
+  },
+  {
+    "vietnamese": "thế giới",
+    "english": "the world",
+    "soundmark": "/ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "du lịch thế giới",
+    "english": "to travel the world",
+    "soundmark": "/tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "Tôi dự định",
+    "english": "I plan",
+    "soundmark": "/aɪ/ /plæn/"
+  },
+  {
+    "vietnamese": "Tôi dự định đi du lịch thế giới",
+    "english": "I plan to travel the world",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "với bạn",
+    "english": "with you",
+    "soundmark": "/wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi có ý định đi du lịch thế giới cùng bạn",
+    "english": "I plan to travel the world with you",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "tiếp theo",
+    "english": "next",
+    "soundmark": "/nɛkst/"
+  },
+  {
+    "vietnamese": "năm",
+    "english": "year",
+    "soundmark": "/jɪr/"
+  },
+  {
+    "vietnamese": "năm tới",
+    "english": "next year",
+    "soundmark": "/nɛkst/ /jɪr/"
+  },
+  {
+    "vietnamese": "Tôi dự định sẽ đi du lịch khắp thế giới với bạn vào năm tới",
+    "english": "I plan to travel the world with you next year",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/ /nɛkst/ /jɪr/"
+  },
+  {
+    "vietnamese": "Tôi không có kế hoạch đi du lịch thế giới với bạn vào năm tới",
+    "english": "I don't plan to travel the world with you next year",
+    "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/ /nɛkst/ /jɪr/"
+  },
+  {
+    "vietnamese": "với tôi",
+    "english": "with me",
+    "soundmark": "/wɪð/ /mi/"
+  },
+  {
+    "vietnamese": "bạn có kế hoạch đi du lịch thế giới với tôi vào năm tới",
+    "english": "you plan to travel the world with me next year",
+    "soundmark": "/ju/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /mi/ /nɛkst/ /jɪr/"
+  },
+  {
+    "vietnamese": "bạn không có kế hoạch đi du lịch thế giới với tôi vào năm tới",
+    "english": "you don't plan to travel the world with me next year",
+    "soundmark": "/ju/ /dont/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /mi/ /nɛkst/ /jɪr/"
+  },
+  {
+    "vietnamese": "anh ấy dự định",
+    "english": "he plans",
+    "soundmark": "/hi/ /plænz/"
+  },
+  {
+    "vietnamese": "với cô ấy",
+    "english": "with her",
+    "soundmark": "/wɪð/ /hɚ/"
+  },
+  {
+    "vietnamese": "anh ấy dự định đi du lịch khắp thế giới với cô ấy vào năm tới",
+    "english": "he plans to travel the world with her next year",
+    "soundmark": "/hi/ /plænz/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /nɛkst/ /jɪr/"
+  },
+  {
+    "vietnamese": "anh ấy không có kế hoạch đi du lịch thế giới với cô ấy vào năm tới",
+    "english": "he doesn't plan to travel the world with her next year",
+    "soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /nɛkst/ /jɪr/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "would like",
+    "soundmark": "/wʊd/ /laɪk/"
+  },
+  {
+    "vietnamese": "ở lại",
+    "english": "to stay",
+    "soundmark": "/tə/ /ste/"
+  },
+  {
+    "vietnamese": "hãy ở lại đây",
+    "english": "to stay here",
+    "soundmark": "/tə/ /ste/ /hɪr/"
+  },
+  {
+    "vietnamese": "Tôi muốn ở lại đây",
+    "english": "I would like to stay here",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "vietnamese": "với bạn",
+    "english": "with you",
+    "soundmark": "/wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn ở lại đây với bạn",
+    "english": "I would like to stay here with you",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Anh không muốn ở đây với em",
+    "english": "I would not like to stay here with you",
+    "soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "với tôi",
+    "english": "with me",
+    "soundmark": "/wɪð/ /mi/"
+  },
+  {
+    "vietnamese": "bạn có muốn ở lại đây với tôi không?",
+    "english": "you would like to stay here with me",
+    "soundmark": "/ju/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
+  },
+  {
+    "vietnamese": "em không muốn ở đây với anh",
+    "english": "you would not like to stay here with me",
+    "soundmark": "/ju/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
+  },
+  {
+    "vietnamese": "với anh ấy",
+    "english": "with him",
+    "soundmark": "/wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "bạn có muốn ở lại đây với anh ấy không?",
+    "english": "you would like to stay here with him",
+    "soundmark": "/ju/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "bạn không muốn ở lại đây với anh ta",
+    "english": "you would not like to stay here with him",
+    "soundmark": "/ju/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn ở lại đây với anh ấy",
+    "english": "we would like to stay here with him",
+    "soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "chúng tôi không muốn ở đây với anh ấy",
+    "english": "we would not like to stay here with him",
+    "soundmark": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "với cô ấy",
+    "english": "with her",
+    "soundmark": "/wɪð/ /hɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn ở lại đây với cô ấy",
+    "english": "we would like to stay here with her",
+    "soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi không muốn ở đây với cô ấy",
+    "english": "we would not like to stay here with her",
+    "soundmark": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/"
+  },
+  {
+    "vietnamese": "với họ",
+    "english": "with them",
+    "soundmark": "/wɪð/ /ðəm/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn ở lại đây với họ",
+    "english": "we would like to stay here with them",
+    "soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+  },
+  {
+    "vietnamese": "chúng tôi không muốn ở đây với họ",
+    "english": "we would not like to stay here with them",
+    "soundmark": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+  },
+  {
+    "vietnamese": "họ sẵn sàng ở lại đây với cô ấy",
+    "english": "they would like to stay here with her",
+    "soundmark": "/ðe/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/"
+  },
+  {
+    "vietnamese": "họ không muốn ở đây với cô ấy",
+    "english": "they would not like to stay here with her",
+    "soundmark": "/ðe/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/"
+  },
+  {
+    "vietnamese": "với chúng tôi",
+    "english": "with us",
+    "soundmark": "/wɪð/ /ʌs/"
+  },
+  {
+    "vietnamese": "họ sẵn sàng ở lại đây với chúng tôi",
+    "english": "they would like to stay here with us",
+    "soundmark": "/ðe/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+  },
+  {
+    "vietnamese": "họ không muốn ở đây với chúng ta",
+    "english": "they would not like to stay here with us",
+    "soundmark": "/ðe/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+  },
+  {
+    "vietnamese": "du lịch",
+    "english": "to travel",
+    "soundmark": "/tə/ /'trævl/"
+  },
+  {
+    "vietnamese": "thế giới",
+    "english": "the world",
+    "soundmark": "/ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "trên toàn thế giới",
+    "english": "to travel the world",
+    "soundmark": "/tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "Tôi sẵn sàng đi du lịch vòng quanh thế giới",
+    "english": "I would like to travel the world",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "với cô ấy",
+    "english": "with her",
+    "soundmark": "/wɪð/ /hɚ/"
+  },
+  {
+    "vietnamese": "Tôi rất muốn đi du lịch khắp thế giới với cô ấy",
+    "english": "I would like to travel the world with her",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/"
+  },
+  {
+    "vietnamese": "Tôi không muốn đi du lịch thế giới với cô ấy",
+    "english": "I would not like to travel the world with her",
+    "soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/"
+  },
+  {
+    "vietnamese": "Tôi dự định",
+    "english": "I plan",
+    "soundmark": "/aɪ/ /plæn/"
+  },
+  {
+    "vietnamese": "Tôi dự định ở lại đây",
+    "english": "I plan to stay here",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "vietnamese": "với bạn",
+    "english": "with you",
+    "soundmark": "/wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi dự định ở lại đây với bạn",
+    "english": "I plan to stay here with you",
+    "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "bởi vì em sẽ ở lại đây với anh",
+    "english": "because I plan to stay here with you",
+    "soundmark": "/bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "Anh không muốn đi vòng quanh thế giới với cô ấy vì anh sẽ ở đây với em",
+    "english": "I would not like to travel the world with her because I plan to stay here with you",
+    "soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "cô ấy sẵn sàng đi du lịch khắp thế giới",
+    "english": "she would like to travel the world",
+    "soundmark": "/ʃi/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "vietnamese": "với anh ấy",
+    "english": "with him",
+    "soundmark": "/wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "cô ấy muốn đi du lịch vòng quanh thế giới cùng anh ấy",
+    "english": "she would like to travel the world with him",
+    "soundmark": "/ʃi/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "cô không muốn đi du lịch vòng quanh thế giới với anh ta",
+    "english": "she would not like to travel the world with him",
+    "soundmark": "/ʃi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɪm/"
+  },
+  {
+    "vietnamese": "trả",
+    "english": "to pay",
+    "soundmark": "/tə/ /pe/"
+  },
+  {
+    "vietnamese": "hóa đơn",
+    "english": "the bill",
+    "soundmark": "/ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "thanh toán hóa đơn",
+    "english": "to pay the bill",
+    "soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "Tôi sẵn sàng thanh toán hóa đơn của mình",
+    "english": "I would like to pay the bill",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "cho họ",
+    "english": "for them",
+    "soundmark": "/fɝ/ /ðəm/"
+  },
+  {
+    "vietnamese": "Tôi sẵn sàng trả các hóa đơn cho họ",
+    "english": "I would like to pay the bill for them",
+    "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/"
+  },
+  {
+    "vietnamese": "Tôi không sẵn sàng thanh toán hóa đơn cho họ",
+    "english": "I would not like to pay the bill for them",
+    "soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/"
+  },
+  {
+    "vietnamese": "anh ấy",
+    "english": "he",
+    "soundmark": "/hi/"
+  },
+  {
+    "vietnamese": "anh ấy sẵn sàng trả các hóa đơn",
+    "english": "he would like to pay the bill",
+    "soundmark": "/hi/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "cho chúng tôi",
+    "english": "for us",
+    "soundmark": "/fɝ/ /ʌs/"
+  },
+  {
+    "vietnamese": "anh ấy sẵn sàng trả các hóa đơn của chúng tôi",
+    "english": "he would like to pay the bill for us",
+    "soundmark": "/hi/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ʌs/"
+  },
+  {
+    "vietnamese": "anh ấy không sẵn sàng trả các hóa đơn của chúng tôi",
+    "english": "he would not like to pay the bill for us",
+    "soundmark": "/hi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ʌs/"
+  }
+]

@@ -1,0 +1,692 @@
+[
+  {
+    "vietnamese": "của chúng tôi",
+    "english": "our",
+    "soundmark": "/'aʊɚ/"
+  },
+  {
+    "vietnamese": "đội ngũ",
+    "english": "team",
+    "soundmark": "/tim/"
+  },
+  {
+    "vietnamese": "nhóm của chúng tôi",
+    "english": "our team",
+    "soundmark": "/'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "tham gia",
+    "english": "to join",
+    "soundmark": "/tə/ /dʒɔɪn/"
+  },
+  {
+    "vietnamese": "tham gia nhóm của chúng tôi",
+    "english": "to join our team",
+    "soundmark": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "to decide",
+    "soundmark": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "quyết định tham gia nhóm của chúng tôi",
+    "english": "to decide to join our team",
+    "soundmark": "/tə/ /dɪ'saɪd/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "anh ấy quyết định tham gia nhóm của chúng tôi",
+    "english": "he decides to join our team",
+    "soundmark": "/hi/ /dɪ'saɪdz/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "anh ấy (trước đây) đã quyết định tham gia nhóm của chúng tôi",
+    "english": "he decided to join our team",
+    "soundmark": "/hi/ /dɪ'saɪdɪd/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "mời",
+    "english": "to invite",
+    "soundmark": "/tə/ /ɪn'vaɪt/"
+  },
+  {
+    "vietnamese": "lời mời (danh từ)",
+    "english": "invitation",
+    "soundmark": "/ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "lời mời này",
+    "english": "the invitation",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "接受",
+    "english": "to accept",
+    "soundmark": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "vietnamese": "chấp nhận lời mời này",
+    "english": "to accept the invitation",
+    "soundmark": "/tə/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "vietnamese": "tham gia nhóm của chúng tôi",
+    "english": "to join our team",
+    "soundmark": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "lời mời tham gia nhóm của chúng tôi",
+    "english": "the invitation to join our team",
+    "soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "chấp nhận lời mời tham gia nhóm của chúng tôi",
+    "english": "to accept the invitation to join our team",
+    "soundmark": "/tə/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "anh ấy chấp nhận lời mời tham gia nhóm của chúng tôi",
+    "english": "he accepts the invitation to join our team",
+    "soundmark": "/hi/ /ək'sɛpts/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "anh ấy không chấp nhận lời mời tham gia nhóm của chúng tôi",
+    "english": "he doesn't accept the invitation to join our team",
+    "soundmark": "/hi/ /ˈdʌznt/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "anh ấy đã chấp nhận lời mời tham gia nhóm của chúng tôi",
+    "english": "he accepted the invitation to join our team",
+    "soundmark": "/hi/ /ək'sɛptɪd/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "anh ấy đã không chấp nhận lời mời tham gia nhóm của chúng tôi (trong quá khứ)",
+    "english": "he didn't accept the invitation to join our team",
+    "soundmark": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "vietnamese": "món quà này",
+    "english": "the gift",
+    "soundmark": "/ðə/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "接受",
+    "english": "to accept",
+    "soundmark": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "vietnamese": "chấp nhận món quà này",
+    "english": "to accept the gift",
+    "soundmark": "/tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "anh ấy",
+    "english": "he",
+    "soundmark": "/hi/"
+  },
+  {
+    "vietnamese": "anh ấy đã nhận món quà",
+    "english": "he accepts the gift",
+    "soundmark": "/hi/ /ək'sɛpts/ /ðə/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "anh ấy đã không nhận món quà",
+    "english": "he doesn't accept the gift",
+    "soundmark": "/hi/ /ˈdʌznt/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "anh ấy đã nhận món quà (trong quá khứ)",
+    "english": "he accepted the gift",
+    "soundmark": "/hi/ /ək'sɛptɪd/ /ðə/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "anh ấy đã không nhận món quà này (trong quá khứ)",
+    "english": "he didn't accept the gift",
+    "soundmark": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "anh ấy muốn",
+    "english": "he wants",
+    "soundmark": "/hi/ /wɑnts/"
+  },
+  {
+    "vietnamese": "anh ấy muốn nhận món quà này",
+    "english": "he wants to accept the gift",
+    "soundmark": "/hi/ /wɑnts/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "anh ấy không muốn nhận món quà này",
+    "english": "he doesn't want to accept the gift",
+    "soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "anh ấy muốn nhận món quà này (trong quá khứ)",
+    "english": "he wanted to accept the gift",
+    "soundmark": "/hi/ /wɑntɪd/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "anh ấy không muốn nhận món quà này (trong quá khứ)",
+    "english": "he didn't want to accept the gift",
+    "soundmark": "/hi/ /ˈdɪdnt/ /wɑnt/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "to finish",
+    "soundmark": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "của bạn",
+    "english": "your",
+    "soundmark": "/jʊr/"
+  },
+  {
+    "vietnamese": "bài tập về nhà",
+    "english": "homework",
+    "soundmark": "/'hom'wɝk/"
+  },
+  {
+    "vietnamese": "bài tập về nhà của bạn",
+    "english": "your homework",
+    "soundmark": "/jʊr/ /'hom'wɝk/"
+  },
+  {
+    "vietnamese": "hoàn thành bài tập về nhà của bạn",
+    "english": "to finish your homework",
+    "soundmark": "/tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/"
+  },
+  {
+    "vietnamese": "Anh muốn em",
+    "english": "I want you",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn hoàn thành bài tập về nhà của mình",
+    "english": "I want you to finish your homework",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/"
+  },
+  {
+    "vietnamese": "xem",
+    "english": "to watch",
+    "soundmark": "/tə/ /wɔtʃ/"
+  },
+  {
+    "vietnamese": "Ti vi",
+    "english": "TV",
+    "soundmark": "/ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "xem tivi.",
+    "english": "to watch TV",
+    "soundmark": "/tə/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "xem TV",
+    "english": "you watch TV",
+    "soundmark": "/ju/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước khi bạn xem TV",
+    "english": "before you watch TV",
+    "soundmark": "/bɪ'fɔr/ /ju/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn hoàn thành bài tập về nhà của mình",
+    "english": "I want you to finish your homework",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn hoàn thành bài tập về nhà trước khi xem TV",
+    "english": "I want you to finish your homework before you watch TV",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/ /bɪ'fɔr/ /ju/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể",
+    "english": "you can",
+    "soundmark": "/ju/ /kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể xem TV",
+    "english": "you can watch TV",
+    "soundmark": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "bạn không thể xem TV",
+    "english": "you can not watch TV",
+    "soundmark": "/ju/ /kæn/ /nɑt/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "bạn muốn",
+    "english": "you want",
+    "soundmark": "/ju/ /wɑnt/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "nếu bạn muốn",
+    "english": "if you want",
+    "soundmark": "/ɪf/ /ju/ /wɑnt/"
+  },
+  {
+    "vietnamese": "bạn có thể xem TV",
+    "english": "you can watch TV",
+    "soundmark": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "vietnamese": "bạn có thể xem TV nếu muốn",
+    "english": "you can watch TV if you want",
+    "soundmark": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/ /ɪf/ /ju/ /wɑnt/"
+  },
+  {
+    "vietnamese": "trả lời",
+    "english": "to answer",
+    "soundmark": "/tə/ /'ænsɚ/"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "english": "the question",
+    "soundmark": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "trả lời câu hỏi này",
+    "english": "to answer the question",
+    "soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "cự tuyệt",
+    "english": "to refuse",
+    "soundmark": "/tə/ /ri'fjuz/"
+  },
+  {
+    "vietnamese": "từ chối trả lời câu hỏi này",
+    "english": "to refuse to answer the question",
+    "soundmark": "/tə/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "Tôi muốn từ chối trả lời câu hỏi này",
+    "english": "I want to refuse to answer the question",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "Tôi từ chối trả lời câu hỏi này",
+    "english": "I refuse to answer the question",
+    "soundmark": "/aɪ/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "Tôi đã từ chối trả lời câu hỏi này (trong quá khứ)",
+    "english": "I refused to answer the question",
+    "soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "english": "the question",
+    "soundmark": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "khó",
+    "english": "difficult",
+    "soundmark": "/'dɪfɪkəlt/"
+  },
+  {
+    "vietnamese": "đó là một câu hỏi khó",
+    "english": "the question is difficult",
+    "soundmark": "/ðə/ /'kwɛstʃən/ /ɪz/ /'dɪfɪkəlt/"
+  },
+  {
+    "vietnamese": "vấn đề (trong quá khứ) là khó khăn",
+    "english": "the question was difficult",
+    "soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /'dɪfɪkəlt/"
+  },
+  {
+    "vietnamese": "rất",
+    "english": "very",
+    "soundmark": "/ˈvɛri/"
+  },
+  {
+    "vietnamese": "vấn đề (trong quá khứ) rất khó khăn",
+    "english": "the question was very difficult",
+    "soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/"
+  },
+  {
+    "vietnamese": "đối với tôi",
+    "english": "for me",
+    "soundmark": "/fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "vấn đề (trong quá khứ) rất khó khăn đối với tôi",
+    "english": "the question was very difficult for me",
+    "soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "bởi vì vấn đề (trong quá khứ) rất khó khăn đối với tôi",
+    "english": "because the question was very difficult for me",
+    "soundmark": "/bɪ'kɔz/ /ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi đã từ chối trả lời câu hỏi này (trong quá khứ)",
+    "english": "I refused to answer the question",
+    "soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "Tôi từ chối trả lời câu hỏi đó (trong quá khứ) vì câu hỏi (trong quá khứ) rất khó đối với tôi",
+    "english": "I refused to answer the question because the question was very difficult for me",
+    "soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/ /bɪ'kɔz/ /ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) từ chối trả lời câu hỏi vì nó (quá khứ) rất khó cho tôi",
+    "english": "I refused to answer the question because it was very difficult for me",
+    "soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/ /bɪ'kɔz/ /ɪt/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "khó",
+    "english": "difficult",
+    "soundmark": "/'dɪfɪkəlt/"
+  },
+  {
+    "vietnamese": "khó khăn",
+    "english": "it is difficult",
+    "soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "to finish",
+    "soundmark": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "công việc này",
+    "english": "the work",
+    "soundmark": "/ðə/ /wɝk/"
+  },
+  {
+    "vietnamese": "hoàn thành công việc này",
+    "english": "to finish the work",
+    "soundmark": "/tə/ /'fɪnɪʃ/ /ðə/ /wɝk/"
+  },
+  {
+    "vietnamese": "hoàn thành công việc này (nó) rất khó",
+    "english": "it is difficult to finish the work",
+    "soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /'fɪnɪʃ/ /ðə/ /wɝk/"
+  },
+  {
+    "vietnamese": "một ngày",
+    "english": "a day",
+    "soundmark": "/ə/ /de/"
+  },
+  {
+    "vietnamese": "trong một ngày",
+    "english": "in a day",
+    "soundmark": "/ɪn/ /ə/ /de/"
+  },
+  {
+    "vietnamese": "hoàn thành công việc này trong một ngày (thật khó)",
+    "english": "it is difficult to finish the work in a day",
+    "soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /'fɪnɪʃ/ /ðə/ /wɝk/ /ɪn/ /ə/ /de/"
+  },
+  {
+    "vietnamese": "nguy hiểm",
+    "english": "dangerous",
+    "soundmark": "/'dendʒərəs/"
+  },
+  {
+    "vietnamese": "nguy hiểm lắm",
+    "english": "it is dangerous",
+    "soundmark": "/ɪt/ /ɪz/ /'dendʒərəs/"
+  },
+  {
+    "vietnamese": "bơi lội",
+    "english": "to swim",
+    "soundmark": "/tə/ /swɪm/"
+  },
+  {
+    "vietnamese": "biển khơi",
+    "english": "the sea",
+    "soundmark": "/ðə/ /si/"
+  },
+  {
+    "vietnamese": "trên biển",
+    "english": "in the sea",
+    "soundmark": "/ɪn/ /ðə/ /si/"
+  },
+  {
+    "vietnamese": "bơi trong đại dương",
+    "english": "to swim in the sea",
+    "soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+  },
+  {
+    "vietnamese": "bơi trên biển rất nguy hiểm",
+    "english": "it is dangerous to swim in the sea",
+    "soundmark": "/ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+  },
+  {
+    "vietnamese": "nghĩ",
+    "english": "think",
+    "soundmark": "/θɪŋk/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ",
+    "english": "I think",
+    "soundmark": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ rằng bơi ở biển (nó) là nguy hiểm",
+    "english": "I think it is dangerous to swim in the sea",
+    "soundmark": "/aɪ/ /θɪŋk/ /ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+  },
+  {
+    "vietnamese": "Tôi không nghĩ rằng bơi trong đại dương là nguy hiểm",
+    "english": "I don't think it is dangerous to swim in the sea",
+    "soundmark": "/aɪ/ /dont/ /θɪŋk/ /ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+  },
+  {
+    "vietnamese": "Tôi từ chối",
+    "english": "I refuse",
+    "soundmark": "/aɪ/ /ri'fjuz/"
+  },
+  {
+    "vietnamese": "Tôi từ chối bơi trong đại dương",
+    "english": "I refuse to swim in the sea",
+    "soundmark": "/aɪ/ /ri'fjuz/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+  },
+  {
+    "vietnamese": "bởi vì",
+    "english": "because",
+    "soundmark": "/bɪ'kɔz/"
+  },
+  {
+    "vietnamese": "bởi vì nó nguy hiểm",
+    "english": "because it is dangerous",
+    "soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /'dendʒərəs/"
+  },
+  {
+    "vietnamese": "Tôi từ chối bơi trong đại dương vì nó nguy hiểm",
+    "english": "I refuse to swim in the sea because it is dangerous",
+    "soundmark": "/aɪ/ /ri'fjuz/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'kɔz/ /ɪt/ /ɪz/ /'dendʒərəs/"
+  },
+  {
+    "vietnamese": "接受",
+    "english": "to accept",
+    "soundmark": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "vietnamese": "thử thách này",
+    "english": "the challenge",
+    "soundmark": "/ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "chấp nhận thử thách",
+    "english": "to accept the challenge",
+    "soundmark": "/tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "Tôi phải chấp nhận thử thách",
+    "english": "I have to accept the challenge",
+    "soundmark": "/aɪ/ /hæv/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "Tôi phải chấp nhận thử thách này (trong quá khứ)",
+    "english": "I had to accept the challenge",
+    "soundmark": "/aɪ/ /hæd/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "Tôi không phải đảm nhận thử thách này (trong quá khứ)",
+    "english": "I didn't have to accept the challenge",
+    "soundmark": "/aɪ/ /ˈdɪdnt/ /hæv/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "Tôi chấp nhận thử thách",
+    "english": "I accept the challenge",
+    "soundmark": "/aɪ/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "Tôi không chấp nhận thử thách này",
+    "english": "I don't accept the challenge",
+    "soundmark": "/aɪ/ /dont/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "Tôi đã chấp nhận thử thách (trong quá khứ)",
+    "english": "I accepted the challenge",
+    "soundmark": "/aɪ/ /ək'sɛptɪd/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "Tôi không chấp nhận thử thách này (trong quá khứ)",
+    "english": "I didn't accept the challenge",
+    "soundmark": "/aɪ/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "lớn",
+    "english": "big",
+    "soundmark": "/bɪɡ/"
+  },
+  {
+    "vietnamese": "một thách thức lớn",
+    "english": "a big challenge",
+    "soundmark": "/ə/ /bɪɡ/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Tiếng Anh là một thách thức lớn",
+    "english": "English is a big challenge",
+    "soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /ə/ /bɪɡ/ /'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "đối với tôi",
+    "english": "for me",
+    "soundmark": "/fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Tiếng Anh là một thử thách lớn đối với tôi",
+    "english": "English is a big challenge for me",
+    "soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Tiếng Anh không phải là một thách thức lớn đối với tôi",
+    "english": "English is not a big challenge for me",
+    "soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "nắm giữ",
+    "english": "to master",
+    "soundmark": "/tə/ /'mæstɚ/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "thành thạo tiếng Anh",
+    "english": "to master English",
+    "soundmark": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Tôi sẽ",
+    "english": "I will",
+    "soundmark": "/aɪ/ /wɪl/"
+  },
+  {
+    "vietnamese": "Tôi sẽ thành thạo tiếng Anh",
+    "english": "I will master English",
+    "soundmark": "/aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "tương lai",
+    "english": "the future",
+    "soundmark": "/ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "vietnamese": "trong tương lai",
+    "english": "in the future",
+    "soundmark": "/ɪn/ /ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "vietnamese": "cách đó không xa",
+    "english": "near",
+    "soundmark": "/nɪr/"
+  },
+  {
+    "vietnamese": "trong tương lai gần",
+    "english": "in the near future",
+    "soundmark": "/ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+  },
+  {
+    "vietnamese": "Tôi sẽ thành thạo tiếng Anh trong tương lai gần",
+    "english": "I will master English in the near future",
+    "soundmark": "/aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+  },
+  {
+    "vietnamese": "Anh biết.",
+    "english": "I know",
+    "soundmark": "/aɪ/ /no/"
+  },
+  {
+    "vietnamese": "Tôi biết rằng tôi sẽ thành thạo tiếng Anh trong tương lai gần",
+    "english": "I know I will master English in the near future",
+    "soundmark": "/aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+  },
+  {
+    "vietnamese": "và",
+    "english": "and",
+    "soundmark": "/ənd/"
+  },
+  {
+    "vietnamese": "và tôi biết rằng tôi sẽ thành thạo tiếng Anh trong tương lai gần",
+    "english": "and I know I will master english in the near future",
+    "soundmark": "/ənd/ /aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+  },
+  {
+    "vietnamese": "Tiếng Anh không phải là một thách thức lớn đối với tôi",
+    "english": "English is not a big challenge for me",
+    "soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/"
+  },
+  {
+    "vietnamese": "Tiếng Anh không phải là một thách thức lớn đối với tôi và tôi biết tôi sẽ thành thạo nó trong tương lai gần",
+    "english": "English is not a big challenge for me and I know I will master english in the near future",
+    "soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/ /ənd/ /aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+  }
+]

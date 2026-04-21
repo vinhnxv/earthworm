@@ -1,0 +1,777 @@
+[
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "anh ấy cần",
+    "english": "he needs",
+    "soundmark": "/hi/ /nidz/"
+  },
+  {
+    "vietnamese": "anh ấy cần giữ",
+    "english": "he needs to keep",
+    "soundmark": "/hi/ /nidz/ /tə/ /kip/"
+  },
+  {
+    "vietnamese": "luyện tập",
+    "english": "to practice",
+    "soundmark": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "vietnamese": "thực hành (dạng ing)",
+    "english": "practicing",
+    "soundmark": "/ˈpræktɪsɪŋ/"
+  },
+  {
+    "vietnamese": "anh ấy cần phải tiếp tục luyện tập",
+    "english": "he needs to keep practicing",
+    "soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/"
+  },
+  {
+    "vietnamese": "công nghệ",
+    "english": "skills",
+    "soundmark": "/'skɪlz/"
+  },
+  {
+    "vietnamese": "kỹ năng của anh ấy",
+    "english": "his skills",
+    "soundmark": "/hɪz/ /'skɪlz/"
+  },
+  {
+    "vietnamese": "khuyến khích",
+    "english": "to improve",
+    "soundmark": "/tə/ /ɪmˈpruv/"
+  },
+  {
+    "vietnamese": "cải thiện kỹ năng của anh ấy",
+    "english": "to improve his skills",
+    "soundmark": "/tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/"
+  },
+  {
+    "vietnamese": "anh ấy cần phải tiếp tục luyện tập",
+    "english": "he needs to keep practicing",
+    "soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/"
+  },
+  {
+    "vietnamese": "anh ấy cần phải tiếp tục luyện tập để cải thiện kỹ năng của mình",
+    "english": "he needs to keep practicing to improve his skills",
+    "soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/ /tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/"
+  },
+  {
+    "vietnamese": "nắm giữ",
+    "english": "to master",
+    "soundmark": "/'mæstɚ/"
+  },
+  {
+    "vietnamese": "bạn sẽ",
+    "english": "you will",
+    "soundmark": "/ju/ /wɪl/"
+  },
+  {
+    "vietnamese": "bạn sẽ thành thạo",
+    "english": "you will master",
+    "soundmark": "/ju/ /wɪl/ /'mæstɚ/"
+  },
+  {
+    "vietnamese": "công nghệ đó",
+    "english": "the skill",
+    "soundmark": "/ðə/ /'skɪl/"
+  },
+  {
+    "vietnamese": "bạn sẽ làm chủ được công nghệ đó",
+    "english": "you will master the skill",
+    "soundmark": "/ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/"
+  },
+  {
+    "vietnamese": "bạn giữ",
+    "english": "you keep",
+    "soundmark": "/ju/ /kip/"
+  },
+  {
+    "vietnamese": "luyện tập",
+    "english": "to practice",
+    "soundmark": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "vietnamese": "thực hành (dạng ing)",
+    "english": "practicing",
+    "soundmark": "/ˈpræktɪsɪŋ/"
+  },
+  {
+    "vietnamese": "bạn tiếp tục luyện tập",
+    "english": "you keep practicing",
+    "soundmark": "/ju/ /kip/ /ˈpræktɪsɪŋ/"
+  },
+  {
+    "vietnamese": "bạn tiếp tục luyện tập và bạn sẽ thành thạo kỹ thuật đó",
+    "english": "you keep practicing and you will master the skill",
+    "soundmark": "/ju/ /kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/"
+  },
+  {
+    "vietnamese": "hãy tiếp tục luyện tập và bạn sẽ thành thạo kỹ thuật đó",
+    "english": "keep practicing and you will master the skill",
+    "soundmark": "/kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/"
+  },
+  {
+    "vietnamese": "mới",
+    "english": "new",
+    "soundmark": "/nu/"
+  },
+  {
+    "vietnamese": "công nghệ mới",
+    "english": "new skills",
+    "soundmark": "/nu/ /'skɪlz/"
+  },
+  {
+    "vietnamese": "học tập",
+    "english": "to learn",
+    "soundmark": "/tə/ /lɝn/"
+  },
+  {
+    "vietnamese": "học các kỹ thuật mới",
+    "english": "to learn new skills",
+    "soundmark": "/tə/ /lɝn/ /nu/ /'skɪlz/"
+  },
+  {
+    "vietnamese": "học các kỹ thuật mới (dạng ing)",
+    "english": "learning new skills",
+    "soundmark": "/'lɝnɪŋ/ /nu/ /'skɪlz/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "cô ấy giữ",
+    "english": "she keeps",
+    "soundmark": "/ʃi/ /kips/"
+  },
+  {
+    "vietnamese": "cô ấy luôn học hỏi những kỹ thuật mới",
+    "english": "she keeps learning new skills",
+    "soundmark": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/"
+  },
+  {
+    "vietnamese": "khuyến khích",
+    "english": "to improve",
+    "soundmark": "/tə/ /ɪmˈpruv/"
+  },
+  {
+    "vietnamese": "bản thân cô ấy",
+    "english": "herself",
+    "soundmark": "/hɝ'sɛlf/"
+  },
+  {
+    "vietnamese": "cải thiện bản thân",
+    "english": "to improve herself",
+    "soundmark": "/tə/ /ɪmˈpruv/ /hɝ'sɛlf/"
+  },
+  {
+    "vietnamese": "cô ấy luôn học hỏi những kỹ thuật mới để cải thiện bản thân",
+    "english": "she keeps learning new skills to improve herself",
+    "soundmark": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/ /tə/ /ɪmˈpruv/ /hɝ'sɛlf/"
+  },
+  {
+    "vietnamese": "khóa",
+    "english": "to lock",
+    "soundmark": "/tə/ /lɑk/"
+  },
+  {
+    "vietnamese": "cửa",
+    "english": "the door",
+    "soundmark": "/ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "khóa cửa",
+    "english": "to lock the door",
+    "soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "quên mất",
+    "english": "to forget",
+    "soundmark": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "quên khóa cửa",
+    "english": "to forget to lock the door",
+    "soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "quên khóa cửa (dạng ing)",
+    "english": "forgetting to lock the door",
+    "soundmark": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "cô ấy giữ",
+    "english": "she keeps",
+    "soundmark": "/ʃi/ /kips/"
+  },
+  {
+    "vietnamese": "cô ấy luôn quên khóa cửa",
+    "english": "she keeps forgetting to lock the door",
+    "soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "rời đi",
+    "english": "to leave",
+    "soundmark": "/tə/ /liv/"
+  },
+  {
+    "vietnamese": "cô ấy đã rời đi",
+    "english": "she leaves",
+    "soundmark": "/ʃi/ /livz/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi cô ấy rời đi",
+    "english": "when she leaves",
+    "soundmark": "/wɛn/ /ʃi/ /livz/"
+  },
+  {
+    "vietnamese": "cô ấy luôn quên khóa cửa",
+    "english": "she keeps forgetting to lock the door",
+    "soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "vietnamese": "cô ấy luôn quên khóa cửa khi rời đi",
+    "english": "she keeps forgetting to lock the door when she leaves",
+    "soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ʃi/ /livz/"
+  },
+  {
+    "vietnamese": "chìa khóa!",
+    "english": "keys",
+    "soundmark": "/kiz/"
+  },
+  {
+    "vietnamese": "chìa khóa của anh ấy",
+    "english": "his keys",
+    "soundmark": "/hɪz/ /kiz/"
+  },
+  {
+    "vietnamese": "quên mất",
+    "english": "to forget",
+    "soundmark": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "vietnamese": "quên chìa khóa của anh ấy",
+    "english": "to forget his keys",
+    "soundmark": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/"
+  },
+  {
+    "vietnamese": "chỗ ở",
+    "english": "home",
+    "soundmark": "/hom/"
+  },
+  {
+    "vietnamese": "ở nhà",
+    "english": "at home",
+    "soundmark": "/ət/ /hom/"
+  },
+  {
+    "vietnamese": "quên chìa khóa ở nhà",
+    "english": "to forget his keys at home",
+    "soundmark": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "quên chìa khóa ở nhà (ing form)",
+    "english": "forgetting his keys at home",
+    "soundmark": "/fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "anh ấy giữ",
+    "english": "he keeps",
+    "soundmark": "/hi/ /kips/"
+  },
+  {
+    "vietnamese": "anh ấy luôn quên chìa khóa ở nhà",
+    "english": "he keeps forgetting his keys at home",
+    "soundmark": "/hi/ /kips/ /fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/"
+  },
+  {
+    "vietnamese": "ý tưởng",
+    "english": "mind",
+    "soundmark": "/maɪnd/"
+  },
+  {
+    "vietnamese": "suy nghĩ của anh ấy",
+    "english": "his mind",
+    "soundmark": "/hɪz/ /maɪnd/"
+  },
+  {
+    "vietnamese": "thay đổi",
+    "english": "to change",
+    "soundmark": "/tə/ /tʃendʒ/"
+  },
+  {
+    "vietnamese": "thay đổi ý định của anh ấy",
+    "english": "to change his mind",
+    "soundmark": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/"
+  },
+  {
+    "vietnamese": "thay đổi ý định (dạng ing)",
+    "english": "changing his mind",
+    "soundmark": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "anh ấy giữ",
+    "english": "he keeps",
+    "soundmark": "/hi/ /kips/"
+  },
+  {
+    "vietnamese": "anh ấy luôn thay đổi ý định",
+    "english": "he keeps changing his mind",
+    "soundmark": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/"
+  },
+  {
+    "vietnamese": "thời gian 时间",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "mọi lúc",
+    "english": "all the time",
+    "soundmark": "/ɔl/ /ðə/ /taɪm/"
+  },
+  {
+    "vietnamese": "anh ấy (luôn) luôn thay đổi quyết định",
+    "english": "he keeps changing his mind all the time",
+    "soundmark": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ɔl/ /ðə/ /taɪm/"
+  },
+  {
+    "vietnamese": "ý tưởng",
+    "english": "mind",
+    "soundmark": "/maɪnd/"
+  },
+  {
+    "vietnamese": "tâm trí",
+    "english": "to mind",
+    "soundmark": "/tə/ /maɪnd/"
+  },
+  {
+    "vietnamese": "Tôi phiền",
+    "english": "I mind",
+    "soundmark": "/aɪ/ /maɪnd/"
+  },
+  {
+    "vietnamese": "mở",
+    "english": "to open",
+    "soundmark": "/tə/ /'opən/"
+  },
+  {
+    "vietnamese": "cửa sổ này",
+    "english": "the window",
+    "soundmark": "/ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "mở cửa sổ này",
+    "english": "to open the window",
+    "soundmark": "/tə/ /'opən/ /ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "mở cửa sổ này (mẫu ing)",
+    "english": "opening the window",
+    "soundmark": "/'opənɪŋ/ /ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "Tôi phiền mở cửa sổ này",
+    "english": "I mind opening the window",
+    "soundmark": "/aɪ/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "Tôi không phiền khi mở cửa sổ này",
+    "english": "I don't mind opening the window",
+    "soundmark": "/aɪ/ /dont/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/"
+  },
+  {
+    "vietnamese": "trả",
+    "english": "to pay",
+    "soundmark": "/tə/ /pe/"
+  },
+  {
+    "vietnamese": "hóa đơn",
+    "english": "the bill",
+    "soundmark": "/ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "thanh toán hóa đơn",
+    "english": "to pay the bill",
+    "soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "thanh toán hóa đơn (theo mẫu)",
+    "english": "paying the bill",
+    "soundmark": "/'peɪŋ/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "tâm trí",
+    "english": "to mind",
+    "soundmark": "/tə/ /maɪnd/"
+  },
+  {
+    "vietnamese": "anh ấy có phiền không",
+    "english": "he minds",
+    "soundmark": "/hi/ /maɪndz/"
+  },
+  {
+    "vietnamese": "anh ấy phiền thanh toán các hóa đơn",
+    "english": "he minds paying the bill",
+    "soundmark": "/hi/ /maɪndz/ /'peɪŋ/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "anh ấy không ngại thanh toán các hóa đơn",
+    "english": "he doesn't mind paying the bill",
+    "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'peɪŋ/ /ðə/ /bɪl/"
+  },
+  {
+    "vietnamese": "đồ chơi",
+    "english": "toy",
+    "soundmark": "/tɔɪ/"
+  },
+  {
+    "vietnamese": "đồ chơi của anh ấy",
+    "english": "his toys",
+    "soundmark": "/hɪz/ /tɔɪz/"
+  },
+  {
+    "vietnamese": "chia sẻ",
+    "english": "to share",
+    "soundmark": "/tə/ /ʃɛr/"
+  },
+  {
+    "vietnamese": "chia sẻ đồ chơi của anh ấy",
+    "english": "to share his toys",
+    "soundmark": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/"
+  },
+  {
+    "vietnamese": "bằng hữu",
+    "english": "friend",
+    "soundmark": "/frɛnd/"
+  },
+  {
+    "vietnamese": "bạn bè của anh ấy",
+    "english": "his friends",
+    "soundmark": "/hɪz/ /frɛndz/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "và bạn bè của anh ấy",
+    "english": "with his friends",
+    "soundmark": "/wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "vietnamese": "chia sẻ đồ chơi của anh ấy với bạn bè",
+    "english": "to share his toys with his friends",
+    "soundmark": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "vietnamese": "chia sẻ đồ chơi của anh ấy với bạn bè (dạng ing)",
+    "english": "sharing his toys with his friends",
+    "soundmark": "/'ʃɛriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "vietnamese": "anh ấy có phiền không",
+    "english": "he minds",
+    "soundmark": "/hi/ /maɪndz/"
+  },
+  {
+    "vietnamese": "bé nhớ chia sẻ đồ chơi của mình với bạn bè",
+    "english": "he minds sharing his toys with his friends",
+    "soundmark": "/hi/ /maɪndz/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "vietnamese": "bé không ngại chia sẻ đồ chơi của mình với bạn bè",
+    "english": "he doesn't mind sharing his toys with his friends",
+    "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "vietnamese": "anh ấy không bận tâm",
+    "english": "he doesn't mind",
+    "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/"
+  },
+  {
+    "vietnamese": "thức ăn của anh ấy",
+    "english": "his food",
+    "soundmark": "/hɪz/ /fud/"
+  },
+  {
+    "vietnamese": "chia sẻ",
+    "english": "to share",
+    "soundmark": "/tə/ /ʃɛr/"
+  },
+  {
+    "vietnamese": "chia sẻ thức ăn của anh ấy",
+    "english": "to share his food",
+    "soundmark": "/tə/ /ʃɛr/ /hɪz/ /fud/"
+  },
+  {
+    "vietnamese": "những người khác",
+    "english": "others",
+    "soundmark": "/'ʌðɚz/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "với những người khác",
+    "english": "with others",
+    "soundmark": "/wɪð/ /'ʌðɚz/"
+  },
+  {
+    "vietnamese": "chia sẻ thức ăn của mình với người khác",
+    "english": "to share his food with others",
+    "soundmark": "/tə/ /ʃɛr/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/"
+  },
+  {
+    "vietnamese": "chia sẻ thức ăn của mình với người khác (dạng ing)",
+    "english": "sharing his food with others",
+    "soundmark": "/'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/"
+  },
+  {
+    "vietnamese": "tâm trí",
+    "english": "to mind",
+    "soundmark": "/tə/ /maɪnd/"
+  },
+  {
+    "vietnamese": "anh ấy có phiền không",
+    "english": "he minds",
+    "soundmark": "/hi/ /maɪndz/"
+  },
+  {
+    "vietnamese": "anh ấy không bận tâm",
+    "english": "he doesn't mind",
+    "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/"
+  },
+  {
+    "vietnamese": "anh ấy không ngại chia sẻ đồ ăn của mình với người khác",
+    "english": "he doesn't mind sharing his food with others",
+    "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/"
+  },
+  {
+    "vietnamese": "chờ đợi",
+    "english": "to wait",
+    "soundmark": "/tə/ /wet/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "đợi cô ấy",
+    "english": "to wait for her",
+    "soundmark": "/tə/ /wet/ /fɚ/ /hɚ/"
+  },
+  {
+    "vietnamese": "sân bay",
+    "english": "airport",
+    "soundmark": "/'ɛrpɔrt/"
+  },
+  {
+    "vietnamese": "tại sân bay",
+    "english": "at the airport",
+    "soundmark": "/ət/ /ði/ /'ɛrpɔrt/"
+  },
+  {
+    "vietnamese": "đợi cô ấy ở sân bay",
+    "english": "to wait for her at the airport",
+    "soundmark": "/tə/ /wet/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/"
+  },
+  {
+    "vietnamese": "chờ cô ấy ở sân bay (ing form)",
+    "english": "waiting for her at the airport",
+    "soundmark": "/'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/"
+  },
+  {
+    "vietnamese": "anh ấy không bận tâm",
+    "english": "he doesn't mind",
+    "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/"
+  },
+  {
+    "vietnamese": "anh ấy không ngại đợi cô ấy ở sân bay",
+    "english": "he doesn't mind waiting for her at the airport",
+    "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/"
+  },
+  {
+    "vietnamese": "tâm trí",
+    "english": "to mind",
+    "soundmark": "/tə/ /maɪnd/"
+  },
+  {
+    "vietnamese": "họ quan tâm",
+    "english": "they mind",
+    "soundmark": "/ðe/ /maɪnd/"
+  },
+  {
+    "vietnamese": "bí mật",
+    "english": "secret",
+    "soundmark": "/'sikrət/"
+  },
+  {
+    "vietnamese": "bí mật của họ",
+    "english": "their secrets",
+    "soundmark": "/ðɛr/ /'sikrəts/"
+  },
+  {
+    "vietnamese": "chia sẻ",
+    "english": "to share",
+    "soundmark": "/tə/ /ʃɛr/"
+  },
+  {
+    "vietnamese": "chia sẻ bí mật của họ",
+    "english": "to share their secrets",
+    "soundmark": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/"
+  },
+  {
+    "vietnamese": "bất cứ ai",
+    "english": "anyone",
+    "soundmark": "/'ɛnɪwʌn/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "với bất cứ ai",
+    "english": "with anyone",
+    "soundmark": "/wɪð/ /'ɛnɪwʌn/"
+  },
+  {
+    "vietnamese": "chia sẻ bí mật của họ với bất cứ ai",
+    "english": "to share their secrets with anyone",
+    "soundmark": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/"
+  },
+  {
+    "vietnamese": "chia sẻ bí mật của họ với bất cứ ai (ing form)",
+    "english": "sharing their secrets with anyone",
+    "soundmark": "/'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/"
+  },
+  {
+    "vietnamese": "họ quan tâm",
+    "english": "they mind",
+    "soundmark": "/ðe/ /maɪnd/"
+  },
+  {
+    "vietnamese": "họ không bận tâm",
+    "english": "they don't mind",
+    "soundmark": "/ðe/ /dont/ /maɪnd/"
+  },
+  {
+    "vietnamese": "họ không ngại chia sẻ bí mật của mình với bất cứ ai",
+    "english": "they don't mind sharing their secrets with anyone",
+    "soundmark": "/ðe/ /dont/ /maɪnd/ /'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/"
+  },
+  {
+    "vietnamese": "anh ấy có phiền không",
+    "english": "he minds",
+    "soundmark": "/hi/ /maɪndz/"
+  },
+  {
+    "vietnamese": "建议",
+    "english": "advice",
+    "soundmark": "/əd'vaɪs/"
+  },
+  {
+    "vietnamese": "một số",
+    "english": "some",
+    "soundmark": "/səm/"
+  },
+  {
+    "vietnamese": "một số đề xuất",
+    "english": "some advice",
+    "soundmark": "/səm/ /əd'vaɪs/"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "english": "problem",
+    "soundmark": "/'prɑbləm/"
+  },
+  {
+    "vietnamese": "câu hỏi này",
+    "english": "this problem",
+    "soundmark": "/ðɪs/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "về",
+    "english": "about",
+    "soundmark": "/ə'baʊt/"
+  },
+  {
+    "vietnamese": "về vấn đề này",
+    "english": "about this problem",
+    "soundmark": "/ə'baʊt/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "một số gợi ý về vấn đề này",
+    "english": "some advice about this problem",
+    "soundmark": "/səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "đưa",
+    "english": "to give",
+    "soundmark": "/tə/ /ɡɪv/"
+  },
+  {
+    "vietnamese": "đưa cho tôi",
+    "english": "to give me",
+    "soundmark": "/tə/ /ɡɪv/ /mi/"
+  },
+  {
+    "vietnamese": "cho tôi lời khuyên",
+    "english": "to give me some advice",
+    "soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+  },
+  {
+    "vietnamese": "hãy cho tôi lời khuyên về vấn đề này",
+    "english": "to give me some advice about this problem",
+    "soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "hãy cho tôi một số lời khuyên về vấn đề này (ing form)",
+    "english": "giving me some advice about this problem",
+    "soundmark": "/ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "anh ấy có phiền không",
+    "english": "he minds",
+    "soundmark": "/hi/ /maɪndz/"
+  },
+  {
+    "vietnamese": "anh ấy không bận tâm",
+    "english": "he doesn't mind",
+    "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ không phiền khi cho tôi một số lời khuyên về chủ đề này",
+    "english": "he doesn't mind giving me some advice about this problem",
+    "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+  }
+]

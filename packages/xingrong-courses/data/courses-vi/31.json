@@ -1,0 +1,772 @@
+[
+  {
+    "vietnamese": "bàn giao",
+    "english": "to hand",
+    "soundmark": "/tə/ /hænd/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "đưa nó cho tôi",
+    "english": "to hand me",
+    "soundmark": "/tə/ /hænd/ /mi/"
+  },
+  {
+    "vietnamese": "chìa khóa!",
+    "english": "key",
+    "soundmark": "/ki/"
+  },
+  {
+    "vietnamese": "chìa khóa đó",
+    "english": "the key",
+    "soundmark": "/ðə/ /ki/"
+  },
+  {
+    "vietnamese": "đưa tôi chiếc chìa khóa đó",
+    "english": "to hand me the key",
+    "soundmark": "/tə/ /hænd/ /mi/ /ðə/ /ki/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn đưa chìa khóa cho tôi",
+    "english": "you hand me the key",
+    "soundmark": "/ju/ /hænd/ /mi/ /ðə/ /ki/"
+  },
+  {
+    "vietnamese": "đưa chìa khóa cho tôi",
+    "english": "you hand the key",
+    "soundmark": "/ju/ /hænd/ /ðə/ /ki/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "đưa tôi chìa khóa",
+    "english": "you hand the key to me",
+    "soundmark": "/ju/ /hænd/ /ðə/ /ki/ /tə/ /mi/"
+  },
+  {
+    "vietnamese": "đưa",
+    "english": "to give",
+    "soundmark": "/tə/ /ɡɪv/"
+  },
+  {
+    "vietnamese": "đưa tôi chiếc chìa khóa đó",
+    "english": "you give the key to me",
+    "soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/"
+  },
+  {
+    "vietnamese": "đưa tôi chiếc chìa khóa đó",
+    "english": "you give me the key",
+    "soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /ki/"
+  },
+  {
+    "vietnamese": "đưa tôi chiếc chìa khóa đó",
+    "english": "you give the key to me",
+    "soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/"
+  },
+  {
+    "vietnamese": "tiền bạc",
+    "english": "the money",
+    "soundmark": "/ðə/ /'mʌni/"
+  },
+  {
+    "vietnamese": "bạn cho tôi tiền",
+    "english": "you give me the money",
+    "soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /'mʌni/"
+  },
+  {
+    "vietnamese": "đưa tôi tiền",
+    "english": "you give the money to me",
+    "soundmark": "/ju/ /ɡɪv/ /ðə/ /'mʌni/ /tə/ /mi/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "bạn đưa nó cho tôi",
+    "english": "you give it to me",
+    "soundmark": "/ju/ /ɡɪv/ /ɪt/ /tə/ /mi/"
+  },
+  {
+    "vietnamese": "quay lại",
+    "english": "back",
+    "soundmark": "/bæk/"
+  },
+  {
+    "vietnamese": "bạn trả nó lại cho tôi",
+    "english": "you give it back to me",
+    "soundmark": "/ju/ /ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/"
+  },
+  {
+    "vietnamese": "trả lại cho tôi",
+    "english": "give it back to me",
+    "soundmark": "/ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "to read",
+    "soundmark": "/tə/ /rid/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "đọc cho cô ấy nghe",
+    "english": "to read her",
+    "soundmark": "/tə/ /rid/ /hɚ/"
+  },
+  {
+    "vietnamese": "một câu chuyện",
+    "english": "a story",
+    "soundmark": "/ə/ /'stɔri/"
+  },
+  {
+    "vietnamese": "đọc cho cô ấy nghe một câu chuyện",
+    "english": "to read her a story",
+    "soundmark": "/tə/ /rid/ /hɚ/ /ə/ /'stɔri/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi đọc cho cô ấy nghe một câu chuyện",
+    "english": "I read her a story",
+    "soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/"
+  },
+  {
+    "vietnamese": "ban đêm",
+    "english": "night",
+    "soundmark": "/naɪt/"
+  },
+  {
+    "vietnamese": "mọi",
+    "english": "every",
+    "soundmark": "/'ɛvri/"
+  },
+  {
+    "vietnamese": "mỗi đêm",
+    "english": "every night",
+    "soundmark": "/'ɛvri/ /naɪt/"
+  },
+  {
+    "vietnamese": "Tôi đọc cho cô ấy nghe một câu chuyện mỗi tối",
+    "english": "I read her a story every night",
+    "soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/ /'ɛvri/ /naɪt/"
+  },
+  {
+    "vietnamese": "Tôi đọc một câu chuyện",
+    "english": "I read a story",
+    "soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/"
+  },
+  {
+    "vietnamese": "cho nàng",
+    "english": "to her",
+    "soundmark": "/tə/ /hɚ/"
+  },
+  {
+    "vietnamese": "Tôi đọc cho cô ấy nghe một câu chuyện",
+    "english": "I read a story to her",
+    "soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/"
+  },
+  {
+    "vietnamese": "mỗi đêm",
+    "english": "every night",
+    "soundmark": "/'ɛvri/ /naɪt/"
+  },
+  {
+    "vietnamese": "Tôi đọc cho cô ấy nghe một câu chuyện mỗi tối",
+    "english": "I read a story to her every night",
+    "soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/"
+  },
+  {
+    "vietnamese": "đi ngủ",
+    "english": "bedtime",
+    "soundmark": "/'bɛdtaɪm/"
+  },
+  {
+    "vietnamese": "câu chuyện trước khi đi ngủ",
+    "english": "bedtime story",
+    "soundmark": "/'bɛdtaɪm/ /'stɔri/"
+  },
+  {
+    "vietnamese": "Tôi đọc cho cô ấy nghe truyện trước khi đi ngủ mỗi tối",
+    "english": "I read a bedtime story to her every night",
+    "soundmark": "/aɪ/ /rid/ /ə/ /'bɛdtaɪm/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/"
+  },
+  {
+    "vietnamese": "Tôi đọc cho cô ấy nghe truyện trước khi đi ngủ mỗi tối",
+    "english": "I read her a bedtime story every night",
+    "soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/ /'ɛvri/ /naɪt/"
+  },
+  {
+    "vietnamese": "mua",
+    "english": "to buy",
+    "soundmark": "/tə/ /baɪ/"
+  },
+  {
+    "vietnamese": "ông, chú, anh ấy",
+    "english": "him",
+    "soundmark": "/hɪm/"
+  },
+  {
+    "vietnamese": "mua nó cho anh ấy",
+    "english": "to buy him",
+    "soundmark": "/tə/ /baɪ/ /hɪm/"
+  },
+  {
+    "vietnamese": "đồ chơi",
+    "english": "toy",
+    "soundmark": "/tɔɪ/"
+  },
+  {
+    "vietnamese": "một món đồ chơi",
+    "english": "a toy",
+    "soundmark": "/ə/ /tɔɪ/"
+  },
+  {
+    "vietnamese": "xe hơi",
+    "english": "car",
+    "soundmark": "/kɑr/"
+  },
+  {
+    "vietnamese": "một chiếc xe đồ chơi",
+    "english": "a toy car",
+    "soundmark": "/ə/ /tɔɪ/ /kɑr/"
+  },
+  {
+    "vietnamese": "mua cho anh ấy một chiếc ô tô đồ chơi",
+    "english": "to buy him a toy car",
+    "soundmark": "/tə/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi sẽ",
+    "english": "I will",
+    "soundmark": "/aɪ/ /wɪl/"
+  },
+  {
+    "vietnamese": "Tôi sẽ mua cho anh ấy một chiếc ô tô đồ chơi",
+    "english": "I will buy him a toy car",
+    "soundmark": "/aɪ/ /wɪl/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi sẽ mua một chiếc ô tô đồ chơi",
+    "english": "I will buy a toy car",
+    "soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/"
+  },
+  {
+    "vietnamese": "cho anh ấy",
+    "english": "for him",
+    "soundmark": "/fɝ/ /hɪm/"
+  },
+  {
+    "vietnamese": "Tôi sẽ mua cho anh ấy một chiếc ô tô đồ chơi",
+    "english": "I will buy a toy car for him",
+    "soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/"
+  },
+  {
+    "vietnamese": "ngày mai",
+    "english": "tomorrow",
+    "soundmark": "/tə'mɔro/"
+  },
+  {
+    "vietnamese": "Ngày mai tôi sẽ mua cho nó một chiếc ô tô đồ chơi",
+    "english": "I will buy a toy car for him tomorrow",
+    "soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "sinh",
+    "english": "birth",
+    "soundmark": "/bɝθ/"
+  },
+  {
+    "vietnamese": "ngày",
+    "english": "day",
+    "soundmark": "/de/"
+  },
+  {
+    "vietnamese": "sinh nhật",
+    "english": "birthday",
+    "soundmark": "/'bɝθde/"
+  },
+  {
+    "vietnamese": "bánh ngọt",
+    "english": "cake",
+    "soundmark": "/kek/"
+  },
+  {
+    "vietnamese": "bánh sinh nhật",
+    "english": "birthday cake",
+    "soundmark": "/'bɝθde/ /kek/"
+  },
+  {
+    "vietnamese": "một chiếc bánh sinh nhật",
+    "english": "a birthday cake",
+    "soundmark": "/ə/ /'bɝθde/ /kek/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "làm bánh sinh nhật",
+    "english": "to make a birthday cake",
+    "soundmark": "/tə/ /mek/ /ə/ /'bɝθde/ /kek/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ",
+    "english": "we will",
+    "soundmark": "/wi/ /wɪl/"
+  },
+  {
+    "vietnamese": "chúng ta sẽ làm một chiếc bánh sinh nhật",
+    "english": "we will make a birthday cake",
+    "soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ làm cho cô ấy một chiếc bánh sinh nhật",
+    "english": "we will make her a birthday cake",
+    "soundmark": "/wi/ /wɪl/ /mek/ /hɚ/ /ə/ /'bɝθde/ /kek/"
+  },
+  {
+    "vietnamese": "cho cô ấy",
+    "english": "for her",
+    "soundmark": "/fɚ/ /hɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ làm cho cô ấy một chiếc bánh sinh nhật",
+    "english": "we will make a birthday cake for her",
+    "soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/"
+  },
+  {
+    "vietnamese": "làm (dạng ing)",
+    "english": "making",
+    "soundmark": "/'mekɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đang làm",
+    "english": "be making",
+    "soundmark": "/bi/ /'mekɪŋ/"
+  },
+  {
+    "vietnamese": "chúng tôi đang làm",
+    "english": "we are making",
+    "soundmark": "/wi/ /ɚ/ /'mekɪŋ/"
+  },
+  {
+    "vietnamese": "một chiếc bánh sinh nhật",
+    "english": "a birthday cake",
+    "soundmark": "/ə/ /'bɝθde/ /kek/"
+  },
+  {
+    "vietnamese": "chúng tôi đang làm một chiếc bánh sinh nhật",
+    "english": "we are making a birthday cake",
+    "soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/"
+  },
+  {
+    "vietnamese": "cho cô ấy",
+    "english": "for her",
+    "soundmark": "/fɚ/ /hɚ/"
+  },
+  {
+    "vietnamese": "chúng tôi đang làm bánh sinh nhật cho cô ấy",
+    "english": "we are making a birthday cake for her",
+    "soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "tiền bạc",
+    "english": "money",
+    "soundmark": "/'mʌni/"
+  },
+  {
+    "vietnamese": "kiếm tiền",
+    "english": "to make money",
+    "soundmark": "/tə/ /mek/ /'mʌni/"
+  },
+  {
+    "vietnamese": "thân hình",
+    "english": "body",
+    "soundmark": "/'bɑdi/"
+  },
+  {
+    "vietnamese": "mọi",
+    "english": "every",
+    "soundmark": "/'ɛvri/"
+  },
+  {
+    "vietnamese": "mọi người",
+    "english": "everybody",
+    "soundmark": "/'ɛvrɪbɑdi/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "mọi người đều muốn",
+    "english": "everybody wants",
+    "soundmark": "/'ɛvrɪbɑdi/ /wɑnts/"
+  },
+  {
+    "vietnamese": "mọi người đều muốn kiếm tiền",
+    "english": "everybody wants to make money",
+    "soundmark": "/'ɛvrɪbɑdi/ /wɑnts/ /tə/ /mek/ /'mʌni/"
+  },
+  {
+    "vietnamese": "cần",
+    "english": "need",
+    "soundmark": "/nid/"
+  },
+  {
+    "vietnamese": "mọi người đều cần kiếm tiền",
+    "english": "everybody needs to make money",
+    "soundmark": "/'ɛvrɪbɑdi/ /nidz/ /tə/ /mek/ /'mʌni/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "gọi điện thoại",
+    "english": "to call",
+    "soundmark": "/tə/ /kɔl/"
+  },
+  {
+    "vietnamese": "gọi",
+    "english": "call",
+    "soundmark": "/kɔl/"
+  },
+  {
+    "vietnamese": "một cuộc gọi",
+    "english": "a call",
+    "soundmark": "/ə/ /kɔl/"
+  },
+  {
+    "vietnamese": "gọi điện thoại",
+    "english": "to make a call",
+    "soundmark": "/tə/ /mek/ /ə/ /kɔl/"
+  },
+  {
+    "vietnamese": "video",
+    "english": "video",
+    "soundmark": "/'vɪdɪo/"
+  },
+  {
+    "vietnamese": "thực hiện cuộc gọi video",
+    "english": "to make a video call",
+    "soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+  },
+  {
+    "vietnamese": "bằng hữu",
+    "english": "friend",
+    "soundmark": "/frɛnd/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "bạn tôi",
+    "english": "my friend",
+    "soundmark": "/maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "tốt nhất",
+    "english": "best",
+    "soundmark": "/bɛst/"
+  },
+  {
+    "vietnamese": "người bạn thân nhất của tôi",
+    "english": "my best friend",
+    "soundmark": "/maɪ/ /bɛst/ /frɛnd/"
+  },
+  {
+    "vietnamese": "thực hiện cuộc gọi video",
+    "english": "to make a video call",
+    "soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+  },
+  {
+    "vietnamese": "gọi điện video cho người bạn thân nhất của tôi",
+    "english": "to make a video call to my best friend",
+    "soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn gọi điện video",
+    "english": "I want to make a video call",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+  },
+  {
+    "vietnamese": "Tôi muốn gọi điện video cho người bạn thân nhất của tôi",
+    "english": "I want to make a video call to my best friend",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "một đoạn video",
+    "english": "a video",
+    "soundmark": "/ə/ /'vɪdɪo/"
+  },
+  {
+    "vietnamese": "làm một video",
+    "english": "to make a video",
+    "soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/"
+  },
+  {
+    "vietnamese": "Tôi muốn làm một video",
+    "english": "I want to make a video",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "học tập",
+    "english": "to learn",
+    "soundmark": "/tə/ /lɝn/"
+  },
+  {
+    "vietnamese": "làm thế nào để học",
+    "english": "how to learn",
+    "soundmark": "/haʊ/ /tə/ /lɝn/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "cách học tiếng anh",
+    "english": "how to learn English",
+    "soundmark": "/haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "về",
+    "english": "about",
+    "soundmark": "/ə'baʊt/"
+  },
+  {
+    "vietnamese": "về cách học tiếng Anh",
+    "english": "about how to learn English",
+    "soundmark": "/ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Tôi muốn làm một video",
+    "english": "I want to make a video",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/"
+  },
+  {
+    "vietnamese": "Mình muốn làm một video về cách học tiếng Anh",
+    "english": "I want to make a video about how to learn English",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "thay đổi",
+    "english": "to change",
+    "soundmark": "/tə/ /tʃendʒ/"
+  },
+  {
+    "vietnamese": "thay đổi",
+    "english": "change",
+    "soundmark": "/tʃendʒ/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "thực hiện thay đổi",
+    "english": "to make a change",
+    "soundmark": "/tə/ /mek/ /ə/ /tʃendʒ/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "to decide",
+    "soundmark": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "quyết định thực hiện thay đổi",
+    "english": "to decide to make a change",
+    "soundmark": "/tə/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+  },
+  {
+    "vietnamese": "chúng tôi",
+    "english": "we",
+    "soundmark": "/wi/"
+  },
+  {
+    "vietnamese": "chúng tôi quyết định thực hiện thay đổi",
+    "english": "we decide to make a change",
+    "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+  },
+  {
+    "vietnamese": "chúng tôi (trước đây) đã quyết định thực hiện thay đổi",
+    "english": "we decided to make a change",
+    "soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "to decide",
+    "soundmark": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "decision",
+    "soundmark": "/dɪ'sɪʒn/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "đưa ra quyết định",
+    "english": "to make a decision",
+    "soundmark": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+  },
+  {
+    "vietnamese": "chúng ta cần phải",
+    "english": "we need",
+    "soundmark": "/wi/ /nid/"
+  },
+  {
+    "vietnamese": "chúng ta cần đưa ra quyết định",
+    "english": "we need to make a decision",
+    "soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+  },
+  {
+    "vietnamese": "bây giờ",
+    "english": "now",
+    "soundmark": "/naʊ/"
+  },
+  {
+    "vietnamese": "chúng ta cần đưa ra quyết định ngay bây giờ",
+    "english": "we need to make a decision now",
+    "soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ",
+    "english": "I think",
+    "soundmark": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ chúng ta cần đưa ra quyết định ngay bây giờ",
+    "english": "I think we need to make a decision now",
+    "soundmark": "/aɪ/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "Tôi không nghĩ chúng ta cần đưa ra quyết định ngay bây giờ",
+    "english": "I don't think we need to make a decision now",
+    "soundmark": "/aɪ/ /dont/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+  },
+  {
+    "vietnamese": "bằng hữu",
+    "english": "friends",
+    "soundmark": "/frɛndz/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "kết bạn",
+    "english": "to make friends",
+    "soundmark": "/tə/ /mek/ /frɛndz/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn có thể",
+    "english": "you can",
+    "soundmark": "/ju/ /kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể kết bạn",
+    "english": "you can make friends",
+    "soundmark": "/ju/ /kæn/ /mek/ /frɛndz/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "họ……\"",
+    "english": "them",
+    "soundmark": "/ðəm/"
+  },
+  {
+    "vietnamese": "với họ",
+    "english": "with them",
+    "soundmark": "/wɪð/ /ðəm/"
+  },
+  {
+    "vietnamese": "bạn có thể kết bạn với họ",
+    "english": "you can make friends with them",
+    "soundmark": "/ju/ /kæn/ /mek/ /frɛndz/ /wɪð/ /ðəm/"
+  },
+  {
+    "vietnamese": "không thể",
+    "english": "can't",
+    "soundmark": "/kænt/"
+  },
+  {
+    "vietnamese": "bạn không thể làm bạn với họ",
+    "english": "you can't make friends with them",
+    "soundmark": "/ju/ /kænt/ /mek/ /frɛndz/ /wɪð/ /ðəm/"
+  }
+]

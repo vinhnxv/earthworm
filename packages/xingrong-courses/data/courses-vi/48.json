@@ -1,0 +1,667 @@
+[
+  {
+    "vietnamese": "lau dọn",
+    "english": "to wash",
+    "soundmark": "/tə/ /wɑʃ/"
+  },
+  {
+    "vietnamese": "sạch (dạng ing)",
+    "english": "washing",
+    "soundmark": "/'wɑʃɪŋ/"
+  },
+  {
+    "vietnamese": "vệ sinh",
+    "english": "be washing",
+    "soundmark": "/bi/ /'wɑʃɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang dọn dẹp",
+    "english": "I am washing",
+    "soundmark": "/aɪ/ /æm/ /'wɑʃɪŋ/"
+  },
+  {
+    "vietnamese": "xe của tôi",
+    "english": "my car",
+    "soundmark": "/maɪ/ /kɑr/"
+  },
+  {
+    "vietnamese": "Tôi đang lau xe (ngay bây giờ)",
+    "english": "I am washing my car",
+    "soundmark": "/aɪ/ /æm/ /'wɑʃɪŋ/ /maɪ/ /kɑr/"
+  },
+  {
+    "vietnamese": "vệ sinh",
+    "english": "be washing",
+    "soundmark": "/bi/ /'wɑʃɪŋ/"
+  },
+  {
+    "vietnamese": "sạch sẽ (quá khứ phân từ)",
+    "english": "washed",
+    "soundmark": "/wɑʃt/"
+  },
+  {
+    "vietnamese": "đã bị thanh lọc",
+    "english": "be washed",
+    "soundmark": "/bi/ /wɑʃt/"
+  },
+  {
+    "vietnamese": "xe của tôi",
+    "english": "my car",
+    "soundmark": "/maɪ/ /kɑr/"
+  },
+  {
+    "vietnamese": "xe của tôi đã được làm sạch",
+    "english": "my car is washed",
+    "soundmark": "/maɪ/ /kɑr/ /ɪz/ /wɑʃt/"
+  },
+  {
+    "vietnamese": "Tôi (đã) rửa xe rồi",
+    "english": "I have washed my car",
+    "soundmark": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /kɑr/"
+  },
+  {
+    "vietnamese": "tay",
+    "english": "hand",
+    "soundmark": "/hænd/"
+  },
+  {
+    "vietnamese": "Tôi (đã) rửa tay rồi",
+    "english": "I have washed my hands",
+    "soundmark": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /hændz/"
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "to finish",
+    "soundmark": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "vietnamese": "hoàn thành (quá khứ phân từ)",
+    "english": "finished",
+    "soundmark": "/'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "Tôi (đã) xong rồi",
+    "english": "I have finished",
+    "soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "bài tập về nhà",
+    "english": "homework",
+    "soundmark": "/'homwɝk/"
+  },
+  {
+    "vietnamese": "bài tập về nhà của tôi",
+    "english": "my homework",
+    "soundmark": "/maɪ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "Tôi (đã) làm xong bài tập về nhà",
+    "english": "I have finished my homework",
+    "soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /'homwɝk/"
+  },
+  {
+    "vietnamese": "chúng tôi",
+    "english": "we",
+    "soundmark": "/wi/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) hoàn thành",
+    "english": "we have finished",
+    "soundmark": "/wi/ /hæv/ /'fɪnɪʃt/"
+  },
+  {
+    "vietnamese": "dự án",
+    "english": "project",
+    "soundmark": "/ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "dự án của chúng tôi",
+    "english": "our project",
+    "soundmark": "/'aʊɚ/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) hoàn thành dự án của mình",
+    "english": "we have finished our project",
+    "soundmark": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "vietnamese": "đi",
+    "english": "to go",
+    "soundmark": "/tə/ /ɡo/"
+  },
+  {
+    "vietnamese": "công viên",
+    "english": "the park",
+    "soundmark": "/ðə/ /pɑrk/"
+  },
+  {
+    "vietnamese": "đi đến công viên",
+    "english": "to go to the park",
+    "soundmark": "/tə/ /ɡo/ /tə/ /ðə/ /pɑrk/"
+  },
+  {
+    "vietnamese": "đi (quá khứ phân từ)",
+    "english": "gone",
+    "soundmark": "/ɡɔn/"
+  },
+  {
+    "vietnamese": "họ (đã) đi",
+    "english": "they have gone",
+    "soundmark": "/ðe/ /hæv/ /ɡɔn/"
+  },
+  {
+    "vietnamese": "họ (đã) đi đến công viên",
+    "english": "they have gone to the park",
+    "soundmark": "/ðe/ /hæv/ /ɡɔn/ /tə/ /ðə/ /pɑrk/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "to read",
+    "soundmark": "/tə/ /rid/"
+  },
+  {
+    "vietnamese": "đọc",
+    "english": "read",
+    "soundmark": "/rid/"
+  },
+  {
+    "vietnamese": "Tôi (đã) đọc",
+    "english": "I have read",
+    "soundmark": "/aɪ/ /hæv/ /rid/"
+  },
+  {
+    "vietnamese": "cuốn sách đó",
+    "english": "that book",
+    "soundmark": "/ðæt/ /bʊk/"
+  },
+  {
+    "vietnamese": "Tôi (đã) đọc cuốn sách đó",
+    "english": "I have read that book",
+    "soundmark": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/"
+  },
+  {
+    "vietnamese": "hạng hai",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "hai lần",
+    "english": "two times",
+    "soundmark": "/tu/ /taɪmz/"
+  },
+  {
+    "vietnamese": "hai lần",
+    "english": "twice",
+    "soundmark": "/twaɪs/"
+  },
+  {
+    "vietnamese": "Tôi (đã) đọc cuốn sách đó hai lần",
+    "english": "I have read that book twice",
+    "soundmark": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/ /twaɪs/"
+  },
+  {
+    "vietnamese": "đã học",
+    "english": "to learn",
+    "soundmark": "/tə/ /lɝn/"
+  },
+  {
+    "vietnamese": "đã học (quá khứ phân từ)",
+    "english": "learned",
+    "soundmark": "/lɝnd/"
+  },
+  {
+    "vietnamese": "Tôi (đã) học được",
+    "english": "I have learned",
+    "soundmark": "/aɪ/ /hæv/ /lɝnd/"
+  },
+  {
+    "vietnamese": "rất nhiều",
+    "english": "lot",
+    "soundmark": "/lɑt/"
+  },
+  {
+    "vietnamese": "rất nhiều",
+    "english": "a lot",
+    "soundmark": "/ə/ /lɑt/"
+  },
+  {
+    "vietnamese": "Tôi (đã) học được rất nhiều",
+    "english": "I have learned a lot",
+    "soundmark": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/"
+  },
+  {
+    "vietnamese": "khóa học",
+    "english": "course",
+    "soundmark": "/kɔrs/"
+  },
+  {
+    "vietnamese": "khóa học này",
+    "english": "this course",
+    "soundmark": "/ðɪs/ /kɔrs/"
+  },
+  {
+    "vietnamese": "từ",
+    "english": "from",
+    "soundmark": "/frʌm/"
+  },
+  {
+    "vietnamese": "từ khóa học này",
+    "english": "from this course",
+    "soundmark": "/frʌm/ /ðɪs/ /kɔrs/"
+  },
+  {
+    "vietnamese": "Tôi (đã) học được rất nhiều từ khóa học này",
+    "english": "I have learned a lot from this course",
+    "soundmark": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/ /frʌm/ /ðɪs/ /kɔrs/"
+  },
+  {
+    "vietnamese": "cải thiện",
+    "english": "to improve",
+    "soundmark": "/tə/ /ɪmˈpruv/"
+  },
+  {
+    "vietnamese": "cải thiện (phân từ quá khứ)",
+    "english": "improved",
+    "soundmark": "/ɪmˈpruvd/"
+  },
+  {
+    "vietnamese": "bạn (đã) tiến bộ hơn",
+    "english": "you have improved",
+    "soundmark": "/ju/ /hæv/ /ɪmˈpruvd/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "tiếng anh của bạn",
+    "english": "your English",
+    "soundmark": "/jʊr/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "bạn (đã) cải thiện tiếng Anh của mình",
+    "english": "you have improved your English",
+    "soundmark": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "rất nhiều",
+    "english": "lot",
+    "soundmark": "/lɑt/"
+  },
+  {
+    "vietnamese": "rất nhiều",
+    "english": "a lot",
+    "soundmark": "/ə/ /lɑt/"
+  },
+  {
+    "vietnamese": "bạn (đã) cải thiện tiếng Anh của mình rất nhiều",
+    "english": "you have improved your English a lot",
+    "soundmark": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/ /ə/ /lɑt/"
+  },
+  {
+    "vietnamese": "thăm nom",
+    "english": "to visit",
+    "soundmark": "/tə/ /'vɪzɪt/"
+  },
+  {
+    "vietnamese": "chuyến thăm (phân từ quá khứ)",
+    "english": "visited",
+    "soundmark": "/'vɪzɪtɪd/"
+  },
+  {
+    "vietnamese": "Tôi (đã) đến thăm",
+    "english": "I have visited",
+    "soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/"
+  },
+  {
+    "vietnamese": "tường",
+    "english": "wall",
+    "soundmark": "/wɔl/"
+  },
+  {
+    "vietnamese": "tuyệt",
+    "english": "great",
+    "soundmark": "/ɡret/"
+  },
+  {
+    "vietnamese": "Vạn Lý Trường Thành",
+    "english": "The Great Wall",
+    "soundmark": "/ðə/ /ɡret/ /wɔl/"
+  },
+  {
+    "vietnamese": "Tôi (đã) đến thăm Vạn Lý Trường Thành",
+    "english": "I have visited The Great Wall",
+    "soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/"
+  },
+  {
+    "vietnamese": "hai lần",
+    "english": "twice",
+    "soundmark": "/twaɪs/"
+  },
+  {
+    "vietnamese": "Tôi (đã) viếng thăm Vạn Lý Trường Thành hai lần",
+    "english": "I have visited the Great Wall twice",
+    "soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/ /twaɪs/"
+  },
+  {
+    "vietnamese": "viết",
+    "english": "to write",
+    "soundmark": "/raɪt/"
+  },
+  {
+    "vietnamese": "viết (quá khứ phân từ)",
+    "english": "written",
+    "soundmark": "/'rɪtn/"
+  },
+  {
+    "vietnamese": "Tôi (đã) viết",
+    "english": "I have written",
+    "soundmark": "/aɪ/ /hæv/ /'rɪtn/"
+  },
+  {
+    "vietnamese": "sách",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "vietnamese": "ba cuốn sách",
+    "english": "three books",
+    "soundmark": "/θri/ /bʊks/"
+  },
+  {
+    "vietnamese": "Tôi (đã) viết ba cuốn sách",
+    "english": "I have written three books",
+    "soundmark": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/"
+  },
+  {
+    "vietnamese": "sự nghiệp",
+    "english": "career",
+    "soundmark": "/kəˈrɪr/"
+  },
+  {
+    "vietnamese": "sự nghiệp của tôi",
+    "english": "my career",
+    "soundmark": "/maɪ/ /kəˈrɪr/"
+  },
+  {
+    "vietnamese": "trong sự nghiệp của tôi",
+    "english": "in my career",
+    "soundmark": "/ɪn/ /maɪ/ /kəˈrɪr/"
+  },
+  {
+    "vietnamese": "Tôi đã (đã) viết ba cuốn sách trong sự nghiệp của mình",
+    "english": "I have written three books in my career",
+    "soundmark": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/ /ɪn/ /maɪ/ /kəˈrɪr/"
+  },
+  {
+    "vietnamese": "dạy",
+    "english": "to teach",
+    "soundmark": "/tə/ /titʃ/"
+  },
+  {
+    "vietnamese": "dạy (quá khứ phân từ)",
+    "english": "taught",
+    "soundmark": "/tɔt/"
+  },
+  {
+    "vietnamese": "Tôi (đã) dạy",
+    "english": "I have taught",
+    "soundmark": "/aɪ/ /hæv/ /tɔt/"
+  },
+  {
+    "vietnamese": "Tôi (đã) dạy bạn",
+    "english": "I have taught you",
+    "soundmark": "/aɪ/ /hæv/ /tɔt/ /ju/"
+  },
+  {
+    "vietnamese": "mọi",
+    "english": "every",
+    "soundmark": "/'ɛvri/"
+  },
+  {
+    "vietnamese": "điều",
+    "english": "thing",
+    "soundmark": "/θɪŋ/"
+  },
+  {
+    "vietnamese": "mọi thứ",
+    "english": "everything",
+    "soundmark": "/'ɛvriθɪŋ/"
+  },
+  {
+    "vietnamese": "Anh biết.",
+    "english": "I know",
+    "soundmark": "/aɪ/ /no/"
+  },
+  {
+    "vietnamese": "mọi thứ tôi biết",
+    "english": "everything I know",
+    "soundmark": "/'ɛvriθɪŋ/ /aɪ/ /no/"
+  },
+  {
+    "vietnamese": "Tôi (đã) dạy bạn mọi thứ tôi biết",
+    "english": "I have taught you everything I know",
+    "soundmark": "/aɪ/ /hæv/ /tɔt/ /ju/ /'ɛvriθɪŋ/ /aɪ/ /no/"
+  },
+  {
+    "vietnamese": "Tôi (đã) dạy",
+    "english": "I have taught",
+    "soundmark": "/aɪ/ /hæv/ /tɔt/"
+  },
+  {
+    "vietnamese": "bản thân tôi",
+    "english": "myself",
+    "soundmark": "/maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "Tôi (đã) tự học",
+    "english": "I have taught myself",
+    "soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "chơi",
+    "english": "to play",
+    "soundmark": "/tə/ /ple/"
+  },
+  {
+    "vietnamese": "piano",
+    "english": "the piano",
+    "soundmark": "/ðə/ /pɪ'æno/"
+  },
+  {
+    "vietnamese": "chơi piano",
+    "english": "to play the piano",
+    "soundmark": "/tə/ /ple/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "cách chơi piano",
+    "english": "how to play the piano",
+    "soundmark": "/haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "vietnamese": "Tôi (đã) tự học",
+    "english": "I have taught myself",
+    "soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "Tôi (đã) tự học chơi piano",
+    "english": "I have taught myself how to play the piano",
+    "soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/ /haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "vietnamese": "sống",
+    "english": "to live",
+    "soundmark": "/tə/ /lɪv/"
+  },
+  {
+    "vietnamese": "sống (quá khứ phân từ)",
+    "english": "lived",
+    "soundmark": "/lɪvd/"
+  },
+  {
+    "vietnamese": "Tôi (đã) sống",
+    "english": "I have lived",
+    "soundmark": "/aɪ/ /hæv/ /lɪvd/"
+  },
+  {
+    "vietnamese": "thành phố",
+    "english": "city",
+    "soundmark": "/'sɪti/"
+  },
+  {
+    "vietnamese": "thành phố",
+    "english": "this city",
+    "soundmark": "/ðɪs/ /'sɪti/"
+  },
+  {
+    "vietnamese": "ở thành phố này",
+    "english": "in this city",
+    "soundmark": "/ɪn/ /ðɪs/ /'sɪti/"
+  },
+  {
+    "vietnamese": "Tôi (đã) sống ở thành phố này",
+    "english": "I have lived in this city",
+    "soundmark": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/"
+  },
+  {
+    "vietnamese": "năm",
+    "english": "year",
+    "soundmark": "/jɪr/"
+  },
+  {
+    "vietnamese": "năm năm",
+    "english": "five years",
+    "soundmark": "/faɪv/ /jɪrz/"
+  },
+  {
+    "vietnamese": "Tôi (đã) sống ở thành phố này được năm năm",
+    "english": "I have lived in this city for five years",
+    "soundmark": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/ /fɚ/ /faɪv/ /jɪrz/"
+  },
+  {
+    "vietnamese": "làm việc",
+    "english": "to work",
+    "soundmark": "/tə/ /wɝk/"
+  },
+  {
+    "vietnamese": "công việc (quá khứ phân từ)",
+    "english": "worked",
+    "soundmark": "/wɝkt/"
+  },
+  {
+    "vietnamese": "Tôi (đã) làm việc",
+    "english": "I have worked",
+    "soundmark": "/aɪ/ /hæv/ /wɝkt/"
+  },
+  {
+    "vietnamese": "công ty",
+    "english": "company",
+    "soundmark": "/ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "công ty đó",
+    "english": "that company",
+    "soundmark": "/ðæt/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "ở công ty đó",
+    "english": "at that company",
+    "soundmark": "/ət/ /ðæt/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "Tôi (đã) làm việc cho công ty đó",
+    "english": "I have worked at that company",
+    "soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/"
+  },
+  {
+    "vietnamese": "năm",
+    "english": "year",
+    "soundmark": "/jɪr/"
+  },
+  {
+    "vietnamese": "ba năm",
+    "english": "three years",
+    "soundmark": "/θri/ /jɪrz/"
+  },
+  {
+    "vietnamese": "Tôi (đã) làm việc cho công ty đó được ba năm",
+    "english": "I have worked at that company for three years",
+    "soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /fɚ/ /θri/ /jɪrz/"
+  },
+  {
+    "vietnamese": "từ",
+    "english": "since",
+    "soundmark": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/"
+  },
+  {
+    "vietnamese": "kể từ năm 2020",
+    "english": "since 2020",
+    "soundmark": "/sɪns/ /'twɛnti/ /'twɛnti/"
+  },
+  {
+    "vietnamese": "Tôi (đã) làm việc cho công ty đó từ năm 2020",
+    "english": "I have worked at that company since 2020",
+    "soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /sɪns/ /'twɛnti/ /'twɛnti/"
+  },
+  {
+    "vietnamese": "học",
+    "english": "to study",
+    "soundmark": "/tə/ /'stʌdi/"
+  },
+  {
+    "vietnamese": "nghiên cứu (phân từ quá khứ)",
+    "english": "studied",
+    "soundmark": "/ˈstʌdid/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) học được",
+    "english": "we have studied",
+    "soundmark": "/wi/ /hæv/ /ˈstʌdid/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) học tiếng Anh",
+    "english": "we have studied English",
+    "soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "năm",
+    "english": "year",
+    "soundmark": "/jɪr/"
+  },
+  {
+    "vietnamese": "ba năm",
+    "english": "three years",
+    "soundmark": "/θri/ /jɪrz/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) học tiếng Anh được ba năm",
+    "english": "we have studied English for three years",
+    "soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /fɚ/ /θri/ /jɪrz/"
+  },
+  {
+    "vietnamese": "từ",
+    "english": "since",
+    "soundmark": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/"
+  },
+  {
+    "vietnamese": "kể từ năm 2020",
+    "english": "since 2020",
+    "soundmark": "/sɪns/ /'twɛnti/ /'twɛnti/"
+  },
+  {
+    "vietnamese": "chúng tôi (đã) học tiếng Anh từ năm 2020",
+    "english": "we have studied English since 2020",
+    "soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /sɪns/ /'twɛnti/ /'twɛnti/"
+  }
+]

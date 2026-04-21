@@ -11,6 +11,18 @@ interface UpdateLearningTimeParams {
   duration: number;
 }
 
+export interface LearningTimeQueryParams {
+  startDate?: string;
+  endDate?: string;
+}
+
+function createLearningTimeQueryParams(params: LearningTimeQueryParams = {}) {
+  return {
+    activityType: "daily_total",
+    ...params,
+  };
+}
+
 export async function updateDailyLearningDailyTotalTime(params: UpdateLearningTimeParams) {
   const http = getHttp();
   return await http<boolean>("/user-learning-activities", {
@@ -26,11 +38,10 @@ export async function fetchTodayLearningTime() {
   const http = getHttp();
   const learningTimeList = await http<LearningTimeApiResponse[]>("/user-learning-activities", {
     method: "get",
-    params: {
+    params: createLearningTimeQueryParams({
       startDate: new Date().toISOString().split("T")[0],
       endDate: new Date().toISOString().split("T")[0],
-      activityType: "daily_total",
-    },
+    }),
   });
 
   if (learningTimeList.length === 0) {
@@ -40,24 +51,20 @@ export async function fetchTodayLearningTime() {
   return learningTimeList[0].duration;
 }
 
-export async function fetchAllLearningTime() {
+export async function fetchAllLearningTime(params: LearningTimeQueryParams = {}) {
   const http = getHttp();
   return (await http<LearningTimeApiResponse[]>("/user-learning-activities", {
     method: "get",
-    params: {
-      activityType: "daily_total",
-    },
+    params: createLearningTimeQueryParams(params),
   })) as UserLearningDailyTime[];
 }
 
 /**获取总的学习时长 */
-export async function fetchTotalLearningTime() {
+export async function fetchTotalLearningTime(params: LearningTimeQueryParams = {}) {
   const http = getHttp();
   const result = await http<number>("/user-learning-activities/total", {
     method: "get",
-    params: {
-      activityType: "daily_total",
-    },
+    params: createLearningTimeQueryParams(params),
   });
 
   return Number(result);

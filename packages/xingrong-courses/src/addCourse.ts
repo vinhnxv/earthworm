@@ -4,7 +4,12 @@ import path from "node:path";
 import { db } from "@earthworm/db";
 import { course as courseSchema, statement as statementSchema } from "@earthworm/schema";
 
-type Statement = typeof statementSchema.$inferInsert;
+type SeedStatement = {
+  chinese?: string;
+  vietnamese?: string;
+  english: string;
+  soundmark: string;
+};
 
 (async function () {
   const coursePackId = "";
@@ -26,16 +31,18 @@ type Statement = typeof statementSchema.$inferInsert;
   console.log(`创建: id-${course.id} order-${course.order} title-${course.title}`);
 
   const courseDataJsonText = fs.readFileSync(
-    path.resolve(__dirname, `../data/courses/${courseFileName}`),
+    path.resolve(__dirname, `../data/courses-vi/${courseFileName}`),
     "utf-8",
   );
 
-  const statementList = JSON.parse(courseDataJsonText) as Statement[];
+  const statementList = JSON.parse(courseDataJsonText) as SeedStatement[];
 
   let order = 1;
   const statementInsertTask = statementList.map(async (statement) => {
     return await db.insert(statementSchema).values({
-      ...statement,
+      english: statement.english,
+      soundmark: statement.soundmark,
+      vietnamese: statement.vietnamese ?? statement.chinese ?? "",
       order: order++,
       courseId: course.id,
     });

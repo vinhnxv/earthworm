@@ -9,7 +9,7 @@ export const statement = pgTable("statements", {
     .primaryKey()
     .$defaultFn(() => createId()),
   order: integer("order").notNull(),
-  chinese: text("chinese").notNull(),
+  vietnamese: text("vietnamese").notNull(),
   english: text("english").notNull(),
   soundmark: text("soundmark").notNull(),
   courseId: text("course_id")

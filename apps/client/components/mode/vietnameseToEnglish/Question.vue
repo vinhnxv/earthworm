@@ -1,7 +1,7 @@
 <template>
   <div class="text-center">
     <div class="mb-4 mt-10 text-2xl dark:text-gray-50">
-      {{ courseStore.currentStatement?.chinese || "To be or not to be, that is the question." }}
+      {{ courseStore.currentStatement?.vietnamese || "To be or not to be, that is the question." }}
     </div>
     <MainQuestionInput />
   </div>

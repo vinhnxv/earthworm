@@ -1,0 +1,787 @@
+[
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "hứa",
+    "english": "promise",
+    "soundmark": "/'prɑmɪs/"
+  },
+  {
+    "vietnamese": "thực hiện một lời hứa",
+    "english": "to make a promise",
+    "soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "cần",
+    "english": "need",
+    "soundmark": "/nid/"
+  },
+  {
+    "vietnamese": "bạn cần",
+    "english": "you need",
+    "soundmark": "/ju/ /nid/"
+  },
+  {
+    "vietnamese": "bạn cần phải thực hiện một lời hứa",
+    "english": "you need to make a promise",
+    "soundmark": "/ju/ /nid/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "thực hiện một lời hứa",
+    "english": "to make a promise",
+    "soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "Anh muốn em",
+    "english": "I want you",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn thực hiện một lời hứa",
+    "english": "I want you to make a promise",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "Tôi không muốn bạn hứa",
+    "english": "I don't want you to make a promise",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "hứa",
+    "english": "promise",
+    "soundmark": "/'prɑmɪs/"
+  },
+  {
+    "vietnamese": "lời hứa này",
+    "english": "the promise",
+    "soundmark": "/ðə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "giữ lời hứa này",
+    "english": "to keep the promise",
+    "soundmark": "/tə/ /kip/ /ðə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "bạn cần",
+    "english": "you need",
+    "soundmark": "/ju/ /nid/"
+  },
+  {
+    "vietnamese": "bạn cần phải giữ lời hứa này",
+    "english": "you need to keep the promise",
+    "soundmark": "/ju/ /nid/ /tə/ /kip/ /ðə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể giữ lời hứa này không",
+    "english": "you can keep the promise",
+    "soundmark": "/ju/ /kæn/ /kip/ /ðə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "không thể",
+    "english": "can't",
+    "soundmark": "/kænt/"
+  },
+  {
+    "vietnamese": "bạn không thể giữ lời hứa này",
+    "english": "you can't keep the promise",
+    "soundmark": "/ju/ /kænt/ /kip/ /ðə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "lời hứa này anh không thể giữ được",
+    "english": "the promise you can't keep",
+    "soundmark": "/ðə/ /'prɑmɪs/ /ju/ /kænt/ /kip/"
+  },
+  {
+    "vietnamese": "bạn không thể tuân thủ",
+    "english": "you can't keep",
+    "soundmark": "/ju/ /kænt/ /kip/"
+  },
+  {
+    "vietnamese": "Tôi không muốn bạn hứa",
+    "english": "I don't want you to make a promise",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "Anh không muốn em hứa một điều mà em không thể giữ được",
+    "english": "I don't want you to make a promise you can't keep",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/ /ju/ /kænt/ /kip/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "im lặng",
+    "english": "quiet",
+    "soundmark": "/'kwaɪət/"
+  },
+  {
+    "vietnamese": "giữ im lặng",
+    "english": "to keep quiet",
+    "soundmark": "/tə/ /kip/ /'kwaɪət/"
+  },
+  {
+    "vietnamese": "bạn phải giữ im lặng",
+    "english": "you have to keep quiet",
+    "soundmark": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/"
+  },
+  {
+    "vietnamese": "cá",
+    "english": "fish",
+    "soundmark": "/fɪʃ/"
+  },
+  {
+    "vietnamese": "câu cá",
+    "english": "to fish",
+    "soundmark": "/tə/ /fɪʃ/"
+  },
+  {
+    "vietnamese": "câu cá (dạng ing)",
+    "english": "fishing",
+    "soundmark": "/'fɪʃɪŋ/"
+  },
+  {
+    "vietnamese": "câu cá",
+    "english": "be fishing",
+    "soundmark": "/bi/ /'fɪʃɪŋ/"
+  },
+  {
+    "vietnamese": "bạn (bây giờ) đang câu cá",
+    "english": "you are fishing",
+    "soundmark": "/ju/ /ɚ/ /'fɪʃɪŋ/"
+  },
+  {
+    "vietnamese": "khi nào... khi nào",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi bạn (bây giờ) đang câu cá",
+    "english": "when you are fishing",
+    "soundmark": "/wɛn/ /ju/ /ɚ/ /'fɪʃɪŋ/"
+  },
+  {
+    "vietnamese": "bạn phải giữ im lặng",
+    "english": "you have to keep quiet",
+    "soundmark": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/"
+  },
+  {
+    "vietnamese": "bạn phải giữ im lặng khi đang câu cá (bây giờ)",
+    "english": "you have to keep quiet when you are fishing",
+    "soundmark": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/ /wɛn/ /ju/ /ɚ/ /'fɪʃɪŋ/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "bí mật",
+    "english": "secret",
+    "soundmark": "/'sikrət/"
+  },
+  {
+    "vietnamese": "giữ bí mật",
+    "english": "to keep a secret",
+    "soundmark": "/tə/ /kip/ /ə/ /'sikrət/"
+  },
+  {
+    "vietnamese": "của chúng tôi",
+    "english": "our",
+    "soundmark": "/'aʊɚ/"
+  },
+  {
+    "vietnamese": "bí mật của chúng tôi",
+    "english": "our secret",
+    "soundmark": "/'aʊɚ/ /'sikrət/"
+  },
+  {
+    "vietnamese": "giữ bí mật của chúng tôi",
+    "english": "to keep our secret",
+    "soundmark": "/tə/ /kip/ /'aʊɚ/ /'sikrət/"
+  },
+  {
+    "vietnamese": "bạn phải giữ bí mật của chúng tôi",
+    "english": "you have to keep our secret",
+    "soundmark": "/ju/ /hæv/ /tə/ /kip/ /'aʊɚ/ /'sikrət/"
+  },
+  {
+    "vietnamese": "giữ bí mật",
+    "english": "to keep a secret",
+    "soundmark": "/tə/ /kip/ /ə/ /'sikrət/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "không thể",
+    "english": "can't",
+    "soundmark": "/kænt/"
+  },
+  {
+    "vietnamese": "cô ấy không thể",
+    "english": "she can't",
+    "soundmark": "/ʃi/ /kænt/"
+  },
+  {
+    "vietnamese": "cô ấy không thể giữ bí mật",
+    "english": "she can't keep a secret",
+    "soundmark": "/ʃi/ /kænt/ /kip/ /ə/ /'sikrət/"
+  },
+  {
+    "vietnamese": "phút",
+    "english": "minute",
+    "soundmark": "/'mɪnɪt/"
+  },
+  {
+    "vietnamese": "năm",
+    "english": "five",
+    "soundmark": "/faɪv/"
+  },
+  {
+    "vietnamese": "năm phút",
+    "english": "five minutes",
+    "soundmark": "/faɪv/ /'mɪnɪts/"
+  },
+  {
+    "vietnamese": "cô ấy không thể giữ bí mật trong năm phút",
+    "english": "she can't keep a secret for five minutes",
+    "soundmark": "/ʃi/ /kænt/ /kip/ /ə/ /'sikrət/ /fɝ/ /faɪv/ /'mɪnɪts/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to say",
+    "soundmark": "/tə/ /seɪ/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) nói",
+    "english": "she said",
+    "soundmark": "/ʃi/ /sɛd/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) nói rằng cô ấy không thể giữ bí mật trong năm phút",
+    "english": "she said she can't keep a secret for five minutes",
+    "soundmark": "/ʃi/ /sɛd/ /ʃi/ /kænt/ /kip/ /ə/ /'sikrət/ /fɝ/ /faɪv/ /'mɪnɪts/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "tHĂNG BẰNG",
+    "english": "balance",
+    "soundmark": "/'bæləns/"
+  },
+  {
+    "vietnamese": "giữ thăng bằng",
+    "english": "to keep balance",
+    "soundmark": "/tə/ /kip/ /'bæləns/"
+  },
+  {
+    "vietnamese": "tốt",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "vietnamese": "duy trì sự cân bằng tốt",
+    "english": "to keep a good balance",
+    "soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "vietnamese": "làm việc",
+    "english": "work",
+    "soundmark": "/wɝk/"
+  },
+  {
+    "vietnamese": "mạng sống",
+    "english": "life",
+    "soundmark": "/laɪf/"
+  },
+  {
+    "vietnamese": "và",
+    "english": "and",
+    "soundmark": "/ənd/"
+  },
+  {
+    "vietnamese": "công việc và cuộc sống",
+    "english": "work and life",
+    "soundmark": "/wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "vietnamese": "giữa",
+    "english": "between",
+    "soundmark": "/bɪ'twin/"
+  },
+  {
+    "vietnamese": "giữa công việc và cuộc sống",
+    "english": "between work and life",
+    "soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "vietnamese": "duy trì sự cân bằng tốt",
+    "english": "to keep a good balance",
+    "soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "vietnamese": "duy trì sự cân bằng tốt giữa công việc và cuộc sống",
+    "english": "to keep a good balance between work and life",
+    "soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn phải duy trì sự cân bằng tốt giữa công việc và cuộc sống",
+    "english": "you have to keep a good balance between work and life",
+    "soundmark": "/ju/ /hæv/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "vietnamese": "khó",
+    "english": "difficult",
+    "soundmark": "/'dɪfɪkəlt/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "khó khăn",
+    "english": "it is difficult",
+    "soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/"
+  },
+  {
+    "vietnamese": "sự cân bằng tốt",
+    "english": "a good balance",
+    "soundmark": "/ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "duy trì sự cân bằng tốt",
+    "english": "to keep a good balance",
+    "soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "vietnamese": "công việc và cuộc sống",
+    "english": "work and life",
+    "soundmark": "/wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "vietnamese": "giữa",
+    "english": "between",
+    "soundmark": "/bɪ'twin/"
+  },
+  {
+    "vietnamese": "giữa công việc và cuộc sống",
+    "english": "between work and life",
+    "soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "vietnamese": "duy trì sự cân bằng tốt giữa công việc và cuộc sống",
+    "english": "to keep a good balance between work and life",
+    "soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "vietnamese": "khó khăn",
+    "english": "it is difficult",
+    "soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/"
+  },
+  {
+    "vietnamese": "duy trì sự cân bằng tốt giữa công việc và cuộc sống (rất khó)",
+    "english": "it is difficult to keep a good balance between work and life",
+    "soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "vietnamese": "rất",
+    "english": "very",
+    "soundmark": "/ˈvɛri/"
+  },
+  {
+    "vietnamese": "duy trì sự cân bằng tốt giữa công việc và cuộc sống (điều đó) rất khó",
+    "english": "it is very difficult to keep a good balance between work and life",
+    "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /'dɪfɪkəlt/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "vietnamese": "giữ",
+    "english": "to keep",
+    "soundmark": "/tə/ /kip/"
+  },
+  {
+    "vietnamese": "im lặng",
+    "english": "quiet",
+    "soundmark": "/'kwaɪət/"
+  },
+  {
+    "vietnamese": "giữ im lặng",
+    "english": "to keep quiet",
+    "soundmark": "/tə/ /kip/ /'kwaɪət/"
+  },
+  {
+    "vietnamese": "về",
+    "english": "about",
+    "soundmark": "/ə'baʊt/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "về vấn đề đó",
+    "english": "about it",
+    "soundmark": "/ə'baʊt/ /ɪt/"
+  },
+  {
+    "vietnamese": "giữ im lặng về vấn đề đó",
+    "english": "to keep quiet about it",
+    "soundmark": "/tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /ɪt/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đã nói với bạn",
+    "english": "I told you",
+    "soundmark": "/aɪ/ /told/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đã bảo bạn hãy giữ im lặng về vấn đề đó",
+    "english": "I told you to keep quiet about it",
+    "soundmark": "/aɪ/ /told/ /ju/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /ɪt/"
+  },
+  {
+    "vietnamese": "kế hoạch",
+    "english": "plan",
+    "soundmark": "/plæn/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "kế hoạch của tôi",
+    "english": "my plan",
+    "soundmark": "/maɪ/ /plæn/"
+  },
+  {
+    "vietnamese": "về kế hoạch của tôi",
+    "english": "about my plan",
+    "soundmark": "/ə'baʊt/ /maɪ/ /plæn/"
+  },
+  {
+    "vietnamese": "giữ im lặng",
+    "english": "to keep quiet",
+    "soundmark": "/tə/ /kip/ /'kwaɪət/"
+  },
+  {
+    "vietnamese": "giữ im lặng về kế hoạch của tôi",
+    "english": "to keep quiet about my plan",
+    "soundmark": "/tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đã nói với bạn",
+    "english": "I told you",
+    "soundmark": "/aɪ/ /told/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi (quá khứ) đã bảo bạn giữ im lặng về kế hoạch của tôi",
+    "english": "I told you to keep quiet about my plan",
+    "soundmark": "/aɪ/ /told/ /ju/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/"
+  },
+  {
+    "vietnamese": "thực hiện một lời hứa",
+    "english": "to make a promise",
+    "soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "hứa",
+    "english": "to promise",
+    "soundmark": "/tə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "bạn (quá khứ) đã hứa",
+    "english": "you promised",
+    "soundmark": "/ju/ /'prɑmɪst/"
+  },
+  {
+    "vietnamese": "bạn hứa sẽ giữ im lặng về kế hoạch của tôi",
+    "english": "you promised to keep quiet about my plan",
+    "soundmark": "/ju/ /'prɑmɪst/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/"
+  },
+  {
+    "vietnamese": "hứa",
+    "english": "to promise",
+    "soundmark": "/tə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "hứa với tôi",
+    "english": "to promise me",
+    "soundmark": "/tə/ /'prɑmɪs/ /mi/"
+  },
+  {
+    "vietnamese": "Anh muốn em",
+    "english": "I want you",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn cam kết với tôi",
+    "english": "I want you to promise me",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/"
+  },
+  {
+    "vietnamese": "bạn sẽ",
+    "english": "you will",
+    "soundmark": "/ju/ /wɪl/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to tell",
+    "soundmark": "/tə/ /tɛl/"
+  },
+  {
+    "vietnamese": "bạn sẽ kể",
+    "english": "you will tell",
+    "soundmark": "/ju/ /wɪl/ /tɛl/"
+  },
+  {
+    "vietnamese": "bạn sẽ không nói",
+    "english": "you will not tell",
+    "soundmark": "/ju/ /wɪl/ /nɑt/ /tɛl/"
+  },
+  {
+    "vietnamese": "ông, chú, anh ấy",
+    "english": "him",
+    "soundmark": "/hɪm/"
+  },
+  {
+    "vietnamese": "bạn sẽ không nói với anh ấy",
+    "english": "you will not tell him",
+    "soundmark": "/ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/"
+  },
+  {
+    "vietnamese": "sự thật",
+    "english": "the truth",
+    "soundmark": "/ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "bạn sẽ không nói cho anh ấy sự thật",
+    "english": "you will not tell him the truth",
+    "soundmark": "/ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn hứa với tôi rằng bạn sẽ không nói cho anh ấy sự thật",
+    "english": "I want you to promise me you will not tell him the truth",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/ /ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "không đời nào",
+    "english": "never",
+    "soundmark": "/'nɛvɚ/"
+  },
+  {
+    "vietnamese": "Tôi muốn bạn hứa với tôi rằng bạn sẽ không bao giờ nói cho anh ta sự thật",
+    "english": "I want you to promise me you will never tell him the truth",
+    "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/ /ju/ /wɪl/ /'nɛvɚ/ /tɛl/ /hɪm/ /ðə/ /trʊθ/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to make",
+    "soundmark": "/tə/ /mek/"
+  },
+  {
+    "vietnamese": "hứa",
+    "english": "promise",
+    "soundmark": "/'prɑmɪs/"
+  },
+  {
+    "vietnamese": "thực hiện một lời hứa",
+    "english": "to make a promise",
+    "soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi hứa",
+    "english": "I make a promise",
+    "soundmark": "/aɪ/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "vietnamese": "bản thân tôi",
+    "english": "myself",
+    "soundmark": "/maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "Tôi tự hứa với mình",
+    "english": "I make a promise to myself",
+    "soundmark": "/aɪ/ /mek/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "Tôi đã tự hứa với mình",
+    "english": "I made a promise to myself",
+    "soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "trẻ",
+    "english": "young",
+    "soundmark": "/jʌŋ/"
+  },
+  {
+    "vietnamese": "Tôi còn trẻ",
+    "english": "I am young",
+    "soundmark": "/aɪ/ /æm/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "Tôi (đã từng) trẻ",
+    "english": "I was young",
+    "soundmark": "/aɪ/ /wəz/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "khi...khi nào",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi tôi còn trẻ (đã từng)",
+    "english": "when I was young",
+    "soundmark": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+  },
+  {
+    "vietnamese": "trẻ hơn",
+    "english": "younger",
+    "soundmark": "/ˈjʌŋɡər/"
+  },
+  {
+    "vietnamese": "khi tôi còn trẻ",
+    "english": "when I was younger",
+    "soundmark": "/wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/"
+  },
+  {
+    "vietnamese": "Tôi đã tự hứa với mình",
+    "english": "I made a promise to myself",
+    "soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "Khi còn trẻ tôi đã tự hứa với mình",
+    "english": "I made a promise to myself when I was younger",
+    "soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/"
+  },
+  {
+    "vietnamese": "học",
+    "english": "to learn",
+    "soundmark": "/tə/ /lɝn/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "học tiếng anh",
+    "english": "to learn English",
+    "soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "mọi",
+    "english": "every",
+    "soundmark": "/'ɛvri/"
+  },
+  {
+    "vietnamese": "bầu trời",
+    "english": "day",
+    "soundmark": "/de/"
+  },
+  {
+    "vietnamese": "mỗi ngày",
+    "english": "every day",
+    "soundmark": "/'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "học tiếng Anh mỗi ngày",
+    "english": "to learn English every day",
+    "soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "Tôi sẽ",
+    "english": "I will",
+    "soundmark": "/aɪ/ /wɪl/"
+  },
+  {
+    "vietnamese": "Tôi sẽ học tiếng Anh mỗi ngày",
+    "english": "I will learn English every day",
+    "soundmark": "/aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "cái đó",
+    "english": "that",
+    "soundmark": "/ðæt/"
+  },
+  {
+    "vietnamese": "rằng tôi sẽ học tiếng Anh mỗi ngày",
+    "english": "that I will learn English every day",
+    "soundmark": "/ðæt/ /aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "Khi còn trẻ tôi đã tự hứa với mình",
+    "english": "I made a promise to myself when I was younger",
+    "soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/"
+  },
+  {
+    "vietnamese": "Khi tôi còn trẻ tôi đã tự hứa với mình rằng tôi sẽ học tiếng Anh mỗi ngày",
+    "english": "I made a promise to myself when I was younger that I will learn English every day",
+    "soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/ /ðæt/ /aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "Tôi (trước đây) sẽ học tiếng Anh mỗi ngày",
+    "english": "I would learn English every day",
+    "soundmark": "/aɪ/ /wʊd/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+  },
+  {
+    "vietnamese": "Khi tôi còn trẻ tôi đã tự hứa với mình rằng tôi sẽ học tiếng Anh mỗi ngày",
+    "english": "I made a promise to myself when I was younger that I would learn English every day",
+    "soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/ /aɪ/ /wʊd/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+  }
+]

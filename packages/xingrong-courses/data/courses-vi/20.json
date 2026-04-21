@@ -1,0 +1,667 @@
+[
+  {
+    "vietnamese": "mua sắm",
+    "english": "to shop",
+    "soundmark": "/tə/ /ʃɑp/"
+  },
+  {
+    "vietnamese": "muốn",
+    "english": "want",
+    "soundmark": "/wɑnt/"
+  },
+  {
+    "vietnamese": "chúng tôi",
+    "english": "we",
+    "soundmark": "/wi/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn",
+    "english": "we want",
+    "soundmark": "/wi/ /wɑnt/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn mua sắm",
+    "english": "we want to shop",
+    "soundmark": "/wi/ /wɑnt/ /tə/ /ʃɑp/"
+  },
+  {
+    "vietnamese": "chợ",
+    "english": "the market",
+    "soundmark": "/ðə/ /'mɑrkɪt/"
+  },
+  {
+    "vietnamese": "hiện hữu",
+    "english": "at",
+    "soundmark": "/ət/"
+  },
+  {
+    "vietnamese": "trên thị trường",
+    "english": "at the market",
+    "soundmark": "/ət/ /ðə/ /'mɑrkɪt/"
+  },
+  {
+    "vietnamese": "mua sắm",
+    "english": "to shop",
+    "soundmark": "/tə/ /ʃɑp/"
+  },
+  {
+    "vietnamese": "mua sắm ở chợ",
+    "english": "to shop at the market",
+    "soundmark": "/tə/ /ʃɑp/ /ət/ /ðə/ /'mɑrkɪt/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn mua sắm ở chợ",
+    "english": "we want to shop at the market",
+    "soundmark": "/wi/ /wɑnt/ /tə/ /ʃɑp/ /ət/ /ðə/ /'mɑrkɪt/"
+  },
+  {
+    "vietnamese": "siêu",
+    "english": "super",
+    "soundmark": "/'sʊpɚ/"
+  },
+  {
+    "vietnamese": "siêu thị",
+    "english": "supermarket",
+    "soundmark": "/'sʊpɚmɑrkɪt/"
+  },
+  {
+    "vietnamese": "trong siêu thị",
+    "english": "at the supermarket",
+    "soundmark": "/ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+  },
+  {
+    "vietnamese": "chúng tôi muốn mua sắm ở siêu thị",
+    "english": "we want to shop at the supermarket",
+    "soundmark": "/wi/ /wɑnt/ /tə/ /ʃɑp/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+  },
+  {
+    "vietnamese": "chúng tôi mua sắm ở siêu thị",
+    "english": "we shop at the supermarket",
+    "soundmark": "/wi/ /ʃɑp/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+  },
+  {
+    "vietnamese": "mua sắm (dạng ing)",
+    "english": "shopping",
+    "soundmark": "/'ʃɑpɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "mua sắm",
+    "english": "be shopping",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "chúng tôi",
+    "english": "we",
+    "soundmark": "/wi/"
+  },
+  {
+    "vietnamese": "chúng tôi đang mua sắm (ngay bây giờ)",
+    "english": "we are shopping",
+    "soundmark": "/wi/ /ɚ/ /'ʃɑpɪŋ/"
+  },
+  {
+    "vietnamese": "trong siêu thị",
+    "english": "at the supermarket",
+    "soundmark": "/ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+  },
+  {
+    "vietnamese": "chúng tôi (bây giờ) đang mua sắm ở siêu thị",
+    "english": "we are shopping at the supermarket",
+    "soundmark": "/wi/ /ɚ/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+  },
+  {
+    "vietnamese": "bây giờ",
+    "english": "now",
+    "soundmark": "/naʊ/"
+  },
+  {
+    "vietnamese": "bây giờ chúng tôi đang mua sắm ở siêu thị",
+    "english": "we are shopping at the supermarket now",
+    "soundmark": "/wi/ /ɚ/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/ /naʊ/"
+  },
+  {
+    "vietnamese": "chúng tôi đã mua sắm ở siêu thị (trong quá khứ)",
+    "english": "we were shopping at the supermarket",
+    "soundmark": "/wi/ /wɚ/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+  },
+  {
+    "vietnamese": "gọi điện thoại",
+    "english": "to call",
+    "soundmark": "/tə/ /kɔl/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "bạn (quá khứ) đã gọi cho tôi",
+    "english": "you called me",
+    "soundmark": "/ju/ /kɔld/ /mi/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi bạn (quá khứ) gọi cho tôi",
+    "english": "when you called me",
+    "soundmark": "/wɛn/ /ju/ /kɔld/ /mi/"
+  },
+  {
+    "vietnamese": "Chủ nhật",
+    "english": "Sunday",
+    "soundmark": "/ˈsʌnde/"
+  },
+  {
+    "vietnamese": "lùi",
+    "english": "last",
+    "soundmark": "/læst/"
+  },
+  {
+    "vietnamese": "chủ nhật tuần trước",
+    "english": "last Sunday",
+    "soundmark": "/læst/ /ˈsʌnde/"
+  },
+  {
+    "vietnamese": "khi bạn gọi cho tôi vào chủ nhật tuần trước",
+    "english": "when you called me last Sunday",
+    "soundmark": "/wɛn/ /ju/ /kɔld/ /mi/ /læst/ /ˈsʌnde/"
+  },
+  {
+    "vietnamese": "chúng ta đang đi mua sắm ở siêu thị thì chủ nhật tuần trước bạn gọi cho tôi",
+    "english": "we were shopping at the supermarket when you called me last Sunday",
+    "soundmark": "/wi/ /wɚ/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/ /wɛn/ /ju/ /kɔld/ /mi/ /læst/ /ˈsʌnde/"
+  },
+  {
+    "vietnamese": "chúng tôi đã đi mua sắm ở siêu thị vào chủ nhật tuần trước",
+    "english": "we were shopping at the supermarket last Sunday",
+    "soundmark": "/wi/ /wɚ/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/ /læst/ /ˈsʌnde/"
+  },
+  {
+    "vietnamese": "chúng tôi đang mua sắm (trong quá khứ)",
+    "english": "we were shopping",
+    "soundmark": "/wi/ /wɚ/ /'ʃɑpɪŋ/"
+  },
+  {
+    "vietnamese": "chúng tôi đang mua sắm (ngay bây giờ)",
+    "english": "we are shopping",
+    "soundmark": "/wi/ /ɚ/ /'ʃɑpɪŋ/"
+  },
+  {
+    "vietnamese": "sẽ",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ đi mua sắm",
+    "english": "we will be shopping",
+    "soundmark": "/wi/ /wɪl/ /bi/ /'ʃɑpɪŋ/"
+  },
+  {
+    "vietnamese": "trong siêu thị",
+    "english": "at the supermarket",
+    "soundmark": "/ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+  },
+  {
+    "vietnamese": "chúng ta sẽ đi mua sắm ở siêu thị",
+    "english": "we will be shopping at the supermarket",
+    "soundmark": "/wi/ /wɪl/ /bi/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/"
+  },
+  {
+    "vietnamese": "Thứ hai",
+    "english": "Monday",
+    "soundmark": "/ˈmʌnde/"
+  },
+  {
+    "vietnamese": "tiếp theo",
+    "english": "next",
+    "soundmark": "/nɛkst/"
+  },
+  {
+    "vietnamese": "thứ hai tới",
+    "english": "next Monday",
+    "soundmark": "/nɛkst/ /ˈmʌnde/"
+  },
+  {
+    "vietnamese": "chúng tôi sẽ đi mua sắm ở siêu thị vào thứ Hai tới",
+    "english": "we will be shopping at the supermarket next Monday",
+    "soundmark": "/wi/ /wɪl/ /bi/ /'ʃɑpɪŋ/ /ət/ /ðə/ /'sʊpɚmɑrkɪt/ /nɛkst/ /ˈmʌnde/"
+  },
+  {
+    "vietnamese": "chờ đợi",
+    "english": "to wait",
+    "soundmark": "/tə/ /wet/"
+  },
+  {
+    "vietnamese": "Tôi cần",
+    "english": "I need",
+    "soundmark": "/aɪ/ /nid/"
+  },
+  {
+    "vietnamese": "Tôi cần đợi",
+    "english": "I need to wait",
+    "soundmark": "/aɪ/ /nid/ /tə/ /wet/"
+  },
+  {
+    "vietnamese": "bằng hữu",
+    "english": "friend",
+    "soundmark": "/frɛnd/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "bạn tôi",
+    "english": "my friend",
+    "soundmark": "/maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "để",
+    "english": "for",
+    "soundmark": "/fɝ/"
+  },
+  {
+    "vietnamese": "cho bạn bè của tôi",
+    "english": "for my friend",
+    "soundmark": "/fɝ/ /maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "Tôi cần đợi bạn bè của tôi",
+    "english": "I need to wait for my friend",
+    "soundmark": "/aɪ/ /nid/ /tə/ /wet/ /fɝ/ /maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "Tôi chờ đợi bạn bè của tôi",
+    "english": "I wait for my friend",
+    "soundmark": "/aɪ/ /wet/ /fɝ/ /maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "đợi (dạng ing)",
+    "english": "waiting",
+    "soundmark": "/'wetɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "chờ",
+    "english": "be waiting",
+    "soundmark": "/bi/ /'wetɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang chờ đợi",
+    "english": "I am waiting",
+    "soundmark": "/aɪ/ /æm/ /'wetɪŋ/"
+  },
+  {
+    "vietnamese": "cho bạn bè của tôi",
+    "english": "for my friend",
+    "soundmark": "/fɝ/ /maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang đợi bạn bè của mình",
+    "english": "I am waiting for my friend",
+    "soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "xe buýt",
+    "english": "the bus",
+    "soundmark": "/ðə/ /bʌs/"
+  },
+  {
+    "vietnamese": "dừng lại",
+    "english": "stop",
+    "soundmark": "/stɑp/"
+  },
+  {
+    "vietnamese": "trạm xe buýt",
+    "english": "the bus stop",
+    "soundmark": "/ðə/ /bʌs/ /stɑp/"
+  },
+  {
+    "vietnamese": "hiện hữu",
+    "english": "at",
+    "soundmark": "/ət/"
+  },
+  {
+    "vietnamese": "ở bến xe buýt",
+    "english": "at the bus stop",
+    "soundmark": "/ət/ /ðə/ /bʌs/ /stɑp/"
+  },
+  {
+    "vietnamese": "Tôi đang ở bến xe buýt (ngay bây giờ) đợi bạn bè",
+    "english": "I am waiting for my friend at the bus stop",
+    "soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/"
+  },
+  {
+    "vietnamese": "bây giờ",
+    "english": "now",
+    "soundmark": "/naʊ/"
+  },
+  {
+    "vietnamese": "Tôi đang ở bến xe buýt đợi bạn bè",
+    "english": "I am waiting for my friend at the bus stop now",
+    "soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/ /naʊ/"
+  },
+  {
+    "vietnamese": "Tôi đang đợi bạn bè ở bến xe buýt (quá khứ)",
+    "english": "I was waiting for my friend at the bus stop",
+    "soundmark": "/aɪ/ /wəz/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/"
+  },
+  {
+    "vietnamese": "ngày hôm qua",
+    "english": "yesterday",
+    "soundmark": "/'jɛstɚde/"
+  },
+  {
+    "vietnamese": "Hôm qua tôi đang đợi bạn tôi ở bến xe buýt",
+    "english": "I was waiting for my friend at the bus stop yesterday",
+    "soundmark": "/aɪ/ /wəz/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "thời gian; thời gian",
+    "english": "time",
+    "soundmark": "/taɪm/"
+  },
+  {
+    "vietnamese": "cái này",
+    "english": "this",
+    "soundmark": "/ðɪs/"
+  },
+  {
+    "vietnamese": "tại thời điểm này",
+    "english": "this time",
+    "soundmark": "/ðɪs/ /taɪm/"
+  },
+  {
+    "vietnamese": "hiện hữu",
+    "english": "at",
+    "soundmark": "/ət/"
+  },
+  {
+    "vietnamese": "vào lúc này",
+    "english": "at this time",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/"
+  },
+  {
+    "vietnamese": "ngày hôm qua",
+    "english": "yesterday",
+    "soundmark": "/'jɛstɚde/"
+  },
+  {
+    "vietnamese": "vào thời điểm này ngày hôm qua",
+    "english": "at this time yesterday",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "Hôm qua tôi đang ở bến xe đợi bạn tôi vào giờ này",
+    "english": "I was waiting for my friend at the bus stop at this time yesterday",
+    "soundmark": "/aɪ/ /wəz/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/ /ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "trước",
+    "english": "before",
+    "soundmark": "/bɪ'fɔr/"
+  },
+  {
+    "vietnamese": "trước ngày hôm qua",
+    "english": "before yesterday",
+    "soundmark": "/bɪ'fɔr/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "ngày hôm đó",
+    "english": "the day",
+    "soundmark": "/ðə/ /de/"
+  },
+  {
+    "vietnamese": "ngày hôm kia (ngày hôm kia)",
+    "english": "the day before yesterday",
+    "soundmark": "/ðə/ /de/ /bɪ'fɔr/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "vào lúc này",
+    "english": "at this time",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/"
+  },
+  {
+    "vietnamese": "vào thời điểm này ngày hôm kia",
+    "english": "at this time the day before yesterday",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/ /ðə/ /de/ /bɪ'fɔr/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "Tôi đang ở bến xe buýt đợi bạn bè vào giờ này ngày hôm kia",
+    "english": "I was waiting for my friend at the bus stop at this time the day before yesterday",
+    "soundmark": "/aɪ/ /wəz/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/ /ət/ /ðɪs/ /taɪm/ /ðə/ /de/ /bɪ'fɔr/ /'jɛstɚde/"
+  },
+  {
+    "vietnamese": "Tôi (đã) chờ đợi bạn bè của tôi",
+    "english": "I was waiting for my friend",
+    "soundmark": "/aɪ/ /wəz/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang đợi bạn bè của mình",
+    "english": "I am waiting for my friend",
+    "soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "sẽ",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "vietnamese": "Tôi sẽ đợi bạn bè của tôi",
+    "english": "I will be waiting for my friend",
+    "soundmark": "/aɪ/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "xe buýt",
+    "english": "the bus",
+    "soundmark": "/ðə/ /bʌs/"
+  },
+  {
+    "vietnamese": "dừng lại",
+    "english": "stop",
+    "soundmark": "/stɑp/"
+  },
+  {
+    "vietnamese": "trạm xe buýt",
+    "english": "the bus stop",
+    "soundmark": "/ðə/ /bʌs/ /stɑp/"
+  },
+  {
+    "vietnamese": "ở bến xe buýt",
+    "english": "at the bus stop",
+    "soundmark": "/ət/ /ðə/ /bʌs/ /stɑp/"
+  },
+  {
+    "vietnamese": "Tôi sẽ ở bến xe buýt đợi bạn bè",
+    "english": "I will be waiting for my friend at the bus stop",
+    "soundmark": "/aɪ/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/"
+  },
+  {
+    "vietnamese": "vào lúc này",
+    "english": "at this time",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/"
+  },
+  {
+    "vietnamese": "ngày mai",
+    "english": "tomorrow",
+    "soundmark": "/tə'mɔro/"
+  },
+  {
+    "vietnamese": "vào thời điểm này ngày mai",
+    "english": "at this time tomorrow",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "Tôi sẽ ở bến xe đợi bạn bè vào giờ này ngày mai",
+    "english": "I will be waiting for my friend at the bus stop at this time tomorrow",
+    "soundmark": "/aɪ/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "sau đó",
+    "english": "after",
+    "soundmark": "/'æftɚ/"
+  },
+  {
+    "vietnamese": "sau ngày mai",
+    "english": "after tomorrow",
+    "soundmark": "/'æftɚ/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "ngày hôm đó",
+    "english": "the day",
+    "soundmark": "/ðə/ /de/"
+  },
+  {
+    "vietnamese": "vào ngày mốt (ngày kia)",
+    "english": "the day after tomorrow",
+    "soundmark": "/ðə/ /de/ /'æftɚ/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "vào lúc này",
+    "english": "at this time",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/"
+  },
+  {
+    "vietnamese": "vào thời điểm này ngày mốt",
+    "english": "at this time the day after tomorrow",
+    "soundmark": "/ət/ /ðɪs/ /taɪm/ /ðə/ /de/ /'æftɚ/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "Tôi sẽ ở bến xe buýt đợi bạn bè vào giờ này ngày mốt",
+    "english": "I will be waiting for my friend at the bus stop at this time the day after tomorrow",
+    "soundmark": "/aɪ/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/ /ət/ /ðə/ /bʌs/ /stɑp/ /ət/ /ðɪs/ /taɪm/ /ðə/ /de/ /'æftɚ/ /tə'mɔro/"
+  },
+  {
+    "vietnamese": "Tôi sẽ đợi bạn bè của tôi",
+    "english": "I will be waiting for my friend",
+    "soundmark": "/aɪ/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "anh ấy",
+    "english": "he",
+    "soundmark": "/hi/"
+  },
+  {
+    "vietnamese": "anh ấy sẽ đợi bạn tôi",
+    "english": "he will be waiting for my friend",
+    "soundmark": "/hi/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "họ",
+    "english": "they",
+    "soundmark": "/ðe/"
+  },
+  {
+    "vietnamese": "họ sẽ đợi bạn bè của tôi",
+    "english": "they will be waiting for my friend",
+    "soundmark": "/ðe/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang đợi bạn bè của mình",
+    "english": "I am waiting for my friend",
+    "soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /maɪ/ /frɛnd/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang chờ đợi",
+    "english": "I am waiting",
+    "soundmark": "/aɪ/ /æm/ /'wetɪŋ/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "để",
+    "english": "for",
+    "soundmark": "/fɝ/"
+  },
+  {
+    "vietnamese": "cho bạn",
+    "english": "for you",
+    "soundmark": "/fɝ/ /ju/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang đợi bạn",
+    "english": "I am waiting for you",
+    "soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /ju/"
+  },
+  {
+    "vietnamese": "hỏi",
+    "english": "to ask",
+    "soundmark": "/tə/ /æsk/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "hỏi tôi",
+    "english": "to ask me",
+    "soundmark": "/tə/ /æsk/ /mi/"
+  },
+  {
+    "vietnamese": "cái đó",
+    "english": "that",
+    "soundmark": "/ðæt/"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "english": "question",
+    "soundmark": "/'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "câu hỏi đó",
+    "english": "that question",
+    "soundmark": "/ðæt/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "hỏi tôi câu hỏi đó",
+    "english": "to ask me that question",
+    "soundmark": "/tə/ /æsk/ /mi/ /ðæt/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang đợi bạn hỏi tôi",
+    "english": "I am waiting for you to ask me",
+    "soundmark": "/aɪ/ /æm/ /'wetɪŋ/ /fɝ/ /ju/ /tə/ /æsk/ /mi/"
+  },
+  {
+    "vietnamese": "câu hỏi đó",
+    "english": "that question",
+    "soundmark": "/ðæt/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "Tôi (đã) đợi bạn hỏi tôi câu hỏi đó",
+    "english": "I was waiting for you to ask me that question",
+    "soundmark": "/aɪ/ /wəz/ /'wetɪŋ/ /fɝ/ /ju/ /tə/ /æsk/ /mi/ /ðæt/ /'kwɛstʃən/"
+  },
+  {
+    "vietnamese": "sẽ",
+    "english": "will",
+    "soundmark": "/wɪl/"
+  },
+  {
+    "vietnamese": "Tôi sẽ đợi bạn hỏi tôi câu hỏi đó",
+    "english": "I will be waiting for you to ask me that question",
+    "soundmark": "/aɪ/ /wɪl/ /bi/ /'wetɪŋ/ /fɝ/ /ju/ /tə/ /æsk/ /mi/ /ðæt/ /'kwɛstʃən/"
+  }
+]

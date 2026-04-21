@@ -1,0 +1,30 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="183" y1="44" x2="1120" y2="655" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07112A"/>
+      <stop offset="1" stop-color="#102B5A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="166" y1="122" x2="580" y2="552" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" rx="36" fill="url(#bg)"/>
+  <circle cx="1007" cy="180" r="188" fill="#162D5B" opacity="0.7"/>
+  <circle cx="1130" cy="117" r="96" fill="#1D4ED8" opacity="0.45"/>
+  <rect x="88" y="84" width="360" height="552" rx="36" fill="url(#accent)"/>
+  <rect x="127" y="126" width="282" height="468" rx="28" fill="#0B1228"/>
+  <path d="M238 237C238 174.592 288.592 124 351 124C413.408 124 464 174.592 464 237V375H238V237Z" fill="#F8D68B"/>
+  <circle cx="351" cy="212" r="84" fill="#111827"/>
+  <rect x="286" y="377" width="130" height="138" rx="38" fill="#8B5CF6"/>
+  <rect x="319" y="377" width="64" height="92" rx="20" fill="#F8D68B"/>
+  <path d="M285 143L329 110H375L418 143L406 176H297L285 143Z" fill="#111827"/>
+  <rect x="542" y="158" width="156" height="54" rx="27" fill="#1D4ED8" fill-opacity="0.2"/>
+  <text x="580" y="193" fill="#93C5FD" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">EARTHWORM</text>
+  <text x="540" y="312" fill="white" font-size="88" font-family="Arial, Helvetica, sans-serif" font-weight="800">Xingrong</text>
+  <text x="540" y="396" fill="#F8FAFC" font-size="88" font-family="Arial, Helvetica, sans-serif" font-weight="800">Basic English</text>
+  <text x="542" y="478" fill="#CBD5E1" font-size="36" font-family="Arial, Helvetica, sans-serif" font-weight="500">Vietnamese to English</text>
+  <text x="542" y="536" fill="#93C5FD" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="500">Beginner-friendly lessons for daily practice</text>
+  <rect x="540" y="580" width="204" height="58" rx="29" fill="#10B981"/>
+  <text x="584" y="618" fill="white" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="700">LESSON 1+</text>
+</svg>

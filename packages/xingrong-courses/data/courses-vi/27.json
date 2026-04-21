@@ -1,0 +1,647 @@
+[
+  {
+    "vietnamese": "tay",
+    "english": "hand",
+    "soundmark": "/hænd/"
+  },
+  {
+    "vietnamese": "xử lý",
+    "english": "handle",
+    "soundmark": "/'hændl/"
+  },
+  {
+    "vietnamese": "cửa",
+    "english": "door",
+    "soundmark": "/dɔr/"
+  },
+  {
+    "vietnamese": "tay nắm cửa",
+    "english": "door handle",
+    "soundmark": "/dɔr/ /'hændl/"
+  },
+  {
+    "vietnamese": "dao",
+    "english": "knife",
+    "soundmark": "/naɪf/"
+  },
+  {
+    "vietnamese": "xử lý",
+    "english": "handle",
+    "soundmark": "/'hændl/"
+  },
+  {
+    "vietnamese": "chuôi kiếm",
+    "english": "knife handle",
+    "soundmark": "/naɪf/ /'hændl/"
+  },
+  {
+    "vietnamese": "xử lý",
+    "english": "handle",
+    "soundmark": "/'hændl/"
+  },
+  {
+    "vietnamese": "vận hành",
+    "english": "to handle",
+    "soundmark": "/tə/ /'hændl/"
+  },
+  {
+    "vietnamese": "máy móc",
+    "english": "machine",
+    "soundmark": "/mə'ʃin/"
+  },
+  {
+    "vietnamese": "cái này",
+    "english": "this",
+    "soundmark": "/ðɪs/"
+  },
+  {
+    "vietnamese": "cái máy này",
+    "english": "this machine",
+    "soundmark": "/ðɪs/ /mə'ʃin/"
+  },
+  {
+    "vietnamese": "vận hành",
+    "english": "to handle",
+    "soundmark": "/tə/ /'hændl/"
+  },
+  {
+    "vietnamese": "vận hành máy này",
+    "english": "to handle this machine",
+    "soundmark": "/tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "Anh biết.",
+    "english": "I know",
+    "soundmark": "/aɪ/ /no/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "Tôi biết cách vận hành chiếc máy này",
+    "english": "I know how to handle this machine",
+    "soundmark": "/aɪ/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "Tôi không biết",
+    "english": "I don't know",
+    "soundmark": "/aɪ/ /dont/ /no/"
+  },
+  {
+    "vietnamese": "Tôi không biết cách vận hành chiếc máy này",
+    "english": "I don't know how to handle this machine",
+    "soundmark": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "vietnamese": "vận hành máy này",
+    "english": "to handle this machine",
+    "soundmark": "/tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "Tôi có thể vận hành chiếc máy này",
+    "english": "I can handle this machine",
+    "soundmark": "/aɪ/ /kæn/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "vietnamese": "không thể",
+    "english": "can't",
+    "soundmark": "/kænt/"
+  },
+  {
+    "vietnamese": "Tôi không thể",
+    "english": "I can't",
+    "soundmark": "/aɪ/ /kænt/"
+  },
+  {
+    "vietnamese": "vận hành máy này",
+    "english": "to handle this machine",
+    "soundmark": "/tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "vietnamese": "Tôi không thể vận hành chiếc máy này",
+    "english": "I can't handle this machine",
+    "soundmark": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "vietnamese": "một mình",
+    "english": "alone",
+    "soundmark": "/ə'lon/"
+  },
+  {
+    "vietnamese": "Tôi không thể vận hành chiếc máy này một mình",
+    "english": "I can't handle this machine alone",
+    "soundmark": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /ə'lon/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "sở hữu",
+    "english": "self",
+    "soundmark": "/sɛlf/"
+  },
+  {
+    "vietnamese": "tôi một mình",
+    "english": "myself",
+    "soundmark": "/maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "bằng cách",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "bằng cách riêng của tôi",
+    "english": "by myself",
+    "soundmark": "/baɪ/ /maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "Tôi không thể vận hành chiếc máy này",
+    "english": "I can't handle this machine",
+    "soundmark": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "vietnamese": "Tôi không thể vận hành chiếc máy này một mình",
+    "english": "I can't handle this machine by myself",
+    "soundmark": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /baɪ/ /maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "của bạn",
+    "english": "your",
+    "soundmark": "/jʊr/"
+  },
+  {
+    "vietnamese": "sở hữu",
+    "english": "self",
+    "soundmark": "/sɛlf/"
+  },
+  {
+    "vietnamese": "bạn đang một mình",
+    "english": "yourself",
+    "soundmark": "/jɔr'sɛlf/"
+  },
+  {
+    "vietnamese": "bằng cách",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "một mình",
+    "english": "by yourself",
+    "soundmark": "/baɪ/ /jɔr'sɛlf/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn không thể vận hành máy này một mình",
+    "english": "you can't handle this machine by yourself",
+    "soundmark": "/ju/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /baɪ/ /jɔr'sɛlf/"
+  },
+  {
+    "vietnamese": "cô ấy ở một mình",
+    "english": "herself",
+    "soundmark": "/hɝ'sɛlf/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "cô ấy không thể vận hành cỗ máy này một mình",
+    "english": "she can't handle this machine by herself",
+    "soundmark": "/ʃi/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /baɪ/ /hɝ'sɛlf/"
+  },
+  {
+    "vietnamese": "vận hành",
+    "english": "to handle",
+    "soundmark": "/tə/ /'hændl/"
+  },
+  {
+    "vietnamese": "hoạt động (dạng ing)",
+    "english": "handling",
+    "soundmark": "/'hændlɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đang hoạt động",
+    "english": "be handling",
+    "soundmark": "/bi/ /'hændlɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi",
+    "english": "I",
+    "soundmark": "/aɪ/"
+  },
+  {
+    "vietnamese": "Tôi (bây giờ) đang điều hành",
+    "english": "I am handling",
+    "soundmark": "/aɪ/ /æm/ /'hændlɪŋ/"
+  },
+  {
+    "vietnamese": "cái máy này",
+    "english": "this machine",
+    "soundmark": "/ðɪs/ /mə'ʃin/"
+  },
+  {
+    "vietnamese": "Tôi (hiện) đang vận hành chiếc máy này",
+    "english": "I am handling this machine",
+    "soundmark": "/aɪ/ /æm/ /'hændlɪŋ/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "vietnamese": "câu hỏi",
+    "english": "problem",
+    "soundmark": "/'prɑbləm/"
+  },
+  {
+    "vietnamese": "câu hỏi này",
+    "english": "this problem",
+    "soundmark": "/ðɪs/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "vận hành; quá trình",
+    "english": "to handle",
+    "soundmark": "/tə/ /'hændl/"
+  },
+  {
+    "vietnamese": "giải quyết vấn đề này",
+    "english": "to handle this problem",
+    "soundmark": "/tə/ /'hændl/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "Anh biết.",
+    "english": "I know",
+    "soundmark": "/aɪ/ /no/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "Tôi biết cách giải quyết vấn đề này",
+    "english": "I know how to handle this problem",
+    "soundmark": "/aɪ/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "Tôi không biết",
+    "english": "I don't know",
+    "soundmark": "/aɪ/ /dont/ /no/"
+  },
+  {
+    "vietnamese": "Tôi không biết làm thế nào để giải quyết vấn đề này",
+    "english": "I don't know how to handle this problem",
+    "soundmark": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "sở hữu",
+    "english": "self",
+    "soundmark": "/sɛlf/"
+  },
+  {
+    "vietnamese": "tôi một mình",
+    "english": "myself",
+    "soundmark": "/maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "bằng cách",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "bằng cách riêng của tôi",
+    "english": "by myself",
+    "soundmark": "/baɪ/ /maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "Tôi không biết làm thế nào để giải quyết vấn đề này",
+    "english": "I don't know how to handle this problem",
+    "soundmark": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "Tôi không biết làm thế nào để giải quyết vấn đề này một mình",
+    "english": "I don't know how to handle this problem by myself",
+    "soundmark": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/ /baɪ/ /maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "vận hành; quá trình",
+    "english": "to handle",
+    "soundmark": "/tə/ /'hændl/"
+  },
+  {
+    "vietnamese": "xử lý (dạng ing)",
+    "english": "handling",
+    "soundmark": "/'hændlɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "xử lý",
+    "english": "be handling",
+    "soundmark": "/bi/ /'hændlɪŋ/"
+  },
+  {
+    "vietnamese": "họ",
+    "english": "they",
+    "soundmark": "/ðe/"
+  },
+  {
+    "vietnamese": "họ (bây giờ) đang giải quyết",
+    "english": "they are handling",
+    "soundmark": "/ðe/ /ɚ/ /'hændlɪŋ/"
+  },
+  {
+    "vietnamese": "câu hỏi đó",
+    "english": "the problem",
+    "soundmark": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "họ đang giải quyết vấn đề đó (bây giờ)",
+    "english": "they are handling the problem",
+    "soundmark": "/ðe/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "cảnh sát",
+    "english": "the police",
+    "soundmark": "/ðə/ /pə'lis/"
+  },
+  {
+    "vietnamese": "cảnh sát (hiện) đang giải quyết vấn đề đó",
+    "english": "the police are handling the problem",
+    "soundmark": "/ðə/ /pə'lis/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "khuôn mặt",
+    "english": "face",
+    "soundmark": "/fes/"
+  },
+  {
+    "vietnamese": "khuôn mặt",
+    "english": "to face",
+    "soundmark": "/tə/ /fes/"
+  },
+  {
+    "vietnamese": "khuôn mặt (dạng ing)",
+    "english": "facing",
+    "soundmark": "/'fesɪŋ/"
+  },
+  {
+    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "english": "be",
+    "soundmark": "/bi/"
+  },
+  {
+    "vietnamese": "đang phải đối mặt",
+    "english": "be facing",
+    "soundmark": "/bi/ /'fesɪŋ/"
+  },
+  {
+    "vietnamese": "họ",
+    "english": "they",
+    "soundmark": "/ðe/"
+  },
+  {
+    "vietnamese": "họ (bây giờ) đang đối mặt",
+    "english": "they are facing",
+    "soundmark": "/ðe/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "vietnamese": "câu hỏi đó",
+    "english": "the problem",
+    "soundmark": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "vấn đề họ (bây giờ) đang phải đối mặt",
+    "english": "the problem they are facing",
+    "soundmark": "/ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "vietnamese": "cảnh sát (hiện) đang giải quyết vấn đề đó",
+    "english": "the police are handling the problem",
+    "soundmark": "/ðə/ /pə'lis/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "vietnamese": "cảnh sát (hiện) đang giải quyết vấn đề mà họ (hiện) đang phải đối mặt",
+    "english": "the police are handling the problem they are facing",
+    "soundmark": "/ðə/ /pə'lis/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "vietnamese": "thử thách",
+    "english": "challenge",
+    "soundmark": "/'tʃælɪndʒ/"
+  },
+  {
+    "vietnamese": "thách thức (số nhiều)",
+    "english": "challenges",
+    "soundmark": "/ˈtʃælɪndʒɪz/"
+  },
+  {
+    "vietnamese": "vận hành; xử lý; đối phó với",
+    "english": "to handle",
+    "soundmark": "/tə/ /'hændl/"
+  },
+  {
+    "vietnamese": "đáp ứng những thách thức",
+    "english": "to handle challenges",
+    "soundmark": "/tə/ /'hændl/ /ˈtʃælɪndʒɪz/"
+  },
+  {
+    "vietnamese": "mạng sống",
+    "english": "life",
+    "soundmark": "/laɪf/"
+  },
+  {
+    "vietnamese": "cuộc sống",
+    "english": "life's",
+    "soundmark": "/laɪfs/"
+  },
+  {
+    "vietnamese": "thử thách cuộc sống",
+    "english": "life's challenges",
+    "soundmark": "/laɪfs/ /ˈtʃælɪndʒɪz/"
+  },
+  {
+    "vietnamese": "vận hành; xử lý; đối phó với",
+    "english": "to handle",
+    "soundmark": "/tə/ /'hændl/"
+  },
+  {
+    "vietnamese": "đương đầu với những thử thách của cuộc sống",
+    "english": "to handle life's challenges",
+    "soundmark": "/tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/"
+  },
+  {
+    "vietnamese": "biết",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "vietnamese": "Anh biết.",
+    "english": "I know",
+    "soundmark": "/aɪ/ /no/"
+  },
+  {
+    "vietnamese": "Tôi không biết",
+    "english": "I don't know",
+    "soundmark": "/aɪ/ /dont/ /no/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "Tôi không biết cách đối mặt với những thử thách trong cuộc sống",
+    "english": "I don't know how to handle life's challenges",
+    "soundmark": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/"
+  },
+  {
+    "vietnamese": "tôi một mình",
+    "english": "by myself",
+    "soundmark": "/baɪ/ /maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "Tôi không biết cách một mình đương đầu với những thử thách trong cuộc sống",
+    "english": "I don't know how to handle life's challenges by myself",
+    "soundmark": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/ /baɪ/ /maɪ'sɛlf/"
+  },
+  {
+    "vietnamese": "sức mạnh",
+    "english": "force",
+    "soundmark": "/fɔrs/"
+  },
+  {
+    "vietnamese": "lực lượng",
+    "english": "to force",
+    "soundmark": "/tə/ /fɔrs/"
+  },
+  {
+    "vietnamese": "của bạn",
+    "english": "your",
+    "soundmark": "/jʊr/"
+  },
+  {
+    "vietnamese": "sở hữu",
+    "english": "self",
+    "soundmark": "/sɛlf/"
+  },
+  {
+    "vietnamese": "bản thân bạn",
+    "english": "yourself",
+    "soundmark": "/jɔr'sɛlf/"
+  },
+  {
+    "vietnamese": "ép buộc bản thân",
+    "english": "to force yourself",
+    "soundmark": "/tə/ /fɔrs/ /jɔr'sɛlf/"
+  },
+  {
+    "vietnamese": "cần",
+    "english": "need",
+    "soundmark": "/nid/"
+  },
+  {
+    "vietnamese": "bạn cần",
+    "english": "you need",
+    "soundmark": "/ju/ /nid/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "bạn không cần",
+    "english": "you don't need",
+    "soundmark": "/ju/ /dont/ /nid/"
+  },
+  {
+    "vietnamese": "bạn không cần phải ép buộc bản thân",
+    "english": "you don't need to force yourself",
+    "soundmark": "/ju/ /dont/ /nid/ /tə/ /fɔrs/ /jɔr'sɛlf/"
+  },
+  {
+    "vietnamese": "mạng sống",
+    "english": "life",
+    "soundmark": "/laɪf/"
+  },
+  {
+    "vietnamese": "thách thức (số nhiều)",
+    "english": "challenges",
+    "soundmark": "/ˈtʃælɪndʒɪz/"
+  },
+  {
+    "vietnamese": "thử thách cuộc sống",
+    "english": "life's challenges",
+    "soundmark": "/laɪfs/ /ˈtʃælɪndʒɪz/"
+  },
+  {
+    "vietnamese": "vận hành; xử lý; đối phó với",
+    "english": "to handle",
+    "soundmark": "/tə/ /'hændl/"
+  },
+  {
+    "vietnamese": "đương đầu với những thử thách của cuộc sống",
+    "english": "to handle life's challenges",
+    "soundmark": "/tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/"
+  },
+  {
+    "vietnamese": "một mình",
+    "english": "alone",
+    "soundmark": "/ə'lon/"
+  },
+  {
+    "vietnamese": "một mình đương đầu với thử thách cuộc sống",
+    "english": "to handle life's challenges alone",
+    "soundmark": "/tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/ /ə'lon/"
+  },
+  {
+    "vietnamese": "bạn không cần phải ép buộc bản thân",
+    "english": "you don't need to force yourself",
+    "soundmark": "/ju/ /dont/ /nid/ /tə/ /fɔrs/ /jɔr'sɛlf/"
+  },
+  {
+    "vietnamese": "bạn không cần phải ép mình đối mặt với những thử thách trong cuộc sống một mình",
+    "english": "you don't need to force yourself to handle life's challenges alone",
+    "soundmark": "/ju/ /dont/ /nid/ /tə/ /fɔrs/ /jɔr'sɛlf/ /tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/ /ə'lon/"
+  }
+]

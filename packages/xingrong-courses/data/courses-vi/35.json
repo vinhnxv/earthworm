@@ -1,0 +1,607 @@
+[
+  {
+    "vietnamese": "ý; để ý",
+    "english": "to notice",
+    "soundmark": "/tə/ /ˈnotɪs/"
+  },
+  {
+    "vietnamese": "bạn sẽ",
+    "english": "you will",
+    "soundmark": "/ju/ /wɪl/"
+  },
+  {
+    "vietnamese": "bạn sẽ nhận thấy",
+    "english": "you will notice",
+    "soundmark": "/ju/ /wɪl/ /ˈnotɪs/"
+  },
+  {
+    "vietnamese": "cái đó",
+    "english": "that",
+    "soundmark": "/ðæt/"
+  },
+  {
+    "vietnamese": "bạn sẽ nhận thấy điều đó",
+    "english": "you will notice that",
+    "soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/"
+  },
+  {
+    "vietnamese": "trả",
+    "english": "to pay",
+    "soundmark": "/tə/ /pe/"
+  },
+  {
+    "vietnamese": "chú ý",
+    "english": "attention",
+    "soundmark": "/ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "chú ý",
+    "english": "to pay attention",
+    "soundmark": "/tə/ /pe/ /ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "hãy chú ý tới",
+    "english": "to pay attention to",
+    "soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/"
+  },
+  {
+    "vietnamese": "đóng",
+    "english": "close",
+    "soundmark": "/kloz/"
+  },
+  {
+    "vietnamese": "hãy chú ý thật kỹ",
+    "english": "to pay close attention",
+    "soundmark": "/tə/ /pe/ /kloz/ /ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "bạn chú ý kỹ",
+    "english": "you pay close attention",
+    "soundmark": "/ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "nếu bạn chú ý kỹ",
+    "english": "if you pay close attention",
+    "soundmark": "/ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "bạn sẽ nhận thấy rằng nếu bạn chú ý kỹ",
+    "english": "you will notice that if you pay close attention",
+    "soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "khác biệt",
+    "english": "different",
+    "soundmark": "/'dɪfrənt/"
+  },
+  {
+    "vietnamese": "sự khác biệt",
+    "english": "difference",
+    "soundmark": "/'dɪfrəns/"
+  },
+  {
+    "vietnamese": "rất nhiều",
+    "english": "many",
+    "soundmark": "/'mɛni/"
+  },
+  {
+    "vietnamese": "nhiều sự khác biệt",
+    "english": "many differences",
+    "soundmark": "/'mɛni/ /'dɪfrənsɪz/"
+  },
+  {
+    "vietnamese": "tồn tại (số nhiều)",
+    "english": "there are",
+    "soundmark": "/ðɛr/ /ɚ/"
+  },
+  {
+    "vietnamese": "có rất nhiều sự khác biệt",
+    "english": "there are many differences",
+    "soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/"
+  },
+  {
+    "vietnamese": "Người Mỹ",
+    "english": "American",
+    "soundmark": "/ə'mɛrikən/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Tiếng Anh Mỹ",
+    "english": "American English",
+    "soundmark": "/ə'mɛrikən/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Người Anh",
+    "english": "British",
+    "soundmark": "/'brɪtɪʃ/"
+  },
+  {
+    "vietnamese": "Tiếng Anh của người Anh",
+    "english": "British English",
+    "soundmark": "/'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Tiếng Anh Mỹ và tiếng Anh Anh",
+    "english": "American English and British English",
+    "soundmark": "/ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "giữa",
+    "english": "between",
+    "soundmark": "/bɪ'twin/"
+  },
+  {
+    "vietnamese": "giữa tiếng Anh Mỹ và tiếng Anh Anh",
+    "english": "between American English and British English",
+    "soundmark": "/bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "có rất nhiều sự khác biệt",
+    "english": "there are many differences",
+    "soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/"
+  },
+  {
+    "vietnamese": "có nhiều sự khác biệt giữa tiếng Anh Mỹ và tiếng Anh Anh",
+    "english": "there are many differences between American English and British English",
+    "soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "bạn sẽ nhận thấy",
+    "english": "you will notice",
+    "soundmark": "/ju/ /wɪl/ /ˈnotɪs/"
+  },
+  {
+    "vietnamese": "bạn sẽ nhận thấy điều đó",
+    "english": "you will notice that",
+    "soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/"
+  },
+  {
+    "vietnamese": "bạn sẽ nhận thấy (rằng) có nhiều điểm khác biệt giữa tiếng Anh Mỹ và tiếng Anh Anh",
+    "english": "you will notice that there are many differences between American English and British English",
+    "soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "nếu bạn chú ý kỹ",
+    "english": "if you pay close attention",
+    "soundmark": "/ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "bạn sẽ nhận thấy (rằng) có rất nhiều sự khác biệt giữa tiếng Anh Mỹ và tiếng Anh Anh nếu bạn chú ý kỹ",
+    "english": "you will notice that there are many differences between American English and British English if you pay close attention",
+    "soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/ /ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+  },
+  {
+    "vietnamese": "sự khác biệt",
+    "english": "difference",
+    "soundmark": "/'dɪfrəns/"
+  },
+  {
+    "vietnamese": "khác biệt",
+    "english": "different",
+    "soundmark": "/'dɪfrənt/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn thật khác biệt",
+    "english": "you are different",
+    "soundmark": "/ju/ /ɚ/ /'dɪfrənt/"
+  },
+  {
+    "vietnamese": "giả vờ",
+    "english": "to pretend",
+    "soundmark": "/tə/ /prɪˈtɛnd/"
+  },
+  {
+    "vietnamese": "bạn giả vờ khác biệt",
+    "english": "you pretend to be different",
+    "soundmark": "/ju/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+  },
+  {
+    "vietnamese": "cần",
+    "english": "need",
+    "soundmark": "/nid/"
+  },
+  {
+    "vietnamese": "bạn cần phải giả vờ khác biệt",
+    "english": "you need to pretend to be different",
+    "soundmark": "/ju/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "don't",
+    "soundmark": "/dont/"
+  },
+  {
+    "vietnamese": "bạn không cần phải giả vờ khác biệt",
+    "english": "you don't need to pretend to be different",
+    "soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+  },
+  {
+    "vietnamese": "vô tội",
+    "english": "innocent",
+    "soundmark": "/ˈɪnəsnt/"
+  },
+  {
+    "vietnamese": "bạn không cần phải giả vờ vô tội",
+    "english": "you don't need to pretend to be innocent",
+    "soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ˈɪnəsnt/"
+  },
+  {
+    "vietnamese": "Tôi không muốn",
+    "english": "I don't want",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi không muốn giả vờ khác biệt",
+    "english": "I don't want to pretend to be different",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+  },
+  {
+    "vietnamese": "người đó",
+    "english": "the person",
+    "soundmark": "/ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "Tôi không muốn giả vờ là người đó",
+    "english": "I don't want to pretend to be the person",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "bác sĩ",
+    "english": "doctor",
+    "soundmark": "/'dɑktɚ/"
+  },
+  {
+    "vietnamese": "cô ấy là bác sĩ",
+    "english": "she is a doctor",
+    "soundmark": "/ʃi/ /ɪz/ /ə/ /'dɑktɚ/"
+  },
+  {
+    "vietnamese": "cô ấy muốn",
+    "english": "she wants",
+    "soundmark": "/ʃi/ /wɑnts/"
+  },
+  {
+    "vietnamese": "cô ấy muốn trở thành bác sĩ",
+    "english": "she wants to be a doctor",
+    "soundmark": "/ʃi/ /wɑnts/ /tə/ /bi/ /ə/ /'dɑktɚ/"
+  },
+  {
+    "vietnamese": "người đó",
+    "english": "the person",
+    "soundmark": "/ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "cô ấy muốn trở thành người đó",
+    "english": "she wants to be the person",
+    "soundmark": "/ʃi/ /wɑnts/ /tə/ /bi/ /ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "cô ấy muốn tôi trở thành người đó",
+    "english": "she wants me to be the person",
+    "soundmark": "/ʃi/ /wɑnts/ /mi/ /tə/ /bi/ /ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "người mà cô ấy muốn tôi trở thành",
+    "english": "the person she wants me to be",
+    "soundmark": "/ðə/ /'pɝsn/ /ʃi/ /wɑnts/ /mi/ /tə/ /bi/"
+  },
+  {
+    "vietnamese": "Tôi không muốn giả vờ là người đó",
+    "english": "I don't want to pretend to be the person",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/"
+  },
+  {
+    "vietnamese": "Tôi không muốn giả vờ trở thành người mà cô ấy muốn tôi trở thành",
+    "english": "I don't want to pretend to be the person she wants me to be",
+    "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/ /ʃi/ /wɑnts/ /mi/ /tə/ /bi/"
+  },
+  {
+    "vietnamese": "giả vờ",
+    "english": "to pretend",
+    "soundmark": "/tə/ /prɪˈtɛnd/"
+  },
+  {
+    "vietnamese": "bạn cần",
+    "english": "you need",
+    "soundmark": "/ju/ /nid/"
+  },
+  {
+    "vietnamese": "bạn không cần",
+    "english": "you don't need",
+    "soundmark": "/ju/ /dont/ /nid/"
+  },
+  {
+    "vietnamese": "bạn không cần phải giả vờ",
+    "english": "you don't need to pretend",
+    "soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/"
+  },
+  {
+    "vietnamese": "cái đó",
+    "english": "that",
+    "soundmark": "/ðæt/"
+  },
+  {
+    "vietnamese": "bạn không cần phải giả vờ (điều đó)",
+    "english": "you don't need to pretend that",
+    "soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /ðæt/"
+  },
+  {
+    "vietnamese": "ý; để ý",
+    "english": "to notice",
+    "soundmark": "/tə/ /ˈnotɪs/"
+  },
+  {
+    "vietnamese": "bạn có để ý không",
+    "english": "you notice",
+    "soundmark": "/ju/ /ˈnotɪs/"
+  },
+  {
+    "vietnamese": "bạn (quá khứ) nhận thấy",
+    "english": "you noticed",
+    "soundmark": "/ju/ /ˈnotɪst/"
+  },
+  {
+    "vietnamese": "bạn đã không để ý (trong quá khứ)",
+    "english": "you didn't notice",
+    "soundmark": "/ju/ /ˈdɪdnt/ /ˈnotɪs/"
+  },
+  {
+    "vietnamese": "bạn không cần phải giả vờ (rằng) bạn đã không nhận thấy (trong quá khứ)",
+    "english": "you don't need to pretend that you didn't notice",
+    "soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /ðæt/ /ju/ /ˈdɪdnt/ /ˈnotɪs/"
+  },
+  {
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "nó; việc này",
+    "english": "it",
+    "soundmark": "/ɪt/"
+  },
+  {
+    "vietnamese": "điều này rất quan trọng",
+    "english": "it is important",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "thậm chí",
+    "english": "more",
+    "soundmark": "/mɔr/"
+  },
+  {
+    "vietnamese": "nó quan trọng hơn",
+    "english": "it is more important",
+    "soundmark": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/"
+  },
+  {
+    "vietnamese": "bất cứ điều gì",
+    "english": "anything",
+    "soundmark": "/’ɛnɪθɪŋ/"
+  },
+  {
+    "vietnamese": "so sánh",
+    "english": "than",
+    "soundmark": "/ðæn/"
+  },
+  {
+    "vietnamese": "hơn bất cứ điều gì",
+    "english": "than anything",
+    "soundmark": "/ðæn/ /’ɛnɪθɪŋ/"
+  },
+  {
+    "vietnamese": "nó quan trọng hơn bất cứ điều gì",
+    "english": "it is more important than anything",
+    "soundmark": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/"
+  },
+  {
+    "vietnamese": "người khác",
+    "english": "else",
+    "soundmark": "/ɛls/"
+  },
+  {
+    "vietnamese": "bất cứ điều gì khác",
+    "english": "anything else",
+    "soundmark": "/’ɛnɪθɪŋ/ /ɛls/"
+  },
+  {
+    "vietnamese": "nó quan trọng hơn bất cứ điều gì khác",
+    "english": "it is more important than anything else",
+    "soundmark": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/ /ɛls/"
+  },
+  {
+    "vietnamese": "gia đình",
+    "english": "family",
+    "soundmark": "/ˈfæməli/"
+  },
+  {
+    "vietnamese": "so sánh",
+    "english": "than",
+    "soundmark": "/ðæn/"
+  },
+  {
+    "vietnamese": "hơn gia đình",
+    "english": "than family",
+    "soundmark": "/ðæn/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "không có gì",
+    "english": "nothing",
+    "soundmark": "/'nʌθɪŋ/"
+  },
+  {
+    "vietnamese": "không có gì quan trọng hơn gia đình",
+    "english": "nothing is more important than family",
+    "soundmark": "/'nʌθɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "bằng hữu",
+    "english": "friend",
+    "soundmark": "/frɛnd/"
+  },
+  {
+    "vietnamese": "thuyền",
+    "english": "ship",
+    "soundmark": "/ʃɪp/"
+  },
+  {
+    "vietnamese": "tình bạn",
+    "english": "friendship",
+    "soundmark": "/ˈfrɛndʃɪp/"
+  },
+  {
+    "vietnamese": "của chúng tôi",
+    "english": "our",
+    "soundmark": "/'aʊɚ/"
+  },
+  {
+    "vietnamese": "tình bạn của chúng ta",
+    "english": "our friendship",
+    "soundmark": "/'aʊɚ/ /ˈfrɛndʃɪp/"
+  },
+  {
+    "vietnamese": "không có gì quan trọng hơn tình bạn của chúng ta",
+    "english": "nothing is more important than our friendship",
+    "soundmark": "/'nʌθɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /'aʊɚ/ /ˈfrɛndʃɪp/"
+  },
+  {
+    "vietnamese": "gia đình",
+    "english": "family",
+    "soundmark": "/ˈfæməli/"
+  },
+  {
+    "vietnamese": "của tôi",
+    "english": "my",
+    "soundmark": "/maɪ/"
+  },
+  {
+    "vietnamese": "gia đình tôi",
+    "english": "my family",
+    "soundmark": "/maɪ/ /ˈfæməli/"
+  },
+  {
+    "vietnamese": "bất cứ điều gì",
+    "english": "anything",
+    "soundmark": "/’ɛnɪθɪŋ/"
+  },
+  {
+    "vietnamese": "gia đình tôi quan trọng hơn bất cứ điều gì",
+    "english": "my family is more important than anything",
+    "soundmark": "/maɪ/ /ˈfæməli/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/"
+  },
+  {
+    "vietnamese": "người khác",
+    "english": "else",
+    "soundmark": "/ɛls/"
+  },
+  {
+    "vietnamese": "gia đình tôi quan trọng hơn bất cứ điều gì khác",
+    "english": "my family is more important than anything else",
+    "soundmark": "/maɪ/ /ˈfæməli/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/ /ɛls/"
+  },
+  {
+    "vietnamese": "mạng sống; mạng sống",
+    "english": "life",
+    "soundmark": "/laɪf/"
+  },
+  {
+    "vietnamese": "mọi người",
+    "english": "man",
+    "soundmark": "/mæn/"
+  },
+  {
+    "vietnamese": "cuộc sống con người",
+    "english": "man's life",
+    "soundmark": "/mænz/ /laɪf/"
+  },
+  {
+    "vietnamese": "cuộc sống của một người",
+    "english": "a man's life",
+    "soundmark": "/ə/ /mænz/ /laɪf/"
+  },
+  {
+    "vietnamese": "tiền bạc",
+    "english": "money",
+    "soundmark": "/ˈmʌni/"
+  },
+  {
+    "vietnamese": "mạng sống con người quan trọng hơn tiền bạc",
+    "english": "a man's life is more important than money",
+    "soundmark": "/ə/ /mænz/ /laɪf/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ˈmʌni/"
+  },
+  {
+    "vietnamese": "làm",
+    "english": "to do",
+    "soundmark": "/tə/ /du/"
+  },
+  {
+    "vietnamese": "bạn",
+    "english": "you",
+    "soundmark": "/ju/"
+  },
+  {
+    "vietnamese": "bạn làm",
+    "english": "you do",
+    "soundmark": "/ju/ /du/"
+  },
+  {
+    "vietnamese": "thứ đó",
+    "english": "the thing",
+    "soundmark": "/ðə/ /θɪŋ/"
+  },
+  {
+    "vietnamese": "việc đó bạn đã làm",
+    "english": "the thing you do",
+    "soundmark": "/ðə/ /θɪŋ/ /ju/ /du/"
+  },
+  {
+    "vietnamese": "nội dung bạn thực hiện",
+    "english": "what you do",
+    "soundmark": "/wɑt/ /ju/ /du/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to say",
+    "soundmark": "/tə/ /seɪ/"
+  },
+  {
+    "vietnamese": "bạn nói",
+    "english": "you say",
+    "soundmark": "/ju/ /seɪ/"
+  },
+  {
+    "vietnamese": "những gì bạn đã nói",
+    "english": "what you say",
+    "soundmark": "/wɑt/ /ju/ /seɪ/"
+  },
+  {
+    "vietnamese": "những gì bạn làm quan trọng hơn những gì bạn nói",
+    "english": "what you do is more important than what you say",
+    "soundmark": "/wɑt/ /ju/ /du/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /wɑt/ /ju/ /seɪ/"
+  }
+]

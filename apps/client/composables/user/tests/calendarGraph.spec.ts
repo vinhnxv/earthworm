@@ -268,18 +268,18 @@ describe("use calendar graph", () => {
     const { thead } = initData(2024);
     const data = renderHead(thead);
     expect(data).toEqual([
-      { colSpan: 5, month: "一月" },
-      { colSpan: 4, month: "二月" },
-      { colSpan: 5, month: "三月" },
-      { colSpan: 4, month: "四月" },
-      { colSpan: 4, month: "五月" },
-      { colSpan: 5, month: "六月" },
-      { colSpan: 4, month: "七月" },
-      { colSpan: 4, month: "八月" },
-      { colSpan: 5, month: "九月" },
-      { colSpan: 4, month: "十月" },
-      { colSpan: 4, month: "十一月" },
-      { colSpan: 5, month: "十二月" },
+      { colSpan: 5, month: "Jan" },
+      { colSpan: 4, month: "Feb" },
+      { colSpan: 5, month: "Mar" },
+      { colSpan: 4, month: "Apr" },
+      { colSpan: 4, month: "May" },
+      { colSpan: 5, month: "Jun" },
+      { colSpan: 4, month: "Jul" },
+      { colSpan: 4, month: "Aug" },
+      { colSpan: 5, month: "Sep" },
+      { colSpan: 4, month: "Oct" },
+      { colSpan: 4, month: "Nov" },
+      { colSpan: 5, month: "Dec" },
     ]);
   });
 

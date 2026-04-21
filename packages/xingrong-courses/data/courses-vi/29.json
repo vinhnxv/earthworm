@@ -1,0 +1,637 @@
+[
+  {
+    "vietnamese": "đi",
+    "english": "to go",
+    "soundmark": "/tə/ /ɡo/"
+  },
+  {
+    "vietnamese": "bên ngoài",
+    "english": "out",
+    "soundmark": "/aʊt/"
+  },
+  {
+    "vietnamese": "ra ngoài đi",
+    "english": "to go out",
+    "soundmark": "/tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "vietnamese": "ban đêm",
+    "english": "night",
+    "soundmark": "/naɪt/"
+  },
+  {
+    "vietnamese": "hiện hữu",
+    "english": "at",
+    "soundmark": "/ət/"
+  },
+  {
+    "vietnamese": "vào ban đêm",
+    "english": "at night",
+    "soundmark": "/ət/ /naɪt/"
+  },
+  {
+    "vietnamese": "đi ra ngoài vào buổi tối",
+    "english": "to go out at night",
+    "soundmark": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "với tôi",
+    "english": "with me",
+    "soundmark": "/wɪð/ /mi/"
+  },
+  {
+    "vietnamese": "đi ra ngoài với tôi vào ban đêm",
+    "english": "to go out at night with me",
+    "soundmark": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /mi/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "bên ngoài",
+    "english": "out",
+    "soundmark": "/aʊt/"
+  },
+  {
+    "vietnamese": "không phải với",
+    "english": "without",
+    "soundmark": "/wɪ'θaʊt/"
+  },
+  {
+    "vietnamese": "tôi",
+    "english": "me",
+    "soundmark": "/mi/"
+  },
+  {
+    "vietnamese": "không phải với tôi",
+    "english": "without me",
+    "soundmark": "/wɪ'θaʊt/ /mi/"
+  },
+  {
+    "vietnamese": "đừng đi chơi với tôi vào ban đêm",
+    "english": "to go out at night without me",
+    "soundmark": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪ'θaʊt/ /mi/"
+  },
+  {
+    "vietnamese": "cha mẹ",
+    "english": "parents",
+    "soundmark": "/'pɛrənts/"
+  },
+  {
+    "vietnamese": "của bạn",
+    "english": "your",
+    "soundmark": "/jʊr/"
+  },
+  {
+    "vietnamese": "bố mẹ bạn",
+    "english": "your parents",
+    "soundmark": "/jʊr/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "với bố mẹ bạn",
+    "english": "with your parents",
+    "soundmark": "/wɪð/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "đi ra ngoài vào buổi tối",
+    "english": "to go out at night",
+    "soundmark": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/"
+  },
+  {
+    "vietnamese": "đi ra ngoài vào buổi tối với bố mẹ",
+    "english": "to go out at night with your parents",
+    "soundmark": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "có thể",
+    "english": "can",
+    "soundmark": "/kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể",
+    "english": "you can",
+    "soundmark": "/ju/ /kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể ra ngoài vào buổi tối với bố mẹ",
+    "english": "you can go out at night with your parents",
+    "soundmark": "/ju/ /kæn/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "với",
+    "english": "with",
+    "soundmark": "/wɪð/"
+  },
+  {
+    "vietnamese": "bên ngoài",
+    "english": "out",
+    "soundmark": "/aʊt/"
+  },
+  {
+    "vietnamese": "không phải với",
+    "english": "without",
+    "soundmark": "/wɪ'θaʊt/"
+  },
+  {
+    "vietnamese": "không phải với bố mẹ bạn",
+    "english": "without your parents",
+    "soundmark": "/wɪ'θaʊt/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "đừng đi chơi đêm với bố mẹ",
+    "english": "to go out at night without your parents",
+    "soundmark": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪ'θaʊt/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "bạn có thể",
+    "english": "you can",
+    "soundmark": "/ju/ /kæn/"
+  },
+  {
+    "vietnamese": "bạn không thể",
+    "english": "you can't",
+    "soundmark": "/ju/ /kænt/"
+  },
+  {
+    "vietnamese": "bạn không thể ra ngoài vào ban đêm nếu không có bố mẹ",
+    "english": "you can't go out at night without your parents",
+    "soundmark": "/ju/ /kænt/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "người lớn",
+    "english": "adult",
+    "soundmark": "/əˈdʌlt/"
+  },
+  {
+    "vietnamese": "một người lớn",
+    "english": "an adult",
+    "soundmark": "/ən/ /əˈdʌlt/"
+  },
+  {
+    "vietnamese": "Tôi là",
+    "english": "I am",
+    "soundmark": "/aɪ/ /æm/"
+  },
+  {
+    "vietnamese": "Tôi là người lớn",
+    "english": "I am an adult",
+    "soundmark": "/aɪ/ /æm/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "vietnamese": "bạn là",
+    "english": "you are",
+    "soundmark": "/ju/ /ɚ/"
+  },
+  {
+    "vietnamese": "bạn là người lớn",
+    "english": "you are an adult",
+    "soundmark": "/ju/ /ɚ/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "vietnamese": "bạn không phải là người lớn",
+    "english": "you are not an adult",
+    "soundmark": "/ju/ /ɚ/ /nɑt/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "vietnamese": "nếu",
+    "english": "if",
+    "soundmark": "/ɪf/"
+  },
+  {
+    "vietnamese": "nếu bạn không phải là người lớn",
+    "english": "if you are not an adult",
+    "soundmark": "/ɪf/ /ju/ /ɚ/ /nɑt/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "vietnamese": "bạn không thể ra ngoài vào ban đêm nếu không có bố mẹ",
+    "english": "you can't go out at night without your parents",
+    "soundmark": "/ju/ /kænt/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "bạn không được phép ra ngoài vào ban đêm với bố mẹ nếu bạn không phải là người lớn",
+    "english": "you can't go out at night without your parents if you are not an adult",
+    "soundmark": "/ju/ /kænt/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/ /ɪf/ /ju/ /ɚ/ /nɑt/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "vietnamese": "bạn có thể ra ngoài vào buổi tối mà không có bố mẹ",
+    "english": "you can go out at night without your parents",
+    "soundmark": "/ju/ /kæn/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "vietnamese": "bạn là người lớn",
+    "english": "you are an adult",
+    "soundmark": "/ju/ /ɚ/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "vietnamese": "nếu bạn là người lớn",
+    "english": "if you are an adult",
+    "soundmark": "/ɪf/ /ju/ /ɚ/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "vietnamese": "bạn không thể ra ngoài vào buổi tối với bố mẹ nếu bạn là người lớn",
+    "english": "you can go out at night without your parents if you are an adult",
+    "soundmark": "/ju/ /kæn/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/ /ɪf/ /ju/ /ɚ/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "vietnamese": "lái xe",
+    "english": "to drive",
+    "soundmark": "/tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "bạn có thể",
+    "english": "you can",
+    "soundmark": "/ju/ /kæn/"
+  },
+  {
+    "vietnamese": "bạn có thể lái xe",
+    "english": "you can drive",
+    "soundmark": "/ju/ /kæn/ /draɪv/"
+  },
+  {
+    "vietnamese": "không thể",
+    "english": "can't",
+    "soundmark": "/kænt/"
+  },
+  {
+    "vietnamese": "bạn không thể lái xe",
+    "english": "you can't drive",
+    "soundmark": "/ju/ /kænt/ /draɪv/"
+  },
+  {
+    "vietnamese": "tài xế",
+    "english": "driver",
+    "soundmark": "/'draɪvɚ/"
+  },
+  {
+    "vietnamese": "giấy phép",
+    "english": "license",
+    "soundmark": "/'laɪsns/"
+  },
+  {
+    "vietnamese": "bằng lái",
+    "english": "driver's license",
+    "soundmark": "/'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "giấy phép lái xe",
+    "english": "a driver's license",
+    "soundmark": "/ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "không phải với...; không có",
+    "english": "without",
+    "soundmark": "/wɪ'θaʊt/"
+  },
+  {
+    "vietnamese": "không có bằng lái xe",
+    "english": "without a driver's license",
+    "soundmark": "/wɪ'θaʊt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "bạn không thể lái xe mà không có bằng lái xe",
+    "english": "you can't drive without a driver's license",
+    "soundmark": "/ju/ /kænt/ /draɪv/ /wɪ'θaʊt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "nên",
+    "english": "should",
+    "soundmark": "/ʃʊd/"
+  },
+  {
+    "vietnamese": "không nên",
+    "english": "should not",
+    "soundmark": "/ʃʊd/ /nɑt/"
+  },
+  {
+    "vietnamese": "bạn không nên lái xe mà không có bằng lái xe",
+    "english": "you should not drive without a driver's license",
+    "soundmark": "/ju/ /ʃʊd/ /nɑt/ /draɪv/ /wɪ'θaʊt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "vietnamese": "bằng hữu",
+    "english": "friend",
+    "soundmark": "/frɛnd/"
+  },
+  {
+    "vietnamese": "lão hóa",
+    "english": "old",
+    "soundmark": "/old/"
+  },
+  {
+    "vietnamese": "bạn cũ",
+    "english": "old friend",
+    "soundmark": "/old/ /frɛnd/"
+  },
+  {
+    "vietnamese": "một người bạn cũ",
+    "english": "an old friend",
+    "soundmark": "/ən/ /old/ /frɛnd/"
+  },
+  {
+    "vietnamese": "cũ; lớn hơn",
+    "english": "old",
+    "soundmark": "/old/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "cô ấy lớn tuổi hơn",
+    "english": "she is old",
+    "soundmark": "/ʃi/ /ɪz/ /old/"
+  },
+  {
+    "vietnamese": "đủ",
+    "english": "enough",
+    "soundmark": "/ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "cô ấy đủ tuổi",
+    "english": "she is old enough",
+    "soundmark": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "lái xe",
+    "english": "to drive",
+    "soundmark": "/tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "cô ấy đủ tuổi để lái xe",
+    "english": "she is old enough to drive",
+    "soundmark": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "not",
+    "soundmark": "/nɑt/"
+  },
+  {
+    "vietnamese": "cô ấy chưa đủ tuổi để lái xe",
+    "english": "she is not old enough to drive",
+    "soundmark": "/ʃi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "cho là",
+    "english": "to think",
+    "soundmark": "/tə/ /θɪŋk/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ",
+    "english": "I think",
+    "soundmark": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "vietnamese": "Tôi không nghĩ cô ấy đủ tuổi để lái xe",
+    "english": "I think she is not old enough to drive",
+    "soundmark": "/aɪ/ /θɪŋk/ /ʃi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "Tôi không nghĩ cô ấy đủ tuổi để lái xe",
+    "english": "I don't think she is old enough to drive",
+    "soundmark": "/aɪ/ /dont/ /θɪŋk/ /ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /draɪv/"
+  },
+  {
+    "vietnamese": "để",
+    "english": "for",
+    "soundmark": "/fɝ/"
+  },
+  {
+    "vietnamese": "của cô ấy",
+    "english": "her",
+    "soundmark": "/hɚ/"
+  },
+  {
+    "vietnamese": "sở hữu",
+    "english": "self",
+    "soundmark": "/sɛlf/"
+  },
+  {
+    "vietnamese": "bản thân cô ấy",
+    "english": "herself",
+    "soundmark": "/hɝ'sɛlf/"
+  },
+  {
+    "vietnamese": "cho chính mình",
+    "english": "for herself",
+    "soundmark": "/fɝ/ /hɝ'sɛlf/"
+  },
+  {
+    "vietnamese": "qUYẾT ĐỊNH",
+    "english": "to decide",
+    "soundmark": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "tự mình quyết định",
+    "english": "to decide for herself",
+    "soundmark": "/tə/ /dɪ'saɪd/ /fɝ/ /hɝ'sɛlf/"
+  },
+  {
+    "vietnamese": "cô ấy lớn tuổi hơn",
+    "english": "she is old",
+    "soundmark": "/ʃi/ /ɪz/ /old/"
+  },
+  {
+    "vietnamese": "đủ",
+    "english": "enough",
+    "soundmark": "/ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "cô ấy đủ tuổi",
+    "english": "she is old enough",
+    "soundmark": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "cô ấy đã đủ lớn để quyết định",
+    "english": "she is old enough to decide",
+    "soundmark": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /dɪ'saɪd/"
+  },
+  {
+    "vietnamese": "tự mình quyết định",
+    "english": "to decide for herself",
+    "soundmark": "/tə/ /dɪ'saɪd/ /fɝ/ /hɝ'sɛlf/"
+  },
+  {
+    "vietnamese": "con đã đủ lớn để tự quyết định",
+    "english": "she is old enough to decide for herself",
+    "soundmark": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /dɪ'saɪd/ /fɝ/ /hɝ'sɛlf/"
+  },
+  {
+    "vietnamese": "bên ngoài",
+    "english": "out",
+    "soundmark": "/aʊt/"
+  },
+  {
+    "vietnamese": "đi",
+    "english": "to go",
+    "soundmark": "/tə/ /ɡo/"
+  },
+  {
+    "vietnamese": "ra ngoài đi",
+    "english": "to go out",
+    "soundmark": "/tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn ra ngoài",
+    "english": "I want to go out",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "vietnamese": "chỗ ở",
+    "english": "home",
+    "soundmark": "/hom/"
+  },
+  {
+    "vietnamese": "về nhà",
+    "english": "to go home",
+    "soundmark": "/tə/ /ɡo/ /hom/"
+  },
+  {
+    "vietnamese": "Tôi muốn về nhà",
+    "english": "I want to go home",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /hom/"
+  },
+  {
+    "vietnamese": "trường học",
+    "english": "school",
+    "soundmark": "/skul/"
+  },
+  {
+    "vietnamese": "đi",
+    "english": "to go",
+    "soundmark": "/tə/ /ɡo/"
+  },
+  {
+    "vietnamese": "đi học",
+    "english": "to go to school",
+    "soundmark": "/tə/ /ɡo/ /tə/ /skul/"
+  },
+  {
+    "vietnamese": "Tôi muốn",
+    "english": "I want",
+    "soundmark": "/aɪ/ /wɑnt/"
+  },
+  {
+    "vietnamese": "Tôi muốn đi học",
+    "english": "I want to go to school",
+    "soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /tə/ /skul/"
+  },
+  {
+    "vietnamese": "cũ; lớn hơn",
+    "english": "old",
+    "soundmark": "/old/"
+  },
+  {
+    "vietnamese": "anh ấy",
+    "english": "he",
+    "soundmark": "/hi/"
+  },
+  {
+    "vietnamese": "anh ấy lớn tuổi hơn",
+    "english": "he is old",
+    "soundmark": "/hi/ /ɪz/ /old/"
+  },
+  {
+    "vietnamese": "đủ",
+    "english": "enough",
+    "soundmark": "/ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "anh ấy đủ tuổi",
+    "english": "he is old enough",
+    "soundmark": "/hi/ /ɪz/ /old/ /ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "đi học",
+    "english": "to go to school",
+    "soundmark": "/tə/ /ɡo/ /tə/ /skul/"
+  },
+  {
+    "vietnamese": "anh ấy đủ tuổi để đi học",
+    "english": "he is old enough to go to school",
+    "soundmark": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/"
+  },
+  {
+    "vietnamese": "mua",
+    "english": "to buy",
+    "soundmark": "/tə/ /baɪ/"
+  },
+  {
+    "vietnamese": "rượu",
+    "english": "alcohol",
+    "soundmark": "/'ælkəhɔl/"
+  },
+  {
+    "vietnamese": "mua rượu",
+    "english": "to buy alcohol",
+    "soundmark": "/tə/ /baɪ/ /'ælkəhɔl/"
+  },
+  {
+    "vietnamese": "anh ấy đủ tuổi",
+    "english": "he is old enough",
+    "soundmark": "/hi/ /ɪz/ /old/ /ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "không",
+    "english": "not",
+    "soundmark": "/nɑt/"
+  },
+  {
+    "vietnamese": "anh ấy chưa đủ tuổi",
+    "english": "he is not old enough",
+    "soundmark": "/hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "anh ấy chưa đủ tuổi để mua rượu",
+    "english": "he is not old enough to buy alcohol",
+    "soundmark": "/hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/"
+  },
+  {
+    "vietnamese": "nhưng",
+    "english": "but",
+    "soundmark": "/bʌt/"
+  },
+  {
+    "vietnamese": "nhưng anh ấy chưa đủ tuổi để mua rượu",
+    "english": "but he is not old enough to buy alcohol",
+    "soundmark": "/bʌt/ /hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/"
+  },
+  {
+    "vietnamese": "anh ấy đủ tuổi để đi học",
+    "english": "he is old enough to go to school",
+    "soundmark": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/"
+  },
+  {
+    "vietnamese": "đã đủ tuổi đi học nhưng chưa đủ tuổi mua rượu",
+    "english": "he is old enough to go to school but he is not old enough to buy alcohol",
+    "soundmark": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/ /bʌt/ /hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/"
+  },
+  {
+    "vietnamese": "đã đủ tuổi đi học nhưng chưa đủ tuổi mua rượu",
+    "english": "he is old enough to go to school but not old enough to buy alcohol",
+    "soundmark": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/ /bʌt/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/"
+  }
+]

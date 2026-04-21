@@ -1,0 +1,1 @@
+ALTER TABLE "statements" RENAME COLUMN "chinese" TO "vietnamese";

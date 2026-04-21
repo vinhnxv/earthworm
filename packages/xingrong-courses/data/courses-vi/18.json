@@ -1,0 +1,582 @@
+[
+  {
+    "vietnamese": "ăn",
+    "english": "to eat",
+    "soundmark": "/tə/ /it/"
+  },
+  {
+    "vietnamese": "trứng",
+    "english": "eggs",
+    "soundmark": "/ɛgz/"
+  },
+  {
+    "vietnamese": "ăn trứng",
+    "english": "to eat eggs",
+    "soundmark": "/tə/ /it/ /ɛgz/"
+  },
+  {
+    "vietnamese": "ăn",
+    "english": "eating",
+    "soundmark": "/'itɪŋ/"
+  },
+  {
+    "vietnamese": "ăn trứng",
+    "english": "eating eggs",
+    "soundmark": "/'itɪŋ/ /ɛgz/"
+  },
+  {
+    "vietnamese": "Tôi là",
+    "english": "I am",
+    "soundmark": "/aɪ/ /æm/"
+  },
+  {
+    "vietnamese": "Tôi là Xingrong",
+    "english": "I am Xingrong",
+    "soundmark": "/aɪ/ /æm/"
+  },
+  {
+    "vietnamese": "ăn trứng",
+    "english": "eating eggs",
+    "soundmark": "/'itɪŋ/ /ɛgz/"
+  },
+  {
+    "vietnamese": "Tôi đang ăn trứng",
+    "english": "I am eating eggs",
+    "soundmark": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/"
+  },
+  {
+    "vietnamese": "bếp",
+    "english": "the kitchen",
+    "soundmark": "/ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "trong bếp",
+    "english": "in the kitchen",
+    "soundmark": "/ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "Tôi đang ở trong bếp (bây giờ) ăn trứng",
+    "english": "I am eating eggs in the kitchen",
+    "soundmark": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "Tôi đang ở trong bếp (trước đây) ăn trứng",
+    "english": "I was eating eggs in the kitchen",
+    "soundmark": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "bạn đang ăn trứng trong bếp (bây giờ)",
+    "english": "you are eating eggs in the kitchen",
+    "soundmark": "/ju/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "bạn đang ở trong bếp (trước đây) ăn trứng",
+    "english": "you were eating eggs in the kitchen",
+    "soundmark": "/ju/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "họ",
+    "english": "they",
+    "soundmark": "/ðe/"
+  },
+  {
+    "vietnamese": "họ đang ở trong bếp (bây giờ) ăn trứng",
+    "english": "they are eating eggs in the kitchen",
+    "soundmark": "/ðe/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "họ đang ở trong bếp (trước đây) ăn trứng",
+    "english": "they were eating eggs in the kitchen",
+    "soundmark": "/ðe/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "uống",
+    "english": "to drink",
+    "soundmark": "/tə/ /drɪŋk/"
+  },
+  {
+    "vietnamese": "trà",
+    "english": "tea",
+    "soundmark": "/ti/"
+  },
+  {
+    "vietnamese": "uống trà",
+    "english": "to drink tea",
+    "soundmark": "/tə/ /drɪŋk/ /ti/"
+  },
+  {
+    "vietnamese": "uống",
+    "english": "drinking",
+    "soundmark": "/'drɪŋkɪŋ/"
+  },
+  {
+    "vietnamese": "uống trà",
+    "english": "drinking tea",
+    "soundmark": "/'drɪŋkɪŋ/ /ti/"
+  },
+  {
+    "vietnamese": "họ",
+    "english": "they",
+    "soundmark": "/ðe/"
+  },
+  {
+    "vietnamese": "họ đang uống trà (bây giờ)",
+    "english": "they are drinking tea",
+    "soundmark": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/"
+  },
+  {
+    "vietnamese": "vườn hoa",
+    "english": "the garden",
+    "soundmark": "/ðə/ /ˈɡɑrdn/"
+  },
+  {
+    "vietnamese": "trong vườn",
+    "english": "in the garden",
+    "soundmark": "/ɪn/ /ðə/ /ˈɡɑrdn/"
+  },
+  {
+    "vietnamese": "họ đang ở trong vườn (bây giờ) uống trà",
+    "english": "they are drinking tea in the garden",
+    "soundmark": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/"
+  },
+  {
+    "vietnamese": "trà",
+    "english": "tea",
+    "soundmark": "/tiː/"
+  },
+  {
+    "vietnamese": "họ đang uống trà trong vườn (trước đây)",
+    "english": "they were drinking tea in the garden",
+    "soundmark": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/"
+  },
+  {
+    "vietnamese": "Tôi đang ở trong bếp (trước đây) ăn trứng",
+    "english": "I was eating eggs in the kitchen",
+    "soundmark": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "cùng lúc đó.",
+    "english": "while",
+    "soundmark": "/waɪl/"
+  },
+  {
+    "vietnamese": "họ đang ở trong vườn (quá khứ) uống trà trong khi tôi ở trong bếp (quá khứ) ăn trứng",
+    "english": "they were drinking tea in the garden while I was eating eggs in the kitchen",
+    "soundmark": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/ /waɪl/ /aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "vietnamese": "dạy",
+    "english": "to teach",
+    "soundmark": "/tə/ /titʃ/"
+  },
+  {
+    "vietnamese": "chúng tôi?",
+    "english": "us",
+    "soundmark": "/ʌs/"
+  },
+  {
+    "vietnamese": "dạy chúng tôi",
+    "english": "to teach us",
+    "soundmark": "/tə/ /titʃ/ /ʌs/"
+  },
+  {
+    "vietnamese": "giảng dạy",
+    "english": "teaching",
+    "soundmark": "/'titʃɪŋ/"
+  },
+  {
+    "vietnamese": "đang dạy chúng ta",
+    "english": "teaching us",
+    "soundmark": "/'titʃɪŋ/ /ʌs/"
+  },
+  {
+    "vietnamese": "nói",
+    "english": "to speak",
+    "soundmark": "/tə/ /spik/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "nói tiếng Anh",
+    "english": "to speak English",
+    "soundmark": "/tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "như thế nào",
+    "english": "how",
+    "soundmark": "/haʊ/"
+  },
+  {
+    "vietnamese": "cách nói tiếng Anh",
+    "english": "how to speak English",
+    "soundmark": "/haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "đang dạy chúng ta cách nói tiếng Anh",
+    "english": "teaching us how to speak English",
+    "soundmark": "/'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Xingrong đang dạy chúng ta cách nói tiếng Anh",
+    "english": "Xingrong is teaching us how to speak English",
+    "soundmark": "/ɪz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Xingrong (quá khứ) đang dạy chúng ta cách nói tiếng Anh",
+    "english": "Xingrong was teaching us how to speak English",
+    "soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "học tập",
+    "english": "to learn",
+    "soundmark": "/tə/ /lɝn/"
+  },
+  {
+    "vietnamese": "Tiếng Anh",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "học tiếng Anh",
+    "english": "to learn English",
+    "soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "học",
+    "english": "learning",
+    "soundmark": "/'lɝnɪŋ/"
+  },
+  {
+    "vietnamese": "học tiếng Anh",
+    "english": "learning English",
+    "soundmark": "/'lɝnɪŋ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Tôi đang học tiếng Anh",
+    "english": "I am learning English",
+    "soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "video",
+    "english": "videos",
+    "soundmark": "/'vɪdɪoz/"
+  },
+  {
+    "vietnamese": "của anh ấy",
+    "english": "his",
+    "soundmark": "/hɪz/"
+  },
+  {
+    "vietnamese": "video của anh ấy",
+    "english": "his videos",
+    "soundmark": "/hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "vietnamese": "quan sát",
+    "english": "to watch",
+    "soundmark": "/tə/ /wɑtʃ/"
+  },
+  {
+    "vietnamese": "xem video của anh ấy",
+    "english": "to watch his videos",
+    "soundmark": "/tə/ /wɑtʃ/ /hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "vietnamese": "đang xem",
+    "english": "watching",
+    "soundmark": "/'wɑtʃɪŋ/"
+  },
+  {
+    "vietnamese": "đang xem video của anh ấy",
+    "english": "watching his videos",
+    "soundmark": "/'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "vietnamese": "bằng cách",
+    "english": "by",
+    "soundmark": "/baɪ/"
+  },
+  {
+    "vietnamese": "bằng cách xem video của anh ấy",
+    "english": "by watching his videos",
+    "soundmark": "/baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "vietnamese": "Tôi đang học tiếng Anh",
+    "english": "I am learning English",
+    "soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "Tôi đang học tiếng Anh bằng cách xem video của anh ấy",
+    "english": "I am learning English by watching his videos",
+    "soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "vietnamese": "Tôi (trong quá khứ) đang học tiếng Anh bằng cách xem video của anh ấy",
+    "english": "I was learning English by watching his videos",
+    "soundmark": "/aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "vietnamese": "Xingrong (quá khứ) đang dạy chúng ta cách nói tiếng Anh",
+    "english": "Xingrong was teaching us how to speak English",
+    "soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "vietnamese": "cùng lúc đó.",
+    "english": "while",
+    "soundmark": "/waɪl/"
+  },
+  {
+    "vietnamese": "Xing Rong (trong quá khứ) đang dạy chúng tôi cách nói tiếng Anh trong khi tôi (trong quá khứ) đang học tiếng Anh bằng cách xem video của anh ấy",
+    "english": "Xingrong was teaching us how to speak English while I was learning English by watching his videos",
+    "soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/ /waɪl/ /aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "vietnamese": "đi bộ",
+    "english": "to walk",
+    "soundmark": "/tə/ /wɔk/"
+  },
+  {
+    "vietnamese": "chỗ ở",
+    "english": "home",
+    "soundmark": "/hom/"
+  },
+  {
+    "vietnamese": "đi bộ về nhà",
+    "english": "to walk home",
+    "soundmark": "/tə/ /wɔk/ /hom/"
+  },
+  {
+    "vietnamese": "trường học",
+    "english": "school",
+    "soundmark": "/skul/"
+  },
+  {
+    "vietnamese": "từ",
+    "english": "from",
+    "soundmark": "/frʌm/"
+  },
+  {
+    "vietnamese": "từ trường học",
+    "english": "from school",
+    "soundmark": "/frʌm/ /skul/"
+  },
+  {
+    "vietnamese": "đi bộ từ trường về nhà",
+    "english": "to walk home from school",
+    "soundmark": "/tə/ /wɔk/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "vietnamese": "đang đi bộ từ trường về nhà",
+    "english": "walking home from school",
+    "soundmark": "/'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "vietnamese": "Tôi đang đi bộ từ trường về nhà",
+    "english": "I am walking home from school",
+    "soundmark": "/aɪ/ /æm/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "vietnamese": "Tôi (trong quá khứ) đang đi bộ từ trường về nhà",
+    "english": "I was walking home from school",
+    "soundmark": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "vietnamese": "bằng hữu",
+    "english": "friend",
+    "soundmark": "/frɛnd/"
+  },
+  {
+    "vietnamese": "lão hóa",
+    "english": "old",
+    "soundmark": "/old/"
+  },
+  {
+    "vietnamese": "một người bạn cũ",
+    "english": "an old friend",
+    "soundmark": "/ən/ /old/ /frɛnd/"
+  },
+  {
+    "vietnamese": "gặp",
+    "english": "to meet",
+    "soundmark": "/tə/ /mit/"
+  },
+  {
+    "vietnamese": "gặp một người bạn cũ",
+    "english": "to meet an old friend",
+    "soundmark": "/tə/ /mit/ /ən/ /old/ /frɛnd/"
+  },
+  {
+    "vietnamese": "Tôi đã gặp một người bạn cũ (trong quá khứ)",
+    "english": "I met an old friend",
+    "soundmark": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/"
+  },
+  {
+    "vietnamese": "Tôi (trong quá khứ) đang đi bộ từ trường về nhà",
+    "english": "I was walking home from school",
+    "soundmark": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi tôi đang đi bộ từ trường về nhà (trước đây)",
+    "english": "when I was walking home from school",
+    "soundmark": "/wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "vietnamese": "Khi tôi đang đi bộ từ trường về nhà (trong quá khứ), tôi đã gặp một người bạn cũ (trong quá khứ)",
+    "english": "I met an old friend when I was walking home from school",
+    "soundmark": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/ /wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "vietnamese": "ngủ",
+    "english": "to sleep",
+    "soundmark": "/tə/ /slip/"
+  },
+  {
+    "vietnamese": "phòng ngủ",
+    "english": "the bedroom",
+    "soundmark": "/ðə/ /'bɛdrum/"
+  },
+  {
+    "vietnamese": "trong phòng ngủ",
+    "english": "in the bedroom",
+    "soundmark": "/ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "vietnamese": "ngủ trong phòng ngủ",
+    "english": "to sleep in the bedroom",
+    "soundmark": "/tə/ /slip/ /ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "vietnamese": "ngủ",
+    "english": "sleeping",
+    "soundmark": "/ˈslipɪŋ/"
+  },
+  {
+    "vietnamese": "ngủ trong phòng ngủ",
+    "english": "sleeping in the bedroom",
+    "soundmark": "/ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "vietnamese": "Tôi đang ngủ trong phòng ngủ",
+    "english": "I am sleeping in the bedroom",
+    "soundmark": "/aɪ/ /æm/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "vietnamese": "Tôi (đã từng) ngủ trong phòng ngủ",
+    "english": "I was sleeping in the bedroom",
+    "soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "vietnamese": "gọi điện thoại",
+    "english": "to call",
+    "soundmark": "/tə/ /kɔl/"
+  },
+  {
+    "vietnamese": "gọi điện thoại cho ta",
+    "english": "to call me",
+    "soundmark": "/tə/ /kɔl/ /mi/"
+  },
+  {
+    "vietnamese": "cô ấy",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "vietnamese": "cô ấy đã gọi cho tôi (trong quá khứ)",
+    "english": "she called me",
+    "soundmark": "/ʃi/ /kɔld/ /mi/"
+  },
+  {
+    "vietnamese": "khi nào…",
+    "english": "when",
+    "soundmark": "/wɛn/"
+  },
+  {
+    "vietnamese": "khi cô ấy gọi cho tôi (trong quá khứ)",
+    "english": "when she called me",
+    "soundmark": "/wɛn/ /ʃi/ /kɔld/ /mi/"
+  },
+  {
+    "vietnamese": "Tôi (đã từng) ngủ trong phòng ngủ",
+    "english": "I was sleeping in the bedroom",
+    "soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "vietnamese": "Tôi đang ngủ trong phòng ngủ (trong quá khứ) khi cô ấy gọi cho tôi",
+    "english": "I was sleeping in the bedroom when she called me",
+    "soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/ /wɛn/ /ʃi/ /kɔld/ /mi/"
+  },
+  {
+    "vietnamese": "chơi",
+    "english": "to play",
+    "soundmark": "/tə/ /ple/"
+  },
+  {
+    "vietnamese": "piano",
+    "english": "the piano",
+    "soundmark": "/ðə/ /pɪ'æno/"
+  },
+  {
+    "vietnamese": "chơi piano",
+    "english": "to play the piano",
+    "soundmark": "/tə/ /ple/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "vietnamese": "đang chơi",
+    "english": "playing",
+    "soundmark": "/pleɪŋ/"
+  },
+  {
+    "vietnamese": "chơi piano",
+    "english": "playing the piano",
+    "soundmark": "/pleɪŋ/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "vietnamese": "cô ấy đang chơi piano",
+    "english": "she is playing the piano",
+    "soundmark": "/ʃi/ /ɪz/ /pleɪŋ/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đang chơi piano",
+    "english": "she was playing the piano",
+    "soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "vietnamese": "phòng khách; phòng khách",
+    "english": "the living room",
+    "soundmark": "/ðə/ /'lɪvɪŋ/ /rum/"
+  },
+  {
+    "vietnamese": "trong phòng khách",
+    "english": "in the living room",
+    "soundmark": "/ɪn/ /ðə/ /'lɪvɪŋ/ /rum/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đang chơi piano trong phòng khách",
+    "english": "she was playing the piano in the living room",
+    "soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/"
+  },
+  {
+    "vietnamese": "cùng lúc đó.",
+    "english": "while",
+    "soundmark": "/waɪl/"
+  },
+  {
+    "vietnamese": "Tôi (đã từng) ngủ trong phòng ngủ",
+    "english": "I was sleeping in the bedroom",
+    "soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "vietnamese": "cô ấy (quá khứ) đang chơi piano trong phòng khách trong khi tôi (quá khứ) đang ngủ trong phòng ngủ",
+    "english": "she was playing the piano in the living room while I was sleeping in the bedroom",
+    "soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/ /waɪl/ /aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+  }
+]
