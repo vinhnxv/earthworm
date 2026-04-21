@@ -3,7 +3,7 @@
     class="btn btn-outline btn-sm"
     @click="markStatementAsMastered"
   >
-    掌握
+    {{ $t("game.mastered.button") }}
   </button>
 </template>
 

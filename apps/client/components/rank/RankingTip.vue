@@ -3,12 +3,12 @@
     class="flex h-12 w-full flex-col items-center justify-center border-t border-gray-200 dark:border-gray-600"
   >
     <div class="flex items-center text-sm">
-      <span class="font-bold">我的排名：</span>
+      <span class="font-bold">{{ $t("ranking.myRank") }}</span>
       <template v-if="isLoading">
-        <span>数据正在向你飞奔而来……</span>
+        <span>{{ $t("ranking.loading") }}</span>
       </template>
       <template v-else-if="!isAuthenticated()">
-        <span>登录后和小伙伴们一决高下！😊 </span>
+        <span>{{ $t("ranking.loginPrompt") }} </span>
       </template>
       <template v-else-if="rankingSelf && rankingSelf.rank !== -1">
         <RankRankingBadge
@@ -16,10 +16,10 @@
           class="min-w-6"
         />
         <span class="mx-2">/</span>
-        <span>{{ rankingSelf.count }} 课</span>
+        <span>{{ $t("ranking.courses", { count: rankingSelf.count }) }}</span>
       </template>
       <template v-else>
-        <span>先去刷一课再来看看！👀</span>
+        <span>{{ $t("ranking.goStudy") }}</span>
       </template>
     </div>
   </div>

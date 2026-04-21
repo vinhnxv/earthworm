@@ -16,7 +16,7 @@ defineProps({
   },
   cancelText: {
     type: String,
-    default: "取消",
+    default: "",
   },
   showConfirm: {
     type: Boolean,
@@ -24,7 +24,7 @@ defineProps({
   },
   confirmText: {
     type: String,
-    default: "确认",
+    default: "",
   },
 });
 
@@ -55,14 +55,14 @@ async function onConfirm() {
           class="px-6"
           @click="onCancel"
         >
-          {{ cancelText || "取消" }}
+          {{ cancelText || $t("common.cancel") }}
         </UButton>
         <UButton
           v-if="showConfirm"
           class="px-6"
           @click="onConfirm"
         >
-          {{ confirmText || "确认" }}
+          {{ confirmText || $t("common.confirm") }}
         </UButton>
       </div>
     </div>

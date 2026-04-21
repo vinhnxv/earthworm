@@ -1,3 +1,4 @@
+import { useI18n } from "#imports";
 import { ref } from "vue";
 
 export enum GamePlayMode {
@@ -5,9 +6,9 @@ export enum GamePlayMode {
   ChineseToEnglish = "CHINESE_TO_ENGLISH",
 }
 
-export const gamePlayModeLabels: { [key in GamePlayMode]: string } = {
-  [GamePlayMode.ChineseToEnglish]: "中译英",
-  [GamePlayMode.Dictation]: "听写",
+const gamePlayModeLabelKeys: { [key in GamePlayMode]: string } = {
+  [GamePlayMode.ChineseToEnglish]: "settings.gameMode.chineseToEnglish",
+  [GamePlayMode.Dictation]: "settings.gameMode.dictation",
 };
 
 const GamePlayModeKey = "gamePlayMode";
@@ -29,10 +30,12 @@ function setStore(value: GamePlayMode) {
 loadCache();
 
 export function useGamePlayMode() {
+  const { t } = useI18n();
+
   function getGamePlayModeOptions() {
-    return Object.entries(gamePlayModeLabels).map(([key, value]) => {
+    return Object.entries(gamePlayModeLabelKeys).map(([key, value]) => {
       return {
-        label: value,
+        label: t(value),
         value: key,
       };
     });

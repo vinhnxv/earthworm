@@ -4,7 +4,7 @@
     :ui="{ width: 'w-screen max-w-80' }"
   >
     <div class="flex h-full flex-col">
-      <!-- 用户信息头部 -->
+      <!-- User info header -->
       <div class="flex items-center justify-between p-4">
         <div class="flex items-center gap-3">
           <div class="avatar">
@@ -35,7 +35,7 @@
         />
       </div>
 
-      <!-- 菜单选项 -->
+      <!-- Menu items -->
       <div class="flex-grow p-4">
         <button
           v-for="(item, index) in showMenuOptions"
@@ -52,14 +52,14 @@
         </button>
       </div>
 
-      <!-- 底部信息 -->
-      <div class="p-4 text-center text-xs opacity-50">版本 v1.0.0</div>
+      <!-- Footer info -->
+      <div class="p-4 text-center text-xs opacity-50">{{ $t("common.version") }}</div>
     </div>
   </USlideover>
 </template>
 
 <script setup lang="ts">
-import { navigateTo, useModal } from "#imports";
+import { navigateTo, useI18n, useModal } from "#imports";
 import { useRuntimeConfig } from "nuxt/app";
 import { computed } from "vue";
 
@@ -68,6 +68,8 @@ import { Theme, useDarkMode } from "~/composables/darkMode";
 import { useUserMenu } from "~/composables/user/useUserMenu";
 import { signOut } from "~/services/auth";
 import { useUserStore } from "~/store/user";
+
+const { t } = useI18n();
 
 const { isUserMenuOpen, closeUserMenu } = useUserMenu();
 const { darkMode, toggleDarkMode } = useDarkMode();
@@ -84,43 +86,43 @@ const modal = useModal();
 const showMenuOptions = computed(() => {
   return [
     {
-      title: "设置",
+      title: t("user.menu.settings"),
       name: "setting",
       eventName: handleSetting,
       icon: "i-ph-gear",
     },
     {
-      title: "掌握列表",
+      title: t("user.menu.masteredList"),
       name: "setting",
       eventName: handleMasteredElements,
       icon: "i-ph-book",
     },
     {
-      title: "编辑器",
+      title: t("user.menu.editor"),
       name: "setting",
       eventName: handleGoToEditor,
       icon: "i-ph-planet-duotone",
     },
     {
-      title: "帮助文档",
+      title: t("user.menu.helpDocs"),
       name: "helpDocs",
       eventName: handleHelpDocs,
       icon: "i-ph-book-open-text-duotone",
     },
     {
-      title: "建议反馈",
+      title: t("user.menu.feedback"),
       name: "feedback",
       eventName: handleFeedback,
       icon: "i-ph-hands-praying-duotone",
     },
     {
-      title: "主题切换",
+      title: t("user.menu.themeToggle"),
       name: "changeTheme",
       eventName: toggleDarkMode,
       icon: isDarkMode.value ? "i-ph-moon" : "i-ph-sun",
     },
     {
-      title: "登出",
+      title: t("user.menu.logout"),
       name: "logout",
       eventName: handleLogout,
       icon: "i-ph-sign-out",
@@ -152,8 +154,8 @@ function handleLogout() {
   closeUserMenu();
 
   modal.open(Dialog, {
-    title: "退出登录",
-    content: "是否确认退出登录？",
+    title: t("user.logoutDialog.title"),
+    content: t("user.logoutDialog.content"),
     showCancel: true,
     showConfirm: true,
     async onConfirm() {

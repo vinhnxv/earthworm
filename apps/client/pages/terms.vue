@@ -1,63 +1,105 @@
 <template>
   <div>
-    <h1>用户条款</h1>
+    <h1>Terms of Service</h1>
     <section>
-      <h2>1. 接受条款</h2>
+      <h2>1. Acceptance of Terms</h2>
       <p>
-        用户在使用本服务前，必须仔细阅读并同意本条款。如果用户不同意本条款，不应注册或使用本服务。
+        Before using this service, users must carefully read and agree to these terms. If a user
+        does not agree to these terms, they must not register for or use the service.
       </p>
       <p>
-        本条款可能随时更新，更新后的条款一旦发布即生效。用户继续使用本服务将被视为接受更新后的条款。
-      </p>
-    </section>
-
-    <section>
-      <h2>2. 账户注册与使用</h2>
-      <p>用户应提供真实、准确、完整的个人信息，并保持信息的及时更新。</p>
-      <p>用户对其账户下的所有行为负责，应妥善保管账户信息和密码，防止未授权使用。</p>
-    </section>
-
-    <section>
-      <h2>3. 隐私政策</h2>
-      <p>本服务尊重用户隐私，承诺不泄露用户的个人信息，除非得到用户的授权或根据法律法规的要求。</p>
-      <p>本服务可能会收集用户信息以提供个性化服务，具体请参考隐私政策。 知识产权</p>
-    </section>
-
-    <section>
-      <h2>4. 知识产权</h2>
-      <p>本服务中的所有内容，包括但不限于文本、图片、音频、视频等，均受知识产权法律的保护。</p>
-      <p>未经许可，用户不得复制、传播、展示或以其他方式使用本服务中的内容。</p>
-    </section>
-
-    <section>
-      <h2>5. 用户行为规范</h2>
-      <p>用户应遵守法律法规，不得利用本服务从事违法活动。</p>
-      <p>用户不得上传、发布或传播侵犯他人合法权益的内容。</p>
-    </section>
-
-    <section>
-      <h2>6. 服务使用限制</h2>
-      <p>本服务可能设置使用限制，包括但不限于使用频率、存储空间等。</p>
-      <p>本服务有权根据需要调整使用限制，并提前通知用户。</p>
-    </section>
-    <section>
-      <h2>7. 责任限制与免责</h2>
-      <p>本服务按现状提供，不承担因使用本服务造成的任何损失。</p>
-      <p>本服务不保证服务的连续性、安全性、准确性或及时性。</p>
-    </section>
-
-    <section>
-      <h2>8. 法律适用与争议解决</h2>
-      <p>本条款的解释、有效性和执行均适用服务提供方所在地的法律。</p>
-      <p>
-        如发生争议，双方应友好协商解决；协商不成的，任何一方可以向服务提供方所在地的人民法院提起诉讼。
+        These terms may be updated at any time. Updated terms take effect immediately upon
+        publication. Continued use of the service constitutes acceptance of the updated terms.
       </p>
     </section>
 
     <section>
-      <h2>9. 终止与服务提供方的关系</h2>
-      <p>用户可随时终止使用本服务，本服务也可根据条款终止或限制用户的使用。</p>
-      <p>终止后，用户使用本服务的权利立即终止。</p>
+      <h2>2. Account Registration and Use</h2>
+      <p>
+        Users must provide true, accurate, and complete personal information and keep it up to date.
+      </p>
+      <p>
+        Users are responsible for all activity under their account and must keep their account
+        information and password secure to prevent unauthorized use.
+      </p>
+    </section>
+
+    <section>
+      <h2>3. Privacy Policy</h2>
+      <p>
+        This service respects user privacy and will not disclose personal information unless
+        authorized by the user or required by law.
+      </p>
+      <p>
+        This service may collect user information to provide personalized features. Please refer to
+        the Privacy Policy for details.
+      </p>
+    </section>
+
+    <section>
+      <h2>4. Intellectual Property</h2>
+      <p>
+        All content in this service, including but not limited to text, images, audio, and video, is
+        protected by intellectual property laws.
+      </p>
+      <p>
+        Without permission, users may not copy, distribute, display, or otherwise use any content
+        from this service.
+      </p>
+    </section>
+
+    <section>
+      <h2>5. User Conduct</h2>
+      <p>
+        Users must comply with applicable laws and regulations and may not use this service for
+        illegal activities.
+      </p>
+      <p>
+        Users may not upload, publish, or distribute content that infringes on the lawful rights of
+        others.
+      </p>
+    </section>
+
+    <section>
+      <h2>6. Service Usage Limits</h2>
+      <p>
+        This service may impose usage limits, including but not limited to access frequency and
+        storage space.
+      </p>
+      <p>
+        This service reserves the right to adjust usage limits as needed and will notify users in
+        advance.
+      </p>
+    </section>
+    <section>
+      <h2>7. Limitation of Liability and Disclaimer</h2>
+      <p>
+        This service is provided on an "as is" basis and is not liable for any loss arising from its
+        use.
+      </p>
+      <p>This service does not guarantee continuity, security, accuracy, or timeliness.</p>
+    </section>
+
+    <section>
+      <h2>8. Governing Law and Dispute Resolution</h2>
+      <p>
+        The interpretation, validity, and enforcement of these terms are governed by the laws of the
+        service provider's jurisdiction.
+      </p>
+      <p>
+        In the event of a dispute, both parties should first attempt to resolve it through friendly
+        consultation. If no resolution is reached, either party may file a lawsuit in the people's
+        court located where the service provider is based.
+      </p>
+    </section>
+
+    <section>
+      <h2>9. Termination and Relationship with the Service Provider</h2>
+      <p>
+        Users may stop using this service at any time, and the service may also terminate or
+        restrict access under these terms.
+      </p>
+      <p>After termination, the user's right to use the service ends immediately.</p>
     </section>
   </div>
 </template>

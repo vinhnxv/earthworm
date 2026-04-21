@@ -5,7 +5,7 @@
   >
     <UContainer>
       <h3 class="mb-4 text-center text-base font-bold">
-        请先按下单键/组合键，通过回车键（Enter ⏎）来设置
+        Press a key or key combination first, then press Enter ⏎ to confirm
       </h3>
       <div class="h-8 rounded border border-solid text-center leading-8">
         {{ shortcutKeyStr }}
@@ -22,7 +22,7 @@
         class="mt-4 text-center text-xs"
         :class="'text-[rgba(136,136,136,1)]'"
       >
-        已有相同的按键绑定，请重新设置
+        This key binding already exists. Please choose another one.
       </div>
     </UContainer>
   </UModal>

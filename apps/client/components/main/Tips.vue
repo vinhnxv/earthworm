@@ -45,14 +45,14 @@ const keybindings = computed(() => {
   const questionItems = [
     {
       keys: "Enter",
-      text: "提交",
+      text: "Submit",
       eventFn: () => {
         submitAnswer();
       },
     },
     {
       keys: shortcutKeys.value.answer,
-      text: isAnswerTip() ? "隐藏答案" : "显示答案",
+      text: isAnswerTip() ? "Hide Answer" : "Show Answer",
       eventFn: () => {
         toggleAnswerTip();
       },
@@ -62,14 +62,14 @@ const keybindings = computed(() => {
   const answerItems = [
     {
       keys: "Enter",
-      text: "下一题",
+      text: "Next",
       eventFn: () => {
         goToNextQuestion();
       },
     },
     {
       keys: shortcutKeys.value.answer,
-      text: "再来一次",
+      text: "Try Again",
       eventFn: () => {
         showQuestion();
       },
@@ -79,12 +79,12 @@ const keybindings = computed(() => {
   const normalItems = [
     {
       keys: shortcutKeys.value.sound,
-      text: "播放发音",
+      text: "Play Audio",
       eventFn: playSound,
     },
     {
       keys: shortcutKeys.value.mastered,
-      text: "掌握",
+      text: "Mastered",
       eventFn: handleMastered,
     },
   ];
@@ -152,7 +152,7 @@ function useShowAnswer(key: string) {
 
   function handleShowAnswer(e: KeyboardEvent) {
     e.preventDefault();
-    // NOTE: registerShortcut 事件会记住注册时的面板状态，所以这里要重新获取下面板信息
+    // NOTE: registerShortcut remembers the panel state at registration time, so read the panel state again here
     const { showModal } = useSummary();
     if (showModal.value) return;
 

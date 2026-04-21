@@ -40,7 +40,23 @@ export default defineNuxtConfig({
     "@nuxt/test-utils/module",
     "@hypernym/nuxt-anime",
     "@nuxt/image",
+    "@nuxtjs/i18n",
   ],
+  i18n: {
+    locales: [
+      { code: "en", name: "English", file: "en.json" },
+      { code: "zh-CN", name: "简体中文", file: "zh-CN.json" },
+    ],
+    defaultLocale: "en",
+    lazy: true,
+    langDir: "locales",
+    strategy: "no_prefix",
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: "i18n_locale",
+      fallbackLocale: "zh-CN",
+    },
+  },
   plugins: ["~/plugins/logto.ts", "~/plugins/http.ts"],
   runtimeConfig: {
     public: {

@@ -1,11 +1,11 @@
 <template>
   <div class="mt-8 flex w-full justify-between">
-    <!-- 左侧头像区域 -->
+    <!-- Left avatar section -->
     <div class="mr-16 hidden w-72 md:block">
       <div
         class="mx-auto h-56 w-56 overflow-hidden rounded-full border-2 border-gray-300 bg-gray-300 dark:border-gray-700 dark:bg-gray-700"
       >
-        <!-- 通过给定高度来自适应拉伸图片，如果图片不存在或者加载失败则显示外层的背景色（没有宽度） -->
+        <!-- Stretch the image to fit the fixed height. If the image is missing or fails to load, show the outer background color instead. -->
         <img
           class="h-full object-cover"
           :src="userStore.user?.avatar"
@@ -21,8 +21,8 @@
         </div>
       </div>
       <hr class="my-5 dark:border-gray-700" />
-      <!-- TODO: 等后续勋章制作完成再放出来 -->
-      <!-- <div class="text-lg font-medium">勋章</div>
+      <!-- TODO: show badges after they are ready -->
+      <!-- <div class="text-lg font-medium">Badges</div>
       <div class="mt-2 grid grid-cols-4 gap-2">
         <div
           v-for="i in 6"
@@ -31,14 +31,14 @@
       </div> -->
     </div>
 
-    <!-- 右侧课程包区域 -->
+    <!-- Right course pack section -->
     <div class="min-w-0 flex-1">
       <div class="mb-4 flex justify-between border-b pb-2 dark:border-gray-700">
-        <div class="text-xl font-medium">最近使用的课程包</div>
+        <div class="text-xl font-medium">Recently Used Course Packs</div>
         <NuxtLink
           href="/course-pack"
           class="link text-blue-500 no-underline hover:opacity-75"
-          >更多课程包
+          >More Course Packs
         </NuxtLink>
       </div>
       <HomeRecentCoursePack />
@@ -67,7 +67,7 @@ const { learningDailyTimeList, learningDailyTotalTime, setupLearningDailyTime } 
 const { toggleYear } = useCalendarGraph();
 
 useAsyncData(async () => {
-  // 同步今日的学习总时长
+  // Sync today's total learning time
   const { setupLearningTime } = useLearningTimeTracker();
   setupLearningTime(await fetchTodayLearningTime());
 });
@@ -77,7 +77,7 @@ function useCalendarGraph() {
   const totalLearningTime = ref<number>(0);
 
   async function toggleYear(year?: number) {
-    // TODO 需要支持多年份的切换
+    // TODO: support switching between multiple years
     setupLearningDailyTime();
   }
 

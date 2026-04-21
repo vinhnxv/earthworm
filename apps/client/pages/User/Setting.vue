@@ -3,11 +3,11 @@
     class="mx-auto my-8 w-full max-w-screen-lg space-y-8 rounded-lg bg-base-100 px-6 py-8 shadow-even-lg dark:bg-gray-900 dark:shadow-gray-700 md:px-12"
   >
     <section>
-      <h2 class="text-xl font-medium">游戏模式</h2>
+      <h2 class="text-xl font-medium">{{ $t("settings.gameMode.title") }}</h2>
       <table class="table text-base">
         <tbody>
           <tr class="hover">
-            <td class="label-text">模式</td>
+            <td class="label-text">{{ $t("settings.gameMode.mode") }}</td>
             <td class="text-right">
               <div class="join">
                 <input
@@ -28,13 +28,13 @@
     </section>
 
     <section>
-      <h2 class="text-xl font-medium">快捷键设置</h2>
+      <h2 class="text-xl font-medium">{{ $t("settings.shortcut.title") }}</h2>
       <table class="table text-base">
         <thead>
           <tr class="text-base">
-            <th class="">功能</th>
-            <th class="w-1/6 text-center">快捷键</th>
-            <th class="w-2/6 pr-6 text-right">操作</th>
+            <th class="">{{ $t("settings.shortcut.function") }}</th>
+            <th class="w-1/6 text-center">{{ $t("settings.shortcut.shortcut") }}</th>
+            <th class="w-2/6 pr-6 text-right">{{ $t("settings.shortcut.action") }}</th>
           </tr>
         </thead>
         <tbody>
@@ -53,7 +53,7 @@
                   class="btn btn-outline btn-secondary btn-sm"
                   @click="handleEdit(item.type)"
                 >
-                  编辑
+                  {{ $t("common.edit") }}
                 </button>
               </td>
             </tr>
@@ -63,11 +63,11 @@
     </section>
 
     <section>
-      <h2 class="text-xl font-medium">声音设置</h2>
+      <h2 class="text-xl font-medium">{{ $t("settings.sound.title") }}</h2>
       <table class="table">
         <tbody>
           <tr class="hover">
-            <td class="label-text">开启键盘打字音效</td>
+            <td class="label-text">{{ $t("settings.sound.keyboardSound") }}</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -78,7 +78,7 @@
             </td>
           </tr>
           <tr class="hover">
-            <td class="label-text">答案页面自动播放声音</td>
+            <td class="label-text">{{ $t("settings.sound.autoPlaySound") }}</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -89,7 +89,7 @@
             </td>
           </tr>
           <tr class="hover">
-            <td class="label-text">答题时自动播放声音</td>
+            <td class="label-text">{{ $t("settings.sound.autoPlayEnglish") }}</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -100,7 +100,7 @@
             </td>
           </tr>
           <tr class="hover">
-            <td class="label-text">切换口音</td>
+            <td class="label-text">{{ $t("settings.sound.pronunciation") }}</td>
             <td class="text-right">
               <div class="join">
                 <input
@@ -121,11 +121,11 @@
     </section>
 
     <section>
-      <h2 class="text-xl font-medium">答题设置</h2>
+      <h2 class="text-xl font-medium">{{ $t("settings.answer.title") }}</h2>
       <table class="table">
         <tbody>
           <tr class="hover">
-            <td class="label-text">显示每个单词长度</td>
+            <td class="label-text">{{ $t("settings.answer.showWordsWidth") }}</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -136,7 +136,7 @@
             </td>
           </tr>
           <tr class="hover">
-            <td class="label-text">开启空格提交答案</td>
+            <td class="label-text">{{ $t("settings.answer.spaceSubmit") }}</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -147,7 +147,7 @@
             </td>
           </tr>
           <tr class="hover">
-            <td class="label-text">答题正确后自动下一题</td>
+            <td class="label-text">{{ $t("settings.answer.autoNext") }}</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -159,7 +159,7 @@
           </tr>
 
           <tr class="hover">
-            <td class="label-text">自动显示答案（输错三次）</td>
+            <td class="label-text">{{ $t("settings.answer.showErrorTip") }}</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -177,6 +177,8 @@
 </template>
 
 <script setup lang="ts">
+import { useI18n } from "#imports";
+
 import { useAutoNextQuestion } from "~/composables/user/autoNext";
 import { useErrorTip } from "~/composables/user/errorTip";
 import { GamePlayMode, useGamePlayMode } from "~/composables/user/gamePlayMode";
@@ -191,13 +193,15 @@ import { useSpaceSubmitAnswer } from "~/composables/user/submitKey";
 import { useShowWordsWidth } from "~/composables/user/words";
 import { parseShortcutKeys } from "~/utils/keyboardShortcuts";
 
+const { t } = useI18n();
+
 const { autoNextQuestion, toggleAutoQuestion } = useAutoNextQuestion();
 const { keyboardSound, toggleKeyboardSound } = useKeyboardSound();
 const { autoPlaySound, toggleAutoPlaySound } = useAutoPronunciation();
 const { autoPlayEnglish, toggleAutoPlayEnglish } = useAutoPlayEnglish();
 const {
   pronunciation,
-  // 发音配置列表
+  // Pronunciation configuration list
   getPronunciationOptions,
   togglePronunciation,
 } = usePronunciation();
@@ -210,27 +214,27 @@ const { getGamePlayModeOptions, currentGamePlayMode, toggleGamePlayMode } = useG
 
 const shortcutKeyBindList = [
   {
-    label: "播放发音",
+    label: t("game.tips.sound"),
     type: SHORTCUT_KEY_TYPES.SOUND,
   },
   {
-    label: "显示隐藏/答案预览/再来一次",
+    label: t("game.tips.answer"),
     type: SHORTCUT_KEY_TYPES.ANSWER,
   },
   {
-    label: "返回上个问题",
+    label: t("game.tips.previous"),
     type: SHORTCUT_KEY_TYPES.PREVIOUS,
   },
   {
-    label: "跳过当前问题",
+    label: t("game.tips.skip"),
     type: SHORTCUT_KEY_TYPES.SKIP,
   },
   {
-    label: "标记内容已经掌握",
+    label: t("game.tips.mastered"),
     type: SHORTCUT_KEY_TYPES.MASTERED,
   },
   {
-    label: "暂停游戏/继续游戏",
+    label: t("game.tips.pause"),
     type: SHORTCUT_KEY_TYPES.PAUSE,
   },
 ];

@@ -48,7 +48,7 @@ defineEmits<{
   @apply flex cursor-pointer flex-col overflow-hidden rounded-md rounded-t-xl border bg-white transition-all duration-300 dark:border-gray-700 dark:bg-gray-900;
   @apply hover:text-purple-500 hover:shadow-even-lg hover:shadow-gray-300 hover:dark:text-purple-400 dark:hover:shadow-gray-500;
   width: 100%;
-  max-width: 100%; /* 在移动端允许卡片占满整个宽度 */
+  max-width: 100%; /* Allow the card to use the full width on mobile */
   height: 100%;
 }
 
@@ -93,7 +93,7 @@ defineEmits<{
   }
 }
 
-/* 暗色模式适配 */
+/* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {
   .description-text:hover::after {
     background: #1a202c;
@@ -102,22 +102,22 @@ defineEmits<{
   }
 }
 
-/* 移动端适配 */
+/* Mobile adjustments */
 @media (max-width: 640px) {
   .course-pack-card {
-    max-width: 100%; /* 确保在小屏幕上占满宽度 */
+    max-width: 100%; /* Ensure full width on small screens */
   }
 
   .card-body {
-    padding: 0.75rem; /* 稍微减少内边距 */
+    padding: 0.75rem; /* Slightly reduce padding */
   }
 
   .card-title {
-    @apply text-base; /* 减小标题字体大小 */
+    @apply text-base; /* Reduce title font size */
   }
 
   .description-text {
-    @apply text-xs; /* 减小描述文字大小 */
+    @apply text-xs; /* Reduce description font size */
   }
 }
 </style>

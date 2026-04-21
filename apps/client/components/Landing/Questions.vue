@@ -4,8 +4,11 @@
     id="faq"
   >
     <CommonTitle
-      title="常见问题解答"
-      :description="[`如果您找不到所需的内容，请加入 Telegram 群组`, `我们会尽快回复您！`]"
+      title="Frequently Asked Questions"
+      :description="[
+        `If you cannot find what you need, join our Telegram group`,
+        `We will get back to you as soon as possible!`,
+      ]"
     />
     <div class="divide-y divide-gray-100 py-16 dark:divide-gray-800">
       <template
@@ -48,29 +51,29 @@
 <script setup lang="ts">
 const QUESTIONS = [
   {
-    title: "如何向开发团队提出更多的功能需求？",
+    title: "How can I request more features from the development team?",
     content: [
-      "可以加入我们官方 Telegram 群组, 详细的描述您想要的功能以及告知这个功能想要解决的问题是什么",
-      "也可以去 github/issues 来提交您想要的功能需求",
+      "Join our official Telegram group and describe the feature you want in detail, including the problem it should solve.",
+      "You can also submit your feature request on GitHub issues.",
     ],
   },
   {
-    title: "如何向开发团队报告我在应用中遇到的错误或漏洞？",
+    title: "How can I report an error or bug I found in the app?",
     content: [
-      "如果您在应用中发现了错误或漏洞，可以加入我们官方 Telegram 群组，提供详细的描述和重现问题的步骤，当然最好提供一个小视频 🤪",
+      "If you find an error or bug in the app, join our official Telegram group and share a detailed description plus steps to reproduce it. A short video is even better 🤪",
     ],
   },
   {
-    title: "如何为 Earthworm 贡献代码？",
+    title: "How can I contribute code to Earthworm?",
     content: [
-      "我们提供了完整的贡献代码指南，可以先读一读(页脚处有链接)",
-      "去 github/issues 逛一逛， 也可以基于你在使用中遇到的问题提一个 issue 并且自己尝试修复",
+      "We provide a complete contribution guide. Start there first. You can find the link in the footer.",
+      "Browse GitHub issues, or open a new issue based on a problem you found while using the app and try fixing it yourself.",
     ],
   },
   {
-    title: "Earthworm 项目是完全免费的吗？",
+    title: "Is the Earthworm project completely free?",
     content: [
-      "不完全免费，因为想要长久发展收费是必然的。未来会采用订阅模式，为会员提供更多的学习内容和功能",
+      "Not entirely. Long-term development requires paid plans. In the future, we plan to use a subscription model to provide members with more learning content and features.",
     ],
   },
 ];

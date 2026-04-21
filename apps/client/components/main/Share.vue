@@ -46,13 +46,13 @@
             class="btn btn-primary"
             @click="copyAndClose"
           >
-            复制并关闭
+            Copy and close
           </button>
           <button
             class="btn"
             @click="hideShareModal"
           >
-            关闭
+            Close
           </button>
         </div>
       </template>

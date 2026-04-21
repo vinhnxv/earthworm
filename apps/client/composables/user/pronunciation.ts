@@ -1,3 +1,4 @@
+import { useI18n } from "#imports";
 import { ref } from "vue";
 
 /**
@@ -12,9 +13,9 @@ export enum PronunciationType {
   British = "British",
 }
 
-export const pronunciationLabels: { [key in PronunciationType]: string } = {
-  [PronunciationType.American]: "美音",
-  [PronunciationType.British]: "英音",
+const pronunciationLabelKeys: { [key in PronunciationType]: string } = {
+  [PronunciationType.American]: "settings.sound.american",
+  [PronunciationType.British]: "settings.sound.british",
 };
 
 const PRONUNCIATION_TYPE = "pronunciationType";
@@ -41,9 +42,10 @@ export function usePronunciation() {
   }
 
   function getPronunciationOptions() {
-    return Object.entries(pronunciationLabels).map(([key, value]) => {
+    const { t } = useI18n();
+    return Object.entries(pronunciationLabelKeys).map(([key, value]) => {
       return {
-        label: value,
+        label: t(value),
         value: key,
       };
     });

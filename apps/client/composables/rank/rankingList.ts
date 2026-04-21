@@ -1,3 +1,4 @@
+import { useNuxtApp } from "#imports";
 import { defineStore } from "pinia";
 import { ref, watch } from "vue";
 import { toast } from "vue-sonner";
@@ -33,6 +34,7 @@ export function cacheRanking() {
 }
 
 export const useRanking = defineStore("ranking", () => {
+  const { $i18n } = useNuxtApp();
   const { saveRankingCache, getRankingCache, hasRankingCache, cleanRankingCache } = cacheRanking();
 
   const rankModal = ref(false); // 需要作用于不同页面
@@ -40,20 +42,7 @@ export const useRanking = defineStore("ranking", () => {
   const currentPeriod = ref<string>("weekly");
   const rankingList = ref<RankingItem[]>([]);
   const rankingSelf = ref<RankingSelf | null>(null);
-  const rankingPeriodList = [
-    {
-      label: "周排行",
-      value: "weekly",
-    },
-    {
-      label: "月排行",
-      value: "monthly",
-    },
-    {
-      label: "年排行",
-      value: "yearly",
-    },
-  ];
+  const rankingPeriodList = ["weekly", "monthly", "yearly"];
 
   watch(currentPeriod, async () => {
     if (hasRankingCache(currentPeriod.value)) {
@@ -86,7 +75,7 @@ export const useRanking = defineStore("ranking", () => {
 
     // 加载中不允许切换
     if (isLoading.value) {
-      toast.warning("请等待当前排行榜加载完成", { duration: 1200 });
+      toast.warning($i18n.t("ranking.switchBlocked"), { duration: 1200 });
       return;
     }
 

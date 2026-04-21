@@ -26,13 +26,13 @@
           class="btn btn-outline btn-sm"
           @click="showQuestion"
         >
-          再来一次
+          {{ $t("game.answer.retry") }}
         </button>
         <button
           class="btn btn-outline btn-sm ml-6"
           @click="goToNextQuestion"
         >
-          下一题
+          {{ $t("game.answer.nextQuestion") }}
         </button>
       </div>
       <div class="md:hidden">
@@ -84,7 +84,7 @@ function usePlayEnglishSound() {
 
 function registerShortcutKeyForNextQuestion() {
   function handleKeydown(e: KeyboardEvent) {
-    e.preventDefault(); // 阻止到下一个页面的默认按键动作
+    e.preventDefault(); // Prevent the default key action that would move to the next page
     goToNextQuestion();
   }
   onMounted(() => {

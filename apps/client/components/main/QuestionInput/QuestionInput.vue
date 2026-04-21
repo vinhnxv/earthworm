@@ -41,20 +41,20 @@
         class="btn btn-outline btn-sm"
         @click="handleSubmitAnswer"
       >
-        提交
+        Submit
       </button>
       <div class="flex gap-4">
         <button
           class="btn btn-outline btn-sm"
           @click="handleShowAnswerTip"
         >
-          {{ isAnswerTip() ? "隐藏" : "显示" }}答案
+          {{ isAnswerTip() ? "Hide Answer" : "Show Answer" }}
         </button>
         <button
           class="btn btn-outline btn-sm"
           @click="handlePlaySound"
         >
-          播放声音
+          Play Audio
         </button>
       </div>
       <MainMasteredBtn></MainMasteredBtn>
@@ -146,35 +146,35 @@ function handleSubmitAnswer() {
 
 function getWordsClassNames(index: number) {
   const word = findWordById(index)!;
-  // 当前单词激活 且 聚焦
+  // Current word is active and focused
   if (word.isActive && focusing.value) {
     return "text-fuchsia-500 border-b-fuchsia-500";
   }
 
-  // 当前单词错误 且 聚焦
+  // Current word is incorrect and focused
   if (word.incorrect && focusing.value) {
-    // Fix 修复模式添加动画
+    // Add animation in fix mode
     return `text-red-500 border-b-red-500 ${isFixMode() && "animate-shake"}`;
   }
 
-  // 默认样式
+  // Default style
   return "text-[#20202099] border-b-gray-300 dark:text-gray-300 dark:border-b-gray-400";
 }
 
-// 输入宽度
+// Input width
 function inputWidth(word: string) {
   if (!isShowWordsWidth()) {
-    // 不显示对应单词宽度，默认 4 字符宽度
+    // If word width is hidden, use a default width of 4 characters
     return 4;
   }
 
   return getWordWidth(word);
 }
 
-// // 中文输入会导致先触发 handleKeydown
-// // 但是这时候字符还没有上屏
-// // 就会造成触发 submit answer  导致明明答案正确但是不通过的问题
-// // 通过检测是否为输入法 来避免按下 enter 后直接触发 submit answer
+// Chinese IME input can trigger handleKeydown first
+// but the composed character has not been inserted yet
+// which can trigger submitAnswer and reject a correct answer by mistake
+// Detect IME composition to avoid submitting immediately when Enter is pressed
 let isComposing = ref(false);
 function handleCompositionStart() {
   isComposing.value = true;
@@ -185,15 +185,15 @@ function handleCompositionEnd() {
 }
 
 function handleKeydown(e: KeyboardEvent) {
-  // 给 windows 用户添加 ctrl + backspace 删除上一个单词的快捷键
-  // 有些浏览器 input 不支持通过 ctrl + backspace 删除 所以自行扩展下
+  // Add Ctrl+Backspace on Windows to delete the previous word
+  // Some browsers do not support Ctrl+Backspace in inputs, so extend it manually here
   if (e.code === "Backspace" && e.ctrlKey && isWindows()) {
     e.preventDefault();
     deletePreviousWordOnWin();
     return;
   }
 
-  // 避免在某些中文输入法中，按下 Ctrl 键时，输入法会将当前的预输入字符上屏
+  // Prevent some Chinese IMEs from committing the current composing text when Ctrl is pressed
   if (e.ctrlKey) {
     e.preventDefault();
     return;
@@ -213,7 +213,7 @@ function deletePreviousWordOnWin() {
   var end = inputEl.value!.selectionEnd!;
   if (end === 0) return;
 
-  // 删除光标前的所有连续空格
+  // Delete all consecutive spaces before the cursor
   while (start > 0 && inputValue.value[start - 1] === " ") {
     start--;
   }
@@ -224,10 +224,10 @@ function deletePreviousWordOnWin() {
 }
 
 function preventCursorMove(event: MouseEvent) {
-  // 阻止 mousedown 事件的默认行为
-  // 它会改变 input 光标的位置
+  // Prevent the default mousedown behavior
+  // It changes the input cursor position
   event.preventDefault();
-  // 只允许 input focus
+  // Only allow the input to receive focus
   focusInput();
 }
 </script>

@@ -7,7 +7,7 @@
       }"
     >
       <CommonModalHeader
-        title="排行榜"
+        :title="$t('ranking.title')"
         @close="rankingStore.hideRankModal"
       />
 
@@ -21,12 +21,12 @@
             v-for="period in rankingStore.rankingPeriodList"
             role="tab"
             class="tab dark:[--tab-bg:gray-800] dark:[--tab-border-color:gray]"
-            @click="rankingStore.togglePeriod(period.value)"
-            :key="period.value"
+            @click="rankingStore.togglePeriod(period)"
+            :key="period"
             :class="{
-              'tab-active text-orange-500': period.value === rankingStore.currentPeriod,
+              'tab-active text-orange-500': period === rankingStore.currentPeriod,
             }"
-            >{{ period.label }}</a
+            >{{ $t(`ranking.period.${period}`) }}</a
           >
         </div>
         <Loading v-if="rankingStore.isLoading" />
@@ -48,7 +48,7 @@
             v-else
             class="flex flex-1 items-center justify-center text-gray-500"
           >
-            还没有小伙伴上榜哦，快来霸榜吧！🏆
+            {{ $t("ranking.noData") }}
           </div>
         </template>
       </div>

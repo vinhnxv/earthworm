@@ -1,7 +1,7 @@
-<!-- 用于 logto 的登录回调 -->
+<!-- Login callback for Logto -->
 <script setup lang="ts">
 import { useHandleSignInCallback } from "@logto/vue";
-import { navigateTo } from "nuxt/app";
+import { navigateTo, useI18n } from "#imports";
 import { onMounted, onUnmounted, ref, watch } from "vue";
 import { toast } from "vue-sonner";
 
@@ -9,6 +9,7 @@ import { fetchCurrentUser } from "~/api/user";
 import { getSignInCallback } from "~/services/auth";
 import { useUserStore } from "~/store/user";
 
+const { t } = useI18n();
 const userStore = useUserStore();
 const { username, isLoadingFetchUserSetup, isShowSettingUsernameModal, handleChangeUsername } =
   useUsername();
@@ -38,7 +39,7 @@ const { isLoading, error } = useHandleSignInCallback(async () => {
   const res = await fetchCurrentUser();
   userStore.initUser(res);
 
-  // 新用户并且没有用户名需要设置
+  // New users without a username need to set one
   if (userStore.isNewUser()) {
     isShowSettingUsernameModal.value = true;
   } else {
@@ -54,11 +55,11 @@ onUnmounted(() => {
   stopAutoRedirect();
 });
 
-// 如果登录失败，则跳转到首页
+// If sign-in fails, redirect to the home page
 watch(error, (newError) => {
   if (newError) {
-    toast.error(`登录失败`, {
-      description: `请清空缓存后重新尝试 报错信息: ${newError}`,
+    toast.error(t("errors.loginFailed"), {
+      description: t("errors.loginFailedDesc", { error: newError }),
       duration: 4000,
       onAutoClose: () => {
         navigateTo("/");
@@ -88,25 +89,20 @@ function useUsername() {
 
   function checkUsername() {
     const minLength = 2;
-    const errorMessage = {
-      empty: "用户名不能为空",
-      minLength: `用户名至少输入 ${minLength} 个字符`,
-      invalid: "用户名只能包含字母、数字和下划线，且首字符必须是字母或下划线",
-    };
 
     if (!username.value) {
-      toast.error(errorMessage.empty);
+      toast.error(t("user.usernameSetup.errors.empty"));
       return false;
     }
 
     if (username.value.length < minLength) {
-      toast.error(errorMessage.minLength);
+      toast.error(t("user.usernameSetup.errors.minLength", { min: minLength }));
       return false;
     }
 
     const regex = /^[A-Za-z_]\w*$/;
     if (!regex.test(username.value)) {
-      toast.error(errorMessage.invalid);
+      toast.error(t("user.usernameSetup.errors.invalid"));
       return false;
     }
 
@@ -134,11 +130,11 @@ function useUsername() {
       prevent-close
     >
       <UCard>
-        <h3 class="mb-4 text-lg font-bold">设置用户名</h3>
+        <h3 class="mb-4 text-lg font-bold">{{ $t("user.usernameSetup.title") }}</h3>
         <input
           v-model="username"
           type="text"
-          placeholder="请输入用户名"
+          :placeholder="$t('user.usernameSetup.placeholder')"
           class="input input-sm input-bordered w-full"
           maxlength="20"
           @keydown.enter="handleChangeUsername"
@@ -148,7 +144,7 @@ function useUsername() {
             type="submit"
             @click="handleChangeUsername"
           >
-            确定
+            {{ $t("common.determine") }}
             <span
               v-if="isLoadingFetchUserSetup"
               class="loading loading-spinner loading-lg"

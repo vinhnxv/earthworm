@@ -7,7 +7,7 @@
       }"
     >
       <CommonModalHeader
-        title="游戏设置"
+        :title="$t('game.setting.title')"
         @close="closeGameSettingModal"
       />
       <div class="mt-6 px-4">
@@ -17,7 +17,7 @@
             :key="option.key"
           >
             <div class="flex items-center justify-between">
-              <span class="mr-2 text-sm font-medium dark:text-gray-200">{{ option.label }}：</span>
+              <span class="mr-2 text-sm font-medium dark:text-gray-200">{{ option.label }}:</span>
               <USelect
                 v-model="toolBarData[option.key]"
                 :options="option.options"
@@ -33,7 +33,7 @@
             color="primary"
             variant="solid"
           >
-            重置
+            {{ $t("game.setting.reset") }}
           </UButton>
         </div>
       </div>
@@ -42,11 +42,13 @@
 </template>
 
 <script setup lang="ts">
+import { useI18n } from "#imports";
 import { onMounted, watch } from "vue";
 
 import { useToolbar } from "~/composables/main/dictation";
 import { useGameSetting } from "~/composables/main/useGameSetting";
 
+const { t } = useI18n();
 const { showGameSettingModal, closeGameSettingModal } = useGameSetting();
 
 const { toolBarData, recoverToolBarData, saveToolBarData, resetToolBarData } = useToolbar();
@@ -65,7 +67,7 @@ function handleReset() {
 
 const TOOLBAR_LIST = [
   {
-    label: "倍速",
+    label: t("game.setting.speed"),
     key: "rate",
     options: [
       {
@@ -87,7 +89,7 @@ const TOOLBAR_LIST = [
     ],
   },
   {
-    label: "播放次数",
+    label: t("game.setting.playTimes"),
     key: "times",
     options: [
       {
@@ -109,7 +111,7 @@ const TOOLBAR_LIST = [
     ],
   },
   {
-    label: "播放间隔",
+    label: t("game.setting.interval"),
     key: "interval",
     options: [
       {

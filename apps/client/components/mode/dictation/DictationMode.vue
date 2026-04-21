@@ -6,9 +6,9 @@
         v-if="isMobile"
         @click="startGame"
       >
-        准备好了吗？ 点我开始
+        Ready? Click to start
       </button>
-      <p v-else>准备好了吗？(按任意键开启游戏)</p>
+      <p v-else>Ready? (Press any key to start the game)</p>
     </div>
     <div v-else>
       <template v-if="isQuestion()">

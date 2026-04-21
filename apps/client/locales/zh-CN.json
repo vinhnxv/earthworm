@@ -1,0 +1,387 @@
+{
+  "common": {
+    "confirm": "确认",
+    "cancel": "取消",
+    "reset": "重置",
+    "edit": "编辑",
+    "loading": "加载中...",
+    "version": "版本 v1.0.0",
+    "determine": "确定",
+    "delete": "删除",
+    "anonymous": "匿名"
+  },
+  "nav": {
+    "login": "登录",
+    "docs": "文档",
+    "features": "功能",
+    "faq": "问题",
+    "contact": "联系我们"
+  },
+  "user": {
+    "menu": {
+      "settings": "设置",
+      "masteredList": "掌握列表",
+      "editor": "编辑器",
+      "helpDocs": "帮助文档",
+      "feedback": "建议反馈",
+      "themeToggle": "主题切换",
+      "logout": "登出"
+    },
+    "logoutDialog": {
+      "title": "退出登录",
+      "content": "是否确认退出登录？"
+    },
+    "usernameSetup": {
+      "title": "设置用户名",
+      "placeholder": "请输入用户名",
+      "submit": "确定",
+      "errors": {
+        "empty": "用户名不能为空",
+        "minLength": "用户名至少输入 {min} 个字符",
+        "invalid": "用户名只能包含字母、数字和下划线，且首字符必须是字母或下划线"
+      }
+    }
+  },
+  "game": {
+    "setting": {
+      "title": "游戏设置",
+      "speed": "倍速",
+      "playTimes": "播放次数",
+      "interval": "播放间隔",
+      "reset": "重置"
+    },
+    "pause": {
+      "title": "游戏暂停",
+      "continue": "继续游戏",
+      "message1": "别忘了回来练习哦！",
+      "message2": "休息一下，但别让我等太久！",
+      "message3": "快点回来，你的英语技能已经准备好了！"
+    },
+    "tool": {
+      "courseList": "课程列表",
+      "courseContents": "课程内容",
+      "gameSetting": "游戏设置",
+      "pause": "暂停游戏",
+      "resetProgress": "重置当前课程进度",
+      "ranking": "排行榜"
+    },
+    "mastered": {
+      "button": "掌握",
+      "tooltip": "标记内容已经掌握",
+      "added": "成功添加到掌握列表中",
+      "undo": "撤销"
+    },
+    "progress": {
+      "allMastered": "你已经全部都掌握 自动帮你跳转到课程列表啦",
+      "lastCourse": "已经是最后一课 自动帮你跳转到课程列表啦"
+    },
+    "tips": {
+      "sound": "播放发音",
+      "answer": "显示隐藏/答案预览/再来一次",
+      "previous": "返回上个问题",
+      "skip": "跳过当前问题",
+      "mastered": "标记内容已经掌握",
+      "pause": "暂停游戏/继续游戏"
+    },
+    "navigation": {
+      "prev": "上一题",
+      "next": "下一题"
+    },
+    "answer": {
+      "retry": "再来一次",
+      "nextQuestion": "下一题"
+    },
+    "summary": {
+      "congrats": "恭喜！",
+      "completed": "恭喜您一共完成 {count} 道题，用时 {time}",
+      "todayLearning": "今天一共学习 {minutes} 分钟啦！",
+      "encouragement": "太强了，给自己来点掌声",
+      "generateImage": "生成打卡图",
+      "retry": "再来一次",
+      "courseList": "课程列表",
+      "nextCourse": "下一课",
+      "dailyQuote": "—— 金山词霸「每日一句」",
+      "unlockTitle": "解锁更多学习体验",
+      "unlockContent": "注册后可以进行下一课学习 记录每日学习数据 开启更多功能哦",
+      "later": "稍后再说",
+      "registerNow": "立即注册"
+    },
+    "start": {
+      "ready": "准备好了吗？ 点我开始",
+      "readyHint": "准备好了吗？(按任意键开启游戏)"
+    },
+    "resetDialog": {
+      "title": "重置进度",
+      "content": "是否确认重置当前课程进度？"
+    },
+    "card": {
+      "completed": "恭喜您，当前课程已完成 {count} 次"
+    }
+  },
+  "settings": {
+    "gameMode": {
+      "title": "游戏模式",
+      "mode": "模式",
+      "dictation": "听写",
+      "chineseToEnglish": "中译英"
+    },
+    "shortcut": {
+      "title": "快捷键设置",
+      "function": "功能",
+      "shortcut": "快捷键",
+      "action": "操作"
+    },
+    "sound": {
+      "title": "声音设置",
+      "keyboardSound": "开启键盘打字音效",
+      "autoPlaySound": "答案页面自动播放声音",
+      "autoPlayEnglish": "答题时自动播放声音",
+      "pronunciation": "切换口音",
+      "american": "美式",
+      "british": "英式"
+    },
+    "answer": {
+      "title": "答题设置",
+      "showWordsWidth": "显示每个单词长度",
+      "spaceSubmit": "开启空格提交答案",
+      "autoNext": "答题正确后自动下一题",
+      "showErrorTip": "自动显示答案（输错三次）"
+    },
+    "dialog": {
+      "prompt": "请先按下单键/组合键，通过回车键（Enter ⏎）来设置",
+      "duplicate": "已有相同的按键绑定，请重新设置"
+    }
+  },
+  "ranking": {
+    "title": "排行榜",
+    "myRank": "我的排名：",
+    "loading": "数据正在向你飞奔而来……",
+    "switchBlocked": "请等待当前排行榜加载完成",
+    "loginPrompt": "登录后和小伙伴们一决高下！",
+    "noData": "还没有小伙伴上榜哦，快来霸榜吧！",
+    "courses": "{count} 课",
+    "goStudy": "先去刷一课再来看看！",
+    "period": {
+      "weekly": "周排行",
+      "monthly": "月排行",
+      "yearly": "年排行"
+    }
+  },
+  "landing": {
+    "banner": {
+      "title": "让你上瘾的英语学习工具",
+      "description1": "使用{sentence}、{iplus}、{reverse}等学习理论来帮助你习得英语",
+      "description2": "通过不断的{repeat}形成肌肉记忆",
+      "description3": "最重要的是{gamified}的形式让学习英语从此不再痛苦",
+      "highlightSentence": "连词成句",
+      "highlightIplus": "i + 1",
+      "highlightReverse": "以终为始",
+      "highlightRepeat": "重复",
+      "highlightGamified": "游戏化",
+      "startButton": "开启Earthworm"
+    },
+    "features": {
+      "title": "了解有关 Earthworm 更多信息",
+      "description": "通过这些强大的功能将 Earthworm 提升到一个新的水平！",
+      "feedback": {
+        "title": "实时反馈和进度跟踪",
+        "desc": "Earthworm 提供精准即时的反馈机制，辅助学习者即刻纠正学习中的偏差，并通过高效的进度跟踪功能，让每位学习者都能实时掌握自身的学习进展，清晰认识到自己的学习里程碑"
+      },
+      "contextual": {
+        "title": "情境语言学习",
+        "desc": "Earthworm 精心设计了丰富的语境化学习内容，旨在帮助用户深入理解单词在不同场合下的具体用法，从而有效提高用词的准确性和适应性，让语言学习更贴近真实应用场景"
+      },
+      "expression": {
+        "title": "提高语言表达能力",
+        "desc": "通过系统的造句练习，本应用不仅加强了学习者对词汇使用和语法结构的理解，而且有效提升了口语和书面语的表达流畅性及准确度，让语言表达更加自如和精准"
+      },
+      "vocabulary": {
+        "title": "增强词汇保留率",
+        "desc": "Earthworm 采用独特的单词句式构建方法，旨在加深学习者对词汇的记忆和应用能力，通过实践加强理解，显著提高长期词汇保留效果"
+      },
+      "collocations": {
+        "title": "掌握常用搭配和惯用表达",
+        "desc": "Earthworm 集成了丰富的词汇搭配和惯用表达学习资源，帮助学习者精准掌握语言的自然表达方式，使得语言运用更加地道、流畅，增强交流的自然性和效果"
+      },
+      "keyboard": {
+        "title": "键盘音效",
+        "desc": "为追求极致学习体验的专业用户提供了多样化的键盘音效设置及发音方法选择，旨在通过优化听觉反馈，增强学习的沉浸感和效率，助力英语学习过程更加高效愉悦"
+      }
+    },
+    "questions": {
+      "title": "问题",
+      "description": "如果你找不到你需要的，可以加入我们的 Telegram 群",
+      "description2": "我们会尽快回复！",
+      "featureRequest": {
+        "title": "如何向开发团队提出更多的功能请求？",
+        "content1": "你可以加入我们的官方 Telegram 群并提交你的建议",
+        "content2": "你也可以通过 GitHub issues 提交功能请求"
+      },
+      "content": {
+        "title": "课程内容从哪里来？",
+        "content1": "目前，Earthworm 的课程内容来自开源学习材料"
+      }
+    },
+    "introduce": {
+      "title": "什么是 Earthworm？",
+      "description": "一个开源、协作、用户友好的英语学习工具。",
+      "quickStart": "快速上手",
+      "currentPage": "当前页面",
+      "answerPage": "答题页面",
+      "questionPage": "答案页面",
+      "principle": "学习原理：通过连词造句的方法来练习英语"
+    },
+    "pricing": {
+      "title": "价格",
+      "subtitle": "简单，透明的价格",
+      "subtitle2": "面向所有人",
+      "description": "一次付款，无限使用，终身免费更新。",
+      "customService": "定制你的服务",
+      "free": {
+        "type": "免费",
+        "desc": "我们的基础服务覆盖了很多...",
+        "price": "$0",
+        "badge": "现在开始",
+        "button": "开始使用"
+      },
+      "lifetime": {
+        "type": "终身",
+        "desc": "终身定制服务...",
+        "price": "$19",
+        "badge": "抢先体验",
+        "button": "立即升级"
+      },
+      "refundPolicy": "7天内100%退款",
+      "unlockNotice": "登录并注册你的许可证以解锁所有功能"
+    },
+    "contact": {
+      "telegram": "加入 Telegram 群"
+    }
+  },
+  "home": {
+    "calendar": {
+      "totalLearning": "一共学习",
+      "notStarted": "还没有开始学习",
+      "less": "更少",
+      "more": "更多",
+      "noLearning": "{date} 没有学习",
+      "lessThanMinute": "不足 1 分钟",
+      "minutes": "{minutes} 分钟",
+      "hoursMinutes": "{hours}小时{minutes}分钟",
+      "learningTip": "{date} 学习{tip}"
+    },
+    "recentCourse": {
+      "courseList": "课程列表",
+      "continue": "继续游戏",
+      "noRecord": "暂无记录，",
+      "studyFirst": "先学习一课，",
+      "comeBack": "再来看看吧~"
+    }
+  },
+  "coursePack": {
+    "list": "课程包列表"
+  },
+  "membership": {
+    "badge": "尊贵的创始会员，感谢您对 Earthworm 的大力支持！",
+    "notice": {
+      "title": "【邀请函】加入 Earthworm 创始会员 与我们一起成就更好的英语学习平台",
+      "notInterested": "不感兴趣",
+      "viewDetails": "查看详情"
+    }
+  },
+  "errors": {
+    "loginFailed": "登录失败",
+    "loginFailedDesc": "请清空缓存后重新尝试 报错信息: {error}",
+    "needLogin": "需要登录哦",
+    "waitLoading": "请等待当前排行榜加载完成"
+  },
+  "legal": {
+    "terms": {
+      "title": "用户条款",
+      "accept": {
+        "title": "1. 接受条款",
+        "content1": "用户在使用本服务前，必须仔细阅读并同意本条款。如果用户不同意本条款，不应注册或使用本服务。",
+        "content2": "本条款可能随时更新，更新后的条款一旦发布即生效。用户继续使用本服务将被视为接受更新后的条款。"
+      },
+      "account": {
+        "title": "2. 账户注册与使用",
+        "content1": "用户应提供真实、准确、完整的个人信息，并保持信息的及时更新。",
+        "content2": "用户对其账户下的所有行为负责，应妥善保管账户信息和密码，防止未授权使用。"
+      },
+      "privacy": {
+        "title": "3. 隐私政策",
+        "content1": "本服务尊重用户隐私，承诺不泄露用户的个人信息，除非得到用户的授权或根据法律法规的要求。",
+        "content2": "本服务可能会收集用户信息以提供个性化服务，具体请参考隐私政策。 知识产权"
+      },
+      "intellectual": {
+        "title": "4. 知识产权",
+        "content1": "本服务中的所有内容，包括但不限于文本、图片、音频、视频等，均受知识产权法律的保护。",
+        "content2": "未经许可，用户不得复制、传播、展示或以其他方式使用本服务中的内容。"
+      },
+      "behavior": {
+        "title": "5. 用户行为规范",
+        "content1": "用户应遵守法律法规，不得利用本服务从事违法活动。",
+        "content2": "用户不得上传、发布或传播侵犯他人合法权益的内容。"
+      },
+      "limits": {
+        "title": "6. 服务使用限制",
+        "content1": "本服务可能设置使用限制，包括但不限于使用频率、存储空间等。",
+        "content2": "本服务有权根据需要调整使用限制，并提前通知用户。"
+      },
+      "liability": {
+        "title": "7. 责任限制与免责",
+        "content1": "本服务按现状提供，不承担因使用本服务造成的任何损失。",
+        "content2": "本服务不保证服务的连续性、安全性、准确性或及时性。"
+      },
+      "legal": {
+        "title": "8. 法律适用与争议解决",
+        "content1": "本条款的解释、有效性和执行均适用服务提供方所在地的法律。",
+        "content2": "如发生争议，双方应友好协商解决；协商不成的，任何一方可以向服务提供方所在地的人民法院提起诉讼。"
+      },
+      "termination": {
+        "title": "9. 终止与服务提供方的关系",
+        "content1": "用户可随时终止使用本服务，本服务也可根据条款终止或限制用户的使用。",
+        "content2": "终止后，用户使用本服务的权利立即终止。"
+      }
+    },
+    "privacy": {
+      "title": "隐私政策",
+      "collection": {
+        "title": "1. 个人信息的收集",
+        "content1": "用户注册时，我们将收集用户的个人信息，包括但不限于姓名、电子邮件地址、电话号码等。",
+        "content2": "我们收集这些信息是为了验证用户身份、提供服务以及与用户沟通。"
+      },
+      "use": {
+        "title": "2. 个人信息的使用",
+        "content1": "我们将使用收集到的个人信息来提供用户注册服务，并用于改进我们的服务。",
+        "content2": "我们不会将个人信息出售给第三方，除非得到用户的明确同意。"
+      },
+      "storage": {
+        "title": "3. 个人信息的存储",
+        "content1": "我们将采取合理的安全措施来保护用户个人信息，防止未经授权的访问、使用或披露。",
+        "content2": "个人信息的存储期限将根据法律法规和业务需求进行确定。"
+      },
+      "share": {
+        "title": "4. 个人信息的共享",
+        "content1": "我们不会将用户的个人信息共享给第三方，除非得到用户的明确同意或法律法规的要求。",
+        "content2": "我们可能会与服务提供商共享必要的信息，以提供和改善我们的服务。"
+      },
+      "rights": {
+        "title": "5. 用户的权利",
+        "content1": "用户有权访问、更正或删除其个人信息。",
+        "content2": "用户有权选择是否接受来自我们的营销邮件或其他促销信息。"
+      },
+      "update": {
+        "title": "6. 隐私政策的更新",
+        "content1": "我们可能会随时更新本隐私政策，以反映我们的服务变化或遵守新的法律法规。",
+        "content2": "更新后的隐私政策一旦发布即生效。"
+      },
+      "cookie": {
+        "title": "7. 产品如何使用 Cookie 和其他追踪技术",
+        "content1": "为确保产品正常运转，产品会在您的计算机或移动设备上存储名为 Cookie 的小数据文件。Cookie 通常包含标识符、产品名称以及一些号码和字符。借助于 Cookie，产品能够存储您的偏好或商品等数据，并用以判断注册用户是否已经登录，提升服务和产品质量及优化用户体验。",
+        "content2": "产品出于不同的目的使用各种 Cookie，包括：严格必要型 Cookie、性能 Cookie、营销 Cookie 和功能 Cookie。某些 Cookie 可能由外部第三方提供，以向产品提供其它功能。产品不会将 Cookie 用于本政策所述目的之外的任何用途。您可根据自己的偏好管理或删除 Cookie。",
+        "content3": "您可以清除计算机上或手机中保存的所有 Cookie，大部分网络浏览器都设有阻止或禁用 Cookie 的功能，您可对浏览器进行配置。阻止或禁用 Cookie 功能后，可能影响您使用或不能充分使用产品的产品和服务。"
+      }
+    }
+  }
+}

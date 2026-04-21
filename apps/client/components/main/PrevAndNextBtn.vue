@@ -7,7 +7,7 @@
         @click="goToPreviousQuestion"
       >
         <UTooltip
-          text="上一题"
+          :text="$t('game.navigation.prev')"
           :shortcuts="parseShortcut(shortcutKeys.previous)"
         >
           <UIcon
@@ -25,7 +25,7 @@
         @click="goToNextQuestion"
       >
         <UTooltip
-          text="下一题"
+          :text="$t('game.navigation.next')"
           :shortcuts="parseShortcut(shortcutKeys.skip)"
         >
           <UIcon
@@ -51,13 +51,13 @@ const { goToNextQuestion, goToPreviousQuestion } = usePrevAndNextQuestion(
   shortcutKeys.value.skip,
 );
 
-const PREV_BTN_TIP = `上一题 (${shortcutKeys.value.previous})`;
-const NEXT_BTN_TIP = `下一题 (${shortcutKeys.value.skip})`;
+const PREV_BTN_TIP = `Previous (${shortcutKeys.value.previous})`;
+const NEXT_BTN_TIP = `Next (${shortcutKeys.value.skip})`;
 
 const { showQuestion } = useGameMode();
 const courseStore = useCourseStore();
 
-// 上一题/下一题
+// Previous / next question
 function usePrevAndNextQuestion(prevKey: string, nextKey: string) {
   handleShortcut();
 

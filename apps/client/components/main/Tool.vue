@@ -2,13 +2,13 @@
   <div
     class="relative flex items-center justify-between border-t border-solid border-gray-300 pb-3 pt-4 text-base dark:border-gray-600"
   >
-    <!-- 左侧 -->
+    <!-- Left side -->
     <div class="flex items-center">
       <NuxtLink
         class="clickable-item flex items-center justify-center"
         :href="`/course-pack/${courseStore.currentCourse?.coursePackId}`"
       >
-        <UTooltip text="课程列表">
+        <UTooltip text="Course List">
           <IconsExpand class="h-7 w-7" />
         </UTooltip>
       </NuxtLink>
@@ -16,20 +16,20 @@
         class="clickable-item ml-4"
         @click="openCourseContents"
       >
-        <UTooltip text="课程题目列表">
+        <UTooltip text="Lesson Questions">
           {{ currentCourseInfo }}
         </UTooltip>
       </div>
       <MainStudyVideoLink :video="courseStore.currentCourse?.video" />
     </div>
 
-    <!-- 右侧 -->
+    <!-- Right side -->
     <div class="flex items-center gap-4">
       <div
         @click="openGameSettingModal"
         v-if="isDictationMode()"
       >
-        <UTooltip text="游戏设置">
+        <UTooltip text="Game Settings">
           <UIcon
             name="i-ph-gear"
             class="clickable-item h-6 w-6"
@@ -42,7 +42,7 @@
         @click="pauseGame"
       >
         <UTooltip
-          text="暂停游戏"
+          text="Pause Game"
           :shortcuts="parseShortcut(shortcutKeys.pause)"
         >
           <UIcon
@@ -53,7 +53,7 @@
       </div>
 
       <div @click="handleDoAgain">
-        <UTooltip text="重置当前课程进度">
+        <UTooltip text="Reset Current Lesson Progress">
           <UIcon
             name="i-ph-arrow-counter-clockwise"
             class="clickable-item h-6 w-6"
@@ -61,7 +61,7 @@
         </UTooltip>
       </div>
       <div @click="rankingStore.showRankModal">
-        <UTooltip text="排行榜">
+        <UTooltip text="Leaderboard">
           <UIcon
             name="i-ph-ranking"
             class="clickable-item h-6 w-6"
@@ -110,7 +110,7 @@ const { openGameSettingModal } = useGameSetting();
 const modal = useModal();
 
 const currentCourseInfo = computed(() => {
-  return `${courseStore.currentCourse?.title}（${currentSchedule.value}/${courseStore.visibleStatementsCount}）`;
+  return `${courseStore.currentCourse?.title} (${currentSchedule.value}/${courseStore.visibleStatementsCount})`;
 });
 
 const currentSchedule = computed(() => {
@@ -133,8 +133,8 @@ function useDoAgain() {
 
   function handleDoAgain() {
     modal.open(Dialog, {
-      title: "重置进度",
-      content: "是否确认重置当前课程进度？",
+      title: "Reset Progress",
+      content: "Are you sure you want to reset the current lesson progress?",
       showCancel: true,
       showConfirm: true,
       async onCancel() {
@@ -153,7 +153,7 @@ function useDoAgain() {
     clearQuestionInput();
     showQuestion();
     courseTimer.reset();
-    // dialog 关闭后 自动聚焦 因为关闭有个 200 毫秒的动画 所以需要延迟聚焦 input
+    // After the dialog closes, focus the input again. The close animation lasts 200 ms, so delay the focus.
     setTimeout(() => {
       focusInput();
     }, 300);

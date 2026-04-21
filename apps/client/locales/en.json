@@ -1,0 +1,387 @@
+{
+  "common": {
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "reset": "Reset",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "version": "Version v1.0.0",
+    "determine": "Confirm",
+    "delete": "Delete",
+    "anonymous": "Anonymous"
+  },
+  "nav": {
+    "login": "Login",
+    "docs": "Docs",
+    "features": "Features",
+    "faq": "FAQ",
+    "contact": "Contact Us"
+  },
+  "user": {
+    "menu": {
+      "settings": "Settings",
+      "masteredList": "Mastered List",
+      "editor": "Editor",
+      "helpDocs": "Help Docs",
+      "feedback": "Feedback",
+      "themeToggle": "Theme Toggle",
+      "logout": "Logout"
+    },
+    "logoutDialog": {
+      "title": "Logout",
+      "content": "Are you sure you want to logout?"
+    },
+    "usernameSetup": {
+      "title": "Set Username",
+      "placeholder": "Please enter username",
+      "submit": "Confirm",
+      "errors": {
+        "empty": "Username cannot be empty",
+        "minLength": "Username must be at least {min} characters",
+        "invalid": "Username can only contain letters, numbers, and underscores, and must start with a letter or underscore"
+      }
+    }
+  },
+  "game": {
+    "setting": {
+      "title": "Game Settings",
+      "speed": "Speed",
+      "playTimes": "Play Times",
+      "interval": "Play Interval",
+      "reset": "Reset"
+    },
+    "pause": {
+      "title": "Game Paused",
+      "continue": "Continue Game",
+      "message1": "Don't forget to come back and practice!",
+      "message2": "Take a break, but don't make me wait too long!",
+      "message3": "Come back soon, your English skills are ready!"
+    },
+    "tool": {
+      "courseList": "Course List",
+      "courseContents": "Course Contents",
+      "gameSetting": "Game Settings",
+      "pause": "Pause Game",
+      "resetProgress": "Reset Current Course Progress",
+      "ranking": "Leaderboard"
+    },
+    "mastered": {
+      "button": "Mastered",
+      "tooltip": "Mark content as mastered",
+      "added": "Successfully added to mastered list",
+      "undo": "Undo"
+    },
+    "progress": {
+      "allMastered": "You have mastered all content, auto redirecting to course list",
+      "lastCourse": "This is the last course, auto redirecting to course list"
+    },
+    "tips": {
+      "sound": "Play pronunciation",
+      "answer": "Show/Hide answer preview/Retry",
+      "previous": "Return to previous question",
+      "skip": "Skip current question",
+      "mastered": "Mark content as mastered",
+      "pause": "Pause/Continue game"
+    },
+    "navigation": {
+      "prev": "Previous Question",
+      "next": "Next Question"
+    },
+    "answer": {
+      "retry": "Retry",
+      "nextQuestion": "Next Question"
+    },
+    "summary": {
+      "congrats": "Congratulations!",
+      "completed": "You completed {count} questions in {time}",
+      "todayLearning": "Today you studied {minutes} minutes!",
+      "encouragement": "Amazing! Give yourself some applause",
+      "generateImage": "Generate Check-in Image",
+      "retry": "Retry",
+      "courseList": "Course List",
+      "nextCourse": "Next Course",
+      "dailyQuote": "— Jinshan Ciba 'Daily Quote'",
+      "unlockTitle": "Unlock More Learning Experience",
+      "unlockContent": "Register to continue learning, record daily data, and unlock more features",
+      "later": "Later",
+      "registerNow": "Register Now"
+    },
+    "start": {
+      "ready": "Ready? Click to start",
+      "readyHint": "Ready? (Press any key to start)"
+    },
+    "resetDialog": {
+      "title": "Reset Progress",
+      "content": "Are you sure you want to reset current course progress?"
+    },
+    "card": {
+      "completed": "Congratulations, you completed this course {count} times"
+    }
+  },
+  "settings": {
+    "gameMode": {
+      "title": "Game Mode",
+      "mode": "Mode",
+      "dictation": "Dictation",
+      "chineseToEnglish": "Chinese to English"
+    },
+    "shortcut": {
+      "title": "Shortcut Settings",
+      "function": "Function",
+      "shortcut": "Shortcut",
+      "action": "Action"
+    },
+    "sound": {
+      "title": "Sound Settings",
+      "keyboardSound": "Enable keyboard typing sound",
+      "autoPlaySound": "Auto play sound on answer page",
+      "autoPlayEnglish": "Auto play sound during answering",
+      "pronunciation": "Switch accent",
+      "american": "American",
+      "british": "British"
+    },
+    "answer": {
+      "title": "Answer Settings",
+      "showWordsWidth": "Show each word length",
+      "spaceSubmit": "Enable space to submit answer",
+      "autoNext": "Auto next question after correct answer",
+      "showErrorTip": "Auto show answer (after 3 wrong attempts)"
+    },
+    "dialog": {
+      "prompt": "Press a key/combo, then press Enter to set",
+      "duplicate": "Same key binding already exists, please set a different one"
+    }
+  },
+  "ranking": {
+    "title": "Leaderboard",
+    "myRank": "My Rank:",
+    "loading": "Data is loading...",
+    "switchBlocked": "Please wait for the current leaderboard to finish loading.",
+    "loginPrompt": "Login to compete with others!",
+    "noData": "No one on the leaderboard yet! Come claim the top spot!",
+    "courses": "{count} courses",
+    "goStudy": "Complete a course first!",
+    "period": {
+      "weekly": "Weekly",
+      "monthly": "Monthly",
+      "yearly": "Yearly"
+    }
+  },
+  "landing": {
+    "banner": {
+      "title": "An addictive English learning tool",
+      "description1": "Use {sentence}, {iplus}, {reverse} learning theories to help you acquire English",
+      "description2": "Build muscle memory through constant {repeat}",
+      "description3": "Most importantly, the {gamified} format makes learning English no longer painful",
+      "highlightSentence": "sentence-forming",
+      "highlightIplus": "i + 1",
+      "highlightReverse": "reverse learning",
+      "highlightRepeat": "repetition",
+      "highlightGamified": "gamified",
+      "startButton": "Start Earthworm"
+    },
+    "features": {
+      "title": "Learn more about Earthworm",
+      "description": "Take Earthworm to the next level with these powerful features!",
+      "feedback": {
+        "title": "Real-time feedback and progress tracking",
+        "desc": "Earthworm provides precise and instant feedback, helping learners immediately correct deviations. With efficient progress tracking, every learner can monitor their learning journey and clearly recognize their milestones"
+      },
+      "contextual": {
+        "title": "Contextual language learning",
+        "desc": "Earthworm carefully designs rich contextual learning content, helping users deeply understand word usage in different contexts, effectively improving vocabulary accuracy and adaptability, making language learning closer to real application scenarios"
+      },
+      "expression": {
+        "title": "Improve language expression skills",
+        "desc": "Through systematic sentence construction exercises, this app not only strengthens learners' understanding of vocabulary usage and grammar structures, but also effectively improves oral and written expression fluency and accuracy, making language expression more natural and precise"
+      },
+      "vocabulary": {
+        "title": "Enhance vocabulary retention",
+        "desc": "Earthworm adopts unique word-sentence construction methods, deepening learners' memory and application ability of vocabulary. Through practice reinforcing understanding, significantly improving long-term vocabulary retention"
+      },
+      "collocations": {
+        "title": "Master common collocations and idioms",
+        "desc": "Earthworm integrates rich vocabulary collocations and idiomatic expression learning resources, helping learners accurately master natural language expression ways, making language use more authentic and fluent, enhancing communication naturalness and effectiveness"
+      },
+      "keyboard": {
+        "title": "Keyboard sound effects",
+        "desc": "For professional users pursuing ultimate learning experience, provides diverse keyboard sound settings and pronunciation method choices, aiming to optimize auditory feedback, enhance learning immersion and efficiency, making English learning more efficient and enjoyable"
+      }
+    },
+    "questions": {
+      "title": "FAQ",
+      "description": "If you can't find what you need, join our Telegram group",
+      "description2": "We will reply as soon as possible!",
+      "featureRequest": {
+        "title": "How to propose feature requests to the development team?",
+        "content1": "You can join our official Telegram group and submit your suggestions",
+        "content2": "You can also submit feature requests via GitHub issues"
+      },
+      "content": {
+        "title": "Where does the course content come from?",
+        "content1": "Currently, Earthworm's course content comes from open-source learning materials"
+      }
+    },
+    "introduce": {
+      "title": "What is Earthworm?",
+      "description": "An open-source, collaborative, user-friendly English learning tool.",
+      "quickStart": "Quick Start",
+      "currentPage": "Current Page",
+      "answerPage": "Answer Page",
+      "questionPage": "Question Page",
+      "principle": "Learning principle: Practice English through sentence-forming methods"
+    },
+    "pricing": {
+      "title": "Price",
+      "subtitle": "Simple, transparent pricing",
+      "subtitle2": "For everyone",
+      "description": "One payment, unlimited usage, lifetime free updates.",
+      "customService": "Customize your service",
+      "free": {
+        "type": "Free",
+        "desc": "Our basic service covers a lot...",
+        "price": "$0",
+        "badge": "Start Now",
+        "button": "Get Started"
+      },
+      "lifetime": {
+        "type": "Lifetime",
+        "desc": "Lifetime customized services...",
+        "price": "$19",
+        "badge": "Early Access",
+        "button": "Upgrade Now"
+      },
+      "refundPolicy": "100% refund within 7 days",
+      "unlockNotice": "Login and register your license to unlock all features"
+    },
+    "contact": {
+      "telegram": "Join Telegram Group"
+    }
+  },
+  "home": {
+    "calendar": {
+      "totalLearning": "Total learning",
+      "notStarted": "Not started yet",
+      "less": "Less",
+      "more": "More",
+      "noLearning": "{date} no learning",
+      "lessThanMinute": "Less than 1 minute",
+      "minutes": "{minutes} minutes",
+      "hoursMinutes": "{hours} hours {minutes} minutes",
+      "learningTip": "{date} studied {tip}"
+    },
+    "recentCourse": {
+      "courseList": "Course List",
+      "continue": "Continue",
+      "noRecord": "No records, ",
+      "studyFirst": "complete a course first, ",
+      "comeBack": "then check back!"
+    }
+  },
+  "coursePack": {
+    "list": "Course Pack List"
+  },
+  "membership": {
+    "badge": "Distinguished founding member, thank you for your strong support to Earthworm!",
+    "notice": {
+      "title": "Invitation: Join Earthworm Founding Members and build a better English learning platform together",
+      "notInterested": "Not Interested",
+      "viewDetails": "View Details"
+    }
+  },
+  "errors": {
+    "loginFailed": "Login failed",
+    "loginFailedDesc": "Please clear cache and retry. Error: {error}",
+    "needLogin": "Need to login",
+    "waitLoading": "Please wait for current leaderboard to load"
+  },
+  "legal": {
+    "terms": {
+      "title": "User Terms",
+      "accept": {
+        "title": "1. Accept Terms",
+        "content1": "Users must carefully read and agree to these terms before using this service. If users do not agree to these terms, they should not register or use this service.",
+        "content2": "These terms may be updated at any time. Updated terms become effective once published. Continued use of this service will be considered as acceptance of the updated terms."
+      },
+      "account": {
+        "title": "2. Account Registration and Use",
+        "content1": "Users should provide true, accurate, complete personal information and keep information updated.",
+        "content2": "Users are responsible for all activities under their account and should properly protect account information and passwords to prevent unauthorized use."
+      },
+      "privacy": {
+        "title": "3. Privacy Policy",
+        "content1": "This service respects user privacy and promises not to disclose user personal information unless authorized by the user or required by law.",
+        "content2": "This service may collect user information to provide personalized services. Please refer to the privacy policy for details."
+      },
+      "intellectual": {
+        "title": "4. Intellectual Property",
+        "content1": "All content in this service, including but not limited to text, images, audio, video, etc., is protected by intellectual property laws.",
+        "content2": "Without permission, users may not copy, distribute, display or otherwise use content in this service."
+      },
+      "behavior": {
+        "title": "5. User Behavior Guidelines",
+        "content1": "Users should comply with laws and regulations and may not use this service for illegal activities.",
+        "content2": "Users may not upload, publish or distribute content that infringes on others' legitimate rights and interests."
+      },
+      "limits": {
+        "title": "6. Service Use Limits",
+        "content1": "This service may set usage limits, including but not limited to usage frequency, storage space, etc.",
+        "content2": "This service has the right to adjust usage limits as needed and notify users in advance."
+      },
+      "liability": {
+        "title": "7. Liability Limits and Disclaimer",
+        "content1": "This service is provided as-is and does not assume any losses caused by using this service.",
+        "content2": "This service does not guarantee service continuity, security, accuracy or timeliness."
+      },
+      "legal": {
+        "title": "8. Legal Application and Dispute Resolution",
+        "content1": "The interpretation, validity and execution of these terms are governed by the laws of the service provider's location.",
+        "content2": "In case of dispute, both parties should negotiate in good faith. If negotiation fails, either party may file a lawsuit with the people's court at the service provider's location."
+      },
+      "termination": {
+        "title": "9. Termination of Service Relationship",
+        "content1": "Users may terminate use of this service at any time. This service may also terminate or limit user use according to terms.",
+        "content2": "After termination, user's right to use this service terminates immediately."
+      }
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "collection": {
+        "title": "1. Personal Information Collection",
+        "content1": "When users register, we will collect user personal information, including but not limited to name, email address, phone number, etc.",
+        "content2": "We collect this information to verify user identity, provide services, and communicate with users."
+      },
+      "use": {
+        "title": "2. Personal Information Use",
+        "content1": "We will use collected personal information to provide user registration services and improve our services.",
+        "content2": "We will not sell personal information to third parties unless explicitly consented by the user."
+      },
+      "storage": {
+        "title": "3. Personal Information Storage",
+        "content1": "We will take reasonable security measures to protect user personal information, preventing unauthorized access, use or disclosure.",
+        "content2": "Personal information storage period will be determined according to laws and regulations and business needs."
+      },
+      "share": {
+        "title": "4. Personal Information Sharing",
+        "content1": "We will not share user personal information with third parties unless explicitly consented by the user or required by law.",
+        "content2": "We may share necessary information with service providers to provide and improve our services."
+      },
+      "rights": {
+        "title": "5. User Rights",
+        "content1": "Users have the right to access, correct or delete their personal information.",
+        "content2": "Users have the right to choose whether to receive marketing emails or other promotional information from us."
+      },
+      "update": {
+        "title": "6. Privacy Policy Updates",
+        "content1": "We may update this privacy policy at any time to reflect service changes or comply with new laws and regulations.",
+        "content2": "Updated privacy policy becomes effective once published."
+      },
+      "cookie": {
+        "title": "7. How the Product Uses Cookies and Other Tracking Technologies",
+        "content1": "To ensure normal product operation, the product will store small data files called Cookies on your computer or mobile device. Cookies usually contain identifiers, product names, and some numbers and characters. With Cookies, the product can store your preferences or product data, and determine if registered users have logged in, improving service quality and user experience.",
+        "content2": "The product uses various Cookies for different purposes, including: strictly necessary Cookies, performance Cookies, marketing Cookies, and functional Cookies. Some Cookies may be provided by external third parties to provide other functions to the product. The product will not use Cookies for purposes other than those described in this policy. You can manage or delete Cookies according to your preferences.",
+        "content3": "You can clear all Cookies saved on your computer or phone. Most web browsers have functions to block or disable Cookies, which you can configure. After blocking or disabling Cookies, you may not be able to use or fully use the product's services."
+      }
+    }
+  }
+}

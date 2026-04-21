@@ -49,7 +49,7 @@
         </div>
 
         <div class="flex items-center">
-          <!-- 显示用户信息 -->
+          <!-- Show user information -->
           <div
             v-if="isAuthenticated()"
             class="logged-in flex items-center"
@@ -64,14 +64,14 @@
               />
             </div>
           </div>
-          <!-- 登录/注册 -->
+          <!-- Sign in / sign up -->
           <button
             v-else
             aria-label="Login"
             class="btn btn-sm mr-1 border-none bg-purple-500 text-white shadow-md hover:bg-purple-600 focus:outline-none"
             @click="signIn()"
           >
-            登录
+            {{ $t("nav.login") }}
           </button>
         </div>
       </div>
@@ -81,7 +81,7 @@
 
 <script setup lang="ts">
 import { useWindowScroll } from "@vueuse/core";
-import { useRuntimeConfig } from "nuxt/app";
+import { useI18n, useRuntimeConfig } from "#imports";
 import { computed } from "vue";
 import { useRoute } from "vue-router";
 
@@ -89,6 +89,7 @@ import { useUserMenu } from "~/composables/user/useUserMenu";
 import { isAuthenticated, signIn } from "~/services/auth";
 import { useUserStore } from "~/store/user";
 
+const { t } = useI18n();
 const runtimeConfig = useRuntimeConfig();
 const { openUserMenu } = useUserMenu();
 
@@ -104,13 +105,13 @@ interface AnchorAttributes extends Record<string, any> {
   download?: string;
 }
 const HEADER_OPTIONS: AnchorAttributes[] = [
-  { name: "文档", href: runtimeConfig.public.helpDocsURL as string, target: "_blank" },
-  { name: "功能", href: "#features" },
-  { name: "问题", href: "#faq" },
-  { name: "联系我们", href: "#contact" },
+  { name: t("nav.docs"), href: runtimeConfig.public.helpDocsURL as string, target: "_blank" },
+  { name: t("nav.features"), href: "#features" },
+  { name: t("nav.faq"), href: "#faq" },
+  { name: t("nav.contact"), href: "#contact" },
 ];
 
-// TODO: 设置需要固定导航栏的页面
+// TODO: define which pages should keep the navbar fixed
 const isStickyNavBar = computed(() =>
   ["index", "User-Setting", "mastered-elements"].includes(route.name as string),
 );
