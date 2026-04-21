@@ -4,14 +4,18 @@
     @close="handleClose"
     :ui="{ width: 'w-full sm:max-w-lg' }"
   >
-    <div class="flex h-52 flex-col justify-between p-6 text-gray-900 dark:text-white">
-      <h2 class="mb-8 text-2xl font-bold">Game Paused</h2>
-      <p class="mb-8 max-w-sm text-base text-gray-700 dark:text-gray-300">
-        {{ randomMessage }}
-      </p>
+    <div
+      class="flex min-h-60 flex-col justify-between px-8 py-7 text-gray-900 dark:text-white sm:px-9 sm:py-8"
+    >
+      <div class="space-y-4">
+        <h2 class="text-2xl font-bold">Game Paused</h2>
+        <p class="max-w-md text-base leading-8 text-gray-700 dark:text-gray-300">
+          {{ randomMessage }}
+        </p>
+      </div>
       <div class="flex w-full justify-end">
         <UButton
-          class="px-6"
+          class="px-6 py-2"
           @click="handleClose"
         >
           Continue
