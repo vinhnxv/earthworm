@@ -12,6 +12,31 @@ export const tpl_1 = ({
   totalRecordNumber,
   totalTime,
 }: ShareImageTemplateData) => {
+  const quoteChildren: Array<{
+    type: "div";
+    props: {
+      children: string;
+      tw?: string;
+    };
+  }> = [
+    {
+      type: "div",
+      props: {
+        tw: "mb-2",
+        children: enSentence,
+      },
+    },
+  ];
+
+  if (zhSentence) {
+    quoteChildren.push({
+      type: "div",
+      props: {
+        children: zhSentence,
+      },
+    });
+  }
+
   return {
     type: "div",
     props: {
@@ -47,7 +72,7 @@ export const tpl_1 = ({
                 type: "div",
                 props: {
                   tw: "text-slate-400 text-lg mb-6",
-                  children: `恭喜您一共完成 ${totalRecordNumber} 道题，用时${totalTime}`,
+                  children: `You completed ${totalRecordNumber} questions in ${totalTime}`,
                 },
               },
               {
@@ -57,21 +82,7 @@ export const tpl_1 = ({
                   style: {
                     fontFamily: '"EBGaramond", "SourceHanSerifSCBold" , sans-serif',
                   },
-                  children: [
-                    {
-                      type: "div",
-                      props: {
-                        tw: "mb-2",
-                        children: enSentence,
-                      },
-                    },
-                    {
-                      type: "div",
-                      props: {
-                        children: zhSentence,
-                      },
-                    },
-                  ],
+                  children: quoteChildren,
                 },
               },
 

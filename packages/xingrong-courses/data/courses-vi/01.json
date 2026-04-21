@@ -325,12 +325,12 @@
     "soundmark": "/naʊ/"
   },
   {
-    "vietnamese": "Tôi cần đồ ăn này ngay bây giờ",
+    "vietnamese": "Tôi cần ăn món ăn này ngay bây giờ",
     "english": "I need to eat the food now",
     "soundmark": "/aɪ/ /nid/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
   },
   {
-    "vietnamese": "Tôi không cần món ăn này ngay bây giờ",
+    "vietnamese": "Tôi không cần ăn món ăn này ngay bây giờ",
     "english": "I don't need to eat the food now",
     "soundmark": "/aɪ/ /dont/ /nid/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
   },
@@ -530,7 +530,7 @@
     "soundmark": "/tə/ /no/ /ju/"
   },
   {
-    "vietnamese": "Tôi muốn gặp bạn",
+    "vietnamese": "Tôi muốn làm quen với bạn",
     "english": "I want to know you",
     "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ju/"
   },
@@ -555,7 +555,7 @@
     "soundmark": "/tə/ /si/ /ju/"
   },
   {
-    "vietnamese": "Anh phải gặp em",
+    "vietnamese": "Tôi phải gặp bạn",
     "english": "I have to see you",
     "soundmark": "/aɪ/ /hæv/ /tə/ /si/ /ju/"
   },
@@ -565,7 +565,7 @@
     "soundmark": "/tə'naɪt/"
   },
   {
-    "vietnamese": "Anh phải gặp em tối nay",
+    "vietnamese": "Tôi phải gặp bạn tối nay",
     "english": "I have to see you tonight",
     "soundmark": "/aɪ/ /hæv/ /tə/ /si/ /ju/ /tə'naɪt/"
   },
@@ -605,7 +605,7 @@
     "soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
   },
   {
-    "vietnamese": "Tôi cần nói với anh điều này",
+    "vietnamese": "Tôi cần nói với bạn điều gì đó",
     "english": "I need to tell you something",
     "soundmark": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/"
   },
@@ -620,7 +620,7 @@
     "soundmark": "/ɪt/"
   },
   {
-    "vietnamese": "Điều này rất quan trọng",
+    "vietnamese": "Điều này quan trọng",
     "english": "It is important",
     "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
   },
@@ -645,7 +645,7 @@
     "soundmark": "/fɝ/ /mi/"
   },
   {
-    "vietnamese": "Điều đó rất quan trọng đối với tôi",
+    "vietnamese": "Điều đó quan trọng đối với tôi",
     "english": "It is important for me",
     "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
   },
@@ -725,7 +725,7 @@
     "soundmark": "/ɡʊd/"
   },
   {
-    "vietnamese": "Rất tốt",
+    "vietnamese": "Điều đó tốt",
     "english": "It is good",
     "soundmark": "/ɪt/ /ɪz/ /ɡʊd/"
   },
@@ -825,7 +825,7 @@
     "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /'pɑsəbl/"
   },
   {
-    "vietnamese": "Điều này rất quan trọng",
+    "vietnamese": "Điều này quan trọng",
     "english": "It is important",
     "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
   },
@@ -840,7 +840,7 @@
     "soundmark": "/fɝ/ /mi/"
   },
   {
-    "vietnamese": "Điều đó rất quan trọng đối với tôi",
+    "vietnamese": "Điều đó quan trọng đối với tôi",
     "english": "It is important for me",
     "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
   },
@@ -975,7 +975,7 @@
     "soundmark": "/ɪt/ /ɪz/ /ɡʊd/ /tə/ /bi/ /hɪr/"
   },
   {
-    "vietnamese": "Điều đó rất quan trọng đối với tôi",
+    "vietnamese": "Điều đó quan trọng đối với tôi",
     "english": "It is important for me",
     "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
   },
@@ -985,7 +985,7 @@
     "soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /du/ /ɪt/ /naʊ/"
   },
   {
-    "vietnamese": "thích trải nghiệm",
+    "vietnamese": "thích làm",
     "english": "like to do",
     "soundmark": "/laɪk/ /tə/ /du/"
   },

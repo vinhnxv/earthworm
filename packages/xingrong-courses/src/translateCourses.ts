@@ -17,7 +17,8 @@ type TargetStatement = {
 const sourceDir = path.resolve(__dirname, "../data/courses");
 const targetDir = path.resolve(__dirname, "../data/courses-vi");
 const cacheDir = path.resolve(__dirname, "../data/translation-cache");
-const cachePath = path.resolve(cacheDir, "zh-vi.json");
+const chineseCachePath = path.resolve(cacheDir, "zh-vi.json");
+const englishCachePath = path.resolve(cacheDir, "en-vi.json");
 const concurrency = Number.parseInt(process.env.TRANSLATE_CONCURRENCY ?? "4", 10);
 const retryCount = Number.parseInt(process.env.TRANSLATE_RETRY_COUNT ?? "3", 10);
 const retryDelayMs = Number.parseInt(process.env.TRANSLATE_RETRY_DELAY_MS ?? "750", 10);
@@ -263,6 +264,10 @@ const overrides: Record<string, string> = {
   "for him": "cho anh ấy",
   "for her": "cho cô ấy",
   "for them": "cho họ",
+  advice: "lời khuyên",
+  "some advice": "một số lời khuyên",
+  "to give some advice": "đưa ra một số lời khuyên",
+  "some advice about this problem": "một số lời khuyên về vấn đề này",
   "to travel": "du lịch",
   "the world": "thế giới",
   year: "năm",
@@ -288,7 +293,8 @@ const overrides: Record<string, string> = {
 (async function main() {
   ensureTargetDir();
 
-  const cache = loadCache();
+  const chineseCache = loadCache(chineseCachePath);
+  const englishCache = loadCache(englishCachePath);
   const fileNames = getCourseFileNames();
   const sourceCourses = fileNames.map((fileName) => {
     const filePath = path.resolve(sourceDir, fileName);
@@ -321,21 +327,22 @@ const overrides: Record<string, string> = {
   }
 
   for (const [chinese, english] of phraseMeta.entries()) {
-    if (!cache[chinese] && overrides[english]) {
-      cache[chinese] = overrides[english];
+    const fallbackTranslation = overrides[english] ?? englishCache[english];
+    if (!chineseCache[chinese] && fallbackTranslation) {
+      chineseCache[chinese] = fallbackTranslation;
     }
   }
 
   const chinesePhrases = [...phraseMeta.keys()];
-  const missingPhrases = chinesePhrases.filter((phrase) => !cache[phrase]);
+  const missingPhrases = chinesePhrases.filter((phrase) => !chineseCache[phrase]);
   const phrasesToTranslate = limit > 0 ? missingPhrases.slice(0, limit) : missingPhrases;
 
   console.log(
     `Found ${chinesePhrases.length} unique Chinese phrases, ${missingPhrases.length} missing, translating ${phrasesToTranslate.length}.`,
   );
 
-  await translateMissingPhrases(phrasesToTranslate, cache);
-  persistCache(cache);
+  await translateMissingPhrases(phrasesToTranslate, chineseCache, chineseCachePath);
+  persistCache(chineseCachePath, chineseCache);
 
   for (const [index, course] of targetCourses.entries()) {
     const sourceStatements = sourceCourses[index]?.statements ?? [];
@@ -345,11 +352,14 @@ const overrides: Record<string, string> = {
       return {
         ...statement,
         vietnamese: sourceStatement
-          ? formatTranslation(
-              sourceStatement.english,
-              cache[sourceStatement.chinese] ?? statement.vietnamese,
+          ? resolveVietnameseTranslation(
+              sourceStatement,
+              statement.vietnamese,
+              chineseCache,
+              englishCache,
             )
           : statement.vietnamese,
+        soundmark: sanitizeSoundmarkForVietnamese(statement.soundmark),
       };
     });
 
@@ -372,20 +382,24 @@ function getCourseFileNames() {
     .sort((left, right) => left.localeCompare(right));
 }
 
-function loadCache(): Record<string, string> {
-  if (!fs.existsSync(cachePath)) {
+function loadCache(targetPath: string): Record<string, string> {
+  if (!fs.existsSync(targetPath)) {
     return {};
   }
 
-  return JSON.parse(fs.readFileSync(cachePath, "utf8")) as Record<string, string>;
+  return JSON.parse(fs.readFileSync(targetPath, "utf8")) as Record<string, string>;
 }
 
-function persistCache(cache: Record<string, string>) {
+function persistCache(targetPath: string, cache: Record<string, string>) {
   fs.mkdirSync(cacheDir, { recursive: true });
-  fs.writeFileSync(cachePath, `${JSON.stringify(cache, null, 2)}\n`);
+  fs.writeFileSync(targetPath, `${JSON.stringify(cache, null, 2)}\n`);
 }
 
-async function translateMissingPhrases(phrases: string[], cache: Record<string, string>) {
+async function translateMissingPhrases(
+  phrases: string[],
+  cache: Record<string, string>,
+  targetPath: string,
+) {
   if (phrases.length === 0) {
     return;
   }
@@ -400,7 +414,7 @@ async function translateMissingPhrases(phrases: string[], cache: Record<string, 
       cache[phrase] = translatedPhrase;
 
       if ((currentIndex + 1) % 25 === 0 || currentIndex === phrases.length - 1) {
-        persistCache(cache);
+        persistCache(targetPath, cache);
       }
 
       console.log(`[${currentIndex + 1}/${phrases.length}] ${phrase} -> ${translatedPhrase}`);
@@ -504,6 +518,30 @@ function formatTranslation(english: string, translatedText: string) {
   return shouldCapitalize ? capitalizeFirstLetter(trimmed) : lowercaseFirstLetter(trimmed);
 }
 
+function resolveVietnameseTranslation(
+  statement: SourceStatement,
+  currentTranslation: string,
+  chineseCache: Record<string, string>,
+  englishCache: Record<string, string>,
+) {
+  const chineseTranslation = chineseCache[statement.chinese];
+  const englishTranslation = englishCache[statement.english];
+  const primaryTranslation = formatTranslation(
+    statement.english,
+    chineseTranslation ?? englishTranslation ?? currentTranslation,
+  );
+
+  if (!hasHanCharacters(primaryTranslation) && primaryTranslation.length > 0) {
+    return primaryTranslation;
+  }
+
+  if (!englishTranslation) {
+    return primaryTranslation;
+  }
+
+  return formatTranslation(statement.english, englishTranslation);
+}
+
 function cleanupRawTranslation(text: string) {
   return text
     .replace(/<x id="[^"]+"\/?>/g, " ")
@@ -528,4 +566,22 @@ function capitalizeFirstLetter(text: string) {
 
 function lowercaseFirstLetter(text: string) {
   return text.charAt(0).toLowerCase() + text.slice(1);
+}
+
+function hasHanCharacters(text: string) {
+  return /\p{Script=Han}/u.test(text);
+}
+
+function sanitizeSoundmarkForVietnamese(soundmark: string) {
+  return soundmark
+    .replace(/\(过去\)/g, "(quá khứ)")
+    .replace(/be\(ed形式\)/g, "be(dạng ed)")
+    .replace(/收到那个邀请/g, "nhận được lời mời đó")
+    .replace(/收到/g, "nhận được")
+    .replace(/打电话/g, "gọi điện")
+    .replace(/决定/g, "quyết định")
+    .replace(/到达/g, "đến")
+    .replace(/达到/g, "đến")
+    .replace(/拿到/g, "lấy được")
+    .replace(/去/g, "đi");
 }

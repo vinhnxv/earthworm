@@ -91,11 +91,12 @@ export function useGenerateShareImage() {
     dateStr: string,
     totalRecordNumber: number,
     totalTime: string,
+    includeTranslation = false,
   ) => {
     return imageTemplates[templateKey]({
       coursePackTitle,
       courseTitle,
-      zhSentence: zhSentence.value,
+      zhSentence: includeTranslation ? zhSentence.value : "",
       enSentence: enSentence.value,
       userName,
       dateStr,
@@ -111,6 +112,7 @@ export function useGenerateShareImage() {
     dateStr: string,
     totalRecordNumber: number,
     totalTime: string,
+    includeTranslation = false,
   ) => {
     Object.values(ShareImageTemplate).forEach(async (template, index) => {
       generateImage(
@@ -122,6 +124,7 @@ export function useGenerateShareImage() {
         dateStr,
         totalRecordNumber,
         totalTime,
+        includeTranslation,
       );
     });
   };
@@ -135,6 +138,7 @@ export function useGenerateShareImage() {
     dateStr: string,
     totalRecordNumber: number,
     totalTime: string,
+    includeTranslation = false,
   ) => {
     const canvasEl = initCanvas();
     galleryImgs.value[index] = {
@@ -150,6 +154,7 @@ export function useGenerateShareImage() {
         dateStr,
         totalRecordNumber,
         totalTime,
+        includeTranslation,
       ),
       await generateConfig(),
     ).catch((e) => {

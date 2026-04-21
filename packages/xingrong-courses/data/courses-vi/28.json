@@ -60,17 +60,17 @@
     "soundmark": "/tə/ /hold/"
   },
   {
-    "vietnamese": "chì (dạng ing)",
+    "vietnamese": "cầm (dạng ing)",
     "english": "holding",
     "soundmark": "/'holdɪŋ/"
   },
   {
-    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "vietnamese": "là",
     "english": "be",
     "soundmark": "/bi/"
   },
   {
-    "vietnamese": "đang nắm giữ",
+    "vietnamese": "đang cầm",
     "english": "be holding",
     "soundmark": "/bi/ /'holdɪŋ/"
   },
@@ -80,7 +80,7 @@
     "soundmark": "/aɪ/"
   },
   {
-    "vietnamese": "Tôi (bây giờ) đang nắm giữ",
+    "vietnamese": "Tôi (bây giờ) đang cầm",
     "english": "I am holding",
     "soundmark": "/aɪ/ /æm/ /'holdɪŋ/"
   },
@@ -105,7 +105,7 @@
     "soundmark": "/naɪf/"
   },
   {
-    "vietnamese": "Tôi (bây giờ) đang nắm giữ",
+    "vietnamese": "Tôi (bây giờ) đang cầm",
     "english": "I am holding",
     "soundmark": "/aɪ/ /æm/ /'holdɪŋ/"
   },
@@ -120,7 +120,7 @@
     "soundmark": "/maɪ/ /hænd/"
   },
   {
-    "vietnamese": "tRONG",
+    "vietnamese": "trong",
     "english": "in",
     "soundmark": "/ɪn/"
   },
@@ -165,7 +165,7 @@
     "soundmark": "/fɔrk/"
   },
   {
-    "vietnamese": "Tôi (bây giờ) đang nắm giữ",
+    "vietnamese": "Tôi (bây giờ) đang cầm",
     "english": "I am holding",
     "soundmark": "/aɪ/ /æm/ /'holdɪŋ/"
   },
@@ -225,7 +225,7 @@
     "soundmark": "/ðɪs/ /kɑr/"
   },
   {
-    "vietnamese": "giữ; giữ",
+    "vietnamese": "giữ",
     "english": "to hold",
     "soundmark": "/tə/ /hold/"
   },
@@ -270,7 +270,7 @@
     "soundmark": "/tɛn/ /'pipl/"
   },
   {
-    "vietnamese": "giữ; giữ",
+    "vietnamese": "giữ",
     "english": "to hold",
     "soundmark": "/tə/ /hold/"
   },
@@ -405,7 +405,7 @@
     "soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
   },
   {
-    "vietnamese": "qUYẾT ĐỊNH",
+    "vietnamese": "quyết định",
     "english": "to decide",
     "soundmark": "/tə/ /dɪ'saɪd/"
   },
@@ -425,7 +425,7 @@
     "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
   },
   {
-    "vietnamese": "tRONG",
+    "vietnamese": "trong",
     "english": "in",
     "soundmark": "/ɪn/"
   },
@@ -565,7 +565,7 @@
     "soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
   },
   {
-    "vietnamese": "tRONG",
+    "vietnamese": "trong",
     "english": "in",
     "soundmark": "/ɪn/"
   },
@@ -625,7 +625,7 @@
     "soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
   },
   {
-    "vietnamese": "qUYẾT ĐỊNH",
+    "vietnamese": "quyết định",
     "english": "to decide",
     "soundmark": "/tə/ /dɪ'saɪd/"
   },
@@ -655,12 +655,12 @@
     "soundmark": "/tə/ /fes/"
   },
   {
-    "vietnamese": "khuôn mặt (dạng ing)",
+    "vietnamese": "đối mặt (dạng ing)",
     "english": "facing",
     "soundmark": "/'fesɪŋ/"
   },
   {
-    "vietnamese": "đúng; bài tập (nguyên mẫu)",
+    "vietnamese": "là",
     "english": "be",
     "soundmark": "/bi/"
   },

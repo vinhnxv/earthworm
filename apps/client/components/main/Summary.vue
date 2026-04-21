@@ -32,7 +32,10 @@
           <span class="invisible text-3xl font-bold sm:text-4xl lg:text-6xl">"</span>
         </div>
 
-        <div class="flex">
+        <div
+          v-if="showTranslatedSentence"
+          class="flex"
+        >
           <span class="invisible text-3xl font-bold sm:text-4xl lg:text-6xl">"</span>
           <div class="flex-1 text-center text-sm leading-loose sm:text-base lg:text-xl">
             {{ zhSentence }}
@@ -119,7 +122,7 @@ import { permitSaveStatement, preventSaveStatement } from "~/store/statement";
 import { formatSecondsToTime } from "~/utils/date";
 import { cancelShortcut, registerShortcut } from "~/utils/keyboardShortcuts";
 
-const { t } = useI18n();
+const { t, locale } = useI18n();
 
 const courseStore = useCourseStore();
 const coursePackStore = useCoursePackStore();
@@ -133,6 +136,9 @@ const { confettiCanvasRef, playConfetti } = useConfetti();
 const { showShareModal } = useShareModal();
 const { updateActiveCourseMap } = useActiveCourseMap();
 const { totalMinutes, formattedMinutes } = useTotalLearningTime();
+const showTranslatedSentence = computed(
+  () => locale.value === "zh-CN" && Boolean(zhSentence.value),
+);
 
 const gameStore = useGameStore();
 const modal = useModal();

@@ -35,7 +35,7 @@
     "soundmark": "/wi/ /ʃʊd/"
   },
   {
-    "vietnamese": "thử nghiệm",
+    "vietnamese": "cố gắng",
     "english": "to try",
     "soundmark": "/tə/ /traɪ/"
   },
@@ -90,7 +90,7 @@
     "soundmark": "/tə/ /ˈmænɪdʒ/"
   },
   {
-    "vietnamese": "Tôi sẽ cố gắng giải quyết vấn đề này",
+    "vietnamese": "Tôi sẽ xoay xở để giải quyết vấn đề này",
     "english": "I will manage to solve this problem",
     "soundmark": "/aɪ/ /wɪl/ /ˈmænɪdʒ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
   },
@@ -175,17 +175,17 @@
     "soundmark": "/dont/"
   },
   {
-    "vietnamese": "bạn đã không làm điều này",
+    "vietnamese": "bạn không làm điều này",
     "english": "you don't do it",
     "soundmark": "/ju/ /dont/ /du/ /ɪt/"
   },
   {
-    "vietnamese": "bạn đã làm cái này chưa",
+    "vietnamese": "bạn quả thực làm điều này",
     "english": "you do do it",
     "soundmark": "/ju/ /du/ /du/ /ɪt/"
   },
   {
-    "vietnamese": "bạn đã không làm điều này",
+    "vietnamese": "bạn không làm điều này",
     "english": "you don't do it",
     "soundmark": "/ju/ /dont/ /du/ /ɪt/"
   },
@@ -340,7 +340,7 @@
     "soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/"
   },
   {
-    "vietnamese": "thời gian 时间",
+    "vietnamese": "thời gian",
     "english": "time",
     "soundmark": "/taɪm/"
   },
@@ -355,7 +355,7 @@
     "soundmark": "/ə/ /ʃɔrt/ /taɪm/"
   },
   {
-    "vietnamese": "tRONG",
+    "vietnamese": "trong",
     "english": "in",
     "soundmark": "/ɪn/"
   },
@@ -535,7 +535,7 @@
     "soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
   },
   {
-    "vietnamese": "tHĂNG BẰNG",
+    "vietnamese": "sự cân bằng",
     "english": "the balance",
     "soundmark": "/ðə/ /'bæləns/"
   },

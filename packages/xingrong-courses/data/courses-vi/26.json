@@ -1,6 +1,6 @@
 [
   {
-    "vietnamese": "nghe; nghe",
+    "vietnamese": "nghe",
     "english": "to hear",
     "soundmark": "/tə/ /hɪr/"
   },
@@ -90,7 +90,7 @@
     "soundmark": "/ju/ /dont/ /hɪr/ /mi/"
   },
   {
-    "vietnamese": "bạn có nghe tôi nói không",
+    "vietnamese": "bạn quả thực nghe tôi",
     "english": "you do hear me",
     "soundmark": "/ju/ /du/ /hɪr/ /mi/"
   },
@@ -165,7 +165,7 @@
     "soundmark": "/ju/ /dont/ /du/ /ɪt/"
   },
   {
-    "vietnamese": "bạn đã làm cái này chưa",
+    "vietnamese": "bạn quả thực làm điều này",
     "english": "you do do it",
     "soundmark": "/ju/ /du/ /du/ /ɪt/"
   },
@@ -390,7 +390,7 @@
     "soundmark": "/tə/ /du/ /ɪt/"
   },
   {
-    "vietnamese": "qUYẾT ĐỊNH",
+    "vietnamese": "quyết định",
     "english": "to decide",
     "soundmark": "/tə/ /dɪ'saɪd/"
   },
@@ -420,7 +420,7 @@
     "soundmark": "/mi/"
   },
   {
-    "vietnamese": "lại cho tôi",
+    "vietnamese": "bỏ tôi lại",
     "english": "to leave me",
     "soundmark": "/tə/ /liv/ /mi/"
   },
@@ -485,7 +485,7 @@
     "soundmark": "/wɛn/ /dɪd/ /ju/ /ɡɛt/ /hɪr/"
   },
   {
-    "vietnamese": "nhìn thấy",
+    "vietnamese": "gặp",
     "english": "to meet",
     "soundmark": "/tə/ /mit/"
   },
@@ -560,7 +560,7 @@
     "soundmark": "/tə/ /faɪnd/"
   },
   {
-    "vietnamese": "họ / họ / họ",
+    "vietnamese": "họ",
     "english": "them",
     "soundmark": "/ðəm/"
   },
@@ -620,7 +620,7 @@
     "soundmark": "/wɛr/ /dɪd/ /ju/ /slip/"
   },
   {
-    "vietnamese": "lùi",
+    "vietnamese": "vừa qua",
     "english": "last",
     "soundmark": "/læst/"
   },

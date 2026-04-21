@@ -1,7 +1,12 @@
 import dayjs from "dayjs";
 import { ref } from "vue";
 
-const labelSets = {
+interface LabelSet {
+  weeks: Record<number, string>;
+  months: Record<number, string>;
+}
+
+const labelSets: Record<"en" | "zh-CN", LabelSet> = {
   en: {
     weeks: {
       0: "Sun",
@@ -87,7 +92,7 @@ const yearOptions = ref<Options[]>([]);
 const thead = ref<TableHead[]>([]);
 const tbody = ref<(null | TableBody)[][]>([]);
 
-function getLabelSet(locale = "en") {
+function getLabelSet(locale = "en"): LabelSet {
   return locale === "zh-CN" ? labelSets["zh-CN"] : labelSets.en;
 }
 

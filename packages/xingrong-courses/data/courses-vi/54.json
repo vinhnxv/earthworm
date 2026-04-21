@@ -30,7 +30,7 @@
     "soundmark": "/aɪ/ /ped/ /ðə/ /bɪl/"
   },
   {
-    "vietnamese": "thời gian 时间",
+    "vietnamese": "thời gian",
     "english": "time",
     "soundmark": "/taɪm/"
   },
@@ -105,7 +105,7 @@
     "soundmark": "/hæd/ /bɪn/ /ped/"
   },
   {
-    "vietnamese": "hóa đơn đã (đã) được thanh toán đúng hạn",
+    "vietnamese": "hóa đơn (đã) được thanh toán đúng hạn",
     "english": "the bill had been paid on time",
     "soundmark": "/ðə/ /bɪl/ /hæd/ /bɪn/ /ped/ /ɑn/ /taɪm/"
   },
@@ -120,7 +120,7 @@
     "soundmark": "/ði/ /ɪnvɪ'teʃən/"
   },
   {
-    "vietnamese": "tiếp quản",
+    "vietnamese": "chấp nhận",
     "english": "to accept",
     "soundmark": "/tə/ /ək'sɛpt/"
   },
@@ -145,12 +145,12 @@
     "soundmark": "/ɡɛst/"
   },
   {
-    "vietnamese": "vượt qua",
+    "vietnamese": "bởi",
     "english": "by",
     "soundmark": "/baɪ/"
   },
   {
-    "vietnamese": "qua vị khách đó",
+    "vietnamese": "bởi vị khách đó",
     "english": "by the guest",
     "soundmark": "/baɪ/ /ðə/ /ɡɛst/"
   },
@@ -200,17 +200,17 @@
     "soundmark": "/ði/ /ɪnvɪ'teʃən/ /hæd/ /bɪn/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/"
   },
   {
-    "vietnamese": "vấn đề",
+    "vietnamese": "gửi",
     "english": "to send",
     "soundmark": "/tə/ /sɛnd/"
   },
   {
-    "vietnamese": "vấn đề (dạng biên tập)",
+    "vietnamese": "gửi (dạng ed)",
     "english": "sent",
     "soundmark": "/sɛnt/"
   },
   {
-    "vietnamese": "được ban hành",
+    "vietnamese": "được gửi",
     "english": "be sent",
     "soundmark": "/bi/ /sɛnt/"
   },
@@ -225,12 +225,12 @@
     "soundmark": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /sɛnt/"
   },
   {
-    "vietnamese": "nhà tài trợ",
+    "vietnamese": "người tổ chức",
     "english": "host",
     "soundmark": "/host/"
   },
   {
-    "vietnamese": "bởi nhà tài trợ",
+    "vietnamese": "bởi người tổ chức",
     "english": "by the host",
     "soundmark": "/baɪ/ /ðə/ /host/"
   },
@@ -240,7 +240,7 @@
     "soundmark": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /sɛnt/ /baɪ/ /ðə/ /host/"
   },
   {
-    "vietnamese": "(quá khứ) được ban hành",
+    "vietnamese": "(quá khứ) được gửi",
     "english": "was sent",
     "soundmark": "/wəz/ /sɛnt/"
   },
@@ -250,7 +250,7 @@
     "soundmark": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /sɛnt/ /baɪ/ /ðə/ /host/"
   },
   {
-    "vietnamese": "sẽ được ban hành",
+    "vietnamese": "sẽ được gửi",
     "english": "will be sent",
     "soundmark": "/wɪl/ /bi/ /sɛnt/"
   },
@@ -270,7 +270,7 @@
     "soundmark": "/ði/ /ɪnvɪ'teʃən/ /wɪl/ /bi/ /sɛnt/ /baɪ/ /ðə/ /host/ /nɛkst/ /wik/"
   },
   {
-    "vietnamese": "(đã được) ban hành",
+    "vietnamese": "(đã được) gửi",
     "english": "has been sent",
     "soundmark": "/hæz/ /bɪn/ /sɛnt/"
   },
@@ -280,7 +280,7 @@
     "soundmark": "/ði/ /ɪnvɪ'teʃən/ /hæz/ /bɪn/ /sɛnt/ /baɪ/ /ðə/ /host/"
   },
   {
-    "vietnamese": "(đã được) ban hành trong quá khứ",
+    "vietnamese": "(đã được) gửi trong quá khứ",
     "english": "had been sent",
     "soundmark": "/hæd/ /bɪn/ /sɛnt/"
   },
@@ -320,12 +320,12 @@
     "soundmark": "/ˈkʌmpəni/"
   },
   {
-    "vietnamese": "vượt qua",
+    "vietnamese": "bởi",
     "english": "by",
     "soundmark": "/baɪ/"
   },
   {
-    "vietnamese": "thông qua công ty đó",
+    "vietnamese": "bởi công ty đó",
     "english": "by the company",
     "soundmark": "/baɪ/ /ðə/ /ˈkʌmpəni/"
   },
@@ -365,7 +365,7 @@
     "soundmark": "/ðə/ /bʊk/ /hæd/ /bɪn/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/"
   },
   {
-    "vietnamese": "chịu đựng",
+    "vietnamese": "xây dựng",
     "english": "to construct",
     "soundmark": "/tə/ /kənˈstrʌkt/"
   },
@@ -380,12 +380,12 @@
     "soundmark": "/bi/ /kənˈstrʌktɪd/"
   },
   {
-    "vietnamese": "ngành kiến ​​​​trúc",
+    "vietnamese": "xây dựng",
     "english": "to build",
     "soundmark": "/tə/ /bɪld/"
   },
   {
-    "vietnamese": "ngành kiến ​​​​trúc",
+    "vietnamese": "tòa nhà",
     "english": "building",
     "soundmark": "/'bɪldɪŋ/"
   },
@@ -400,7 +400,7 @@
     "soundmark": "/ðə/ /'bɪldɪŋ/ /ɪz/ /kənˈstrʌktɪd/"
   },
   {
-    "vietnamese": "vượt qua",
+    "vietnamese": "bởi",
     "english": "by",
     "soundmark": "/baɪ/"
   },
@@ -410,17 +410,17 @@
     "soundmark": "/ˈkʌmpəni/"
   },
   {
-    "vietnamese": "thông qua công ty đó",
+    "vietnamese": "bởi công ty đó",
     "english": "by the company",
     "soundmark": "/baɪ/ /ðə/ /ˈkʌmpəni/"
   },
   {
-    "vietnamese": "chịu đựng",
+    "vietnamese": "xây dựng",
     "english": "to construct",
     "soundmark": "/tə/ /kənˈstrʌkt/"
   },
   {
-    "vietnamese": "chịu đựng",
+    "vietnamese": "xây dựng",
     "english": "construction",
     "soundmark": "/kənˈstrʌkʃn/"
   },
@@ -430,7 +430,7 @@
     "soundmark": "/kənˈstrʌkʃn/ /ˈkʌmpəni/"
   },
   {
-    "vietnamese": "thông qua công ty xây dựng đó",
+    "vietnamese": "bởi công ty xây dựng đó",
     "english": "by the construction company",
     "soundmark": "/baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/"
   },
@@ -515,7 +515,7 @@
     "soundmark": "/ˈmɪljənz/ /əv/ /'pipl/"
   },
   {
-    "vietnamese": "vượt qua",
+    "vietnamese": "bởi",
     "english": "by",
     "soundmark": "/baɪ/"
   },
@@ -580,7 +580,7 @@
     "soundmark": "/ðə/ /kɑr/"
   },
   {
-    "vietnamese": "chiếc xe (trong quá khứ) đã được phục hồi",
+    "vietnamese": "chiếc xe (trong quá khứ) đã được sửa chữa",
     "english": "the car was repaired",
     "soundmark": "/ðə/ /kɑr/ /wəz/ /rɪ'pɛrd/"
   },
@@ -590,7 +590,7 @@
     "soundmark": "/məˈkænɪk/"
   },
   {
-    "vietnamese": "thông qua người thợ máy đó",
+    "vietnamese": "bởi người thợ máy đó",
     "english": "by the mechanic",
     "soundmark": "/baɪ/ /ðə/ /məˈkænɪk/"
   },
@@ -630,12 +630,12 @@
     "soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/"
   },
   {
-    "vietnamese": "qUYẾT ĐỊNH",
+    "vietnamese": "quyết định",
     "english": "to decide",
     "soundmark": "/tə/ /dɪ'saɪd/"
   },
   {
-    "vietnamese": "qUYẾT ĐỊNH",
+    "vietnamese": "quyết định",
     "english": "decision",
     "soundmark": "/dɪ'sɪʒn/"
   },

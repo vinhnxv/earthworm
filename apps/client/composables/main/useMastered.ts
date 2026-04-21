@@ -1,3 +1,4 @@
+import { useNuxtApp } from "#imports";
 import { ref } from "vue";
 import { toast } from "vue-sonner";
 
@@ -13,6 +14,7 @@ const undoShortcut = isWindows() ? "ctrl+z" : "command+z";
 
 export function useMastered() {
   let toastId: string | number | undefined;
+  const { $i18n } = useNuxtApp();
   const courseStore = useCourseStore();
   const masteredElements = useMasteredElementsStore();
   const { showQuestion } = useGameMode();
@@ -21,7 +23,7 @@ export function useMastered() {
   const addLoading = ref(false);
   async function markStatementAsMastered() {
     if (!isAuthenticated()) {
-      toast.warning("需要登录哦");
+      toast.warning($i18n.t("errors.needLogin"));
       return;
     }
 
@@ -66,9 +68,9 @@ export function useMastered() {
       cancelShortcut(undoShortcut);
       registerShortcut(undoShortcut, handleUndo);
 
-      toastId = toast("成功添加到掌握列表中", {
+      toastId = toast($i18n.t("game.mastered.added"), {
         action: {
-          label: "撤销",
+          label: $i18n.t("game.mastered.undo"),
           onClick: () => handleUndo(new KeyboardEvent("keydown")),
         },
         onAutoClose() {

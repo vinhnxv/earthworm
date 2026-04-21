@@ -50,7 +50,7 @@
     "soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/"
   },
   {
-    "vietnamese": "người đàn ông thông minh nhất mà tôi từng biết",
+    "vietnamese": "người thông minh nhất mà tôi từng biết",
     "english": "the smartest person I have ever known",
     "soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
   },
@@ -90,7 +90,7 @@
     "soundmark": "/ˈdendʒərəs/ /'ænɪml/"
   },
   {
-    "vietnamese": "hầu hết",
+    "vietnamese": "nhất",
     "english": "the most",
     "soundmark": "/ðə/ /most/"
   },
@@ -135,7 +135,7 @@
     "soundmark": "/ʃi/ /hæz/ /'ɛvɚ/"
   },
   {
-    "vietnamese": "建议",
+    "vietnamese": "lời khuyên",
     "english": "advice",
     "soundmark": "/əd'vaɪs/"
   },
@@ -215,7 +215,7 @@
     "soundmark": "/ʃi/ /hæz/ /'ɛvɚ/"
   },
   {
-    "vietnamese": "Xinrong một lần",
+    "vietnamese": "Xingrong từng",
     "english": "Xingrong has ever",
     "soundmark": "/hæz/ /'ɛvɚ/"
   },
@@ -230,7 +230,7 @@
     "soundmark": "/dɪˈzaɪnd/"
   },
   {
-    "vietnamese": "Xinrong từng được thiết kế",
+    "vietnamese": "Xingrong từng thiết kế",
     "english": "Xingrong has ever designed",
     "soundmark": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
   },
@@ -245,7 +245,7 @@
     "soundmark": "/ˈtʃælɪndʒɪŋ/"
   },
   {
-    "vietnamese": "hầu hết",
+    "vietnamese": "nhất",
     "english": "the most",
     "soundmark": "/ðə/ /most/"
   },
@@ -265,7 +265,7 @@
     "soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/"
   },
   {
-    "vietnamese": "Xinrong từng được thiết kế",
+    "vietnamese": "Xingrong từng thiết kế",
     "english": "Xingrong has ever designed",
     "soundmark": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
   },
@@ -315,12 +315,12 @@
     "soundmark": "/'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/"
   },
   {
-    "vietnamese": "Xingrong đã (đã) thiết kế nhiều khóa học tiếng Anh",
+    "vietnamese": "Xingrong (đã) thiết kế nhiều khóa học tiếng Anh",
     "english": "Xingrong has designed several English courses",
     "soundmark": "/hæz/ /dɪˈzaɪnd/ /'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/"
   },
   {
-    "vietnamese": "truy cập",
+    "vietnamese": "thăm",
     "english": "to visit",
     "soundmark": "/tə/ /'vɪzɪt/"
   },
@@ -477,7 +477,7 @@
   {
     "vietnamese": "cô ấy ra ngoài chơi",
     "english": "she goes out to play",
-    "soundmark": "/ʃi/ /ɡoz/ /aʊt/ /tə/ /ple/ /(过去)去 went/ /wɛnt/"
+    "soundmark": "/ʃi/ /ɡoz/ /aʊt/ /tə/ /ple/ /(quá khứ)đi went/ /wɛnt/"
   },
   {
     "vietnamese": "cô ấy (đã từng) đi ra ngoài chơi",
@@ -532,7 +532,7 @@
   {
     "vietnamese": "đến",
     "english": "to arrive",
-    "soundmark": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/"
+    "soundmark": "/tə/ /ə'raɪv/ /(quá khứ)đến arrived/ /ə'raɪvd/"
   },
   {
     "vietnamese": "Tôi (quá khứ) đã đến",
@@ -597,7 +597,7 @@
   {
     "vietnamese": "đến",
     "english": "to arrive",
-    "soundmark": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/"
+    "soundmark": "/tə/ /ə'raɪv/ /(quá khứ)đến arrived/ /ə'raɪvd/"
   },
   {
     "vietnamese": "Tôi (quá khứ) đã đến",
@@ -660,12 +660,12 @@
     "soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/"
   },
   {
-    "vietnamese": "sự thích nghi",
+    "vietnamese": "chuyển thể",
     "english": "to adapt",
     "soundmark": "/tə/ /əˈdæpt/"
   },
   {
-    "vietnamese": "sự thích nghi",
+    "vietnamese": "bản chuyển thể",
     "english": "adaptation",
     "soundmark": "/ˌædæpˈteʃn/"
   },

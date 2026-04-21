@@ -45,12 +45,13 @@ export function useDeviceTip() {
     isMessageShow.value = (isIpad.value && !isLandscape.value) || isMobile.value;
 
     if (isMobile.value) {
-      messageContent.value = "目前暂时不支持移动设备哦，请关注后续更新";
+      messageContent.value =
+        "Mobile devices are not supported yet. Please check back in a future update.";
       return;
     }
 
     if (isIpad.value && !isLandscape.value) {
-      messageContent.value = "横屏使用效果更佳哦~";
+      messageContent.value = "Landscape mode works best on iPad.";
       return;
     }
   });

@@ -61,6 +61,7 @@
 </template>
 
 <script setup lang="ts">
+import { useI18n } from "#imports";
 import { ref, watch } from "vue";
 
 import { courseTimer } from "~/composables/courses/courseTimer";
@@ -74,6 +75,7 @@ const coursePackStore = useCoursePackStore();
 const courseStore = useCourseStore();
 const userStore = useUserStore();
 const imageContainer = ref<HTMLDivElement>();
+const { locale } = useI18n();
 
 const { shareModalVisible, hideShareModal } = useShareModal();
 const {
@@ -100,6 +102,7 @@ watch(shareModalVisible, (newVal) => {
       `${year}/${month}/${day}`,
       totalRecordNumber,
       totalTime,
+      locale.value === "zh-CN",
     );
   } else {
     clearShareImageSrc();

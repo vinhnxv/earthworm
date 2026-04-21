@@ -1,6 +1,6 @@
 [
   {
-    "vietnamese": "sống",
+    "vietnamese": "tiết kiệm",
     "english": "to save",
     "soundmark": "/tə/ /sev/"
   },
@@ -50,7 +50,7 @@
     "soundmark": "/tə/ /baɪ/ /ə/ /haʊs/"
   },
   {
-    "vietnamese": "qUYẾT ĐỊNH",
+    "vietnamese": "quyết định",
     "english": "to decide",
     "soundmark": "/tə/ /dɪ'saɪd/"
   },
@@ -62,7 +62,7 @@
   {
     "vietnamese": "chúng tôi quyết định mua một căn nhà",
     "english": "we decide to buy a house",
-    "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/ /(过去)决定 decided/ /dɪ'saɪdɪd/"
+    "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/ /(quá khứ)quyết định decided/ /dɪ'saɪdɪd/"
   },
   {
     "vietnamese": "chúng tôi (trước đây) quyết định mua một căn nhà",
@@ -142,7 +142,7 @@
   {
     "vietnamese": "đến",
     "english": "to arrive",
-    "soundmark": "/tə/ /ə'raɪv/ /(过去)达到 arrived/ /ə'raɪvd/"
+    "soundmark": "/tə/ /ə'raɪv/ /(quá khứ)đến arrived/ /ə'raɪvd/"
   },
   {
     "vietnamese": "cha mẹ của họ (quá khứ) đã đến",
@@ -205,7 +205,7 @@
     "soundmark": "/tə/ /bɜːθ/"
   },
   {
-    "vietnamese": "ngày sinh (dạng ed)",
+    "vietnamese": "sinh ra (dạng ed)",
     "english": "born",
     "soundmark": "/bɔrn/"
   },
@@ -312,7 +312,7 @@
   {
     "vietnamese": "nhận được lời mời đó",
     "english": "to receive the invitation",
-    "soundmark": "/tə/ /rɪ'siv/ /ði/ /ɪnvɪ'teʃən/ /(过去)收到 received/ /rɪ'sivd/ /(过去)收到那个邀请 received the invitation/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+    "soundmark": "/tə/ /rɪ'siv/ /ði/ /ɪnvɪ'teʃən/ /(quá khứ)nhận được received/ /rɪ'sivd/ /(quá khứ)nhận được lời mời đó received the invitation/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
   },
   {
     "vietnamese": "họ (quá khứ) đã nhận được lời mời đó",
@@ -355,7 +355,7 @@
     "soundmark": "/tə/ /liv/ /ði/ /'ɑfɪs/"
   },
   {
-    "vietnamese": "nghỉ phép (dạng ed)",
+    "vietnamese": "rời đi (dạng ed)",
     "english": "left",
     "soundmark": "/lɛft/"
   },
@@ -397,7 +397,7 @@
   {
     "vietnamese": "gọi điện thoại",
     "english": "to call",
-    "soundmark": "/tə/ /kɔl/ /(过去)打电话 called/ /kɔld/"
+    "soundmark": "/tə/ /kɔl/ /(quá khứ)gọi điện called/ /kɔld/"
   },
   {
     "vietnamese": "sếp của cô ấy (quá khứ) đã gọi điện",
@@ -472,7 +472,7 @@
   {
     "vietnamese": "Tôi đang ở nước ngoài",
     "english": "I am abroad",
-    "soundmark": "/aɪ/ /æm/ /ə'brɔd/ /be(ed形式) been/ /bɪn/"
+    "soundmark": "/aɪ/ /æm/ /ə'brɔd/ /be(dạng ed) been/ /bɪn/"
   },
   {
     "vietnamese": "Tôi (đã) ở nước ngoài",
@@ -530,7 +530,7 @@
     "soundmark": "/hɚ/ /trɪp/ /tə/ /spen/"
   },
   {
-    "vietnamese": "lùi",
+    "vietnamese": "vừa qua",
     "english": "last",
     "soundmark": "/læst/"
   },
@@ -630,7 +630,7 @@
     "soundmark": "/'sʌmɚ/"
   },
   {
-    "vietnamese": "lùi",
+    "vietnamese": "vừa qua",
     "english": "last",
     "soundmark": "/læst/"
   },
@@ -747,7 +747,7 @@
   {
     "vietnamese": "lấy",
     "english": "to get",
-    "soundmark": "/tə/ /ɡɛt/ /(过去)拿到 got/ /ɡɑt/"
+    "soundmark": "/tə/ /ɡɛt/ /(quá khứ)lấy được got/ /ɡɑt/"
   },
   {
     "vietnamese": "cô ấy (quá khứ) có",
