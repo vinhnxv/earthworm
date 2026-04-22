@@ -35,7 +35,7 @@
     "soundmark": "/aɪ/ /wɑnt/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
   },
   {
-    "vietnamese": "Anh không muốn ở đây với em",
+    "vietnamese": "Tôi không muốn ở lại đây với bạn",
     "english": "I don't want to stay here with you",
     "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
   },
@@ -65,7 +65,7 @@
     "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
   },
   {
-    "vietnamese": "Em sẽ không ở lại đây với anh",
+    "vietnamese": "Tôi không định ở lại đây với bạn",
     "english": "I don't plan to stay here with you",
     "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
   },
@@ -140,12 +140,12 @@
     "soundmark": "/wɪð/ /mi/"
   },
   {
-    "vietnamese": "em sẽ ở lại đây với anh",
+    "vietnamese": "bạn định ở lại đây với tôi",
     "english": "you plan to stay here with me",
     "soundmark": "/ju/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
   },
   {
-    "vietnamese": "em sẽ không ở đây với anh",
+    "vietnamese": "bạn không định ở lại đây với tôi",
     "english": "you don't plan to stay here with me",
     "soundmark": "/ju/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
   },
@@ -155,12 +155,12 @@
     "soundmark": "/wɪð/ /hɪm/"
   },
   {
-    "vietnamese": "anh sẽ ở lại đây với anh ta",
+    "vietnamese": "bạn định ở lại đây với anh ấy",
     "english": "you plan to stay here with him",
     "soundmark": "/ju/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
   },
   {
-    "vietnamese": "anh sẽ không ở đây với anh ta",
+    "vietnamese": "bạn không định ở lại đây với anh ấy",
     "english": "you don't plan to stay here with him",
     "soundmark": "/ju/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
   },
@@ -845,7 +845,7 @@
     "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
   },
   {
-    "vietnamese": "Anh không muốn ở đây với em",
+    "vietnamese": "Tôi không muốn ở lại đây với bạn",
     "english": "I would not like to stay here with you",
     "soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
   },
@@ -860,7 +860,7 @@
     "soundmark": "/ju/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
   },
   {
-    "vietnamese": "em không muốn ở đây với anh",
+    "vietnamese": "bạn không muốn ở lại đây với tôi",
     "english": "you would not like to stay here with me",
     "soundmark": "/ju/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
   },
@@ -1005,12 +1005,12 @@
     "soundmark": "/bɪ'kɔz/"
   },
   {
-    "vietnamese": "bởi vì em sẽ ở lại đây với anh",
+    "vietnamese": "vì tôi định ở lại đây với bạn",
     "english": "because I plan to stay here with you",
     "soundmark": "/bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
   },
   {
-    "vietnamese": "Anh không muốn đi vòng quanh thế giới với cô ấy vì anh sẽ ở đây với em",
+    "vietnamese": "Tôi không muốn đi du lịch khắp thế giới với cô ấy vì tôi định ở lại đây với bạn",
     "english": "I would not like to travel the world with her because I plan to stay here with you",
     "soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
   },
