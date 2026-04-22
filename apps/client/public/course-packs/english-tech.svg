@@ -1,0 +1,21 @@
+<svg width="720" height="960" viewBox="0 0 720 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="960" rx="48" fill="#F5E9D6"/>
+  <rect x="48" y="48" width="624" height="864" rx="36" fill="#12343B"/>
+  <path d="M96 178C96 153.699 115.699 134 140 134H580C604.301 134 624 153.699 624 178V230H96V178Z" fill="#F7B267"/>
+  <path d="M96 730H624V782C624 806.301 604.301 826 580 826H140C115.699 826 96 806.301 96 782V730Z" fill="#6EA4BF"/>
+  <rect x="132" y="280" width="456" height="18" rx="9" fill="#2A5B63"/>
+  <rect x="132" y="318" width="380" height="18" rx="9" fill="#2A5B63"/>
+  <rect x="132" y="356" width="418" height="18" rx="9" fill="#2A5B63"/>
+  <rect x="132" y="514" width="456" height="18" rx="9" fill="#2A5B63"/>
+  <rect x="132" y="552" width="408" height="18" rx="9" fill="#2A5B63"/>
+  <rect x="132" y="590" width="360" height="18" rx="9" fill="#2A5B63"/>
+  <rect x="132" y="430" width="178" height="44" rx="22" fill="#F7B267"/>
+  <rect x="326" y="430" width="118" height="44" rx="22" fill="#D95D39"/>
+  <rect x="460" y="430" width="128" height="44" rx="22" fill="#6EA4BF"/>
+  <text x="132" y="174" fill="#12343B" font-family="Georgia, serif" font-size="34" font-weight="700">EARTHWORM</text>
+  <text x="132" y="692" fill="#F5E9D6" font-family="'Courier New', monospace" font-size="22" letter-spacing="2">PRACTICAL ENGLISH FOR SOFTWARE TEAMS</text>
+  <text x="132" y="420" fill="#F5E9D6" font-family="Georgia, serif" font-size="92" font-weight="700">English</text>
+  <text x="132" y="508" fill="#F5E9D6" font-family="Georgia, serif" font-size="96" font-weight="700">Tech</text>
+  <text x="132" y="556" fill="#F5E9D6" font-family="'Courier New', monospace" font-size="22" letter-spacing="2">CURATED FROM MULTIPLE SOURCES</text>
+  <text x="132" y="874" fill="#12343B" font-family="'Courier New', monospace" font-size="26" font-weight="700">PROGRAMMER ENGLISH / REVIEW / DEBUG / DELIVERY</text>
+</svg>

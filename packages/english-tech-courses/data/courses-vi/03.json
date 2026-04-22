@@ -1,0 +1,267 @@
+[
+  {
+    "vietnamese": "thân thiện với người dùng",
+    "english": "user-friendly",
+    "soundmark": "/'juːzə/ /'frɛndli/"
+  },
+  {
+    "vietnamese": "Bảng điều khiển này rất thân thiện với người dùng.",
+    "english": "The dashboard is very user-friendly.",
+    "soundmark": "/ðə/ /'dæʃˌbɔːd/ /ɪz/ /'veri/ /'juːzə/ /'frɛndli/"
+  },
+  {
+    "vietnamese": "có thể tái sử dụng",
+    "english": "reusable",
+    "soundmark": "/riː'juːzəbəl/"
+  },
+  {
+    "vietnamese": "Hãy xây dựng các component có thể tái sử dụng.",
+    "english": "Build reusable components.",
+    "soundmark": "/bɪld/ /riː'juːzəbəl/ /kəm'pəʊnənts/"
+  },
+  {
+    "vietnamese": "nhất quán",
+    "english": "consistent",
+    "soundmark": "/kən'sɪstənt/"
+  },
+  {
+    "vietnamese": "Hãy giữ cách đặt tên nhất quán giữa các service.",
+    "english": "Keep the naming consistent across services.",
+    "soundmark": "/kip/ /ðə/ /'neɪmɪŋ/ /kən'sɪstənt/ /ə'krɔs/ /'sɜːvɪsɪz/"
+  },
+  {
+    "vietnamese": "mang tính xây dựng",
+    "english": "constructive",
+    "soundmark": "/kən'strʌktɪv/"
+  },
+  {
+    "vietnamese": "Hãy đưa ra phản hồi rõ ràng và mang tính xây dựng.",
+    "english": "Give clear and constructive feedback.",
+    "soundmark": "/gɪv/ /klɪə/ /ænd/ /kən'strʌktɪv/ /'fidˌbæk/"
+  },
+  {
+    "vietnamese": "Hàm này quá phức tạp.",
+    "english": "This function is too complex.",
+    "soundmark": "/ðɪs/ /'fʌŋkʃən/ /ɪz/ /tu/ /kəm'plɛks/"
+  },
+  {
+    "vietnamese": "chia nó thành các hàm nhỏ hơn",
+    "english": "split it into smaller functions",
+    "soundmark": "/splɪt/ /ɪt/ /'ɪntu/ /'smɔːlə/ /'fʌŋkʃənz/"
+  },
+  {
+    "vietnamese": "Chúng ta có thể chia nó thành các hàm nhỏ hơn không?",
+    "english": "Could we split it into smaller functions?",
+    "soundmark": "/kʊd/ /wi/ /splɪt/ /ɪt/ /'ɪntu/ /'smɔːlə/ /'fʌŋkʃənz/"
+  },
+  {
+    "vietnamese": "Logic này khó theo dõi.",
+    "english": "This logic is hard to follow.",
+    "soundmark": "/ðɪs/ /'lɒdʒɪk/ /ɪz/ /hɑːd/ /tə/ /'fɒləʊ/"
+  },
+  {
+    "vietnamese": "Bạn có thể thêm comment ở đây không?",
+    "english": "Could you add a comment here?",
+    "soundmark": "/kʊd/ /ju/ /æd/ /ə/ /'kɒment/ /hɪə/"
+  },
+  {
+    "vietnamese": "Tên biến này quá mơ hồ.",
+    "english": "This variable name is too vague.",
+    "soundmark": "/ðɪs/ /'veəriəbəl/ /neɪm/ /ɪz/ /tu/ /veɪg/"
+  },
+  {
+    "vietnamese": "một cái tên mô tả hơn",
+    "english": "a more descriptive name",
+    "soundmark": "/ə/ /mɔː/ /dɪ'skrɪptɪv/ /neɪm/"
+  },
+  {
+    "vietnamese": "Bạn có thể đổi nó thành một cái tên mô tả hơn không?",
+    "english": "Could you rename it to something more descriptive?",
+    "soundmark": "/kʊd/ /ju/ /ri'neɪm/ /ɪt/ /tə/ /'sʌmˌθɪŋ/ /mɔː/ /dɪ'skrɪptɪv/"
+  },
+  {
+    "vietnamese": "Cách tiếp cận này sạch hơn.",
+    "english": "This approach is cleaner.",
+    "soundmark": "/ðɪs/ /ə'prəʊtʃ/ /ɪz/ /'kliːnə/"
+  },
+  {
+    "vietnamese": "Cách tiếp cận này dễ maintain hơn.",
+    "english": "This approach is more maintainable.",
+    "soundmark": "/ðɪs/ /ə'prəʊtʃ/ /ɪz/ /mɔː/ /meɪn'teɪnəbəl/"
+  },
+  {
+    "vietnamese": "Đoạn code này dễ đọc hơn nhiều.",
+    "english": "This code is much easier to read.",
+    "soundmark": "/ðɪs/ /kəʊd/ /ɪz/ /mʌtʃ/ /'iːziə/ /tə/ /rid/"
+  },
+  {
+    "vietnamese": "Phần này có lẽ nên nằm trong một module riêng.",
+    "english": "This should probably live in a separate module.",
+    "soundmark": "/ðɪs/ /ʃʊd/ /'prɒbəbli/ /lɪv/ /ɪn/ /ə/ /'sepərət/ /'mɒdjuːl/"
+  },
+  {
+    "vietnamese": "xử lý việc này ở tầng service",
+    "english": "handle this in the service layer",
+    "soundmark": "/'hændəl/ /ðɪs/ /ɪn/ /ðə/ /'sɜːvɪs/ /'leə/"
+  },
+  {
+    "vietnamese": "Sẽ tốt hơn nếu xử lý việc này ở tầng service.",
+    "english": "It would be better to handle this in the service layer.",
+    "soundmark": "/ɪt/ /wʊd/ /bi/ /'betə/ /tə/ /'hændəl/ /ðɪs/ /ɪn/ /ðə/ /'sɜːvɪs/ /'leə/"
+  },
+  {
+    "vietnamese": "Phản hồi API này không nhất quán.",
+    "english": "This API response is not consistent.",
+    "soundmark": "/ðɪs/ /ˌeɪ/ /pi/ /aɪ/ /rɪ'spɒns/ /ɪz/ /nɒt/ /kən'sɪstənt/"
+  },
+  {
+    "vietnamese": "Query này khá tốn kém.",
+    "english": "This query is quite expensive.",
+    "soundmark": "/ðɪs/ /'kwɪəri/ /ɪz/ /kwaɪt/ /ɪk'spɛnsɪv/"
+  },
+  {
+    "vietnamese": "Query này chậm với các bảng lớn.",
+    "english": "This query is slow on large tables.",
+    "soundmark": "/ðɪs/ /'kwɪəri/ /ɪz/ /sləʊ/ /ɒn/ /lɑːdʒ/ /'teɪbəlz/"
+  },
+  {
+    "vietnamese": "Chúng ta nên index cột này.",
+    "english": "We should index this column.",
+    "soundmark": "/wi/ /ʃʊd/ /'ɪnˌdɛks/ /ðɪs/ /'kɒləm/"
+  },
+  {
+    "vietnamese": "Bạn có thể move logic này lên một level không?",
+    "english": "Could you move this logic up one level?",
+    "soundmark": "/kʊd/ /ju/ /muːv/ /ðɪs/ /'lɒdʒɪk/ /ʌp/ /wʌn/ /'lɛvəl/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ chúng ta nên cache kết quả này.",
+    "english": "I think we should cache this result.",
+    "soundmark": "/aɪ/ /θɪŋk/ /wi/ /ʃʊd/ /kæʃ/ /ðɪs/ /rɪ'zʌlt/"
+  },
+  {
+    "vietnamese": "Điều này sẽ giảm số lượng request.",
+    "english": "This will reduce the number of requests.",
+    "soundmark": "/ðɪs/ /wɪl/ /rɪ'djuːs/ /ðə/ /'nʌmbə/ /əv/ /rɪ'kwests/"
+  },
+  {
+    "vietnamese": "Bình luận code review này rất hữu ích.",
+    "english": "This review comment is very helpful.",
+    "soundmark": "/ðɪs/ /rɪ'vjuː/ /'kɒment/ /ɪz/ /'veri/ /'hɛlpfəl/"
+  },
+  {
+    "vietnamese": "Chúng ta có thể đơn giản hóa điều kiện này không?",
+    "english": "Could we simplify this condition?",
+    "soundmark": "/kʊd/ /wi/ /'sɪmpləˌfaɪ/ /ðɪs/ /kən'dɪʃən/"
+  },
+  {
+    "vietnamese": "Điều này làm cho luồng xử lý rõ ràng hơn.",
+    "english": "This makes the control flow clearer.",
+    "soundmark": "/ðɪs/ /meɪks/ /ðə/ /kən'trəʊl/ /fləʊ/ /'klɪərə/"
+  },
+  {
+    "vietnamese": "các chỉ số hiệu năng",
+    "english": "performance metrics",
+    "soundmark": "/pə'fɔːməns/ /'mɛtrɪks/"
+  },
+  {
+    "vietnamese": "Tôi đã đánh giá các chỉ số hiệu năng.",
+    "english": "I evaluated the performance metrics.",
+    "soundmark": "/aɪ/ /ɪ'væljuˌeɪtəd/ /ðə/ /pə'fɔːməns/ /'mɛtrɪks/"
+  },
+  {
+    "vietnamese": "code review",
+    "english": "code reviews",
+    "soundmark": "/kəʊd/ /rɪ'vjuːz/"
+  },
+  {
+    "vietnamese": "các kiểm tra style tự động",
+    "english": "automated style checks",
+    "soundmark": "/'ɔtəˌmeɪtəd/ /staɪl/ /tʃɛks/"
+  },
+  {
+    "vietnamese": "Code review giờ nhanh hơn vì chúng tôi đã tự động hóa các kiểm tra style.",
+    "english": "Code reviews are now faster because we have automated style checks.",
+    "soundmark": "/kəʊd/ /rɪ'vjuːz/ /ɑː/ /naʊ/ /'fɑːstə/ /bɪ'kɒz/ /wi/ /hæv/ /'ɔːtəmeɪtɪd/ /staɪl/ /tʃeks/"
+  },
+  {
+    "vietnamese": "sơ đồ kiến trúc",
+    "english": "architecture diagrams",
+    "soundmark": "/'ɑːkɪˌtɛktʃə/ /'daɪəˌgræmz/"
+  },
+  {
+    "vietnamese": "tương tác trong codebase của chúng ta",
+    "english": "interact in our codebase",
+    "soundmark": "/ˌɪntə'rækt/ /ɪn/ /'aʊə/ /'kəʊdˌbeɪs/"
+  },
+  {
+    "vietnamese": "Sơ đồ kiến trúc cho thấy trực quan cách các module khác nhau tương tác trong codebase của chúng ta.",
+    "english": "Architecture diagrams visually show how different modules interact in our codebase.",
+    "soundmark": "/'ɑːkɪˌtɛktʃə/ /'daɪəˌgræmz/ /'vɪʒuəli/ /ʃəʊ/ /haʊ/ /'dɪfrənt/ /'mɒdjuːlz/ /ˌɪntə'rækt/ /ɪn/ /'aʊə/ /'kəʊdˌbeɪs/"
+  },
+  {
+    "vietnamese": "được xử lý",
+    "english": "processed",
+    "soundmark": "/'prəʊsest/"
+  },
+  {
+    "vietnamese": "Những thay đổi này đã được xử lý nhanh đến mức nào?",
+    "english": "How quickly were these changes processed?",
+    "soundmark": "/haʊ/ /'kwɪkli/ /wə/ /ðiːz/ /'tʃeɪndʒɪz/ /'prəʊsest/"
+  },
+  {
+    "vietnamese": "của tính năng mới",
+    "english": "of the new feature",
+    "soundmark": "/əv/ /ðə/ /njuː/ /'fiːtʃə/"
+  },
+  {
+    "vietnamese": "Tôi đã đánh giá các chỉ số hiệu năng của tính năng mới.",
+    "english": "I have evaluated the performance metrics of the new feature.",
+    "soundmark": "/aɪ/ /hæv/ /ɪ'væljuˌeɪtəd/ /ðə/ /pə'fɔːməns/ /'mɛtrɪks/ /əv/ /ðə/ /njuː/ /'fiːtʃə/"
+  },
+  {
+    "vietnamese": "để xử lý vấn đề này",
+    "english": "to address this issue",
+    "soundmark": "/tə/ /ə'dres/ /ðɪs/ /'ɪʃuː/"
+  },
+  {
+    "vietnamese": "Anh ấy tự hào về giải pháp mà anh ấy đã xây để xử lý vấn đề này.",
+    "english": "He is proud of the solution he built to address this issue.",
+    "soundmark": "/hiː/ /ɪz/ /praʊd/ /əv/ /ðə/ /sə'luːʃən/ /hiː/ /bɪlt/ /tə/ /ə'dres/ /ðɪs/ /'ɪʃuː/"
+  },
+  {
+    "vietnamese": "bản đã được chỉnh lại",
+    "english": "the revised version",
+    "soundmark": "/ðə/ /rɪ'vaɪzd/ /'vɜːʃən/"
+  },
+  {
+    "vietnamese": "Hãy cho tôi biết khi bạn có bản đã được chỉnh lại.",
+    "english": "Let me know when you have the revised version.",
+    "soundmark": "/let/ /mi/ /nəʊ/ /wen/ /ju/ /hæv/ /ðə/ /rɪ'vaɪzd/ /'vɜːʃən/"
+  },
+  {
+    "vietnamese": "code dễ bảo trì",
+    "english": "maintainable code",
+    "soundmark": "/meɪn'teɪnəbəl/ /kəʊd/"
+  },
+  {
+    "vietnamese": "Điều quan trọng là viết code dễ bảo trì.",
+    "english": "It is important to write maintainable code.",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔːtənt/ /tə/ /raɪt/ /meɪn'teɪnəbəl/ /kəʊd/"
+  },
+  {
+    "vietnamese": "Bạn có thể giải thích vì sao một quy trình code review mạnh lại quan trọng không?",
+    "english": "Can you explain why a strong code review process is important?",
+    "soundmark": "/kæn/ /ju/ /ɪk'spleɪn/ /waɪ/ /ə/ /strɔŋ/ /kəʊd/ /rɪ'vjuː/ /'prəʊses/ /ɪz/ /ɪm'pɔːtənt/"
+  },
+  {
+    "vietnamese": "Comment nên mô tả ngắn gọn function làm gì.",
+    "english": "The comment should briefly describe what each function does.",
+    "soundmark": "/ðə/ /'kɒment/ /ʃʊd/ /'briːfli/ /dɪ'skraɪb/ /wɒt/ /iːtʃ/ /'fʌŋkʃən/ /dʌz/"
+  },
+  {
+    "vietnamese": "Dùng hệ thống version control giúp theo dõi thay đổi chính xác hơn.",
+    "english": "Using a version control system helps to accurately track changes.",
+    "soundmark": "/'juːzɪŋ/ /ə/ /'vɜːʃən/ /kən'trəʊl/ /'sɪstəm/ /helps/ /tə/ /'ækjərətli/ /træk/ /'tʃeɪndʒɪz/"
+  }
+]

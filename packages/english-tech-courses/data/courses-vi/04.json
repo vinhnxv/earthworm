@@ -1,0 +1,297 @@
+[
+  {
+    "vietnamese": "tìm ra nguyên nhân gốc",
+    "english": "find the root cause",
+    "soundmark": "/faɪnd/ /ðə/ /ruːt/ /kɔːz/"
+  },
+  {
+    "vietnamese": "Tôi đang cố tìm ra nguyên nhân gốc.",
+    "english": "I am trying to find the root cause.",
+    "soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /faɪnd/ /ðə/ /ruːt/ /kɔːz/"
+  },
+  {
+    "vietnamese": "Tôi có thể tái hiện lỗi này trên staging.",
+    "english": "I can reproduce this issue on staging.",
+    "soundmark": "/aɪ/ /kæn/ /ˌriːprə'djuːs/ /ðɪs/ /'ɪʃu/ /ɒn/ /'steɪdʒɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi không thể tái hiện nó ở môi trường local.",
+    "english": "I cannot reproduce it locally.",
+    "soundmark": "/aɪ/ /'kænɒt/ /ˌriːprə'djuːs/ /ɪt/ /'ləʊkəli/"
+  },
+  {
+    "vietnamese": "Điều này chỉ xảy ra ở môi trường production.",
+    "english": "This only happens in production.",
+    "soundmark": "/ðɪs/ /'əʊnli/ /'hæpənz/ /ɪn/ /prə'dʌkʃən/"
+  },
+  {
+    "vietnamese": "Điều này chỉ xảy ra khi nhiều người dùng đăng nhập cùng lúc.",
+    "english": "This only happens when multiple users log in at the same time.",
+    "soundmark": "/ðɪs/ /'əʊnli/ /'hæpənz/ /wen/ /'mʌltəpəl/ /'juːzəz/ /lɒg/ /ɪn/ /æt/ /ðə/ /seɪm/ /taɪm/"
+  },
+  {
+    "vietnamese": "Bạn có thể check log không?",
+    "english": "Could you check the logs?",
+    "soundmark": "/kʊd/ /juː/ /tʃek/ /ðə/ /lɒgz/"
+  },
+  {
+    "vietnamese": "Log cho thấy một lỗi timeout.",
+    "english": "The logs show a timeout error.",
+    "soundmark": "/ðə/ /lɒgz/ /ʃəʊ/ /ə/ /'taɪmˌaʊt/ /'erə/"
+  },
+  {
+    "vietnamese": "Request bị fail vì token đã hết hạn.",
+    "english": "The request is failing because the token has expired.",
+    "soundmark": "/ðə/ /rɪ'kwest/ /ɪz/ /'feɪlɪŋ/ /bɪ'kɔz/ /ðə/ /'təʊkən/ /hæz/ /ɪk'spaɪərd/"
+  },
+  {
+    "vietnamese": "một cách khắc phục tạm thời",
+    "english": "a workaround",
+    "soundmark": "/ə/ /'wɜːkəˌraʊnd/"
+  },
+  {
+    "vietnamese": "Chúng tôi đã thêm một cách khắc phục tạm thời để unblock release.",
+    "english": "We added a workaround to unblock the release.",
+    "soundmark": "/wi/ /'ædəd/ /ə/ /'wɜːkəˌraʊnd/ /tə/ /ʌn'blɒk/ /ðə/ /rɪ'liːs/"
+  },
+  {
+    "vietnamese": "một bản sửa vĩnh viễn",
+    "english": "a permanent fix",
+    "soundmark": "/ə/ /'pɜːmənənt/ /fɪks/"
+  },
+  {
+    "vietnamese": "Chúng ta vẫn cần một bản sửa vĩnh viễn.",
+    "english": "We still need a permanent fix.",
+    "soundmark": "/wi/ /stɪl/ /niːd/ /ə/ /'pɜːmənənt/ /fɪks/"
+  },
+  {
+    "vietnamese": "được sửa",
+    "english": "be fixed",
+    "soundmark": "/bi/ /fɪkst/"
+  },
+  {
+    "vietnamese": "Lỗi này cần được sửa trước khi deploy.",
+    "english": "The bug needs to be fixed before deployment.",
+    "soundmark": "/ðə/ /bʌg/ /nidz/ /tə/ /bi/ /fɪkst/ /bɪ'fɔː/ /dɪ'plɔɪmənt/"
+  },
+  {
+    "vietnamese": "được triển khai lên staging",
+    "english": "be deployed to staging",
+    "soundmark": "/bi/ /dɪ'plɔɪd/ /tə/ /'steɪdʒɪŋ/"
+  },
+  {
+    "vietnamese": "Bản fix đã được triển khai lên staging.",
+    "english": "The fix has been deployed to staging.",
+    "soundmark": "/ðə/ /fɪks/ /hæz/ /bɪn/ /dɪ'plɔɪd/ /tə/ /'steɪdʒɪŋ/"
+  },
+  {
+    "vietnamese": "được merge vào main",
+    "english": "be merged into main",
+    "soundmark": "/bi/ /mɜːdʒd/ /'ɪntu/ /meɪn/"
+  },
+  {
+    "vietnamese": "PR này đã được merge vào main.",
+    "english": "This PR has been merged into main.",
+    "soundmark": "/ðɪs/ /ˌpi/ /ɑː/ /hæz/ /bɪn/ /mɜːdʒd/ /'ɪntu/ /meɪn/"
+  },
+  {
+    "vietnamese": "roll back bản deploy",
+    "english": "roll back the deployment",
+    "soundmark": "/rəʊl/ /bæk/ /ðə/ /dɪ'plɔɪmənt/"
+  },
+  {
+    "vietnamese": "Chúng ta có nên roll back bản deploy không?",
+    "english": "Should we roll back the deployment?",
+    "soundmark": "/ʃʊd/ /wi/ /rəʊl/ /bæk/ /ðə/ /dɪ'plɔɪmənt/"
+  },
+  {
+    "vietnamese": "đẩy một hotfix",
+    "english": "push a hotfix",
+    "soundmark": "/pʊʃ/ /ə/ /'hɒtˌfɪks/"
+  },
+  {
+    "vietnamese": "Tôi vừa đẩy một hotfix.",
+    "english": "I just pushed a hotfix.",
+    "soundmark": "/aɪ/ /dʒʌst/ /pʊʃt/ /ə/ /'hɒtˌfɪks/"
+  },
+  {
+    "vietnamese": "Patch đã sẵn sàng cho QA.",
+    "english": "The patch is ready for QA.",
+    "soundmark": "/ðə/ /pætʃ/ /ɪz/ /'redi/ /fɔː/ /ˌkju/ /eɪ/"
+  },
+  {
+    "vietnamese": "sau khi release",
+    "english": "after the release",
+    "soundmark": "/'ɑːftə/ /ðə/ /rɪ'liːs/"
+  },
+  {
+    "vietnamese": "Chúng ta cần monitor nó sau khi release.",
+    "english": "We need to monitor it after the release.",
+    "soundmark": "/wi/ /niːd/ /tə/ /'mɒnɪtə/ /ɪt/ /'ɑːftə/ /ðə/ /rɪ'liːs/"
+  },
+  {
+    "vietnamese": "một vấn đề tồn đọng cũ",
+    "english": "a legacy issue",
+    "soundmark": "/ə/ /'lɛgəsi/ /'ɪʃu/"
+  },
+  {
+    "vietnamese": "Lỗi này đến từ một vấn đề tồn đọng cũ.",
+    "english": "This bug comes from a legacy issue.",
+    "soundmark": "/ðɪs/ /bʌg/ /kʌmz/ /frʌm/ /ə/ /'lɛgəsi/ /'ɪʃu/"
+  },
+  {
+    "vietnamese": "ứng dụng bị crash khi tải lên tệp lớn",
+    "english": "the app crashes when users upload large files",
+    "soundmark": "/ði/ /æp/ /'kræʃɪz/ /wen/ /'juːzəz/ /ʌp'ləʊd/ /lɑːdʒ/ /faɪlz/"
+  },
+  {
+    "vietnamese": "Ứng dụng bị crash khi người dùng tải lên tệp lớn.",
+    "english": "The app crashes when users upload large files.",
+    "soundmark": "/ði/ /æp/ /'kræʃɪz/ /wen/ /'juːzəz/ /ʌp'ləʊd/ /lɑːdʒ/ /faɪlz/"
+  },
+  {
+    "vietnamese": "Chúng ta nên ưu tiên việc này trong sprint tiếp theo.",
+    "english": "We should prioritise this in the next sprint.",
+    "soundmark": "/wi/ /ʃʊd/ /praɪ'ɒrətaɪz/ /ðɪs/ /ɪn/ /ðə/ /nekst/ /sprɪnt/"
+  },
+  {
+    "vietnamese": "Có ai có thể xem giúp stack trace này không?",
+    "english": "Can someone take a look at this stack trace?",
+    "soundmark": "/kæn/ /'sʌmwʌn/ /teɪk/ /ə/ /lʊk/ /æt/ /ðɪs/ /stæk/ /treɪs/"
+  },
+  {
+    "vietnamese": "Chúng ta đã xác định được nguyên nhân gốc.",
+    "english": "We have identified the root cause.",
+    "soundmark": "/wi/ /hæv/ /aɪ'dɛntəˌfaɪd/ /ðə/ /ruːt/ /kɔːz/"
+  },
+  {
+    "vietnamese": "Sự cố xảy ra vì cô ấy đã không cập nhật cài đặt trên server.",
+    "english": "The issue occurred because she did not update the settings on the server.",
+    "soundmark": "/ði/ /'ɪʃu/ /ə'kɜːd/ /bɪ'kɔz/ /ʃi/ /dɪd/ /nɒt/ /ʌp'deɪt/ /ðə/ /'sɛtɪŋz/ /ɒn/ /ðə/ /'sɜːvə/"
+  },
+  {
+    "vietnamese": "Vấn đề này đã không được phát hiện trước khi lên production sao?",
+    "english": "Was this issue not detected before it went into production?",
+    "soundmark": "/wəz/ /ðɪs/ /'ɪʃu/ /nɒt/ /dɪ'tɛktəd/ /bɪ'fɔː/ /ɪt/ /wɛnt/ /'ɪntu/ /prə'dʌkʃən/"
+  },
+  {
+    "vietnamese": "Tại sao lỗi này đã không bị bắt trong lúc testing?",
+    "english": "Why was this bug not caught during testing?",
+    "soundmark": "/waɪ/ /wəz/ /ðɪs/ /bʌg/ /nɒt/ /kɔt/ /'djʊrɪŋ/ /'tɛstɪŋ/"
+  },
+  {
+    "vietnamese": "Một số end-user đang gặp khó khăn với tính năng đăng nhập.",
+    "english": "Some end-users are experiencing difficulties with the login feature.",
+    "soundmark": "/sʌm/ /ɛnd/ /'juːzəz/ /ɑː/ /ɪk'spɪriənsɪŋ/ /'dɪfəkəltiz/ /wɪð/ /ðə/ /'lɔgɪn/ /'fiːtʃə/"
+  },
+  {
+    "vietnamese": "Tôi sẽ triển khai một cách khắc phục tạm thời.",
+    "english": "I am going to implement a temporary workaround.",
+    "soundmark": "/aɪ/ /æm/ /'gəʊɪŋ/ /tə/ /'ɪmpləˌmɛnt/ /ə/ /'tempərəri/ /'wɜːkəˌraʊnd/"
+  },
+  {
+    "vietnamese": "Chúng ta có thể ưu tiên việc này trong sprint sắp tới.",
+    "english": "We can prioritise this in the upcoming sprint.",
+    "soundmark": "/wi/ /kæn/ /praɪ'ɒrətaɪz/ /ðɪs/ /ɪn/ /ði/ /ʌp'kʌmɪŋ/ /sprɪnt/"
+  },
+  {
+    "vietnamese": "Bạn đã từng gặp thứ gì tương tự gần đây chưa?",
+    "english": "Did you come across something like this recently?",
+    "soundmark": "/dɪd/ /ju/ /kʌm/ /ə'krɔs/ /'sʌmˌθɪŋ/ /laɪk/ /ðɪs/ /'riːsəntli/"
+  },
+  {
+    "vietnamese": "Một khi pull request được duyệt, tôi sẽ merge nó vào nhánh main.",
+    "english": "Once the pull request is approved, I will merge it into the main branch.",
+    "soundmark": "/wʌns/ /ðə/ /pʊl/ /rɪ'kwest/ /ɪz/ /ə'pruːvd/ /aɪ/ /wɪl/ /mɜːdʒ/ /ɪt/ /'ɪntuː/ /ðə/ /meɪn/ /brɑːntʃ/"
+  },
+  {
+    "vietnamese": "Có ai rảnh xem giúp việc này sáng nay không?",
+    "english": "Is anyone free to take a look this morning?",
+    "soundmark": "/ɪz/ /'eniˌwʌn/ /fri/ /tə/ /teɪk/ /ə/ /lʊk/ /ðɪs/ /'mɔːnɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi sẽ tìm một tệp lớn để upload rồi xem liệu nó có kích hoạt cùng lỗi đó không.",
+    "english": "I will find a large file to upload and then we can see if it triggers the same issue.",
+    "soundmark": "/aɪ/ /wɪl/ /faɪnd/ /ə/ /lɑːdʒ/ /faɪl/ /tə/ /ʌp'ləʊd/ /ænd/ /ðɛn/ /wi/ /kæn/ /siː/ /ɪf/ /ɪt/ /'trɪɡəz/ /ðə/ /seɪm/ /'ɪʃu/"
+  },
+  {
+    "vietnamese": "Tính năng mới nên được triển khai theo đúng đặc tả.",
+    "english": "The new feature should be implemented according to the specifications.",
+    "soundmark": "/ðə/ /njuː/ /'fiːtʃə/ /ʃʊd/ /bi/ /'ɪmpləˌmɛntəd/ /ə'kɔːdɪŋ/ /tə/ /ðə/ /ˌspɛsəfə'keɪʃənz/"
+  },
+  {
+    "vietnamese": "Cả team đã được thông báo về các bản fix sắp tới cho codebase chưa?",
+    "english": "Was the team informed about the upcoming fixes to the codebase?",
+    "soundmark": "/wəz/ /ðə/ /tiːm/ /ɪn'fɔrmd/ /ə'baʊt/ /ði/ /ʌp'kʌmɪŋ/ /'fɪksɪz/ /tə/ /ðə/ /'kəʊdˌbeɪs/"
+  },
+  {
+    "vietnamese": "Hãy thử xóa function đó rồi chạy lại.",
+    "english": "Try removing the function and running it again.",
+    "soundmark": "/traɪ/ /rɪ'muvɪŋ/ /ðə/ /'fʌŋkʃən/ /ænd/ /'rʌnɪŋ/ /ɪt/ /ə'gɛn/"
+  },
+  {
+    "vietnamese": "Có xung đột giữa hai branch này trong Git.",
+    "english": "There is a conflict between these two branches in Git.",
+    "soundmark": "/ðeə/ /ɪz/ /ə/ /'kɒnflɪkt/ /bɪ'twiːn/ /ðiːz/ /tuː/ /'brɑːntʃɪz/ /ɪn/ /gɪt/"
+  },
+  {
+    "vietnamese": "Có vẻ như bạn đã quên import đúng các module.",
+    "english": "It looks like you forgot to import the correct modules.",
+    "soundmark": "/ɪt/ /lʊks/ /laɪk/ /ju/ /fə'gɒt/ /tə/ /ɪm'pɔːt/ /ðə/ /kə'rekt/ /'mɒdjuːlz/"
+  },
+  {
+    "vietnamese": "Nếu bạn merge các branch ngay bây giờ, chúng có thể bị conflict.",
+    "english": "If you try to merge the branches now, they might conflict.",
+    "soundmark": "/ɪf/ /juː/ /traɪ/ /tə/ /mɜːdʒ/ /ðə/ /'brɑːntʃɪz/ /naʊ/ /ðeɪ/ /maɪt/ /kən'flɪkt/"
+  },
+  {
+    "vietnamese": "Log cho thấy một module quan trọng đã bị xóa.",
+    "english": "The logs show the deletion of an important module.",
+    "soundmark": "/ðə/ /lɒgz/ /ʃəʊ/ /ðə/ /dɪ'liːʃən/ /əv/ /ən/ /ɪm'pɔːtənt/ /'mɒdjuːl/"
+  },
+  {
+    "vietnamese": "Công cụ này cung cấp một extension cho phép developers phân tích mức sử dụng bộ nhớ hiệu quả hơn.",
+    "english": "The tool provides an extension that allows developers to analyse memory usage more effectively.",
+    "soundmark": "/ðə/ /tuːl/ /prə'vaɪdz/ /ən/ /ɪk'stenʃən/ /ðət/ /ə'laʊz/ /dɪ'veləpəz/ /tə/ /'ænəlaɪz/ /'meməri/ /'juːsɪdʒ/ /mɔː/ /ɪ'fektɪvli/"
+  },
+  {
+    "vietnamese": "Bug này cần được sửa.",
+    "english": "This bug needs to be fixed.",
+    "soundmark": "/ðɪs/ /bʌg/ /nidz/ /tə/ /bi/ /fɪkst/"
+  },
+  {
+    "vietnamese": "Các dev cần được hướng dẫn cách xử lý những vấn đề bảo mật mà chúng ta đã tìm thấy.",
+    "english": "The devs need to be shown how to tackle those security issues we found.",
+    "soundmark": "/ðə/ /dɛvz/ /niːd/ /tə/ /bi/ /ʃəʊn/ /haʊ/ /tə/ /'tækəl/ /ðəʊz/ /sɪ'kjʊrəti/ /'ɪʃuz/ /wi/ /faʊnd/"
+  },
+  {
+    "vietnamese": "Nếu người dùng không chọn ngôn ngữ, hệ thống sẽ mặc định là tiếng Anh.",
+    "english": "If the user does not choose a language, the system defaults to English.",
+    "soundmark": "/ɪf/ /ðə/ /'juːzə/ /dʌz/ /nɒt/ /tʃuz/ /ə/ /'læŋgwɪdʒ/ /ðə/ /'sɪstəm/ /dɪ'fɔlts/ /tə/ /'ɪŋglɪʃ/"
+  },
+  {
+    "vietnamese": "Lỗi này có thể đã xảy ra trong quá trình chuyển sang phần mềm mới.",
+    "english": "This error might have occurred during the transition to the new software.",
+    "soundmark": "/ðɪs/ /'erə/ /maɪt/ /hæv/ /ə'kɜːd/ /'djʊrɪŋ/ /ðə/ /træn'zɪʃən/ /tə/ /ðə/ /njuː/ /'sɒftweə/"
+  },
+  {
+    "vietnamese": "ZeroDivisionError là một ví dụ về exception trong Python.",
+    "english": "A ZeroDivisionError is an example of an exception in Python.",
+    "soundmark": "/ə/ /'zɪərəʊ/ /dɪ'vɪʒən/ /'erə/ /ɪz/ /æn/ /ɪg'zæmpəl/ /əv/ /æn/ /ɪk'sɛpʃən/ /ɪn/ /'paɪθɒn/"
+  },
+  {
+    "vietnamese": "Chào buổi sáng mọi người, hôm qua chúng ta đã có một cuộc họp để điều tra sự cố system crash gần đây.",
+    "english": "Morning all, we had a meeting yesterday to investigate the recent system crash.",
+    "soundmark": "/'mɔːnɪŋ/ /ɔl/ /wi/ /hæd/ /ə/ /'mitɪŋ/ /'jestədeɪ/ /tə/ /ɪn'vɛstəˌgeɪt/ /ðə/ /'riːsənt/ /'sɪstəm/ /kræʃ/"
+  },
+  {
+    "vietnamese": "Một function đã bị xóa khỏi shared library và điều này khiến một thứ gì đó bị fail.",
+    "english": "A function was deleted from the shared library and this caused something to fail.",
+    "soundmark": "/ə/ /'fʌŋkʃən/ /wəz/ /dɪ'litəd/ /frʌm/ /ðə/ /ʃeəd/ /'laɪbrəri/ /ænd/ /ðɪs/ /kɔzd/ /'sʌmˌθɪŋ/ /tə/ /feɪl/"
+  },
+  {
+    "vietnamese": "Vấn đề căn chỉnh đã được sửa.",
+    "english": "The alignment issue was fixed.",
+    "soundmark": "/ði/ /ə'laɪnmənt/ /'ɪʃu/ /wəz/ /fɪkst/"
+  }
+]

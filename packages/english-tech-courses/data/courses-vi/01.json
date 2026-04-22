@@ -1,0 +1,357 @@
+[
+  {
+    "vietnamese": "tối ưu hóa",
+    "english": "optimise",
+    "soundmark": "/'ɒptɪˌmaɪz/"
+  },
+  {
+    "vietnamese": "các truy vấn",
+    "english": "the queries",
+    "soundmark": "/ðə/ /'kwɪriz/"
+  },
+  {
+    "vietnamese": "tối ưu hóa các truy vấn",
+    "english": "optimise the queries",
+    "soundmark": "/'ɒptɪˌmaɪz/ /ðə/ /'kwɪriz/"
+  },
+  {
+    "vietnamese": "để cải thiện thời gian phản hồi",
+    "english": "to improve the response time",
+    "soundmark": "/tə/ /ɪm'pruːv/ /ðə/ /rɪ'spɒns/ /taɪm/"
+  },
+  {
+    "vietnamese": "tối ưu hóa các truy vấn để cải thiện thời gian phản hồi",
+    "english": "optimise the queries to improve the response time",
+    "soundmark": "/'ɒptɪˌmaɪz/ /ðə/ /'kwɪriz/ /tə/ /ɪm'pruːv/ /ðə/ /rɪ'spɒns/ /taɪm/"
+  },
+  {
+    "vietnamese": "Anh ấy đã tối ưu hóa các truy vấn để cải thiện thời gian phản hồi.",
+    "english": "He optimised the queries to improve the response time.",
+    "soundmark": "/hiː/ /'ɒptɪˌmaɪzd/ /ðə/ /'kwɪriz/ /tə/ /ɪm'pruːv/ /ðə/ /rɪ'spɒns/ /taɪm/"
+  },
+  {
+    "vietnamese": "triển khai",
+    "english": "implement",
+    "soundmark": "/'ɪmpləˌmɛnt/"
+  },
+  {
+    "vietnamese": "tính năng mới",
+    "english": "the new feature",
+    "soundmark": "/ðə/ /njuː/ /'fiːtʃə/"
+  },
+  {
+    "vietnamese": "chúng ta đã bàn hôm qua",
+    "english": "we discussed yesterday",
+    "soundmark": "/wi/ /dɪ'skʌst/ /'jestədeɪ/"
+  },
+  {
+    "vietnamese": "triển khai tính năng mới",
+    "english": "implement the new feature",
+    "soundmark": "/'ɪmpləˌmɛnt/ /ðə/ /njuː/ /'fiːtʃə/"
+  },
+  {
+    "vietnamese": "triển khai tính năng mới mà chúng ta đã bàn hôm qua",
+    "english": "implement the new feature we discussed yesterday",
+    "soundmark": "/'ɪmpləˌmɛnt/ /ðə/ /njuː/ /'fiːtʃə/ /wi/ /dɪ'skʌst/ /'jestədeɪ/"
+  },
+  {
+    "vietnamese": "Bạn có thể triển khai tính năng mới mà chúng ta đã bàn hôm qua không?",
+    "english": "Can you implement the new feature we discussed yesterday?",
+    "soundmark": "/kæn/ /ju/ /'ɪmpləˌmɛnt/ /ðə/ /njuː/ /'fiːtʃə/ /wi/ /dɪ'skʌst/ /'jestədeɪ/"
+  },
+  {
+    "vietnamese": "tích hợp",
+    "english": "integrate",
+    "soundmark": "/'ɪntəˌgreɪt/"
+  },
+  {
+    "vietnamese": "một API của bên thứ ba",
+    "english": "a third-party API",
+    "soundmark": "/ə/ /θɜːd/ /'pɑːti/ /ˌeɪ/ /pi/ /aɪ/"
+  },
+  {
+    "vietnamese": "để lấy dữ liệu thời gian thực",
+    "english": "to get real-time data",
+    "soundmark": "/tə/ /get/ /'rɪəl/ /taɪm/ /'deɪtə/"
+  },
+  {
+    "vietnamese": "tích hợp một API của bên thứ ba",
+    "english": "integrate a third-party API",
+    "soundmark": "/'ɪntəˌgreɪt/ /ə/ /θɜːd/ /'pɑːti/ /ˌeɪ/ /pi/ /aɪ/"
+  },
+  {
+    "vietnamese": "tích hợp một API của bên thứ ba để lấy dữ liệu thời gian thực",
+    "english": "integrate a third-party API to get real-time data",
+    "soundmark": "/'ɪntəˌgreɪt/ /ə/ /θɜːd/ /'pɑːti/ /ˌeɪ/ /pi/ /aɪ/ /tə/ /get/ /'rɪəl/ /taɪm/ /'deɪtə/"
+  },
+  {
+    "vietnamese": "Cả nhóm sẽ tích hợp một API của bên thứ ba để lấy dữ liệu thời gian thực.",
+    "english": "The team will integrate a third-party API to get real-time data.",
+    "soundmark": "/ðə/ /tiːm/ /wɪl/ /'ɪntəˌgreɪt/ /ə/ /θɜːd/ /'pɑːti/ /ˌeɪ/ /pi/ /aɪ/ /tə/ /get/ /'rɪəl/ /taɪm/ /'deɪtə/"
+  },
+  {
+    "vietnamese": "lượng người dùng của chúng ta tăng lên",
+    "english": "our user base grows",
+    "soundmark": "/'aʊə/ /'juːzə/ /beɪs/ /grəʊz/"
+  },
+  {
+    "vietnamese": "khi lượng người dùng của chúng ta tăng lên",
+    "english": "as our user base grows",
+    "soundmark": "/æz/ /'aʊə/ /'juːzə/ /beɪs/ /grəʊz/"
+  },
+  {
+    "vietnamese": "mở rộng hạ tầng của chúng ta",
+    "english": "scale our infrastructure",
+    "soundmark": "/skeɪl/ /'aʊə/ /'ɪnfrəˌstrʌktʃər/"
+  },
+  {
+    "vietnamese": "chúng ta sẽ cần mở rộng hạ tầng của mình",
+    "english": "we will need to scale our infrastructure",
+    "soundmark": "/wi/ /wɪl/ /niːd/ /tə/ /skeɪl/ /'aʊə/ /'ɪnfrəˌstrʌktʃər/"
+  },
+  {
+    "vietnamese": "Khi lượng người dùng của chúng ta tăng lên, chúng ta sẽ cần mở rộng hạ tầng.",
+    "english": "As our user base grows, we will need to scale our infrastructure.",
+    "soundmark": "/æz/ /'aʊə/ /'juːzə/ /beɪs/ /grəʊz/ /wi/ /wɪl/ /niːd/ /tə/ /skeɪl/ /'aʊə/ /'ɪnfrəˌstrʌktʃər/"
+  },
+  {
+    "vietnamese": "tái cấu trúc code",
+    "english": "refactor the code",
+    "soundmark": "/riː'fæktə/ /ðə/ /kəʊd/"
+  },
+  {
+    "vietnamese": "đã có dịp",
+    "english": "had a chance",
+    "soundmark": "/hæd/ /ə/ /tʃæns/"
+  },
+  {
+    "vietnamese": "Bạn đã có dịp tái cấu trúc code chưa?",
+    "english": "Have you had a chance to refactor the code yet?",
+    "soundmark": "/hæv/ /ju/ /hæd/ /ə/ /tʃæns/ /tə/ /riː'fæktə/ /ðə/ /kəʊd/ /jɛt/"
+  },
+  {
+    "vietnamese": "quy trình này đang mất quá nhiều thời gian",
+    "english": "the process is taking too long",
+    "soundmark": "/ðə/ /'prəʊses/ /ɪz/ /'teɪkɪŋ/ /tu/ /lɔŋ/"
+  },
+  {
+    "vietnamese": "đơn giản hóa nó",
+    "english": "streamline it",
+    "soundmark": "/'striːmˌlaɪn/ /ɪt/"
+  },
+  {
+    "vietnamese": "Làm sao chúng ta có thể đơn giản hóa nó?",
+    "english": "How can we streamline it?",
+    "soundmark": "/haʊ/ /kæn/ /wi/ /'striːmˌlaɪn/ /ɪt/"
+  },
+  {
+    "vietnamese": "Quy trình này đang mất quá nhiều thời gian. Làm sao chúng ta có thể đơn giản hóa nó?",
+    "english": "The process is taking too long. How can we streamline it?",
+    "soundmark": "/ðə/ /'prəʊses/ /ɪz/ /'teɪkɪŋ/ /tu/ /lɔŋ/ /haʊ/ /kæn/ /wi/ /'striːmˌlaɪn/ /ɪt/"
+  },
+  {
+    "vietnamese": "chạy script",
+    "english": "execute the script",
+    "soundmark": "/'ɛksɪˌkjut/ /ðə/ /skrɪpt/"
+  },
+  {
+    "vietnamese": "trước khi chúng ta đi ăn trưa",
+    "english": "before we go for lunch",
+    "soundmark": "/bɪ'fɔː/ /wi/ /gəʊ/ /fɔː/ /lʌntʃ/"
+  },
+  {
+    "vietnamese": "Hãy chạy script trước khi chúng ta đi ăn trưa.",
+    "english": "Let's execute the script before we go for lunch.",
+    "soundmark": "/lɛts/ /'ɛksɪˌkjut/ /ðə/ /skrɪpt/ /bɪ'fɔː/ /wi/ /gəʊ/ /fɔː/ /lʌntʃ/"
+  },
+  {
+    "vietnamese": "các thiết lập",
+    "english": "the settings",
+    "soundmark": "/ðə/ /'sɛtɪŋz/"
+  },
+  {
+    "vietnamese": "vẫn chưa được cấu hình",
+    "english": "have not been configured yet",
+    "soundmark": "/hæv/ /nɒt/ /bɪn/ /kən'fɪɡəd/ /jɛt/"
+  },
+  {
+    "vietnamese": "Các thiết lập vẫn chưa được cấu hình.",
+    "english": "The settings have not been configured yet.",
+    "soundmark": "/ðə/ /'sɛtɪŋz/ /hæv/ /nɒt/ /bɪn/ /kən'fɪɡəd/ /jɛt/"
+  },
+  {
+    "vietnamese": "các tham số",
+    "english": "the parameters",
+    "soundmark": "/ðə/ /pə'ræmɪtəz/"
+  },
+  {
+    "vietnamese": "vẫn chưa được thiết lập",
+    "english": "have not been set",
+    "soundmark": "/hæv/ /nɒt/ /bɪn/ /sɛt/"
+  },
+  {
+    "vietnamese": "Các tham số vẫn chưa được thiết lập.",
+    "english": "The parameters have not been set.",
+    "soundmark": "/ðə/ /pə'ræmɪtəz/ /hæv/ /nɒt/ /bɪn/ /sɛt/"
+  },
+  {
+    "vietnamese": "cần phải thay đổi trong codebase",
+    "english": "need to be made to the codebase",
+    "soundmark": "/niːd/ /tə/ /bi/ /meɪd/ /tə/ /ðə/ /'kəʊdˌbeɪs/"
+  },
+  {
+    "vietnamese": "Các thay đổi cần phải được thực hiện trong codebase.",
+    "english": "Changes need to be made to the codebase.",
+    "soundmark": "/'tʃeɪndʒɪz/ /niːd/ /tə/ /bi/ /meɪd/ /tə/ /ðə/ /'kəʊdˌbeɪs/"
+  },
+  {
+    "vietnamese": "các hệ thống nên làm việc cùng nhau",
+    "english": "the systems should work together",
+    "soundmark": "/ðə/ /'sɪstəmz/ /ʃʊd/ /wɜːk/ /tə'gɛðər/"
+  },
+  {
+    "vietnamese": "Các hệ thống nên làm việc cùng nhau.",
+    "english": "The systems should work together.",
+    "soundmark": "/ðə/ /'sɪstəmz/ /ʃʊd/ /wɜːk/ /tə'gɛðər/"
+  },
+  {
+    "vietnamese": "các tác vụ theo lịch đã không chạy",
+    "english": "the scheduled tasks did not run",
+    "soundmark": "/ðə/ /'ʃedjuːld/ /tæsks/ /dɪd/ /nɒt/ /rʌn/"
+  },
+  {
+    "vietnamese": "Các tác vụ theo lịch đã không chạy.",
+    "english": "The scheduled tasks did not run.",
+    "soundmark": "/ðə/ /'ʃedjuːld/ /tæsks/ /dɪd/ /nɒt/ /rʌn/"
+  },
+  {
+    "vietnamese": "workflow của chúng ta quá phức tạp",
+    "english": "our workflow is too complicated",
+    "soundmark": "/'aʊə/ /'wɜːkˌfləʊ/ /ɪz/ /tu/ /'kɒmplɪkeɪtɪd/"
+  },
+  {
+    "vietnamese": "Workflow của chúng ta quá phức tạp.",
+    "english": "Our workflow is too complicated.",
+    "soundmark": "/'aʊə/ /'wɜːkˌfləʊ/ /ɪz/ /tu/ /'kɒmplɪkeɪtɪd/"
+  },
+  {
+    "vietnamese": "pipeline nên hiệu quả hơn",
+    "english": "the pipeline should be more efficient",
+    "soundmark": "/ðə/ /'paɪpˌlaɪn/ /ʃʊd/ /bi/ /mɔː/ /ɪ'fɪʃənt/"
+  },
+  {
+    "vietnamese": "Pipeline nên hiệu quả hơn.",
+    "english": "The pipeline should be more efficient.",
+    "soundmark": "/ðə/ /'paɪpˌlaɪn/ /ʃʊd/ /bi/ /mɔː/ /ɪ'fɪʃənt/"
+  },
+  {
+    "vietnamese": "chúng ta cần một quy trình xác thực người dùng",
+    "english": "we need a user authentication process",
+    "soundmark": "/wi/ /niːd/ /ə/ /'juːzə/ /ɔˌθɛntə'keɪʃən/ /'prəʊses/"
+  },
+  {
+    "vietnamese": "Chúng ta cần một quy trình xác thực người dùng.",
+    "english": "We need a user authentication process.",
+    "soundmark": "/wi/ /niːd/ /ə/ /'juːzə/ /ɔˌθɛntə'keɪʃən/ /'prəʊses/"
+  },
+  {
+    "vietnamese": "cơ sở dữ liệu đã đạt đến giới hạn dung lượng",
+    "english": "the database has reached its capacity limit",
+    "soundmark": "/ðə/ /'deɪtəbeɪs/ /hæz/ /riːtʃt/ /ɪts/ /kə'pæsəti/ /'lɪmət/"
+  },
+  {
+    "vietnamese": "Cơ sở dữ liệu đã đạt đến giới hạn dung lượng.",
+    "english": "The database has reached its capacity limit.",
+    "soundmark": "/ðə/ /'deɪtəbeɪs/ /hæz/ /riːtʃt/ /ɪts/ /kə'pæsəti/ /'lɪmət/"
+  },
+  {
+    "vietnamese": "Chúng ta cần tái cấu trúc nó.",
+    "english": "We need to refactor it.",
+    "soundmark": "/wi/ /niːd/ /tə/ /riː'fæktə/ /ɪt/"
+  },
+  {
+    "vietnamese": "Chúng ta cần tích hợp chúng.",
+    "english": "We need to integrate them.",
+    "soundmark": "/wi/ /niːd/ /tə/ /'ɪntəˌgreɪt/ /ðɛm/"
+  },
+  {
+    "vietnamese": "Hãy chạy chúng.",
+    "english": "Let's execute them.",
+    "soundmark": "/lɛts/ /'ɛksɪˌkjut/ /ðɛm/"
+  },
+  {
+    "vietnamese": "Chúng ta cần đơn giản hóa nó.",
+    "english": "We need to streamline it.",
+    "soundmark": "/wi/ /niːd/ /tə/ /'striːmˌlaɪn/ /ɪt/"
+  },
+  {
+    "vietnamese": "Chúng ta cần tối ưu hóa nó.",
+    "english": "We need to optimise it.",
+    "soundmark": "/wi/ /niːd/ /tə/ /'ɒptɪˌmaɪz/ /ɪt/"
+  },
+  {
+    "vietnamese": "Chúng ta cần triển khai nó.",
+    "english": "We need to implement it.",
+    "soundmark": "/wi/ /niːd/ /tə/ /'ɪmpləˌmɛnt/ /ɪt/"
+  },
+  {
+    "vietnamese": "Chúng ta cần mở rộng nó.",
+    "english": "We need to scale it.",
+    "soundmark": "/wi/ /niːd/ /tə/ /skeɪl/ /ɪt/"
+  },
+  {
+    "vietnamese": "cú pháp của ngôn ngữ lập trình của tôi",
+    "english": "the syntax of my programming language",
+    "soundmark": "/ðə/ /'sɪnˌtæks/ /əv/ /maɪ/ /'prəʊˌgræmɪŋ/ /'læŋgwɪdʒ/"
+  },
+  {
+    "vietnamese": "Để tôi giải thích cú pháp của ngôn ngữ lập trình của tôi.",
+    "english": "Let me explain the syntax of my programming language.",
+    "soundmark": "/let/ /mi/ /ɪk'spleɪn/ /ðə/ /'sɪnˌtæks/ /əv/ /maɪ/ /'prəʊˌgræmɪŋ/ /'læŋgwɪdʒ/"
+  },
+  {
+    "vietnamese": "tên biến thường phân biệt chữ hoa chữ thường",
+    "english": "variable names are often case sensitive",
+    "soundmark": "/'veəriəbəl/ /neɪmz/ /ɑː/ /'ɒfən/ /keɪs/ /'sensətɪv/"
+  },
+  {
+    "vietnamese": "Tên biến thường phân biệt chữ hoa chữ thường.",
+    "english": "Variable names are often case sensitive.",
+    "soundmark": "/'veəriəbəl/ /neɪmz/ /ɑː/ /'ɒfən/ /keɪs/ /'sensətɪv/"
+  },
+  {
+    "vietnamese": "comment thường được đánh dấu bằng cú pháp riêng",
+    "english": "comments are usually marked with specific syntax",
+    "soundmark": "/'kɒments/ /ɑː/ /'juːʒuəli/ /mɑːkt/ /wɪð/ /spə'sɪfɪk/ /'sɪntæks/"
+  },
+  {
+    "vietnamese": "Comment thường được đánh dấu bằng cú pháp riêng.",
+    "english": "Comments are usually marked with specific syntax.",
+    "soundmark": "/'kɒments/ /ɑː/ /'juːʒuəli/ /mɑːkt/ /wɪð/ /spə'sɪfɪk/ /'sɪntæks/"
+  },
+  {
+    "vietnamese": "ở nhiều ngôn ngữ, thụt lề không bắt buộc nhưng giúp code dễ đọc hơn",
+    "english": "in many languages, indentation is not mandatory but it improves readability",
+    "soundmark": "/ɪn/ /'meni/ /'læŋgwɪdʒɪz/ /ˌɪnden'teɪʃən/ /ɪz/ /nɒt/ /'mændətəri/ /bət/ /ɪt/ /ɪm'pruːvz/ /ˌriːdə'bɪləti/"
+  },
+  {
+    "vietnamese": "Ở nhiều ngôn ngữ, thụt lề không bắt buộc nhưng giúp code dễ đọc hơn.",
+    "english": "In many languages, indentation is not mandatory but it improves readability.",
+    "soundmark": "/ɪn/ /'meni/ /'læŋgwɪdʒɪz/ /ˌɪnden'teɪʃən/ /ɪz/ /nɒt/ /'mændətəri/ /bət/ /ɪt/ /ɪm'pruːvz/ /ˌriːdə'bɪləti/"
+  },
+  {
+    "vietnamese": "tên hàm thường nên bắt đầu bằng một động từ",
+    "english": "function names should usually start with a verb",
+    "soundmark": "/'fʌŋkʃən/ /neɪmz/ /ʃʊd/ /'juːʒuəli/ /stɑːt/ /wɪð/ /ə/ /vɜːb/"
+  },
+  {
+    "vietnamese": "Tên hàm thường nên bắt đầu bằng một động từ.",
+    "english": "Function names should usually start with a verb.",
+    "soundmark": "/'fʌŋkʃən/ /neɪmz/ /ʃʊd/ /'juːʒuəli/ /stɑːt/ /wɪð/ /ə/ /vɜːb/"
+  },
+  {
+    "vietnamese": "Tên hàm thường nên bắt đầu bằng một động từ và mô tả rõ mục đích của nó.",
+    "english": "Function names should usually start with a verb and clearly describe their purpose.",
+    "soundmark": "/'fʌŋkʃən/ /neɪmz/ /ʃʊd/ /'juːʒuəli/ /stɑːt/ /wɪð/ /ə/ /vɜːb/ /ənd/ /'klɪəli/ /dɪ'skraɪb/ /ðeə/ /'pɜːpəs/"
+  }
+]

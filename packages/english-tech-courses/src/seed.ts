@@ -13,40 +13,21 @@ import {
 } from "@earthworm/schema";
 
 type SeedStatement = {
-  chinese?: string;
   vietnamese?: string;
+  chinese?: string;
   english: string;
   soundmark: string;
 };
 
-type CoursePackSeedConfig = {
-  dataDir: string;
-  title: string;
-  description: string;
-  cover: string;
-  createLessonTitle: (courseName: string) => string;
-};
-
 const creatorId = "1";
-const shouldReset = process.env.XINGRONG_RESET === "1";
-const courseVariant = process.env.COURSE_VARIANT === "zh" ? "zh" : "vi";
-const coursePackConfig: CoursePackSeedConfig =
-  courseVariant === "vi"
-    ? {
-        dataDir: "../data/courses-vi",
-        title: "Xingrong Basic English",
-        description: "Beginner-friendly English lessons with Vietnamese prompts.",
-        cover: "/course-packs/xingrong-basic-english.svg",
-        createLessonTitle: createEnglishLessonTitle,
-      }
-    : {
-        dataDir: "../data/courses",
-        title: "星荣零基础学英语",
-        description: "最适合零基础入门的课程",
-        cover:
-          "https://earthworm-prod-1312884695.cos.ap-beijing.myqcloud.com/course-packs/xingrong.jpg",
-        createLessonTitle: convertToChineseNumber,
-      };
+const shouldReset = process.env.ENGLISH_TECH_RESET === "1";
+const coursePackConfig = {
+  dataDir: "../data/courses-vi",
+  title: "English Tech",
+  description: "Curated English lessons for software teams, synthesized from multiple sources.",
+  cover: "/course-packs/english-tech.svg",
+  createLessonTitle: createEnglishTechLessonTitle,
+};
 
 const coursesDir = path.resolve(__dirname, coursePackConfig.dataDir);
 
@@ -63,7 +44,7 @@ if (!fs.existsSync(coursesDir)) {
 
   await replaceCoursePack();
 
-  console.log("全部创建完成");
+  console.log("English Tech 全部创建完成");
   process.exit(0);
 })();
 
@@ -110,10 +91,10 @@ async function replaceCoursePack() {
         order: coursePackOrder,
         title: coursePackConfig.title,
         description: coursePackConfig.description,
+        cover: coursePackConfig.cover,
         creatorId,
         shareLevel: "public",
         isFree: true,
-        cover: coursePackConfig.cover,
       })
       .returning();
 
@@ -161,25 +142,14 @@ async function replaceCoursePack() {
   });
 }
 
-function createEnglishLessonTitle(numStr: string): string {
-  return `Lesson ${parseInt(numStr, 10)}`;
-}
+function createEnglishTechLessonTitle(numStr: string): string {
+  const lessonTitleMap: Record<string, string> = {
+    "01": "Implementing Code",
+    "02": "Code Review & Testing",
+    "03": "Discussing Code",
+    "04": "Bug Fixing",
+    "05": "Collaboration & Meetings",
+  };
 
-function convertToChineseNumber(numStr: string): string {
-  const chineseNumbers = ["零", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十"];
-  let chineseStr = "第";
-  if (parseInt(numStr) >= 10) {
-    const [tens, ones] = numStr.split("");
-    if (tens !== "1") {
-      chineseStr += chineseNumbers[parseInt(tens, 10)];
-    }
-    chineseStr += "十";
-    if (ones !== "0") {
-      chineseStr += chineseNumbers[parseInt(ones, 10)];
-    }
-  } else {
-    chineseStr += chineseNumbers[parseInt(numStr, 10)];
-  }
-  chineseStr += "课";
-  return chineseStr;
+  return lessonTitleMap[numStr] ?? `Unit ${parseInt(numStr, 10)}`;
 }

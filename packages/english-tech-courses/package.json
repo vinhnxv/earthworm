@@ -1,0 +1,16 @@
+{
+  "name": "@earthworm/english-tech-courses",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Curated English course data for software teams.",
+  "main": "src/index.ts",
+  "scripts": {
+    "upload": "tsx src/seed.ts",
+    "upload:reset": "ENGLISH_TECH_RESET=1 tsx src/seed.ts"
+  },
+  "dependencies": {
+    "@earthworm/db": "workspace:^",
+    "@earthworm/schema": "workspace:^",
+    "drizzle-orm": "^0.32.0"
+  }
+}

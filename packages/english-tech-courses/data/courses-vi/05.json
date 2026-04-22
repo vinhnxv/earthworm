@@ -1,0 +1,427 @@
+[
+  {
+    "vietnamese": "Bạn đang làm gì hôm nay?",
+    "english": "What are you working on today?",
+    "soundmark": "/wɒt/ /ɑː/ /ju/ /'wɜːkɪŋ/ /ɒn/ /tə'deɪ/"
+  },
+  {
+    "vietnamese": "Tôi đang làm phần tích hợp thanh toán.",
+    "english": "I am working on the payment integration.",
+    "soundmark": "/aɪ/ /æm/ /'wɜːkɪŋ/ /ɒn/ /ðə/ /'peɪmənt/ /ˌɪntə'greɪʃən/"
+  },
+  {
+    "vietnamese": "Tôi đang review pull request của hôm qua.",
+    "english": "I am reviewing yesterday's pull request.",
+    "soundmark": "/aɪ/ /æm/ /rɪ'vjuːɪŋ/ /'jestədeɪz/ /pʊl/ /rɪ'kwest/"
+  },
+  {
+    "vietnamese": "Tôi bị block bởi thay đổi ở API.",
+    "english": "I am blocked by the API changes.",
+    "soundmark": "/aɪ/ /æm/ /blɒkt/ /baɪ/ /ðə/ /ˌeɪ/ /pi/ /aɪ/ /'tʃeɪndʒɪz/"
+  },
+  {
+    "vietnamese": "Chúng tôi vẫn đang chờ team thiết kế.",
+    "english": "We are still waiting on the design team.",
+    "soundmark": "/wi/ /ɑː/ /stɪl/ /'weɪtɪŋ/ /ɒn/ /ðə/ /dɪ'zaɪn/ /tiːm/"
+  },
+  {
+    "vietnamese": "Bạn có blocker nào không?",
+    "english": "Do you have any blockers?",
+    "soundmark": "/du/ /ju/ /hæv/ /'eni/ /'blɒkəz/"
+  },
+  {
+    "vietnamese": "Hiện tại tôi không có blocker nào.",
+    "english": "I do not have any blockers right now.",
+    "soundmark": "/aɪ/ /du/ /nɒt/ /hæv/ /'eni/ /'blɒkəz/ /raɪt/ /naʊ/"
+  },
+  {
+    "vietnamese": "Bạn có thể xem giúp PR của tôi không?",
+    "english": "Can someone take a look at my PR?",
+    "soundmark": "/kæn/ /'sʌmwʌn/ /teɪk/ /ə/ /lʊk/ /æt/ /maɪ/ /ˌpi/ /ɑː/"
+  },
+  {
+    "vietnamese": "Tôi sẽ pick up ticket đó tiếp theo.",
+    "english": "I will pick up that ticket next.",
+    "soundmark": "/aɪ/ /wɪl/ /pɪk/ /ʌp/ /ðæt/ /'tɪkət/ /nekst/"
+  },
+  {
+    "vietnamese": "Chúng ta vẫn đúng tiến độ cho đợt release.",
+    "english": "We are still on track for the release.",
+    "soundmark": "/wi/ /ɑː/ /stɪl/ /ɒn/ /træk/ /fɔː/ /ðə/ /rɪ'liːs/"
+  },
+  {
+    "vietnamese": "Chúng ta có thể chuyển việc này sang sprint tiếp theo không?",
+    "english": "Can we move this to the next sprint?",
+    "soundmark": "/kæn/ /wi/ /muːv/ /ðɪs/ /tə/ /ðə/ /nekst/ /sprɪnt/"
+  },
+  {
+    "vietnamese": "Hãy bàn việc này offline.",
+    "english": "Let us take this offline.",
+    "soundmark": "/let/ /ʌs/ /teɪk/ /ðɪs/ /ˌɔf'laɪn/"
+  },
+  {
+    "vietnamese": "Hãy sync lại sau cuộc họp.",
+    "english": "Let us sync after the meeting.",
+    "soundmark": "/let/ /ʌs/ /sɪŋk/ /'ɑːftə/ /ðə/ /'mitɪŋ/"
+  },
+  {
+    "vietnamese": "Tôi sẽ follow up với team hạ tầng.",
+    "english": "I will follow up with the infra team.",
+    "soundmark": "/aɪ/ /wɪl/ /'fɒləʊ/ /ʌp/ /wɪð/ /ði/ /'ɪnfrə/ /tiːm/"
+  },
+  {
+    "vietnamese": "Tôi sẽ gửi bản tóm tắt sau cuộc họp.",
+    "english": "I will send a summary after the meeting.",
+    "soundmark": "/aɪ/ /wɪl/ /send/ /ə/ /'sʌməri/ /'ɑːftə/ /ðə/ /'mitɪŋ/"
+  },
+  {
+    "vietnamese": "Hãy chuyển sang chủ đề tiếp theo.",
+    "english": "Let us move on to the next topic.",
+    "soundmark": "/let/ /ʌs/ /muːv/ /ɒn/ /tə/ /ðə/ /nekst/ /'tɒpɪk/"
+  },
+  {
+    "vietnamese": "Hãy quay lại việc này sau.",
+    "english": "Let us circle back to this later.",
+    "soundmark": "/let/ /ʌs/ /'sɜːkəl/ /bæk/ /tə/ /ðɪs/ /'leɪtər/"
+  },
+  {
+    "vietnamese": "nắm bắt tình hình",
+    "english": "up to speed",
+    "soundmark": "/ʌp/ /tə/ /spiːd/"
+  },
+  {
+    "vietnamese": "Để tôi cập nhật nhanh cho bạn.",
+    "english": "Let me bring you up to speed.",
+    "soundmark": "/let/ /mi/ /brɪŋ/ /ju/ /ʌp/ /tə/ /spiːd/"
+  },
+  {
+    "vietnamese": "đang trong kế hoạch",
+    "english": "in the pipeline",
+    "soundmark": "/ɪn/ /ðə/ /'paɪpˌlaɪn/"
+  },
+  {
+    "vietnamese": "Tính năng báo cáo đang trong kế hoạch.",
+    "english": "The reporting feature is in the pipeline.",
+    "soundmark": "/ðə/ /rɪ'pɔrtɪŋ/ /'fiːtʃə/ /ɪz/ /ɪn/ /ðə/ /'paɪpˌlaɪn/"
+  },
+  {
+    "vietnamese": "để sang một bên",
+    "english": "on the back burner",
+    "soundmark": "/ɒn/ /ðə/ /bæk/ /'bɜːnə/"
+  },
+  {
+    "vietnamese": "Việc migrate đang được để sang một bên lúc này.",
+    "english": "The migration is on the back burner for now.",
+    "soundmark": "/ðə/ /maɪ'greɪʃən/ /ɪz/ /ɒn/ /ðə/ /bæk/ /'bɜːnə/ /fɔː/ /naʊ/"
+  },
+  {
+    "vietnamese": "chữa cháy",
+    "english": "put out fires",
+    "soundmark": "/pʊt/ /aʊt/ /'faɪəz/"
+  },
+  {
+    "vietnamese": "Chúng tôi đã dành cả buổi sáng để chữa cháy.",
+    "english": "We spent the morning putting out fires.",
+    "soundmark": "/wi/ /spɛnt/ /ðə/ /'mɔːnɪŋ/ /'pʊtɪŋ/ /aʊt/ /'faɪəz/"
+  },
+  {
+    "vietnamese": "đi quá sâu vào một vấn đề",
+    "english": "down a rabbit hole",
+    "soundmark": "/daʊn/ /ə/ /'ræbət/ /həʊl/"
+  },
+  {
+    "vietnamese": "Chúng tôi đã đi quá sâu vào một vấn đề khi debug.",
+    "english": "We went down a rabbit hole while debugging.",
+    "soundmark": "/wi/ /wɛnt/ /daʊn/ /ə/ /'ræbət/ /həʊl/ /waɪl/ /di'bʌgɪŋ/"
+  },
+  {
+    "vietnamese": "hoàn tất những việc còn dang dở",
+    "english": "tie up loose ends",
+    "soundmark": "/taɪ/ /ʌp/ /lus/ /ɛndz/"
+  },
+  {
+    "vietnamese": "Hãy hoàn tất những việc còn dang dở trước cuối tuần.",
+    "english": "Let us tie up loose ends before the weekend.",
+    "soundmark": "/let/ /ʌs/ /taɪ/ /ʌp/ /lus/ /ɛndz/ /bɪ'fɔː/ /ðə/ /'wikˌɛnd/"
+  },
+  {
+    "vietnamese": "các hạng mục hành động",
+    "english": "action items",
+    "soundmark": "/'ækʃən/ /'aɪtəmz/"
+  },
+  {
+    "vietnamese": "Hãy ghi lại các hạng mục hành động.",
+    "english": "Let us write down the action items.",
+    "soundmark": "/let/ /ʌs/ /raɪt/ /daʊn/ /ði/ /'ækʃən/ /'aɪtəmz/"
+  },
+  {
+    "vietnamese": "chúng ta cần follow up việc này",
+    "english": "we need to follow up on this",
+    "soundmark": "/wi/ /niːd/ /tə/ /'fɒləʊ/ /ʌp/ /ɒn/ /ðɪs/"
+  },
+  {
+    "vietnamese": "Chúng ta cần follow up việc này vào ngày mai.",
+    "english": "We need to follow up on this tomorrow.",
+    "soundmark": "/wi/ /niːd/ /tə/ /'fɒləʊ/ /ʌp/ /ɒn/ /ðɪs/ /tə'mɒrəʊ/"
+  },
+  {
+    "vietnamese": "API",
+    "english": "API",
+    "soundmark": "/ˌeɪ/ /pi/ /aɪ/"
+  },
+  {
+    "vietnamese": "gặp vấn đề với API",
+    "english": "having problems with the API",
+    "soundmark": "/'hævɪŋ/ /'prɒbləmz/ /wɪð/ /ði/ /ˌeɪ/ /pi/ /aɪ/"
+  },
+  {
+    "vietnamese": "Bạn đang gặp vấn đề với API à?",
+    "english": "Are you having problems with the API?",
+    "soundmark": "/ɑː/ /ju/ /'hævɪŋ/ /'prɒbləmz/ /wɪð/ /ði/ /ˌeɪ/ /pi/ /aɪ/"
+  },
+  {
+    "vietnamese": "Xin lỗi, tôi quay lại rồi.",
+    "english": "Sorry, I am back.",
+    "soundmark": "/'sɒri/ /aɪ/ /æm/ /bæk/"
+  },
+  {
+    "vietnamese": "WiFi",
+    "english": "WiFi",
+    "soundmark": "/'waɪˌfaɪ/"
+  },
+  {
+    "vietnamese": "WiFi của tôi bị rớt.",
+    "english": "My WiFi dropped.",
+    "soundmark": "/maɪ/ /'waɪˌfaɪ/ /drɒpt/"
+  },
+  {
+    "vietnamese": "Xin lỗi, tôi quay lại rồi. WiFi của tôi bị rớt.",
+    "english": "Sorry, I am back. My WiFi dropped.",
+    "soundmark": "/'sɒri/ /aɪ/ /æm/ /bæk/ /maɪ/ /'waɪˌfaɪ/ /drɒpt/"
+  },
+  {
+    "vietnamese": "tôi có file rồi",
+    "english": "I have got the file",
+    "soundmark": "/aɪv/ /gɒt/ /ðə/ /faɪl/"
+  },
+  {
+    "vietnamese": "JSON",
+    "english": "JSON",
+    "soundmark": "/'dʒeɪsən/"
+  },
+  {
+    "vietnamese": "nhưng nó không ở định dạng JSON",
+    "english": "but it is not in JSON format",
+    "soundmark": "/bət/ /ɪt/ /ɪz/ /nɒt/ /ɪn/ /'dʒeɪsən/ /'fɔːmæt/"
+  },
+  {
+    "vietnamese": "Tôi có file rồi nhưng nó không ở định dạng JSON.",
+    "english": "I have got the file, but it is not in JSON format.",
+    "soundmark": "/aɪv/ /gɒt/ /ðə/ /faɪl/ /bət/ /ɪt/ /ɪz/ /nɒt/ /ɪn/ /'dʒeɪsən/ /'fɔːmæt/"
+  },
+  {
+    "vietnamese": "CI/CD",
+    "english": "CI/CD",
+    "soundmark": "/siː/ /aɪ/ /siː/ /diː/"
+  },
+  {
+    "vietnamese": "là một phần quan trọng của quy trình phát triển của chúng ta",
+    "english": "is an important part of our development process",
+    "soundmark": "/ɪz/ /æn/ /ɪm'pɔːtənt/ /pɑːt/ /əv/ /'aʊə/ /dɪ'vɛləpmənt/ /'prəʊses/"
+  },
+  {
+    "vietnamese": "CI/CD là một phần quan trọng của quy trình phát triển của chúng ta.",
+    "english": "CI/CD is an important part of our development process.",
+    "soundmark": "/siː/ /aɪ/ /siː/ /diː/ /ɪz/ /æn/ /ɪm'pɔːtənt/ /pɑːt/ /əv/ /'aʊə/ /dɪ'vɛləpmənt/ /'prəʊses/"
+  },
+  {
+    "vietnamese": "Linux",
+    "english": "Linux",
+    "soundmark": "/'lɪnəks/"
+  },
+  {
+    "vietnamese": "có kinh nghiệm với Linux",
+    "english": "have experience with Linux",
+    "soundmark": "/hæv/ /ɪk'spɪriəns/ /wɪð/ /'lɪnəks/"
+  },
+  {
+    "vietnamese": "Bạn có kinh nghiệm với Linux không?",
+    "english": "Do you have experience with Linux?",
+    "soundmark": "/du/ /ju/ /hæv/ /ɪk'spɪriəns/ /wɪð/ /'lɪnəks/"
+  },
+  {
+    "vietnamese": "Tôi cần một chút giúp đỡ.",
+    "english": "I need some help.",
+    "soundmark": "/aɪ/ /niːd/ /sʌm/ /help/"
+  },
+  {
+    "vietnamese": "Ubuntu",
+    "english": "Ubuntu",
+    "soundmark": "/ʊ'bʊntuː/"
+  },
+  {
+    "vietnamese": "thiết lập một môi trường Ubuntu",
+    "english": "setting up an Ubuntu environment",
+    "soundmark": "/'sɛtɪŋ/ /ʌp/ /æn/ /ʊ'bʊntuː/ /ɪn'vaɪrənmənt/"
+  },
+  {
+    "vietnamese": "Tôi cần một chút giúp đỡ để thiết lập một môi trường Ubuntu.",
+    "english": "I need some help setting up an Ubuntu environment.",
+    "soundmark": "/aɪ/ /niːd/ /sʌm/ /help/ /'sɛtɪŋ/ /ʌp/ /æn/ /ʊ'bʊntuː/ /ɪn'vaɪrənmənt/"
+  },
+  {
+    "vietnamese": "cache",
+    "english": "cache",
+    "soundmark": "/kæʃ/"
+  },
+  {
+    "vietnamese": "xóa cache",
+    "english": "clear the cache",
+    "soundmark": "/klɪə/ /ðə/ /kæʃ/"
+  },
+  {
+    "vietnamese": "rồi chạy lại nó",
+    "english": "and then run it again",
+    "soundmark": "/ænd/ /ðɛn/ /rʌn/ /ɪt/ /ə'gɛn/"
+  },
+  {
+    "vietnamese": "Hãy thử xóa cache rồi chạy lại nó.",
+    "english": "Try clearing the cache and then run it again.",
+    "soundmark": "/traɪ/ /'klɪrɪŋ/ /ðə/ /kæʃ/ /ænd/ /ðɛn/ /rʌn/ /ɪt/ /ə'gɛn/"
+  },
+  {
+    "vietnamese": "No-meeting Fridays",
+    "english": "no-meeting Fridays",
+    "soundmark": "/nəʊ/ /'miːtɪŋ/ /'fraɪdeɪz/"
+  },
+  {
+    "vietnamese": "rất được mọi người ủng hộ",
+    "english": "were a big hit with everyone",
+    "soundmark": "/wə/ /ə/ /bɪg/ /hɪt/ /wɪð/ /'evriwʌn/"
+  },
+  {
+    "vietnamese": "No-meeting Fridays rất được mọi người ủng hộ.",
+    "english": "No-meeting Fridays were a big hit with everyone.",
+    "soundmark": "/nəʊ/ /'miːtɪŋ/ /'fraɪdeɪz/ /wə/ /ə/ /bɪg/ /hɪt/ /wɪð/ /'evriwʌn/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ chúng ta đều đồng ý với điều đó.",
+    "english": "I think we can all agree with that one.",
+    "soundmark": "/aɪ/ /θɪŋk/ /wi/ /kæn/ /ɔl/ /ə'gri/ /wɪð/ /ðæt/ /wʌn/"
+  },
+  {
+    "vietnamese": "chuyển sang",
+    "english": "moving on to",
+    "soundmark": "/'muːvɪŋ/ /ɒn/ /tuː/"
+  },
+  {
+    "vietnamese": "Chuyển sang phần cần cải thiện,",
+    "english": "Moving on to what needs improving,",
+    "soundmark": "/'muːvɪŋ/ /ɒn/ /tuː/ /wɒt/ /niːdz/ /ɪm'pruːvɪŋ/"
+  },
+  {
+    "vietnamese": "các yêu cầu chưa rõ ràng",
+    "english": "unclear requirements",
+    "soundmark": "/ʌn'klɪr/ /rɪ'kwaɪərmənts/"
+  },
+  {
+    "vietnamese": "thiếu độ chi tiết",
+    "english": "lack of detail",
+    "soundmark": "/læk/ /əv/ /dɪ'teɪl/"
+  },
+  {
+    "vietnamese": "không đủ kỹ",
+    "english": "not thorough enough",
+    "soundmark": "/nɒt/ /'θʌrə/ /ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "Các unit tests chưa đủ kỹ.",
+    "english": "The unit tests are not thorough enough.",
+    "soundmark": "/ðə/ /'juːnɪt/ /tests/ /ɑː/ /nɒt/ /'θʌrə/ /ɪ'nʌf/"
+  },
+  {
+    "vietnamese": "không đủ độ bao phủ",
+    "english": "not enough coverage",
+    "soundmark": "/nɒt/ /ɪ'nʌf/ /'kʌvərɪdʒ/"
+  },
+  {
+    "vietnamese": "Các unit tests chưa có đủ độ bao phủ.",
+    "english": "The unit tests do not have enough coverage.",
+    "soundmark": "/ðə/ /'juːnɪt/ /tests/ /duː/ /nɒt/ /hæv/ /ɪ'nʌf/ /'kʌvərɪdʒ/"
+  },
+  {
+    "vietnamese": "xét về",
+    "english": "in terms of",
+    "soundmark": "/ɪn/ /tɜːmz/ /əv/"
+  },
+  {
+    "vietnamese": "Xét về unit testing,",
+    "english": "In terms of unit testing,",
+    "soundmark": "/ɪn/ /tɜːmz/ /əv/ /'juːnɪt/ /'testɪŋ/"
+  },
+  {
+    "vietnamese": "còn việc ... thì sao",
+    "english": "How about ...?",
+    "soundmark": "/haʊ/ /ə'baʊt/"
+  },
+  {
+    "vietnamese": "Còn việc tăng tần suất các buổi refinement thì sao?",
+    "english": "How about increasing the frequency of the refinement sessions?",
+    "soundmark": "/haʊ/ /ə'baʊt/ /ɪn'krisɪŋ/ /ðə/ /'friːkwənsi/ /əv/ /ðə/ /rɪ'faɪnmənt/ /'sɛʃənz/"
+  },
+  {
+    "vietnamese": "xác định phần còn thiếu",
+    "english": "identify what is missing",
+    "soundmark": "/aɪ'dentɪfaɪ/ /wɒt/ /ɪz/ /'mɪsɪŋ/"
+  },
+  {
+    "vietnamese": "Còn việc tập hợp các developers lại và xác định phần còn thiếu thì sao?",
+    "english": "How about we get the developers together and identify what is missing?",
+    "soundmark": "/haʊ/ /ə'baʊt/ /wiː/ /get/ /ðə/ /dɪ'veləpəz/ /tə'geðə/ /ənd/ /aɪ'dentɪfaɪ/ /wɒt/ /ɪz/ /'mɪsɪŋ/"
+  },
+  {
+    "vietnamese": "Để tôi cập nhật cho bạn về tiến độ mới nhất.",
+    "english": "Let me bring you up to speed with the latest progress.",
+    "soundmark": "/let/ /miː/ /brɪŋ/ /juː/ /ʌp/ /tə/ /spiːd/ /wɪð/ /ðə/ /'leɪtɪst/ /'prəʊgres/"
+  },
+  {
+    "vietnamese": "Do hạn chế ngân sách, chúng tôi đã quyết định hoãn việc phát triển module này.",
+    "english": "Due to budget constraints, we have decided to postpone the development of this module.",
+    "soundmark": "/du/ /tə/ /'bʌdʒət/ /kən'streɪnts/ /wi/ /hæv/ /dɪ'saɪdəd/ /tə/ /pəʊst'pəʊn/ /ðə/ /dɪ'vɛləpmənt/ /əv/ /ðɪs/ /'mɒdjuːl/"
+  },
+  {
+    "vietnamese": "Chúng tôi đang làm phần nâng cấp và nó dự kiến sẽ được phát hành vào tháng tới.",
+    "english": "We are working on the upgrade and it is scheduled to be released next month.",
+    "soundmark": "/wi/ /ɑː/ /'wɜːkɪŋ/ /ɒn/ /ði/ /'ʌpgreɪd/ /ənd/ /ɪt/ /ɪz/ /'ʃedjuːld/ /tə/ /biː/ /rɪ'liːst/ /nekst/ /mʌnθ/"
+  },
+  {
+    "vietnamese": "Team đã làm việc rất vất vả tuần này, xử lý các vấn đề khẩn cấp liên quan đến tích hợp.",
+    "english": "The team have been working hard this week, putting out fires related to integration challenges.",
+    "soundmark": "/ðə/ /tiːm/ /hæv/ /biːn/ /'wɜːkɪŋ/ /hɑːd/ /ðɪs/ /wiːk/ /'pʊtɪŋ/ /aʊt/ /'faɪəz/ /rɪ'leɪtɪd/ /tə/ /ˌɪntɪ'greɪʃən/ /'tʃælɪndʒɪz/"
+  },
+  {
+    "vietnamese": "Lúc đầu khi điều tra một vấn đề hiệu năng, chúng tôi đã đi quá sâu và phát hiện ra lỗi database.",
+    "english": "While initially investigating a performance issue, we started going down a rabbit hole and discovered database errors.",
+    "soundmark": "/waɪl/ /ɪ'nɪʃəli/ /ɪn'vɛstəˌgeɪtɪŋ/ /ə/ /pə'fɔːməns/ /'ɪʃu/ /wi/ /'stɑːtɪd/ /'gəʊɪŋ/ /daʊn/ /ə/ /'ræbət/ /həʊl/ /ænd/ /dɪ'skʌvərd/ /'deɪtəbeɪs/ /'erəz/"
+  },
+  {
+    "vietnamese": "Chúng tôi có vài tính năng thú vị đang trong kế hoạch và sẽ sẵn sàng để deploy trong sprint tới.",
+    "english": "We have some exciting features in the pipeline that will be ready for deployment in the next sprint.",
+    "soundmark": "/wi/ /hæv/ /sʌm/ /ɪk'saɪtɪŋ/ /'fiːtʃəz/ /ɪn/ /ðə/ /'paɪpˌlaɪn/ /ðæt/ /wɪl/ /bi/ /'redi/ /fɔː/ /dɪ'plɔɪmənt/ /ɪn/ /ðə/ /nekst/ /sprɪnt/"
+  },
+  {
+    "vietnamese": "Những bug được tìm thấy ở giai đoạn này đang gây chậm trễ trong việc hoàn thành các user story.",
+    "english": "Bugs found at this stage are causing delays in completing the user stories.",
+    "soundmark": "/bʌgz/ /faʊnd/ /æt/ /ðɪs/ /steɪdʒ/ /ɑː/ /'kɔzɪŋ/ /dɪ'leɪz/ /ɪn/ /kəm'plitɪŋ/ /ðə/ /'juːzə/ /'stɔːriz/"
+  },
+  {
+    "vietnamese": "Kết quả là chúng ta đang lỡ một số deadline của sprint.",
+    "english": "As a result, we are missing some sprint deadlines.",
+    "soundmark": "/æz/ /ə/ /rɪ'zʌlt/ /wi/ /ɑː/ /'mɪsɪŋ/ /sʌm/ /sprɪnt/ /'dedlaɪnz/"
+  },
+  {
+    "vietnamese": "Chúng ta cần đảm bảo rằng các user story được định nghĩa rõ ràng.",
+    "english": "We need to make sure that the user stories are well defined.",
+    "soundmark": "/wi/ /niːd/ /tə/ /meɪk/ /ʃʊr/ /ðæt/ /ðə/ /'juːzə/ /'stɔːriz/ /ɑː/ /wel/ /dɪ'faɪnd/"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "vietnamese": "thì mệnh lệnh hiện tại",
+    "english": "imperative present tense",
+    "soundmark": "/ɪm'pɛrətɪv/ /'prezənt/ /tɛns/"
+  },
+  {
+    "vietnamese": "dùng thì mệnh lệnh hiện tại",
+    "english": "use the imperative present tense",
+    "soundmark": "/juːz/ /ði/ /ɪm'pɛrətɪv/ /'prezənt/ /tɛns/"
+  },
+  {
+    "vietnamese": "trong commit message",
+    "english": "in commit messages",
+    "soundmark": "/ɪn/ /kə'mɪt/ /'mɛsɪdʒɪz/"
+  },
+  {
+    "vietnamese": "Dùng thì mệnh lệnh hiện tại trong commit message.",
+    "english": "Use the imperative present tense in commit messages.",
+    "soundmark": "/juːz/ /ði/ /ɪm'pɛrətɪv/ /'prezənt/ /tɛns/ /ɪn/ /kə'mɪt/ /'mɛsɪdʒɪz/"
+  },
+  {
+    "vietnamese": "dùng dạng nguyên thể của động từ",
+    "english": "use the base form of the verb",
+    "soundmark": "/juːz/ /ðə/ /beɪs/ /fɔːm/ /əv/ /ðə/ /vɜːb/"
+  },
+  {
+    "vietnamese": "Mô tả commit sẽ làm gì, không phải bạn đã làm gì.",
+    "english": "Describe what the commit will do, not what you did.",
+    "soundmark": "/dɪ'skraɪb/ /wɒt/ /ðə/ /kə'mɪt/ /wɪl/ /du/ /nɒt/ /wɒt/ /ju/ /dɪd/"
+  },
+  {
+    "vietnamese": "nếu tôi áp dụng commit này",
+    "english": "if I apply this commit",
+    "soundmark": "/ɪf/ /aɪ/ /ə'plaɪ/ /ðɪs/ /kə'mɪt/"
+  },
+  {
+    "vietnamese": "nó sẽ cập nhật các thư viện phụ thuộc",
+    "english": "it will update library dependencies",
+    "soundmark": "/ɪt/ /wɪl/ /ʌp'deɪt/ /'laɪbrəri/ /dɪ'pɛndənsiz/"
+  },
+  {
+    "vietnamese": "Nếu tôi áp dụng commit này, nó sẽ cập nhật các thư viện phụ thuộc.",
+    "english": "If I apply this commit, it will update library dependencies.",
+    "soundmark": "/ɪf/ /aɪ/ /ə'plaɪ/ /ðɪs/ /kə'mɪt/ /ɪt/ /wɪl/ /ʌp'deɪt/ /'laɪbrəri/ /dɪ'pɛndənsiz/"
+  },
+  {
+    "vietnamese": "đã thay đổi",
+    "english": "changed",
+    "soundmark": "/tʃeɪndʒd/"
+  },
+  {
+    "vietnamese": "hãy thay đổi",
+    "english": "change",
+    "soundmark": "/tʃeɪndʒ/"
+  },
+  {
+    "vietnamese": "phối màu",
+    "english": "the colour scheme",
+    "soundmark": "/ðə/ /'kʌlə/ /skiːm/"
+  },
+  {
+    "vietnamese": "trang chủ",
+    "english": "the homepage",
+    "soundmark": "/ðə/ /'həʊmˌpeɪdʒ/"
+  },
+  {
+    "vietnamese": "Đã thay đổi phối màu của trang chủ.",
+    "english": "Changed the colour scheme of the homepage.",
+    "soundmark": "/tʃeɪndʒd/ /ðə/ /'kʌlə/ /skiːm/ /əv/ /ðə/ /'həʊmˌpeɪdʒ/"
+  },
+  {
+    "vietnamese": "Thay đổi phối màu của trang chủ.",
+    "english": "Change colour scheme of homepage.",
+    "soundmark": "/tʃeɪndʒ/ /'kʌlə/ /skiːm/ /əv/ /'həʊmˌpeɪdʒ/"
+  },
+  {
+    "vietnamese": "đang cập nhật",
+    "english": "updating",
+    "soundmark": "/ʌp'deɪtɪŋ/"
+  },
+  {
+    "vietnamese": "hãy cập nhật",
+    "english": "update",
+    "soundmark": "/ʌp'deɪt/"
+  },
+  {
+    "vietnamese": "các thư viện phụ thuộc",
+    "english": "the library dependencies",
+    "soundmark": "/ðə/ /'laɪbrəri/ /dɪ'pɛndənsiz/"
+  },
+  {
+    "vietnamese": "Đang cập nhật các thư viện phụ thuộc.",
+    "english": "Updating the library dependencies.",
+    "soundmark": "/ʌp'deɪtɪŋ/ /ðə/ /'laɪbrəri/ /dɪ'pɛndənsiz/"
+  },
+  {
+    "vietnamese": "Cập nhật các thư viện phụ thuộc.",
+    "english": "Update library dependencies.",
+    "soundmark": "/ʌp'deɪt/ /'laɪbrəri/ /dɪ'pɛndənsiz/"
+  },
+  {
+    "vietnamese": "đã triển khai",
+    "english": "implemented",
+    "soundmark": "/'ɪmpləˌmɛntəd/"
+  },
+  {
+    "vietnamese": "hãy triển khai",
+    "english": "implement",
+    "soundmark": "/'ɪmpləˌmɛnt/"
+  },
+  {
+    "vietnamese": "một thuật toán mới cho việc sắp xếp",
+    "english": "a new algorithm for sorting",
+    "soundmark": "/ə/ /njuː/ /'ælɡəˌrɪðəm/ /fɔː/ /'sɔːtɪŋ/"
+  },
+  {
+    "vietnamese": "Đã triển khai một thuật toán mới cho việc sắp xếp.",
+    "english": "Implemented a new algorithm for sorting.",
+    "soundmark": "/'ɪmpləˌmɛntəd/ /ə/ /njuː/ /'ælɡəˌrɪðəm/ /fɔː/ /'sɔːtɪŋ/"
+  },
+  {
+    "vietnamese": "Triển khai một thuật toán mới cho việc sắp xếp.",
+    "english": "Implement new algorithm for sorting.",
+    "soundmark": "/'ɪmpləˌmɛnt/ /njuː/ /'ælɡəˌrɪðəm/ /fɔː/ /'sɔːtɪŋ/"
+  },
+  {
+    "vietnamese": "đã sửa",
+    "english": "fixed",
+    "soundmark": "/fɪkst/"
+  },
+  {
+    "vietnamese": "hãy sửa",
+    "english": "fix",
+    "soundmark": "/fɪks/"
+  },
+  {
+    "vietnamese": "một lỗi trong module đăng nhập",
+    "english": "a bug in the login module",
+    "soundmark": "/ə/ /bʌg/ /ɪn/ /ðə/ /'lɔgɪn/ /'mɒdjuːl/"
+  },
+  {
+    "vietnamese": "Đã sửa một lỗi trong module đăng nhập.",
+    "english": "Fixed a bug in the login module.",
+    "soundmark": "/fɪkst/ /ə/ /bʌg/ /ɪn/ /ðə/ /'lɔgɪn/ /'mɒdjuːl/"
+  },
+  {
+    "vietnamese": "Sửa lỗi trong module đăng nhập.",
+    "english": "Fix bug in login module.",
+    "soundmark": "/fɪks/ /bʌg/ /ɪn/ /'lɔgɪn/ /'mɒdjuːl/"
+  },
+  {
+    "vietnamese": "đang thêm",
+    "english": "adding",
+    "soundmark": "/'ædɪŋ/"
+  },
+  {
+    "vietnamese": "hãy thêm",
+    "english": "add",
+    "soundmark": "/æd/"
+  },
+  {
+    "vietnamese": "các tính năng mới cho dashboard",
+    "english": "new features to the dashboard",
+    "soundmark": "/njuː/ /'fiːtʃəz/ /tə/ /ðə/ /'dæʃˌbɔːd/"
+  },
+  {
+    "vietnamese": "Đang thêm các tính năng mới cho dashboard.",
+    "english": "Adding new features to the dashboard.",
+    "soundmark": "/'ædɪŋ/ /njuː/ /'fiːtʃəz/ /tə/ /ðə/ /'dæʃˌbɔːd/"
+  },
+  {
+    "vietnamese": "Thêm các tính năng mới cho dashboard.",
+    "english": "Add new features to dashboard.",
+    "soundmark": "/æd/ /njuː/ /'fiːtʃəz/ /tə/ /'dæʃˌbɔːd/"
+  },
+  {
+    "vietnamese": "đã tái cấu trúc",
+    "english": "refactored",
+    "soundmark": "/riː'fæktəd/"
+  },
+  {
+    "vietnamese": "hãy tái cấu trúc",
+    "english": "refactor",
+    "soundmark": "/riː'fæktə/"
+  },
+  {
+    "vietnamese": "code để dễ đọc hơn",
+    "english": "the code for better readability",
+    "soundmark": "/ðə/ /kəʊd/ /fɔː/ /'betə/ /ˌridə'bɪləti/"
+  },
+  {
+    "vietnamese": "Đã tái cấu trúc code để dễ đọc hơn.",
+    "english": "Refactored the code for better readability.",
+    "soundmark": "/riː'fæktəd/ /ðə/ /kəʊd/ /fɔː/ /'betə/ /ˌridə'bɪləti/"
+  },
+  {
+    "vietnamese": "Tái cấu trúc code để dễ đọc hơn.",
+    "english": "Refactor code for better readability.",
+    "soundmark": "/riː'fæktə/ /kəʊd/ /fɔː/ /'betə/ /ˌridə'bɪləti/"
+  },
+  {
+    "vietnamese": "Dùng Change, không dùng Changed.",
+    "english": "Use Change, not Changed.",
+    "soundmark": "/juːz/ /tʃeɪndʒ/ /nɒt/ /tʃeɪndʒd/"
+  },
+  {
+    "vietnamese": "Dùng Update, không dùng Updating.",
+    "english": "Use Update, not Updating.",
+    "soundmark": "/juːz/ /ʌp'deɪt/ /nɒt/ /ʌp'deɪtɪŋ/"
+  },
+  {
+    "vietnamese": "Dùng Implement, không dùng Implemented.",
+    "english": "Use Implement, not Implemented.",
+    "soundmark": "/juːz/ /'ɪmpləˌmɛnt/ /nɒt/ /'ɪmpləˌmɛntəd/"
+  },
+  {
+    "vietnamese": "Dùng Fix, không dùng Fixed.",
+    "english": "Use Fix, not Fixed.",
+    "soundmark": "/juːz/ /fɪks/ /nɒt/ /fɪkst/"
+  },
+  {
+    "vietnamese": "Dùng Add, không dùng Adding.",
+    "english": "Use Add, not Adding.",
+    "soundmark": "/juːz/ /æd/ /nɒt/ /'ædɪŋ/"
+  },
+  {
+    "vietnamese": "Dùng Refactor, không dùng Refactored.",
+    "english": "Use Refactor, not Refactored.",
+    "soundmark": "/juːz/ /riː'fæktə/ /nɒt/ /riː'fæktəd/"
+  },
+  {
+    "vietnamese": "cấu hình các thiết lập",
+    "english": "configure the settings",
+    "soundmark": "/kən'fɪgə/ /ðə/ /'sɛtɪŋz/"
+  },
+  {
+    "vietnamese": "tích hợp các hệ thống",
+    "english": "integrate the systems",
+    "soundmark": "/'ɪntəˌgreɪt/ /ðə/ /'sɪstəmz/"
+  },
+  {
+    "vietnamese": "chạy các tác vụ theo lịch",
+    "english": "execute the scheduled tasks",
+    "soundmark": "/'ɛksɪˌkjut/ /ðə/ /'ʃedjuːld/ /tæsks/"
+  },
+  {
+    "vietnamese": "đơn giản hóa workflow",
+    "english": "streamline the workflow",
+    "soundmark": "/'striːmˌlaɪn/ /ðə/ /'wɜːkˌfləʊ/"
+  },
+  {
+    "vietnamese": "tối ưu hóa pipeline",
+    "english": "optimise the pipeline",
+    "soundmark": "/'ɒptɪˌmaɪz/ /ðə/ /'paɪpˌlaɪn/"
+  },
+  {
+    "vietnamese": "triển khai xác thực người dùng",
+    "english": "implement user authentication",
+    "soundmark": "/'ɪmpləˌmɛnt/ /'juːzə/ /ɔˌθɛntə'keɪʃən/"
+  },
+  {
+    "vietnamese": "mở rộng database layer",
+    "english": "scale the database layer",
+    "soundmark": "/skeɪl/ /ðə/ /'deɪtəbeɪs/ /'leə/"
+  },
+  {
+    "vietnamese": "kiểm tra nhanh",
+    "english": "sanity check",
+    "soundmark": "/'sænəti/ /tʃek/"
+  },
+  {
+    "vietnamese": "Bạn có thể kiểm tra nhanh email của tôi trước khi tôi gửi nó không?",
+    "english": "Can you sanity check my email before I send it?",
+    "soundmark": "/kæn/ /ju/ /'sænəti/ /tʃek/ /maɪ/ /'iːmeɪl/ /bɪ'fɔː/ /aɪ/ /send/ /ɪt/"
+  },
+  {
+    "vietnamese": "Bạn có thể giúp tôi test hôm nay không?",
+    "english": "Could you help me with testing today?",
+    "soundmark": "/kʊd/ /ju/ /help/ /mi/ /wɪð/ /'tɛstɪŋ/ /tə'deɪ/"
+  },
+  {
+    "vietnamese": "Bạn đã log việc đó ở đâu?",
+    "english": "Where did you log that?",
+    "soundmark": "/weə/ /dɪd/ /ju/ /lɔg/ /ðæt/"
+  },
+  {
+    "vietnamese": "Script của bạn có kiểm tra lỗi tương thích không?",
+    "english": "Does your script check for compatibility errors?",
+    "soundmark": "/dʌz/ /jə/ /skrɪpt/ /tʃek/ /fɔː/ /kəmˌpætə'bɪləti/ /'erəz/"
+  },
+  {
+    "vietnamese": "Đợt release tiếp theo được lên lịch khi nào?",
+    "english": "When is the next release scheduled?",
+    "soundmark": "/wen/ /ɪz/ /ðə/ /nekst/ /rɪ'liːs/ /'ʃedjuːld/"
+  },
+  {
+    "vietnamese": "Ai đang làm phần testing?",
+    "english": "Who is doing the testing?",
+    "soundmark": "/hu/ /ɪz/ /'duɪŋ/ /ðə/ /'tɛstɪŋ/"
+  },
+  {
+    "vietnamese": "Framework của bạn đã được stress test chưa?",
+    "english": "Has your framework been stress tested?",
+    "soundmark": "/hæz/ /jə/ /'freɪmˌwɜːk/ /bɪn/ /stres/ /'tɛstəd/"
+  },
+  {
+    "vietnamese": "Tôi đã review các thay đổi bạn đã làm cho ETL pipeline.",
+    "english": "I have reviewed the changes that you made to the ETL pipeline.",
+    "soundmark": "/aɪ/ /hæv/ /rɪ'vjuːd/ /ðə/ /'tʃeɪndʒɪz/ /ðæt/ /juː/ /meɪd/ /tə/ /ði/ /ˌiː/ /tiː/ /el/ /'paɪpˌlaɪn/"
+  },
+  {
+    "vietnamese": "Tôi có vài điểm muốn trao đổi lại.",
+    "english": "I have got a few points I would like to go over.",
+    "soundmark": "/aɪv/ /gɒt/ /ə/ /fjuː/ /pɔɪnts/ /aɪ/ /wʊd/ /laɪk/ /tə/ /gəʊ/ /'əʊvə/"
+  },
+  {
+    "vietnamese": "Bạn đã nghĩ đến việc tối ưu phần này chưa?",
+    "english": "Have you thought about optimising this bit?",
+    "soundmark": "/hæv/ /ju/ /θɔːt/ /ə'baʊt/ /'ɒptɪˌmaɪzɪŋ/ /ðɪs/ /bɪt/"
+  },
+  {
+    "vietnamese": "Tôi nghĩ bạn có thể dùng list comprehension cho phần đó.",
+    "english": "I was thinking you could use a list comprehension for that part.",
+    "soundmark": "/aɪ/ /wəz/ /'θɪŋkɪŋ/ /juː/ /kʊd/ /juːz/ /ə/ /lɪst/ /ˌkɒmprɪ'henʃən/ /fɔː/ /ðæt/ /pɑːt/"
+  },
+  {
+    "vietnamese": "Được, tôi sẽ thử làm vậy.",
+    "english": "I will give that a go.",
+    "soundmark": "/aɪ/ /wɪl/ /gɪv/ /ðæt/ /ə/ /gəʊ/"
+  },
+  {
+    "vietnamese": "Tôi rất thích cách bạn đã tái cấu trúc module data loading.",
+    "english": "I really like how you refactored the data loading module.",
+    "soundmark": "/aɪ/ /'rɪəli/ /laɪk/ /haʊ/ /ju/ /riː'fæktəd/ /ðə/ /'deɪtə/ /'ləʊdɪŋ/ /'mɒdjuːl/"
+  },
+  {
+    "vietnamese": "Hãy cho tôi biết khi nó đã sẵn sàng.",
+    "english": "Let me know when it is good to go.",
+    "soundmark": "/let/ /mi/ /nəʊ/ /wen/ /ɪt/ /ɪz/ /gʊd/ /tə/ /gəʊ/"
+  },
+  {
+    "vietnamese": "review code của nhau",
+    "english": "review each other's code",
+    "soundmark": "/rɪ'vjuː/ /iːtʃ/ /'ʌðəz/ /kəʊd/"
+  },
+  {
+    "vietnamese": "Các guideline này nên được tuân theo khi review code của nhau.",
+    "english": "These guidelines should be followed when reviewing each other's code.",
+    "soundmark": "/ðiːz/ /'gaɪdˌlaɪnz/ /ʃʊd/ /biː/ /'fɒləʊd/ /wen/ /rɪ'vjuːɪŋ/ /iːtʃ/ /'ʌðəz/ /kəʊd/"
+  },
+  {
+    "vietnamese": "các guideline về best practice",
+    "english": "best practice guidelines",
+    "soundmark": "/bɛst/ /'præktɪs/ /'gaɪdˌlaɪnz/"
+  },
+  {
+    "vietnamese": "các coding practices giống nhau",
+    "english": "the same coding practices",
+    "soundmark": "/ðə/ /seɪm/ /'kəʊdɪŋ/ /'præktɪsɪz/"
+  },
+  {
+    "vietnamese": "Developers nên tuân theo các coding practices giống nhau.",
+    "english": "Developers should follow the same coding practices.",
+    "soundmark": "/dɪ'veləpəz/ /ʃʊd/ /'fɒləʊ/ /ðə/ /seɪm/ /'kəʊdɪŋ/ /'præktɪsɪz/"
+  },
+  {
+    "vietnamese": "tích hợp mượt mà và không gây gián đoạn",
+    "english": "be integrated smoothly and without disruptions",
+    "soundmark": "/bi/ /'ɪntəˌgreɪtəd/ /'smuðli/ /ænd/ /wɪ'ðaʊt/ /dɪs'rʌpʃənz/"
+  },
+  {
+    "vietnamese": "Các tính năng mới nên được tích hợp mượt mà và không gây gián đoạn.",
+    "english": "New features should be integrated smoothly and without disruptions.",
+    "soundmark": "/njuː/ /'fiːtʃəz/ /ʃʊd/ /bi/ /'ɪntəˌgreɪtəd/ /'smuðli/ /ænd/ /wɪ'ðaʊt/ /dɪs'rʌpʃənz/"
+  },
+  {
+    "vietnamese": "xác minh rằng các function được ghi tài liệu đầy đủ",
+    "english": "verify that functions are documented adequately",
+    "soundmark": "/'verɪfaɪ/ /ðæt/ /'fʌŋkʃənz/ /ɑː/ /'dɒkjʊˌmentɪd/ /'ædəkwətli/"
+  },
+  {
+    "vietnamese": "Xác minh rằng các function được ghi tài liệu đầy đủ.",
+    "english": "Verify that functions are documented adequately.",
+    "soundmark": "/'verɪfaɪ/ /ðæt/ /'fʌŋkʃənz/ /ɑː/ /'dɒkjʊˌmentɪd/ /'ædəkwətli/"
+  },
+  {
+    "vietnamese": "kiểm tra việc xử lý lỗi cho đúng",
+    "english": "check for proper error handling",
+    "soundmark": "/tʃek/ /fɔː/ /'prɒpə/ /'erə/ /'hændlɪŋ/"
+  },
+  {
+    "vietnamese": "Kiểm tra việc xử lý lỗi cho đúng.",
+    "english": "Check for proper error handling.",
+    "soundmark": "/tʃek/ /fɔː/ /'prɒpə/ /'erə/ /'hændlɪŋ/"
+  },
+  {
+    "vietnamese": "đảm bảo việc thụt lề nhất quán",
+    "english": "ensure that indentation is consistent",
+    "soundmark": "/ɪn'ʃʊr/ /ðæt/ /ˌɪndɛn'teɪʃən/ /ɪz/ /kən'sɪstənt/"
+  },
+  {
+    "vietnamese": "Đảm bảo việc thụt lề nhất quán.",
+    "english": "Ensure that indentation is consistent.",
+    "soundmark": "/ɪn'ʃʊr/ /ðæt/ /ˌɪndɛn'teɪʃən/ /ɪz/ /kən'sɪstənt/"
+  },
+  {
+    "vietnamese": "tránh code bị lặp",
+    "english": "avoid duplicated code",
+    "soundmark": "/ə'vɔɪd/ /'dupɪˌkeɪtəd/ /kəʊd/"
+  },
+  {
+    "vietnamese": "Tránh code bị lặp.",
+    "english": "Avoid duplicated code.",
+    "soundmark": "/ə'vɔɪd/ /'dupɪˌkeɪtəd/ /kəʊd/"
+  },
+  {
+    "vietnamese": "viết các function theo hướng module",
+    "english": "write modular functions",
+    "soundmark": "/raɪt/ /'mɒdjʊlə/ /'fʌŋkʃənz/"
+  },
+  {
+    "vietnamese": "Viết các function theo hướng module.",
+    "english": "Write modular functions.",
+    "soundmark": "/raɪt/ /'mɒdjʊlə/ /'fʌŋkʃənz/"
+  },
+  {
+    "vietnamese": "Bạn đã có thời gian review các script chưa?",
+    "english": "Have you had a chance to review the scripts?",
+    "soundmark": "/hæv/ /ju/ /hæd/ /ə/ /tʃæns/ /tə/ /rɪ'vjuː/ /ðə/ /skrɪpts/"
+  },
+  {
+    "vietnamese": "regression testing",
+    "english": "regression testing",
+    "soundmark": "/rɪ'grɛʃən/ /'tɛstɪŋ/"
+  },
+  {
+    "vietnamese": "time box",
+    "english": "time box",
+    "soundmark": "/taɪm/ /bɒks/"
+  },
+  {
+    "vietnamese": "Đặt tối đa 15 phút cho việc code review.",
+    "english": "Set a maximum of 15 minutes for code review.",
+    "soundmark": "/sɛt/ /ə/ /'mæksəməm/ /əv/ /ˌfɪf'tin/ /'mɪnəts/ /fɔː/ /kəʊd/ /rɪ'vjuː/"
+  },
+  {
+    "vietnamese": "Phân bổ một time box hai giờ cho regression testing.",
+    "english": "Allocate a two-hour time box for regression testing.",
+    "soundmark": "/'æləˌkeɪt/ /ə/ /tu/ /'aʊə/ /taɪm/ /bɒks/ /fɔː/ /rɪ'grɛʃən/ /'tɛstɪŋ/"
+  },
+  {
+    "vietnamese": "ad hoc test",
+    "english": "ad hoc test",
+    "soundmark": "/ˌæd/ /'hɒk/ /tɛst/"
+  },
+  {
+    "vietnamese": "Bạn đã chạy các test case chưa?",
+    "english": "Did you run the test cases?",
+    "soundmark": "/dɪd/ /ju/ /rʌn/ /ðə/ /tɛst/ /'keɪsɪz/"
+  },
+  {
+    "vietnamese": "Tôi thích các thay đổi bạn đã làm ở module data loading.",
+    "english": "I like the changes you made to the data loading module.",
+    "soundmark": "/aɪ/ /laɪk/ /ðə/ /'tʃeɪndʒɪz/ /ju/ /meɪd/ /tə/ /ðə/ /'deɪtə/ /'ləʊdɪŋ/ /'mɒdjuːl/"
+  },
+  {
+    "vietnamese": "Để tôi mở code lên trên màn hình của tôi.",
+    "english": "Let me just open the code on my screen.",
+    "soundmark": "/let/ /mi/ /dʒʌst/ /'əʊpən/ /ðə/ /kəʊd/ /ɒn/ /maɪ/ /skrin/"
+  },
+  {
+    "vietnamese": "Xét về xử lý lỗi, tôi thấy có vài chỗ exception chưa được bắt đúng cách.",
+    "english": "In terms of error handling, I noticed some areas where exceptions are not being caught properly.",
+    "soundmark": "/ɪn/ /tɜːmz/ /əv/ /'erə/ /'hændlɪŋ/ /aɪ/ /'nəʊtɪst/ /sʌm/ /'ɛriəz/ /weə/ /ɪk'sɛpʃənz/ /ɑː/ /nɒt/ /'biɪŋ/ /kɔt/ /'prɒpəli/"
+  },
+  {
+    "vietnamese": "Tôi sẽ để lại comment trên code với tất cả những điểm tôi đã nêu để cải thiện.",
+    "english": "I will leave some comments on the code with everything that I have mentioned for improvement.",
+    "soundmark": "/aɪ/ /wɪl/ /liv/ /sʌm/ /'kɒments/ /ɒn/ /ðə/ /kəʊd/ /wɪð/ /'ɛvriˌθɪŋ/ /ðæt/ /aɪ/ /hæv/ /'mɛnʃənd/ /fɔː/ /ɪm'pruvmənt/"
+  }
+]
