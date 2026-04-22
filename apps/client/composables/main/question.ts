@@ -2,6 +2,8 @@ import type { WatchStopHandle } from "vue";
 
 import { nextTick, reactive, ref, watchEffect } from "vue";
 
+import { isSentenceWord, splitSentenceTokens } from "./sentence";
+
 interface Word {
   text: string;
   isActive: boolean;
@@ -35,7 +37,7 @@ export function clearQuestionInput() {
 }
 
 export function isWord(content: string) {
-  return /[a-zA-Z0-9]/.test(content);
+  return isSentenceWord(content);
 }
 
 const mode = ref<Mode>(Mode.Input);
@@ -87,7 +89,7 @@ export function useInput({
       const english = source();
 
       let inputWordIndex = 0;
-      english.split(separator).forEach((text, index) => {
+      splitSentenceTokens(english).forEach((text, index) => {
         if (isWord(text)) {
           const word = createWord(text, index);
           userInputWords[inputWordIndex] = word;
@@ -147,21 +149,19 @@ export function useInput({
     return userInputWords.every((w) => !w.incorrect);
   }
 
-  function formatLastWordUserInput(word: Word, index: number) {
+  function normalizeSentenceEndWord(word: string, index: number) {
     const isLastWord = userInputWords.length - 1 === index;
-    if (isLastWord) {
-      if (word.userInput.endsWith(".")) {
-        word.userInput = word.userInput.slice(0, -1);
-      }
-    }
+    if (!isLastWord) return word;
+
+    return word.replace(/[.?!]+$/g, "");
   }
 
   function markIncorrectWord() {
     userInputWords.forEach((word, index) => {
-      formatLastWordUserInput(word, index);
-      const formattedWord = formatInputText(word.userInput);
+      const formattedWord = formatInputText(normalizeSentenceEndWord(word.userInput, index));
+      const expectedWord = formatInputText(normalizeSentenceEndWord(word.text, index));
 
-      if (formattedWord !== word.text.toLocaleLowerCase()) {
+      if (formattedWord !== expectedWord) {
         word.incorrect = true;
       } else {
         word.incorrect = false;

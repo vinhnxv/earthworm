@@ -4,6 +4,7 @@ import { computed, ref, watchEffect } from "vue";
 import type { Course, Statement } from "~/types";
 import { fetchCompleteCourse, fetchCourse } from "~/api/course";
 import { useActiveCourseMap } from "~/composables/courses/activeCourse";
+import { splitSentenceTokens } from "~/composables/main/sentence";
 import { isAuthenticated } from "~/services/auth";
 import { useMasteredElementsStore } from "~/store/masteredElements";
 import { useStatement } from "./statement";
@@ -21,7 +22,7 @@ export const useCourseStore = defineStore("course", () => {
   });
 
   const words = computed(() => {
-    return currentStatement.value?.english.split(" ") || [];
+    return splitSentenceTokens(currentStatement.value?.english);
   });
 
   const visibleStatementsCount = computed(

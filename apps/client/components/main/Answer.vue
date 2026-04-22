@@ -2,10 +2,11 @@
   <div class="text-center">
     <div class="ml-8 inline-flex flex-wrap items-center justify-center gap-1 text-5xl">
       <span
-        v-for="word in words"
-        :key="word"
-        class="cursor-pointer p-1 hover:text-fuchsia-500"
-        @click="handlePlayWordSound(word)"
+        v-for="(word, index) in words"
+        :key="`${index}-${word}`"
+        class="p-1"
+        :class="{ 'cursor-pointer hover:text-fuchsia-500': isWord(word) }"
+        @click="isWord(word) && handlePlayWordSound(word)"
         >{{ word }}</span
       >
       <UIcon
@@ -48,6 +49,7 @@ import { computed, onMounted, onUnmounted } from "vue";
 import { useCurrentStatementEnglishSound } from "~/composables/main/englishSound";
 import { usePlayWordSound } from "~/composables/main/englishSound/audio";
 import { useGameMode } from "~/composables/main/game";
+import { isSentenceWord, splitSentenceTokens } from "~/composables/main/sentence";
 import { useAutoPronunciation } from "~/composables/user/sound";
 import { useCourseStore } from "~/store/course";
 import { cancelShortcut, registerShortcut } from "~/utils/keyboardShortcuts";
@@ -60,9 +62,13 @@ const { showQuestion } = useGameMode();
 const { isAutoPlaySound } = useAutoPronunciation();
 const { goToNextQuestion } = useAnswer();
 
-const words = computed(() => courseStore.currentStatement?.english.split(" "));
+const words = computed(() => splitSentenceTokens(courseStore.currentStatement?.english));
 
 registerShortcutKeyForNextQuestion();
+
+function isWord(word: string) {
+  return isSentenceWord(word);
+}
 
 function usePlayEnglishSound() {
   const { playSound } = useCurrentStatementEnglishSound();

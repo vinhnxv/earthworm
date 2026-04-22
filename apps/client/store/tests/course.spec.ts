@@ -260,6 +260,11 @@ describe("CourseStore", () => {
       expect(courseStore.words).toEqual(["Hello"]);
     });
 
+    it("should split trailing punctuation into a separate token", () => {
+      courseStore.currentCourse!.statements[0].english = "Hello.";
+      expect(courseStore.words).toEqual(["Hello", "."]);
+    });
+
     it("should return the correct total number of questions", () => {
       expect(courseStore.totalQuestionsCount).toBe(5);
     });

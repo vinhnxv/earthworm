@@ -111,6 +111,72 @@ describe("question", () => {
     expect(wrongCallback).not.toBeCalled();
   });
 
+  it("should accept a source sentence whose last word ends with a full stop", async () => {
+    const setInputCursorPosition = () => {};
+    const getInputCursorPosition = () => 0;
+
+    const { setInputValue, submitAnswer, initialize } = useInput({
+      source: () => "response time.",
+      setInputCursorPosition,
+      getInputCursorPosition,
+    });
+
+    initialize();
+    setInputValue("response time.");
+
+    const correctCallback = vi.fn();
+    const wrongCallback = vi.fn();
+    submitAnswer(correctCallback, wrongCallback);
+
+    expect(correctCallback).toBeCalled();
+    expect(wrongCallback).not.toBeCalled();
+  });
+
+  it("should accept the last word without sentence-ending punctuation in question sentences", async () => {
+    const setInputCursorPosition = () => {};
+    const getInputCursorPosition = () => 0;
+
+    const { setInputValue, submitAnswer, initialize } = useInput({
+      source: () => "linux?",
+      setInputCursorPosition,
+      getInputCursorPosition,
+    });
+
+    initialize();
+    setInputValue("linux");
+
+    const correctCallback = vi.fn();
+    const wrongCallback = vi.fn();
+    submitAnswer(correctCallback, wrongCallback);
+
+    expect(correctCallback).toBeCalled();
+    expect(wrongCallback).not.toBeCalled();
+  });
+
+  it("should split punctuation attached to the last word into a separate token", () => {
+    const setInputCursorPosition = () => {};
+    const getInputCursorPosition = () => 0;
+
+    const { userInputWords, findWordById, initialize } = useInput({
+      source: () => "Refactored the code for better readability.",
+      setInputCursorPosition,
+      getInputCursorPosition,
+    });
+
+    initialize();
+
+    expect(userInputWords.map((word) => word.text)).toEqual([
+      "Refactored",
+      "the",
+      "code",
+      "for",
+      "better",
+      "readability",
+    ]);
+    expect(findWordById(5)?.text).toBe("readability");
+    expect(findWordById(6)).toBeUndefined();
+  });
+
   it("should be incorrect when checked the answer", async () => {
     const setInputCursorPosition = () => {};
     const getInputCursorPosition = () => 0;
@@ -672,5 +738,9 @@ describe("isWord", () => {
 
   it("should return false for strings with only non-alphabetic characters", () => {
     expect(isWord(". ,;:!")).toBe(false);
+  });
+
+  it("should return false when punctuation is attached to a word token", () => {
+    expect(isWord("readability.")).toBe(false);
   });
 });
